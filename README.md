@@ -1,4 +1,4 @@
-# opencar-specs# OpenCar.dev 🏎️
+# OpenCar.dev
 
 ### The Open Standard for the Global Automotive Ecosystem
 
@@ -6,14 +6,14 @@
 
 ---
 
-## 🌎 Our Philosophy: A "Big Tent" for Car Culture
+## Our Philosophy: A "Big Tent" for Car Culture
 
 At OpenCar, we believe that the automotive world is at its best when it is diverse. Our standards are built to be inclusive of every niche, every style, and every type of venture.
 
 **We do not discriminate.** Whether your platform focuses on:
 
 - **The Aftermarket:** From performance tuning and aesthetic mods to restoration.
-- **Grassroots Enthusiasts:** Supporting local meetups, "takeovers," and community garage nights.
+- **Grassroots Enthusiasts:** Supporting local meetups and community garage nights.
 - **Corporate & Industry:** Powering professional drives, manufacturer launches, and dealership logistics.
 - **Off-Road & Adventure:** Standardizing trails, overlanding, and rock-crawling data.
 - **Business & Commerce:** Streamlining how parts, services, and vehicle data are exchanged.
@@ -22,7 +22,7 @@ If it has wheels and a community, OpenCar is built to support it.
 
 ---
 
-## 🛠 What We Do
+## What We Do
 
 Modern automotive platforms often exist in "silos"—data from one app doesn't work in another. OpenCar breaks those silos by publishing **Open Standard Formats**.
 
@@ -34,16 +34,15 @@ Our work ensures that:
 
 ---
 
-## 📦 Current Standards
+## Current Standards
 
 The primary focus of this repository is the maintenance of our foundational standards:
 
-- **OC-EVENT:** The universal schema for automotive gatherings. It accounts for surface types (on-road/off-road), venue categories (business/parking lot), and event dynamics (static/rally).
-- **OC-DATA (Coming Soon):** Standards for aftermarket part interoperability and vehicle profiles.
+- **OC-EVENT:** The universal schema for automotive gatherings. It accounts for surface types (on-road/off-road), venue categories (business/parking lot), and event dynamics (static/rally)
 
 ---
 
-## ⚖️ Governance & Neutrality
+## Governance & Neutrality
 
 OpenCar is governed by its members—the people who actually own and build the automotive web. We follow a consensus-based process modeled after international standards (ISO) to ensure that no single entity controls the format.
 
@@ -51,7 +50,7 @@ We are **not** married to any single segment of the industry. Our goal is simply
 
 ---
 
-## 🤝 Join the Movement
+## Join the Movement
 
 We are looking for website owners, app developers, and industry leaders to help shape these standards.
 
@@ -66,5 +65,5 @@ We are looking for website owners, app developers, and industry leaders to help 
 
 ---
 
-**Inquiries:** [standards@OpenCar.dev](mailto:standards@OpenCar.dev)  
-**Website:** [https://OpenCar.dev](https://OpenCar.dev)
+**Inquiries:** [hello@opencar.dev](mailto:standards@OpenCar.dev)  
+**Website:** [https://opencar.dev](https://opencar.dev)
