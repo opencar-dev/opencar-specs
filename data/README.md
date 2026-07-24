@@ -44,6 +44,8 @@ npm run build:db
 
 ## Explorer site
 
+**Live:** [https://opencar-dev.github.io/opencar-specs/](https://opencar-dev.github.io/opencar-specs/)
+
 The React app in `../www` loads `oem.db` in the browser via sql.js.
 
 ```bash

@@ -44,6 +44,7 @@ The primary focus of this repository is the maintenance of our foundational stan
 
 ### OC-OEM data & explorer
 
+- **Live explorer:** [https://opencar-dev.github.io/opencar-specs/](https://opencar-dev.github.io/opencar-specs/)
 - Canonical year CSVs: `data/oem/csv/`
 - Generated SQLite DB: `data/oem.db` (gitignored; built in CI and locally)
 - Static explorer app: `www/` (React + HeroUI, loads `oem.db` in the browser)
