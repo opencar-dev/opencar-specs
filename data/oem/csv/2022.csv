@@ -1,0 +1,966 @@
+year,make,model,trim
+2022,Acura,ILX,ILX
+2022,Acura,MDX,MDX AWD
+2022,Acura,MDX,MDX AWD Type-S
+2022,Acura,MDX,MDX FWD
+2022,Acura,NSX,NSX Hybrid
+2022,Acura,RDX,RDX AWD
+2022,Acura,RDX,RDX AWD A-SPEC
+2022,Acura,RDX,RDX FWD
+2022,Acura,RDX,RDX FWD A-SPEC
+2022,Acura,TLX,TLX AWD
+2022,Acura,TLX,TLX AWD A-SPEC
+2022,Acura,TLX,TLX FWD
+2022,Acura,TLX,TLX FWD A-SPEC
+2022,Acura,TLX,TLX Type-S
+2022,Acura,TLX,TLX Type-S Perf Tire
+2022,Alfa Romeo,Giulia,Giulia
+2022,Alfa Romeo,Giulia,Giulia AWD
+2022,Alfa Romeo,Stelvio,Stelvio
+2022,Alfa Romeo,Stelvio,Stelvio AWD
+2022,Aston Martin,DB11,DB11 V12
+2022,Aston Martin,DB11,DB11 V8
+2022,Aston Martin,DBS,DBS
+2022,Aston Martin,DBX V8,DBX V8
+2022,Aston Martin,Vantage,Vantage V8
+2022,Audi,A3,A3
+2022,Audi,A3,A3 quattro
+2022,Audi,A4,A4 allroad quattro
+2022,Audi,A4,A4 quattro
+2022,Audi,A4,A4 S line quattro
+2022,Audi,A5,A5 Cabriolet quattro
+2022,Audi,A5,A5 Coupe quattro
+2022,Audi,A5,A5 Sportback quattro
+2022,Audi,A5,A5 Sportback S line quattro
+2022,Audi,A6,A6 Allroad quattro
+2022,Audi,A6,A6 quattro
+2022,Audi,A7,A7 quattro
+2022,Audi,A7,A7 TFSI e quattro
+2022,Audi,A8,A8 L quattro
+2022,Audi,e-tron,e-tron quattro
+2022,Audi,e-tron,e-tron Sportback quattro
+2022,Audi,e-tron GT,e-tron GT
+2022,Audi,e-tron S,e-tron S (20in wheels)
+2022,Audi,e-tron S,e-tron S (21/22 inch wheels)
+2022,Audi,e-tron S,e-tron S Sportback (20 inch wheels)
+2022,Audi,e-tron S,e-tron S Sportback (21/22 inch wheels)
+2022,Audi,Q3,Q3 quattro
+2022,Audi,Q3,Q3 S line quattro
+2022,Audi,Q4 e-tron,Q4 e-tron quattro
+2022,Audi,Q4 e-tron,Q4 e-tron Sportback quattro
+2022,Audi,Q5,Q5 quattro
+2022,Audi,Q5,Q5 S line quattro
+2022,Audi,Q5,Q5 Sportback S line quattro
+2022,Audi,Q5,Q5 TFSI e quattro
+2022,Audi,Q7,Q7 quattro
+2022,Audi,Q8,Q8 quattro
+2022,Audi,R8,R8 Coupe
+2022,Audi,R8,R8 Coupe RWD
+2022,Audi,R8,R8 Spyder
+2022,Audi,R8,R8 Spyder RWD
+2022,Audi,RS,RS 3
+2022,Audi,RS,RS 5 Coupe
+2022,Audi,RS,RS 5 Sportback
+2022,Audi,RS,RS 6 Avant
+2022,Audi,RS,RS 7
+2022,Audi,RS e-tron GT,RS e-tron GT
+2022,Audi,RS Q8,RS Q8
+2022,Audi,S3,S3
+2022,Audi,S4,S4
+2022,Audi,S5,S5 Cabriolet
+2022,Audi,S5,S5 Coupe
+2022,Audi,S5,S5 Sportback
+2022,Audi,S6,S6
+2022,Audi,S7,S7
+2022,Audi,S8,S8
+2022,Audi,SQ5,SQ5
+2022,Audi,SQ5,SQ5 Sportback
+2022,Audi,SQ7,SQ7
+2022,Audi,SQ8,SQ8
+2022,Audi,TT,TT Coupe quattro
+2022,Audi,TT,TT Roadster quattro
+2022,Audi,TT RS,TT RS Coupe
+2022,Audi,TTS Coupe,TTS Coupe quattro
+2022,Bentley,Bentayga,Bentayga
+2022,Bentley,Bentayga,Bentayga Speed
+2022,Bentley,Continental,Continental GT
+2022,Bentley,Continental,Continental GT Speed
+2022,Bentley,Continental,Continental GT Speed Convertible
+2022,Bentley,Continental,Continental GT V8 Convertible
+2022,Bentley,Flying Spur,Flying Spur
+2022,Bentley,Flying Spur,Flying Spur Hybrid
+2022,BMW,2 Series,228i Gran Coupe
+2022,BMW,2 Series,228i xDrive Gran Coupe
+2022,BMW,2 Series,230i Coupe
+2022,BMW,2 Series,M235i xDrive Gran Coupe
+2022,BMW,2 Series,M240i xDrive Coupe
+2022,BMW,3 Series,330e Sedan
+2022,BMW,3 Series,330e xDrive Sedan
+2022,BMW,3 Series,330i Sedan
+2022,BMW,3 Series,330i xDrive Sedan
+2022,BMW,3 Series,M340i Sedan
+2022,BMW,3 Series,M340i xDrive Sedan
+2022,BMW,4 Series,430i Convertible
+2022,BMW,4 Series,430i Coupe
+2022,BMW,4 Series,430i Gran Coupe
+2022,BMW,4 Series,430i xDrive Convertible
+2022,BMW,4 Series,430i xDrive Coupe
+2022,BMW,4 Series,M440i Convertible
+2022,BMW,4 Series,M440i Coupe
+2022,BMW,4 Series,M440i xDrive Convertible
+2022,BMW,4 Series,M440i xDrive Coupe
+2022,BMW,4 Series,M440i xDrive Gran Coupe
+2022,BMW,5 Series,530e Sedan
+2022,BMW,5 Series,530e xDrive Sedan
+2022,BMW,5 Series,530i Sedan
+2022,BMW,5 Series,530i xDrive Sedan
+2022,BMW,5 Series,540i Sedan
+2022,BMW,5 Series,540i xDrive Sedan
+2022,BMW,5 Series,M550i xDrive Sedan
+2022,BMW,7 Series,740i Sedan
+2022,BMW,7 Series,740i xDrive Sedan
+2022,BMW,7 Series,745e xDrive
+2022,BMW,7 Series,750i xDrive Sedan
+2022,BMW,7 Series,Alpina B7 xDrive
+2022,BMW,7 Series,M760i xDrive Sedan
+2022,BMW,8 Series,840i Convertible
+2022,BMW,8 Series,840i Coupe
+2022,BMW,8 Series,840i Gran Coupe
+2022,BMW,8 Series,840i xDrive Convertible
+2022,BMW,8 Series,840i xDrive Coupe
+2022,BMW,8 Series,840i xDrive Gran Coupe
+2022,BMW,8 Series,Alpina B8 Gran Coupe
+2022,BMW,8 Series,M850i xDrive Convertible
+2022,BMW,8 Series,M850i xDrive Coupe
+2022,BMW,8 Series,M850i xDrive Gran Coupe
+2022,BMW,i4,i4 eDrive40 Gran Coupe (18 inch wheels)
+2022,BMW,i4,i4 eDrive40 Gran Coupe (19 inch wheels)
+2022,BMW,i4,i4 M50 Gran Coupe (19 inch wheels)
+2022,BMW,i4,i4 M50 Gran Coupe (20 inch wheels)
+2022,BMW,iX,iX xDrive50 (20 inch wheels)
+2022,BMW,iX,iX xDrive50 (21 inch wheels)
+2022,BMW,iX,iX xDrive50 (22 inch wheels)
+2022,BMW,M,M3 Competition M xDrive Sedan
+2022,BMW,M,M3 Competition Sedan
+2022,BMW,M,M3 Sedan
+2022,BMW,M,M4 Competition Coupe
+2022,BMW,M,M4 Competition M xDrive Convertible
+2022,BMW,M,M4 Competition M xDrive Coupe
+2022,BMW,M,M4 Coupe
+2022,BMW,M,M5 Competition Sedan
+2022,BMW,M,M5 CS Sedan
+2022,BMW,M,M5 Sedan
+2022,BMW,M,M8 Competition Convertible
+2022,BMW,M,M8 Competition Coupe
+2022,BMW,M,M8 Competition Gran Coupe
+2022,BMW,X1,X1 sDrive28i
+2022,BMW,X1,X1 xDrive28i
+2022,BMW,X2,X2 M35i
+2022,BMW,X2,X2 sDrive28i
+2022,BMW,X2,X2 xDrive28i
+2022,BMW,X3,X3 M
+2022,BMW,X3,X3 M Competition
+2022,BMW,X3,X3 M40i
+2022,BMW,X3,X3 sDrive30i
+2022,BMW,X3,X3 xDrive30i
+2022,BMW,X4,X4 M
+2022,BMW,X4,X4 M Competition
+2022,BMW,X4,X4 M40i
+2022,BMW,X4,X4 xDrive30i
+2022,BMW,X5,X5 M
+2022,BMW,X5,X5 M Competition
+2022,BMW,X5,X5 M50i
+2022,BMW,X5,X5 sDrive40i
+2022,BMW,X5,X5 xDrive40i
+2022,BMW,X5,X5 xDrive45e
+2022,BMW,X6,X6 M
+2022,BMW,X6,X6 M Competition
+2022,BMW,X6,X6 M50i
+2022,BMW,X6,X6 xDrive40i
+2022,BMW,X7,Alpina XB7
+2022,BMW,X7,X7 M50i
+2022,BMW,X7,X7 xDrive40i
+2022,BMW,Z4,Z4 M40i
+2022,BMW,Z4,Z4 sDrive30i
+2022,Bugatti,Chiron,Chiron
+2022,Bugatti,Chiron,Chiron Pur Sport
+2022,Bugatti,Chiron,Chiron Super Sport
+2022,Buick,Enclave,Enclave AWD
+2022,Buick,Enclave,Enclave FWD
+2022,Buick,Encore,Encore AWD
+2022,Buick,Encore,Encore FWD
+2022,Buick,Encore,Encore GX AWD
+2022,Buick,Encore,Encore GX FWD
+2022,Buick,Envision,Envision AWD
+2022,Buick,Envision,Envision FWD
+2022,Cadillac,CT4,CT4
+2022,Cadillac,CT4,CT4 AWD
+2022,Cadillac,CT4,CT4 V
+2022,Cadillac,CT4,CT4 V AWD
+2022,Cadillac,CT5,CT5
+2022,Cadillac,CT5,CT5 AWD
+2022,Cadillac,CT5,CT5 V
+2022,Cadillac,CT5,CT5 V AWD
+2022,Cadillac,Escalade,Escalade 2WD
+2022,Cadillac,Escalade,Escalade 4WD
+2022,Cadillac,XT4,XT4 AWD
+2022,Cadillac,XT4,XT4 FWD
+2022,Cadillac,XT5,XT5 AWD
+2022,Cadillac,XT5,XT5 FWD
+2022,Cadillac,XT5,XT5 Hearse AWD
+2022,Cadillac,XT5,XT5 Hearse FWD
+2022,Cadillac,XT5,XT5 Limo AWD
+2022,Cadillac,XT5,XT5 Limo FWD
+2022,Cadillac,XT6,XT6 AWD
+2022,Cadillac,XT6,XT6 FWD
+2022,Chevrolet,Blazer,Blazer AWD
+2022,Chevrolet,Blazer,Blazer FWD
+2022,Chevrolet,Bolt EUV,Bolt EUV
+2022,Chevrolet,Bolt EV,Bolt EV
+2022,Chevrolet,Camaro,Camaro
+2022,Chevrolet,Colorado,Colorado 2WD
+2022,Chevrolet,Colorado,Colorado 4WD
+2022,Chevrolet,Colorado,Colorado ZR2 4WD
+2022,Chevrolet,Corvette,Corvette
+2022,Chevrolet,Equinox,Equinox AWD
+2022,Chevrolet,Equinox,Equinox FWD
+2022,Chevrolet,Malibu,Malibu
+2022,Chevrolet,Silverado,Silverado 2WD
+2022,Chevrolet,Silverado,Silverado 4WD
+2022,Chevrolet,Silverado,Silverado 4WD ZR2
+2022,Chevrolet,Silverado,Silverado Cab Chassis 2WD
+2022,Chevrolet,Silverado,Silverado Cab Chassis 4WD
+2022,Chevrolet,Silverado,Silverado Mud Terrain Tires 4WD
+2022,Chevrolet,Spark,Spark
+2022,Chevrolet,Spark,Spark ACTIV
+2022,Chevrolet,Suburban,Suburban 2WD
+2022,Chevrolet,Suburban,Suburban 4WD
+2022,Chevrolet,Tahoe,Tahoe 2WD
+2022,Chevrolet,Tahoe,Tahoe 4WD
+2022,Chevrolet,Trailblazer,Trailblazer AWD
+2022,Chevrolet,Trailblazer,Trailblazer FWD
+2022,Chevrolet,Traverse,Traverse AWD
+2022,Chevrolet,Traverse,Traverse FWD
+2022,Chevrolet,Trax,Trax AWD
+2022,Chevrolet,Trax,Trax FWD
+2022,Chrysler,300,300
+2022,Chrysler,300,300 AWD
+2022,Chrysler,Pacifica,Pacifica
+2022,Chrysler,Pacifica,Pacifica AWD
+2022,Chrysler,Pacifica,Pacifica Hybrid
+2022,Chrysler,Voyager,Voyager
+2022,Dodge,Challenger,Challenger
+2022,Dodge,Challenger,Challenger AWD
+2022,Dodge,Challenger,Challenger SRT
+2022,Dodge,Challenger,Challenger SRT Widebody
+2022,Dodge,Challenger,Challenger Widebody
+2022,Dodge,Charger,Charger
+2022,Dodge,Charger,Charger AWD
+2022,Dodge,Charger,Charger SRT Widebody
+2022,Dodge,Charger,Charger Widebody
+2022,Dodge,Durango,Durango AWD
+2022,Dodge,Durango,Durango RWD
+2022,Dodge,Durango,Durango SRT AWD
+2022,Ferrari,296 GTB,296 GTB
+2022,Ferrari,812 Competizione,812 Competizione
+2022,Ferrari,812 GTS,812 GTS
+2022,Ferrari,F8 Spider,F8 Spider
+2022,Ferrari,F8 Tributo,F8 Tributo
+2022,Ferrari,Portofino,Portofino M
+2022,Ferrari,Roma,Roma
+2022,Ferrari,SF90 Spider,SF90 Spider
+2022,Ferrari,SF90 Stradale,SF90 Stradale
+2022,Fiat,500,500X AWD
+2022,Ford,Bronco,Bronco 4WD
+2022,Ford,Bronco,Bronco Badlands 4WD
+2022,Ford,Bronco,Bronco Black Diamond 4WD
+2022,Ford,Bronco,Bronco Raptor 4WD
+2022,Ford,Bronco,Bronco Sasquatch 4WD
+2022,Ford,Bronco Sport,Bronco Sport 4WD
+2022,Ford,EcoSport,EcoSport AWD
+2022,Ford,Edge,Edge AWD
+2022,Ford,Escape,Escape AWD
+2022,Ford,Escape,Escape AWD HEV
+2022,Ford,Escape,Escape FWD
+2022,Ford,Escape,Escape FWD HEV
+2022,Ford,Escape,Escape FWD PHEV
+2022,Ford,Expedition,Expedition 2WD
+2022,Ford,Expedition,Expedition 4WD
+2022,Ford,Expedition,Expedition Timberline AWD
+2022,Ford,Explorer,Explorer AWD
+2022,Ford,Explorer,Explorer FFV AWD
+2022,Ford,Explorer,Explorer HEV AWD
+2022,Ford,Explorer,Explorer HEV RWD
+2022,Ford,Explorer,Explorer Platinum HEV AWD
+2022,Ford,Explorer,Explorer Platinum HEV RWD
+2022,Ford,Explorer,Explorer RWD
+2022,Ford,Explorer,Explorer Timberline AWD
+2022,Ford,F-150 Lightning,F-150 Lightning 4WD
+2022,Ford,F-150 Lightning,F-150 Lightning 4WD Extended Range
+2022,Ford,F-150 Lightning,F-150 Lightning Platinum 4WD
+2022,Ford,F150,F150 Pickup 2WD
+2022,Ford,F150,F150 Pickup 2WD FFV
+2022,Ford,F150,F150 Pickup 2WD HEV
+2022,Ford,F150,F150 Pickup 4WD
+2022,Ford,F150,F150 Pickup 4WD FFV
+2022,Ford,F150,F150 Pickup 4WD HEV
+2022,Ford,F150,F150 Pickup Tremor 4WD
+2022,Ford,F150,F150 RAPTOR 37 4WD
+2022,Ford,F150,F150 RAPTOR 4WD
+2022,Ford,GT,GT
+2022,Ford,Maverick,Maverick AWD
+2022,Ford,Maverick,Maverick FWD
+2022,Ford,Maverick,Maverick HEV FWD
+2022,Ford,Mustang,Mustang
+2022,Ford,Mustang,Mustang Convertible
+2022,Ford,Mustang,Mustang HO Convertible
+2022,Ford,Mustang,Mustang HO Coupe
+2022,Ford,Mustang,Mustang Mach 1
+2022,Ford,Mustang,Shelby GT500 Mustang
+2022,Ford,Mustang Mach-E,Mustang Mach-E AWD
+2022,Ford,Mustang Mach-E,Mustang Mach-E AWD Extended
+2022,Ford,Mustang Mach-E,Mustang Mach-E CAL RT 1 ER AWD
+2022,Ford,Mustang Mach-E,Mustang Mach-E CAL RT 1 ER RWD
+2022,Ford,Mustang Mach-E,Mustang Mach-E GT
+2022,Ford,Mustang Mach-E,Mustang Mach-E GT Performance
+2022,Ford,Mustang Mach-E,Mustang Mach-E RWD
+2022,Ford,Mustang Mach-E,Mustang Mach-E RWD Extended
+2022,Ford,Ranger,Ranger 2WD
+2022,Ford,Ranger,Ranger 4WD
+2022,Ford,Ranger,Ranger Tremor 4WD
+2022,Ford,Transit Connect,Transit Connect USPS
+2022,Ford,Transit Connect,Transit Connect Van FFV
+2022,Ford,Transit Connect,Transit Connect Van FWD
+2022,Ford,Transit Connect,Transit Connect Wagon LWB FFV
+2022,Ford,Transit Connect,Transit Connect Wagon LWB FWD
+2022,Ford,Transit T150 Wagon,Transit T150 Wagon 2WD FFV
+2022,Ford,Transit T150 Wagon,Transit T150 Wagon 4WD FFV
+2022,Genesis,G70,G70 AWD
+2022,Genesis,G70,G70 RWD
+2022,Genesis,G80,G80 AWD
+2022,Genesis,G80,G80 RWD
+2022,Genesis,G90,G90 AWD
+2022,Genesis,G90,G90 RWD
+2022,Genesis,GV70,GV70 AWD
+2022,Genesis,GV80,GV80 AWD
+2022,Genesis,GV80,GV80 RWD
+2022,GMC,Acadia,Acadia AWD
+2022,GMC,Acadia,Acadia FWD
+2022,GMC,Canyon,Canyon 2WD
+2022,GMC,Canyon,Canyon 4WD
+2022,GMC,Sierra,Sierra 2WD
+2022,GMC,Sierra,Sierra 4WD
+2022,GMC,Sierra,Sierra Cab Chassis 2WD
+2022,GMC,Sierra,Sierra Cab Chassis 4WD
+2022,GMC,Sierra,Sierra Mud Terrain Tires 4WD
+2022,GMC,Terrain,Terrain AWD
+2022,GMC,Terrain,Terrain FWD
+2022,GMC,Yukon,Yukon 2WD
+2022,GMC,Yukon,Yukon 4WD
+2022,GMC,Yukon,Yukon XL 2WD
+2022,GMC,Yukon,Yukon XL 4WD
+2022,Honda,Accord,Accord
+2022,Honda,Accord,Accord Hybrid
+2022,Honda,Accord,Accord Hybrid Sport/Touring
+2022,Honda,Accord,Accord Sport/Touring
+2022,Honda,Civic,Civic 4Dr
+2022,Honda,Civic,Civic 5Dr
+2022,Honda,CR-V,CR-V AWD
+2022,Honda,CR-V,CR-V FWD
+2022,Honda,CR-V,CR-V Hybrid AWD
+2022,Honda,HR-V,HR-V AWD
+2022,Honda,HR-V,HR-V FWD
+2022,Honda,Insight,Insight
+2022,Honda,Insight,Insight Touring
+2022,Honda,Odyssey,Odyssey
+2022,Honda,Passport,Passport AWD
+2022,Honda,Passport,Passport FWD
+2022,Honda,Pilot,Pilot AWD
+2022,Honda,Pilot,Pilot AWD TrailSport
+2022,Honda,Pilot,Pilot FWD
+2022,Honda,Ridgeline,Ridgeline AWD
+2022,Hyundai,Accent,Accent
+2022,Hyundai,Elantra,Elantra
+2022,Hyundai,Elantra,Elantra Hybrid
+2022,Hyundai,Elantra,Elantra Hybrid Blue
+2022,Hyundai,Elantra,Elantra N
+2022,Hyundai,Ioniq,Ioniq
+2022,Hyundai,Ioniq,Ioniq Blue
+2022,Hyundai,Ioniq,Ioniq Plug-in Hybrid
+2022,Hyundai,Ioniq 5,Ioniq 5 AWD (Long Range)
+2022,Hyundai,Ioniq 5,Ioniq 5 RWD (Long Range)
+2022,Hyundai,Ioniq 5,Ioniq 5 RWD (Standard Range)
+2022,Hyundai,Kona,Kona AWD
+2022,Hyundai,Kona,Kona Electric
+2022,Hyundai,Kona,Kona FWD
+2022,Hyundai,Kona,Kona N
+2022,Hyundai,Nexo,Nexo
+2022,Hyundai,Nexo,Nexo Blue
+2022,Hyundai,Palisade,Palisade AWD
+2022,Hyundai,Palisade,Palisade FWD
+2022,Hyundai,Santa Cruz,Santa Cruz AWD
+2022,Hyundai,Santa Cruz,Santa Cruz FWD
+2022,Hyundai,Santa Fe,Santa Fe AWD
+2022,Hyundai,Santa Fe,Santa Fe FWD
+2022,Hyundai,Santa Fe,Santa Fe Hybrid
+2022,Hyundai,Santa Fe,Santa Fe Hybrid Blue
+2022,Hyundai,Santa Fe,Santa Fe Plug-in Hybrid
+2022,Hyundai,Sonata,Sonata
+2022,Hyundai,Sonata,Sonata Hybrid
+2022,Hyundai,Sonata,Sonata Hybrid Blue
+2022,Hyundai,Tucson,Tucson AWD
+2022,Hyundai,Tucson,Tucson FWD
+2022,Hyundai,Tucson,Tucson Hybrid
+2022,Hyundai,Tucson,Tucson Hybrid Blue
+2022,Hyundai,Tucson,Tucson Plug-in Hybrid
+2022,Hyundai,Veloster,Veloster N
+2022,Hyundai,Venue,Venue
+2022,Infiniti,Q50,Q50
+2022,Infiniti,Q50,Q50 AWD
+2022,Infiniti,Q50,Q50 Red Sport
+2022,Infiniti,Q50,Q50 Red Sport  AWD
+2022,Infiniti,Q60,Q60
+2022,Infiniti,Q60,Q60 AWD
+2022,Infiniti,Q60,Q60 Red Sport
+2022,Infiniti,Q60,Q60 Red Sport AWD
+2022,Infiniti,QX50,QX50
+2022,Infiniti,QX50,QX50 AWD
+2022,Infiniti,QX55,QX55 AWD
+2022,Infiniti,QX60,QX60 AWD
+2022,Infiniti,QX60,QX60 FWD
+2022,Infiniti,QX80,QX80 2WD
+2022,Infiniti,QX80,QX80 4WD
+2022,Jaguar,E-Pace,E-Pace
+2022,Jaguar,E-Pace,E-Pace MHEV
+2022,Jaguar,F-Pace,F-Pace
+2022,Jaguar,F-Pace,F-Pace P340 MHEV
+2022,Jaguar,F-Pace,F-Pace P400 MHEV
+2022,Jaguar,F-Pace,F-Pace SVR
+2022,Jaguar,F-Type,F-Type P450 AWD R-Dynamic Convertible
+2022,Jaguar,F-Type,F-Type P450 AWD R-Dynamic Coupe
+2022,Jaguar,F-Type,F-Type P450 RWD Convertible
+2022,Jaguar,F-Type,F-Type P450 RWD Coupe
+2022,Jaguar,F-Type,F-Type R AWD Convertible
+2022,Jaguar,F-Type,F-Type R AWD Coupe
+2022,Jaguar,XF,XF P250
+2022,Jaguar,XF,XF P250 AWD
+2022,Jaguar,XF,XF P300 AWD
+2022,Jeep,Cherokee,Cherokee 4WD
+2022,Jeep,Cherokee,Cherokee FWD
+2022,Jeep,Cherokee,Cherokee Trailhawk 4WD
+2022,Jeep,Compass,Compass 4WD
+2022,Jeep,Compass,Compass FWD
+2022,Jeep,Gladiator,Gladiator 4WD
+2022,Jeep,Gladiator,Gladiator EcoDiesel 4WD
+2022,Jeep,Gladiator,Gladiator Rubic EcoDiesel 4WD
+2022,Jeep,Grand Cherokee,Grand Cherokee 2WD
+2022,Jeep,Grand Cherokee,Grand Cherokee 4WD
+2022,Jeep,Grand Cherokee,Grand Cherokee 4xe
+2022,Jeep,Grand Cherokee,Grand Cherokee L 2WD
+2022,Jeep,Grand Cherokee,Grand Cherokee L 4WD
+2022,Jeep,Grand Cherokee,Grand Cherokee WK 2WD
+2022,Jeep,Grand Cherokee,Grand Cherokee WK 4WD
+2022,Jeep,Grand Wagoneer,Grand Wagoneer 2WD
+2022,Jeep,Grand Wagoneer,Grand Wagoneer 4WD
+2022,Jeep,Renegade,Renegade 2WD
+2022,Jeep,Renegade,Renegade 4WD
+2022,Jeep,Renegade,Renegade Trailhawk 4WD
+2022,Jeep,Wagoneer,Wagoneer 2WD
+2022,Jeep,Wagoneer,Wagoneer 4WD
+2022,Jeep,Wrangler,Wrangler 2dr 4WD
+2022,Jeep,Wrangler,Wrangler 4dr 4WD
+2022,Jeep,Wrangler,Wrangler 4dr 4xe
+2022,Jeep,Wrangler,Wrangler 4dr EcoDiesel 4WD
+2022,Jeep,Wrangler,Wrangler Rubic 4dr EcoDiesel 4WD
+2022,Kia,Carnival,Carnival
+2022,Kia,EV6,EV6 AWD (Long Range)
+2022,Kia,EV6,EV6 RWD (Long Range)
+2022,Kia,EV6,EV6 RWD (Standard Range)
+2022,Kia,Forte,Forte
+2022,Kia,Forte,Forte FE
+2022,Kia,K5,K5
+2022,Kia,K5,K5 AWD
+2022,Kia,Niro,Niro
+2022,Kia,Niro,Niro Electric
+2022,Kia,Niro,Niro FE
+2022,Kia,Niro,Niro Plug-in Hybrid
+2022,Kia,Niro,Niro Touring
+2022,Kia,Rio,Rio
+2022,Kia,Seltos,Seltos AWD
+2022,Kia,Seltos,Seltos FWD
+2022,Kia,Sorento,Sorento AWD
+2022,Kia,Sorento,Sorento FWD
+2022,Kia,Sorento,Sorento Hybrid AWD
+2022,Kia,Sorento,Sorento Hybrid FWD
+2022,Kia,Sorento,Sorento Plug-in Hybrid
+2022,Kia,Soul,Soul
+2022,Kia,Soul,Soul Eco dynamics
+2022,Kia,Sportage,Sportage AWD
+2022,Kia,Sportage,Sportage FWD
+2022,Kia,Stinger,Stinger AWD
+2022,Kia,Stinger,Stinger RWD
+2022,Kia,Telluride,Telluride AWD
+2022,Kia,Telluride,Telluride FWD
+2022,Lamborghini,Aventador,Aventador Countach
+2022,Lamborghini,Aventador,Aventador Coupe
+2022,Lamborghini,Aventador,Aventador Roadster
+2022,Lamborghini,Huracan,Huracan Coupe
+2022,Lamborghini,Huracan,Huracan Coupe RWD
+2022,Lamborghini,Huracan,Huracan Spyder
+2022,Lamborghini,Huracan,Huracan Spyder RWD
+2022,Lamborghini,Urus,Urus
+2022,Land Rover,Defender,Defender 110
+2022,Land Rover,Defender,Defender 110 MHEV
+2022,Land Rover,Defender,Defender 90
+2022,Land Rover,Defender,Defender 90 MHEV
+2022,Land Rover,Discovery,Discovery
+2022,Land Rover,Discovery,Discovery MHEV
+2022,Land Rover,Discovery,Discovery Sport
+2022,Land Rover,Range Rover,New Range Rover
+2022,Land Rover,Range Rover,New Range Rover LWB
+2022,Land Rover,Range Rover,New Range Rover P360 LWB MHEV
+2022,Land Rover,Range Rover,New Range Rover P360 MHEV
+2022,Land Rover,Range Rover,New Range Rover P400 LWB MHEV
+2022,Land Rover,Range Rover,New Range Rover P400 MHEV
+2022,Land Rover,Range Rover,Range Rover
+2022,Land Rover,Range Rover,Range Rover Evoque
+2022,Land Rover,Range Rover,Range Rover Evoque MHEV
+2022,Land Rover,Range Rover,Range Rover LWB
+2022,Land Rover,Range Rover,Range Rover LWB SVA
+2022,Land Rover,Range Rover,Range Rover P360 MHEV
+2022,Land Rover,Range Rover,Range Rover P400 MHEV
+2022,Land Rover,Range Rover,Range Rover Sport
+2022,Land Rover,Range Rover,Range Rover Sport P360 MHEV
+2022,Land Rover,Range Rover,Range Rover Sport P400 MHEV
+2022,Land Rover,Range Rover,Range Rover Sport PHEV
+2022,Land Rover,Range Rover,Range Rover Sport SVR
+2022,Land Rover,Range Rover,Range Rover SVA
+2022,Land Rover,Range Rover,Range Rover Velar
+2022,Land Rover,Range Rover,Range Rover Velar P340 MHEV
+2022,Land Rover,Range Rover,Range Rover Velar P400 MHEV
+2022,Lexus,ES,ES 250 AWD
+2022,Lexus,ES,ES 300h
+2022,Lexus,ES,ES 350
+2022,Lexus,ES,ES 350 F Sport
+2022,Lexus,GX,GX 460
+2022,Lexus,IS,IS 300
+2022,Lexus,IS,IS 300 AWD
+2022,Lexus,IS,IS 350
+2022,Lexus,IS,IS 350 AWD
+2022,Lexus,IS,IS 500
+2022,Lexus,LC,LC 500
+2022,Lexus,LC,LC 500 Convertible
+2022,Lexus,LC,LC 500h
+2022,Lexus,LS,LS 500
+2022,Lexus,LS,LS 500 AWD
+2022,Lexus,LS,LS 500h AWD
+2022,Lexus,LX,LX 600
+2022,Lexus,NX,NX 250
+2022,Lexus,NX,NX 250 AWD
+2022,Lexus,NX,NX 350 AWD
+2022,Lexus,NX,NX 350h AWD
+2022,Lexus,NX,NX 450h Plus AWD
+2022,Lexus,RC,RC 300
+2022,Lexus,RC,RC 300 AWD
+2022,Lexus,RC,RC 350
+2022,Lexus,RC,RC 350 AWD
+2022,Lexus,RC,RC F
+2022,Lexus,RX,RX 350
+2022,Lexus,RX,RX 350 AWD
+2022,Lexus,RX,RX 350 L
+2022,Lexus,RX,RX 350 L AWD
+2022,Lexus,RX,RX 450h AWD
+2022,Lexus,RX,RX 450h L AWD
+2022,Lexus,UX,UX 200
+2022,Lexus,UX,UX 250h
+2022,Lexus,UX,UX 250h AWD
+2022,Lincoln,Aviator,Aviator AWD
+2022,Lincoln,Aviator,Aviator PHEV AWD
+2022,Lincoln,Aviator,Aviator RWD
+2022,Lincoln,Corsair,Corsair AWD
+2022,Lincoln,Corsair,Corsair AWD PHEV
+2022,Lincoln,Corsair,Corsair FWD
+2022,Lincoln,Nautilus,Nautilus AWD
+2022,Lincoln,Nautilus,Nautilus FWD
+2022,Lincoln,Navigator,Navigator 2WD
+2022,Lincoln,Navigator,Navigator 4WD
+2022,Lucid,Air,Air Dream P AWD w/19 inch wheels
+2022,Lucid,Air,Air Dream P AWD w/21 inch wheels
+2022,Lucid,Air,Air Dream R AWD w/19 inch wheels
+2022,Lucid,Air,Air Dream R AWD w/21 inch wheels
+2022,Lucid,Air,Air G Touring AWD w/19 inch wheels
+2022,Lucid,Air,Air G Touring AWD w/21 inch wheels
+2022,Maserati,Ghibli,Ghibli GT
+2022,Maserati,Ghibli,Ghibli Modena AWD
+2022,Maserati,Ghibli,Ghibli Modena RWD
+2022,Maserati,Ghibli,Ghibli Trofeo
+2022,Maserati,Levante,Levante GT
+2022,Maserati,Levante,Levante Modena
+2022,Maserati,Levante,Levante Modena V8
+2022,Maserati,Levante,Levante Trofeo
+2022,Maserati,MC20,MC20
+2022,Maserati,Quattroporte,Quattroporte GT
+2022,Maserati,Quattroporte,Quattroporte Modena AWD
+2022,Maserati,Quattroporte,Quattroporte Modena RWD
+2022,Maserati,Quattroporte,Quattroporte Trofeo
+2022,Mazda,3,3 4-Door 2WD
+2022,Mazda,3,3 4-Door 4WD
+2022,Mazda,3,3 5-Door 2WD
+2022,Mazda,3,3 5-Door 4WD
+2022,Mazda,CX-30,CX-30 4WD
+2022,Mazda,CX-5,CX-5 4WD
+2022,Mazda,CX-9,CX-9 4WD
+2022,Mazda,MX-30,MX-30
+2022,Mazda,MX-5,MX-5
+2022,McLaren Automotive,720S Coupe,720S Coupe
+2022,McLaren Automotive,720S Spider,720S Spider
+2022,McLaren Automotive,765LT Spider,765LT Spider
+2022,McLaren Automotive,GT,GT
+2022,Mercedes-Benz,A-Class,A220
+2022,Mercedes-Benz,A-Class,A220 4matic
+2022,Mercedes-Benz,A-Class,AMG A35 4matic
+2022,Mercedes-Benz,AMG GT,AMG GT 43 4matic Plus
+2022,Mercedes-Benz,AMG GT,AMG GT 53 4matic Plus
+2022,Mercedes-Benz,C-Class,AMG C43 4matic Convertible
+2022,Mercedes-Benz,C-Class,AMG C43 4matic Coupe
+2022,Mercedes-Benz,C-Class,C300
+2022,Mercedes-Benz,C-Class,C300 4matic
+2022,Mercedes-Benz,C-Class,C300 4matic Convertible
+2022,Mercedes-Benz,C-Class,C300 4matic Coupe
+2022,Mercedes-Benz,C-Class,C300 Convertible
+2022,Mercedes-Benz,C-Class,C300 Coupe
+2022,Mercedes-Benz,CLA-Class,AMG CLA35 4matic
+2022,Mercedes-Benz,CLA-Class,AMG CLA45 4matic
+2022,Mercedes-Benz,CLA-Class,CLA250
+2022,Mercedes-Benz,CLA-Class,CLA250 4matic
+2022,Mercedes-Benz,CLS-Class,CLS450 4matic
+2022,Mercedes-Benz,E-Class,AMG E53 4matic Plus
+2022,Mercedes-Benz,E-Class,AMG E53 4matic Plus Convertible
+2022,Mercedes-Benz,E-Class,AMG E53 4matic Plus Coupe
+2022,Mercedes-Benz,E-Class,E350
+2022,Mercedes-Benz,E-Class,E350 4matic
+2022,Mercedes-Benz,E-Class,E450 4matic
+2022,Mercedes-Benz,E-Class,E450 4matic All-Terrain (wagon)
+2022,Mercedes-Benz,E-Class,E450 4matic Convertible
+2022,Mercedes-Benz,E-Class,E450 4matic Coupe
+2022,Mercedes-Benz,E-Class,E450 Convertible
+2022,Mercedes-Benz,E-Class,E450 Coupe
+2022,Mercedes-Benz,EQB,EQB 300 4matic
+2022,Mercedes-Benz,EQB,EQB 350 4matic
+2022,Mercedes-Benz,EQS,AMG EQS 4matic Plus
+2022,Mercedes-Benz,EQS,EQS 450 Plus
+2022,Mercedes-Benz,EQS,EQS 580 4matic
+2022,Mercedes-Benz,G-Class,AMG G63
+2022,Mercedes-Benz,G-Class,G550
+2022,Mercedes-Benz,GLA-Class,AMG GLA35 4matic
+2022,Mercedes-Benz,GLA-Class,AMG GLA45 4matic
+2022,Mercedes-Benz,GLA-Class,GLA250
+2022,Mercedes-Benz,GLA-Class,GLA250 4matic
+2022,Mercedes-Benz,GLB-Class,AMG GLB35 4matic
+2022,Mercedes-Benz,GLB-Class,GLB250
+2022,Mercedes-Benz,GLB-Class,GLB250 4matic
+2022,Mercedes-Benz,GLC-Class,AMG GLC43 4matic
+2022,Mercedes-Benz,GLC-Class,AMG GLC43 4matic Coupe
+2022,Mercedes-Benz,GLC-Class,GLC300
+2022,Mercedes-Benz,GLC-Class,GLC300 4matic
+2022,Mercedes-Benz,GLC-Class,GLC300 4matic Coupe
+2022,Mercedes-Benz,GLE-Class,AMG GLE53 4matic Plus
+2022,Mercedes-Benz,GLE-Class,AMG GLE53 4matic Plus Coupe
+2022,Mercedes-Benz,GLE-Class,AMG GLE63 S 4matic Plus
+2022,Mercedes-Benz,GLE-Class,AMG GLE63 S 4matic Plus Coupe
+2022,Mercedes-Benz,GLE-Class,GLE350
+2022,Mercedes-Benz,GLE-Class,GLE350 4matic
+2022,Mercedes-Benz,GLE-Class,GLE450 4matic
+2022,Mercedes-Benz,GLE-Class,GLE580 4matic
+2022,Mercedes-Benz,GLS-Class,AMG GLS63 4matic Plus
+2022,Mercedes-Benz,GLS-Class,GLS450 4matic
+2022,Mercedes-Benz,GLS-Class,GLS580 4matic
+2022,Mercedes-Benz,GLS-Class,GLS600 4matic Maybach
+2022,Mercedes-Benz,Metris Cargo,"Metris (Cargo Van, LWB)"
+2022,Mercedes-Benz,Metris Cargo,Metris (Cargo Van)
+2022,Mercedes-Benz,Metris Cargo,Metris (US Postal Long)
+2022,Mercedes-Benz,Metris Cargo,Metris (US Postal)
+2022,Mercedes-Benz,Metris Passenger,Metris (Passenger Van)
+2022,Mercedes-Benz,S-Class,Maybach S680 4matic
+2022,Mercedes-Benz,S-Class,S500 4matic
+2022,Mercedes-Benz,S-Class,S580 4matic
+2022,Mercedes-Benz,S-Class,S580 4matic Maybach
+2022,Mercedes-Benz,SL-Class,AMG SL55 4matic Plus
+2022,Mercedes-Benz,SL-Class,AMG SL63 4matic Plus
+2022,MINI,Clubman,Cooper S Clubman
+2022,MINI,Clubman,Cooper S Clubman All4
+2022,MINI,Cooper,Cooper Convertible
+2022,MINI,Cooper,Cooper Hardtop 2 door
+2022,MINI,Cooper,Cooper Hardtop 4 door
+2022,MINI,Cooper,Cooper S Convertible
+2022,MINI,Cooper,Cooper S Hardtop 2 door
+2022,MINI,Cooper,Cooper S Hardtop 4 door
+2022,MINI,Cooper,Cooper SE Hardtop 2 door
+2022,MINI,Countryman,Cooper Countryman
+2022,MINI,Countryman,Cooper Countryman All4
+2022,MINI,Countryman,Cooper S Countryman
+2022,MINI,Countryman,Cooper S Countryman All4
+2022,MINI,Countryman,Cooper SE Countryman All4
+2022,MINI,John Cooper Works,JCW Countryman All4
+2022,MINI,John Cooper Works,John Cooper Works Clubman All4
+2022,MINI,John Cooper Works,John Cooper Works Convertible
+2022,MINI,John Cooper Works,John Cooper Works Hardtop 2 door
+2022,Mitsubishi,Eclipse Cross,Eclipse Cross 2WD
+2022,Mitsubishi,Eclipse Cross,Eclipse Cross 4WD
+2022,Mitsubishi,Eclipse Cross,Eclipse Cross ES 2WD
+2022,Mitsubishi,Eclipse Cross,Eclipse Cross ES 4WD
+2022,Mitsubishi,Mirage,Mirage
+2022,Mitsubishi,Mirage,Mirage G4
+2022,Mitsubishi,Outlander,Outlander 2WD
+2022,Mitsubishi,Outlander,Outlander 4WD
+2022,Mitsubishi,Outlander,Outlander PHEV
+2022,Mitsubishi,Outlander,Outlander Sport 2WD
+2022,Mitsubishi,Outlander,Outlander Sport 4WD
+2022,Nissan,Altima,Altima
+2022,Nissan,Altima,Altima AWD
+2022,Nissan,Altima,Altima AWD SR/Platinum
+2022,Nissan,Altima,Altima SR
+2022,Nissan,Altima,Altima SV/SL
+2022,Nissan,Armada,Armada 2WD
+2022,Nissan,Armada,Armada 4WD
+2022,Nissan,Frontier,Frontier 2WD
+2022,Nissan,Frontier,Frontier 4WD
+2022,Nissan,Kicks,Kicks
+2022,Nissan,Leaf,Leaf (40 kW-hr battery pack)
+2022,Nissan,Leaf,Leaf (62 kW-hr battery pack)
+2022,Nissan,Leaf,Leaf SV/SL (62 kW-hr battery pack)
+2022,Nissan,Maxima,Maxima
+2022,Nissan,Murano,Murano AWD
+2022,Nissan,Murano,Murano FWD
+2022,Nissan,Pathfinder,Pathfinder 2WD
+2022,Nissan,Pathfinder,Pathfinder 4WD
+2022,Nissan,Pathfinder,Pathfinder 4WD Platinum
+2022,Nissan,Rogue,Rogue AWD
+2022,Nissan,Rogue,Rogue AWD SL/Platinum
+2022,Nissan,Rogue,Rogue FWD
+2022,Nissan,Rogue,Rogue FWD SL/Platinum
+2022,Nissan,Rogue Sport,Rogue Sport
+2022,Nissan,Rogue Sport,Rogue Sport AWD
+2022,Nissan,Sentra,Sentra
+2022,Nissan,Sentra,Sentra SR
+2022,Nissan,Titan,Titan 2WD
+2022,Nissan,Titan,Titan 4WD
+2022,Nissan,Titan,Titan 4WD PRO4X
+2022,Nissan,Versa,Versa
+2022,Polestar,2,2 Dual Motor
+2022,Polestar,2,2 Single Motor
+2022,Porsche,718,718 Boxster
+2022,Porsche,718,718 Boxster GTS
+2022,Porsche,718,718 Boxster S
+2022,Porsche,718,718 Boxster T
+2022,Porsche,718,718 Cayman
+2022,Porsche,718,718 Cayman GT4
+2022,Porsche,718,718 Cayman GTS
+2022,Porsche,718,718 Cayman S
+2022,Porsche,718,718 Cayman T
+2022,Porsche,718,718 Spyder
+2022,Porsche,911,911 Carrera
+2022,Porsche,911,911 Carrera 4
+2022,Porsche,911,911 Carrera 4 Cabriolet
+2022,Porsche,911,911 Carrera 4 GTS
+2022,Porsche,911,911 Carrera 4 GTS Cabriolet
+2022,Porsche,911,911 Carrera 4S
+2022,Porsche,911,911 Carrera 4S Cabriolet
+2022,Porsche,911,911 Carrera Cabriolet
+2022,Porsche,911,911 Carrera GTS
+2022,Porsche,911,911 Carrera GTS Cabriolet
+2022,Porsche,911,911 Carrera S
+2022,Porsche,911,911 Carrera S Cabriolet
+2022,Porsche,911,911 GT3
+2022,Porsche,911,911 GT3 Touring
+2022,Porsche,911,911 Targa 4
+2022,Porsche,911,911 Targa 4 GTS
+2022,Porsche,911,911 Targa 4S
+2022,Porsche,911,911 Turbo
+2022,Porsche,911,911 Turbo Cabriolet
+2022,Porsche,911,911 Turbo S
+2022,Porsche,911,911 Turbo S Cabriolet
+2022,Porsche,Cayenne,Cayenne
+2022,Porsche,Cayenne,Cayenne / Cayenne Coupe
+2022,Porsche,Cayenne,Cayenne GTS
+2022,Porsche,Cayenne,Cayenne GTS Coupe
+2022,Porsche,Cayenne,Cayenne S
+2022,Porsche,Cayenne,Cayenne S Coupe
+2022,Porsche,Cayenne,Cayenne Turbo
+2022,Porsche,Cayenne,Cayenne Turbo Coupe
+2022,Porsche,Cayenne,Cayenne Turbo GT Coupe
+2022,Porsche,Cayenne,Cayenne Turbo S/Coupe E-Hybrid
+2022,Porsche,Cayenne,Cayenne/Coupe E-Hybrid
+2022,Porsche,Macan,Macan
+2022,Porsche,Macan,Macan GTS
+2022,Porsche,Macan,Macan S
+2022,Porsche,Panamera,Panamera
+2022,Porsche,Panamera,Panamera 4
+2022,Porsche,Panamera,Panamera 4 E-Hybrid/Exec/ST
+2022,Porsche,Panamera,Panamera 4 Executive
+2022,Porsche,Panamera,Panamera 4 ST
+2022,Porsche,Panamera,Panamera 4S
+2022,Porsche,Panamera,Panamera 4S E-Hybrid/Exec/ST
+2022,Porsche,Panamera,Panamera 4S Executive
+2022,Porsche,Panamera,Panamera 4S ST
+2022,Porsche,Panamera,Panamera GTS
+2022,Porsche,Panamera,Panamera GTS ST
+2022,Porsche,Panamera,Panamera Turbo S E-Hybrid/Exec/ST
+2022,Porsche,Panamera,Panamera Turbo S/Exec/ST
+2022,Porsche,Taycan,Taycan 4 Cross Turismo
+2022,Porsche,Taycan,Taycan 4S Cross Turismo
+2022,Porsche,Taycan,Taycan 4S Perf Battery
+2022,Porsche,Taycan,Taycan 4S Perf Battery Plus
+2022,Porsche,Taycan,Taycan GTS
+2022,Porsche,Taycan,Taycan GTS ST
+2022,Porsche,Taycan,Taycan Perf Battery
+2022,Porsche,Taycan,Taycan Perf Battery Plus
+2022,Porsche,Taycan,Taycan Turbo
+2022,Porsche,Taycan,Taycan Turbo Cross Turismo
+2022,Porsche,Taycan,Taycan Turbo S
+2022,Porsche,Taycan,Taycan Turbo S Cross Turismo
+2022,Ram,1500,1500 2WD
+2022,Ram,1500,1500 4WD
+2022,Ram,1500,1500 Classic 2WD
+2022,Ram,1500,1500 Classic 4WD
+2022,Ram,1500,1500 HFE 2WD
+2022,Ram,1500,1500 TRX 4WD
+2022,Ram,Promaster City,Promaster City
+2022,Rivian,R1S,R1S
+2022,Rivian,R1T,R1T
+2022,Rolls-Royce,Cullinan,Cullinan
+2022,Rolls-Royce,Cullinan,Cullinan Black Badge
+2022,Rolls-Royce,Ghost,Ghost
+2022,Rolls-Royce,Ghost,Ghost Black Badge
+2022,Rolls-Royce,Ghost,Ghost Extended
+2022,Rolls-Royce,Phantom,Phantom
+2022,Rolls-Royce,Phantom,Phantom Extended
+2022,Subaru,Ascent,Ascent
+2022,Subaru,Ascent,Ascent Limited/Touring/Onyx AWD
+2022,Subaru,BRZ,BRZ
+2022,Subaru,Crosstrek,Crosstrek AWD
+2022,Subaru,Forester,Forester AWD
+2022,Subaru,Forester,Forester Wilderness AWD
+2022,Subaru,Impreza,Impreza 4-Door
+2022,Subaru,Impreza,Impreza 5-Door
+2022,Subaru,Impreza,Impreza Sport 4-Door
+2022,Subaru,Impreza,Impreza Sport 5-Door
+2022,Subaru,Legacy,Legacy AWD
+2022,Subaru,Outback,Outback AWD
+2022,Subaru,Outback,Outback Wilderness AWD
+2022,Subaru,WRX,WRX
+2022,Tesla,Model 3,Model 3 Long Range AWD
+2022,Tesla,Model 3,Model 3 Performance AWD
+2022,Tesla,Model 3,Model 3 RWD
+2022,Tesla,Model S,Model S
+2022,Tesla,Model S,Model S Plaid (19 inch wheels)
+2022,Tesla,Model S,Model S Plaid (21 inch wheels)
+2022,Tesla,Model X,Model X
+2022,Tesla,Model X,Model X Plaid (20 inch wheels)
+2022,Tesla,Model X,Model X Plaid (22 inch wheels)
+2022,Tesla,Model Y,Model Y AWD
+2022,Tesla,Model Y,Model Y Long Range AWD
+2022,Tesla,Model Y,Model Y Performance AWD
+2022,Tesla,Model Y,Model Y RWD
+2022,Toyota,4Runner,4Runner 2WD
+2022,Toyota,4Runner,4Runner 4WD
+2022,Toyota,Avalon,Avalon
+2022,Toyota,Avalon,Avalon Hybrid
+2022,Toyota,Avalon,Avalon Hybrid XLE
+2022,Toyota,Avalon,Avalon XLE
+2022,Toyota,C-HR,C-HR
+2022,Toyota,Camry,Camry
+2022,Toyota,Camry,Camry AWD LE/SE
+2022,Toyota,Camry,Camry AWD XLE/XSE
+2022,Toyota,Camry,Camry Hybrid LE
+2022,Toyota,Camry,Camry Hybrid SE/XLE/XSE
+2022,Toyota,Camry,Camry LE/SE
+2022,Toyota,Camry,Camry TRD
+2022,Toyota,Camry,Camry XLE/XSE
+2022,Toyota,Camry,Camry XSE
+2022,Toyota,Corolla,Corolla
+2022,Toyota,Corolla,Corolla APEX
+2022,Toyota,Corolla,Corolla Hatchback
+2022,Toyota,Corolla,Corolla Hatchback XSE
+2022,Toyota,Corolla,Corolla Hybrid
+2022,Toyota,Corolla,Corolla XLE
+2022,Toyota,Corolla,Corolla XSE
+2022,Toyota,Corolla Cross,Corolla Cross
+2022,Toyota,Corolla Cross,Corolla Cross 4WD
+2022,Toyota,GR 86,GR 86
+2022,Toyota,GR Supra,GR Supra
+2022,Toyota,Highlander,Highlander
+2022,Toyota,Highlander,Highlander AWD
+2022,Toyota,Highlander,Highlander Hybrid
+2022,Toyota,Highlander,Highlander Hybrid AWD
+2022,Toyota,Highlander,Highlander Hybrid AWD LTD/PLAT
+2022,Toyota,Mirai,Mirai LE
+2022,Toyota,Mirai,Mirai Limited
+2022,Toyota,Mirai,Mirai XLE
+2022,Toyota,Prius,Prius
+2022,Toyota,Prius,Prius AWD
+2022,Toyota,Prius,Prius Eco
+2022,Toyota,Prius Prime,Prius Prime
+2022,Toyota,RAV4,RAV4
+2022,Toyota,RAV4,RAV4 AWD
+2022,Toyota,RAV4,RAV4 AWD LE
+2022,Toyota,RAV4,RAV4 AWD TRD OFFROAD
+2022,Toyota,RAV4,RAV4 Hybrid AWD
+2022,Toyota,RAV4 Prime,RAV4 Prime 4WD
+2022,Toyota,Sequoia,Sequoia 2WD
+2022,Toyota,Sequoia,Sequoia 4WD
+2022,Toyota,Sienna,Sienna 2WD
+2022,Toyota,Sienna,Sienna AWD
+2022,Toyota,Tacoma,Tacoma 2WD
+2022,Toyota,Tacoma,Tacoma 4WD
+2022,Toyota,Tacoma,Tacoma 4WD D-CAB MT TRD-ORP/PRO
+2022,Toyota,Tundra,Tundra 2WD
+2022,Toyota,Tundra,Tundra 4WD
+2022,Toyota,Tundra,Tundra 4WD PRO
+2022,Toyota,Venza,Venza AWD
+2022,Volkswagen,Arteon,Arteon
+2022,Volkswagen,Arteon,Arteon 4motion
+2022,Volkswagen,Atlas,Atlas
+2022,Volkswagen,Atlas,Atlas 4motion
+2022,Volkswagen,Atlas,Atlas Cross Sport
+2022,Volkswagen,Atlas,Atlas Cross Sport 4motion
+2022,Volkswagen,GLI,GLI
+2022,Volkswagen,Golf/GTI,Golf-R
+2022,Volkswagen,Golf/GTI,GTI
+2022,Volkswagen,ID.4,ID.4 AWD Pro
+2022,Volkswagen,ID.4,ID.4 AWD Pro S
+2022,Volkswagen,ID.4,ID.4 Pro
+2022,Volkswagen,ID.4,ID.4 Pro S
+2022,Volkswagen,Jetta,Jetta
+2022,Volkswagen,Jetta,Jetta SE/SEL
+2022,Volkswagen,Passat,Passat
+2022,Volkswagen,Taos,Taos
+2022,Volkswagen,Taos,Taos 4motion
+2022,Volkswagen,Tiguan,Tiguan
+2022,Volkswagen,Tiguan,Tiguan 4motion
+2022,Volkswagen,Tiguan,Tiguan R-Line 4motion
+2022,Volvo,C40,C40 Recharge twin
+2022,Volvo,S60,S60 B5
+2022,Volvo,S60,S60 B5 AWD
+2022,Volvo,S60,S60 T8 AWD Recharge
+2022,Volvo,S60,S60 T8 AWD Recharge ext. Range
+2022,Volvo,S90,S90 B6 AWD
+2022,Volvo,S90,S90 T8 AWD Recharge
+2022,Volvo,S90,S90 T8 AWD Recharge ext. Range
+2022,Volvo,V60,V60 T8 AWD Recharge
+2022,Volvo,V60,V60 T8 AWD Recharge ext. Range
+2022,Volvo,V60,V60CC T5 AWD
+2022,Volvo,V90,V90CC B6 AWD
+2022,Volvo,XC40,XC40 Recharge twin
+2022,Volvo,XC40,XC40 T4
+2022,Volvo,XC40,XC40 T5 AWD
+2022,Volvo,XC60,XC60 B5
+2022,Volvo,XC60,XC60 B5 AWD
+2022,Volvo,XC60,XC60 B6 AWD
+2022,Volvo,XC60,XC60 T8 AWD Recharge
+2022,Volvo,XC60,XC60 T8 AWD Recharge ext. Range
+2022,Volvo,XC90,XC90 T5
+2022,Volvo,XC90,XC90 T5 AWD
+2022,Volvo,XC90,XC90 T6 AWD
+2022,Volvo,XC90,XC90 T8 AWD Recharge
+2022,Volvo,XC90,XC90 T8 AWD Recharge ext. Range

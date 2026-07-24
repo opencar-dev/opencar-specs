@@ -1,0 +1,751 @@
+year,make,model,trim
+2014,Acura,ILX,ILX
+2014,Acura,ILX,ILX Hybrid
+2014,Acura,MDX,MDX 2WD
+2014,Acura,MDX,MDX 4WD
+2014,Acura,RDX,RDX 2WD
+2014,Acura,RDX,RDX 4WD
+2014,Acura,RLX,RLX
+2014,Acura,RLX,RLX Hybrid
+2014,Acura,TL,TL 2WD
+2014,Acura,TL,TL 4WD
+2014,Acura,TSX,TSX
+2014,Acura,TSX,TSX Wagon
+2014,Aston Martin,DB9,DB9
+2014,Aston Martin,Rapide,Rapide S
+2014,Aston Martin,Vanquish,Vanquish
+2014,Aston Martin,Vantage,V8 Vantage
+2014,Aston Martin,Vantage,V8 Vantage S
+2014,Audi,A4,A4
+2014,Audi,A4,A4 quattro
+2014,Audi,A5,A5 Cabriolet
+2014,Audi,A5,A5 Cabriolet quattro
+2014,Audi,A5,A5 quattro
+2014,Audi,A6,A6
+2014,Audi,A6,A6 quattro
+2014,Audi,A7,A7 quattro
+2014,Audi,A8,A8
+2014,Audi,A8,A8 L
+2014,Audi,Allroad,allroad quattro
+2014,Audi,Q5,Q5
+2014,Audi,Q5,Q5 Hybrid
+2014,Audi,Q7,Q7
+2014,Audi,R8,R8
+2014,Audi,R8 Spyder,R8 Spyder
+2014,Audi,RS 5,RS 5
+2014,Audi,RS 5,RS 5 Cabriolet
+2014,Audi,RS 7,RS 7
+2014,Audi,S4,S4
+2014,Audi,S5,S5
+2014,Audi,S5,S5 Cabriolet
+2014,Audi,S6,S6
+2014,Audi,S7,S7
+2014,Audi,S8,S8
+2014,Audi,SQ5,SQ5
+2014,Audi,TT Coupe,TT Coupe quattro
+2014,Audi,TT Roadster,TT Roadster quattro
+2014,Bentley,Continental,Continental GT
+2014,Bentley,Continental,Continental GTC
+2014,Bentley,Continental GT Convertible,Continental GT Speed Convertible
+2014,Bentley,Flying Spur,Flying Spur
+2014,Bentley,Mulsanne,Mulsanne
+2014,BMW,2 Series,228i
+2014,BMW,2 Series,M235i
+2014,BMW,3 Series,320i
+2014,BMW,3 Series,320i xDrive
+2014,BMW,3 Series,328d
+2014,BMW,3 Series,328d xDrive
+2014,BMW,3 Series,328d xDrive Sports Wagon
+2014,BMW,3 Series,328i
+2014,BMW,3 Series,328i xDrive
+2014,BMW,3 Series,328i xDrive Gran Turismo
+2014,BMW,3 Series,328i xDrive Sports Wagon
+2014,BMW,3 Series,335i
+2014,BMW,3 Series,335i xDrive
+2014,BMW,3 Series,335i xDrive Gran Turismo
+2014,BMW,3 Series,ActiveHybrid 3
+2014,BMW,4 Series,428i Convertible
+2014,BMW,4 Series,428i Coupe
+2014,BMW,4 Series,428i xDrive Convertible
+2014,BMW,4 Series,428i xDrive Coupe
+2014,BMW,4 Series,435i Convertible
+2014,BMW,4 Series,435i Coupe
+2014,BMW,4 Series,435i xDrive Coupe
+2014,BMW,5 Series,528i
+2014,BMW,5 Series,528i xDrive
+2014,BMW,5 Series,535d
+2014,BMW,5 Series,535d xDrive
+2014,BMW,5 Series,535i
+2014,BMW,5 Series,535i Gran Turismo
+2014,BMW,5 Series,535i xDrive
+2014,BMW,5 Series,535i xDrive Gran Turismo
+2014,BMW,5 Series,550i
+2014,BMW,5 Series,550i Gran Turismo
+2014,BMW,5 Series,550i xDrive
+2014,BMW,5 Series,550i xDrive Gran Turismo
+2014,BMW,5 Series,ActiveHybrid 5
+2014,BMW,6 Series,640i Convertible
+2014,BMW,6 Series,640i Coupe
+2014,BMW,6 Series,640i Gran Coupe
+2014,BMW,6 Series,640i xDrive Convertible
+2014,BMW,6 Series,640i xDrive Coupe
+2014,BMW,6 Series,640i xDrive Gran Coupe
+2014,BMW,6 Series,650i Convertible
+2014,BMW,6 Series,650i Coupe
+2014,BMW,6 Series,650i Gran Coupe
+2014,BMW,6 Series,650i xDrive Convertible
+2014,BMW,6 Series,650i xDrive Coupe
+2014,BMW,6 Series,650i xDrive Gran Coupe
+2014,BMW,7 Series,740i
+2014,BMW,7 Series,740Li
+2014,BMW,7 Series,740Li xDrive
+2014,BMW,7 Series,750i
+2014,BMW,7 Series,750i xDrive
+2014,BMW,7 Series,750Li
+2014,BMW,7 Series,750Li xDrive
+2014,BMW,7 Series,760Li
+2014,BMW,7 Series,ActiveHybrid 7L
+2014,BMW,7 Series,Alpina B7 LWB
+2014,BMW,7 Series,Alpina B7 LWB xDrive
+2014,BMW,7 Series,Alpina B7 SWB
+2014,BMW,7 Series,Alpina B7 SWB xDrive
+2014,BMW,i3,i3 BEV
+2014,BMW,i3,i3 REX
+2014,BMW,i8,i8
+2014,BMW,M,M5
+2014,BMW,M,M6 Convertible
+2014,BMW,M,M6 Coupe
+2014,BMW,M,M6 Gran Coupe
+2014,BMW,M,X6 M
+2014,BMW,X1,X1 sDrive28i
+2014,BMW,X1,X1 xDrive28i
+2014,BMW,X1,X1 xDrive35i
+2014,BMW,X3,X3 xDrive28i
+2014,BMW,X3,X3 xDrive35i
+2014,BMW,X5,X5 sDrive35i
+2014,BMW,X5,X5 xDrive35d
+2014,BMW,X5,X5 xDrive35i
+2014,BMW,X5,X5 xDrive50i
+2014,BMW,X6,X6 xDrive35i
+2014,BMW,X6,X6 xDrive50i
+2014,BMW,Z4,Z4 sDrive28i
+2014,BMW,Z4,Z4 sDrive35i
+2014,BMW,Z4,Z4 sDrive35is
+2014,Bugatti,Veyron,Veyron
+2014,Buick,Enclave,Enclave AWD
+2014,Buick,Enclave,Enclave FWD
+2014,Buick,Encore,Encore
+2014,Buick,Encore,Encore AWD
+2014,Buick,LaCrosse,LaCrosse
+2014,Buick,LaCrosse,LaCrosse AWD
+2014,Buick,LaCrosse,LaCrosse eAssist
+2014,Buick,Regal,Regal
+2014,Buick,Regal,Regal AWD
+2014,Buick,Regal,Regal eAssist
+2014,Buick,Verano,Verano
+2014,BYD,e6,e6
+2014,Cadillac,ATS,ATS
+2014,Cadillac,ATS,ATS AWD
+2014,Cadillac,CTS,CTS
+2014,Cadillac,CTS,CTS AWD
+2014,Cadillac,CTS,CTS Sedan
+2014,Cadillac,CTS,CTS Sedan AWD
+2014,Cadillac,CTS,CTS V
+2014,Cadillac,CTS,CTS Wagon
+2014,Cadillac,CTS,CTS Wagon AWD
+2014,Cadillac,ELR,ELR
+2014,Cadillac,Escalade,Escalade 2WD
+2014,Cadillac,Escalade,Escalade AWD
+2014,Cadillac,Escalade,Escalade ESV 2WD
+2014,Cadillac,Escalade,Escalade ESV AWD
+2014,Cadillac,SRX,SRX 2WD
+2014,Cadillac,SRX,SRX AWD
+2014,Cadillac,XTS,XTS
+2014,Cadillac,XTS,XTS AWD
+2014,Cadillac,XTS Hearse,XTS Hearse
+2014,Cadillac,XTS Limo,XTS Limo
+2014,Chevrolet,Camaro,Camaro
+2014,Chevrolet,Captiva,Captiva AWD
+2014,Chevrolet,Captiva,Captiva FWD
+2014,Chevrolet,Corvette,Corvette
+2014,Chevrolet,Cruze,Cruze
+2014,Chevrolet,Cruze,Cruze Eco
+2014,Chevrolet,Equinox,Equinox AWD
+2014,Chevrolet,Equinox,Equinox FWD
+2014,Chevrolet,Express Cargo,Express 1500 2WD Cargo
+2014,Chevrolet,Express Cargo,Express 1500 2WD Conversion Cargo
+2014,Chevrolet,Express Cargo,Express 1500 AWD Cargo
+2014,Chevrolet,Express Cargo,Express 1500 AWD Conversion Cargo
+2014,Chevrolet,Express Cargo,Express 2500 2WD Conversion Cargo
+2014,Chevrolet,Express Passenger,Express 1500 2WD Passenger
+2014,Chevrolet,Express Passenger,Express 1500 AWD Passenger
+2014,Chevrolet,Express Passenger,Express 2500 2WD Passenger
+2014,Chevrolet,Express Passenger,Express 3500 2WD Passenger
+2014,Chevrolet,Impala,Impala
+2014,Chevrolet,Impala,Impala eAssist
+2014,Chevrolet,Impala,Impala Limited
+2014,Chevrolet,Malibu,Malibu
+2014,Chevrolet,Malibu,Malibu eAssist
+2014,Chevrolet,Silverado,Silverado C15 2WD
+2014,Chevrolet,Silverado,Silverado K15 4WD
+2014,Chevrolet,Sonic,Sonic
+2014,Chevrolet,Sonic,Sonic 5
+2014,Chevrolet,Sonic,Sonic 5 RS
+2014,Chevrolet,Sonic,Sonic RS
+2014,Chevrolet,Spark,Spark
+2014,Chevrolet,Spark,Spark EV
+2014,Chevrolet,SS,SS
+2014,Chevrolet,Suburban,Suburban C10 2WD
+2014,Chevrolet,Suburban,Suburban K10 4WD
+2014,Chevrolet,Tahoe,Tahoe C10 2WD
+2014,Chevrolet,Tahoe,Tahoe K10 4WD
+2014,Chevrolet,Traverse,Traverse AWD
+2014,Chevrolet,Traverse,Traverse FWD
+2014,Chevrolet,Volt,Volt
+2014,Chrysler,200,200
+2014,Chrysler,200,200 Convertible
+2014,Chrysler,300,300
+2014,Chrysler,300,300 AWD
+2014,Chrysler,300 SRT8,300 SRT8
+2014,Chrysler,Town and Country,Town and Country
+2014,Dodge,Avenger,Avenger
+2014,Dodge,Challenger,Challenger
+2014,Dodge,Challenger,Challenger SRT8
+2014,Dodge,Charger,Charger
+2014,Dodge,Charger,Charger AWD
+2014,Dodge,Charger,Charger SRT8
+2014,Dodge,Dart,Dart
+2014,Dodge,Dart,Dart Aero
+2014,Dodge,Dart,Dart GT
+2014,Dodge,Durango,Durango AWD
+2014,Dodge,Durango,Durango RWD
+2014,Dodge,Grand Caravan,Grand Caravan
+2014,Dodge,Journey,Journey AWD
+2014,Dodge,Journey,Journey FWD
+2014,Ferrari,458 Italia,458 Italia
+2014,Ferrari,458 Speciale,458 Speciale
+2014,Ferrari,458 Spider,458 Spider
+2014,Ferrari,California,California
+2014,Ferrari,F12,F12
+2014,Ferrari,FF,FF
+2014,Ferrari,LaFerrari,LaFerrari Hybrid
+2014,Fiat,500,500
+2014,Fiat,500,500 Abarth
+2014,Fiat,500 L,500 L
+2014,Fiat,500e,500e
+2014,Ford,C-MAX,C-MAX Energi Plug-in Hybrid
+2014,Ford,C-MAX,C-MAX Hybrid FWD
+2014,Ford,E150 Van,E150 Van FFV
+2014,Ford,E150 Wagon,E150 Wagon FFV
+2014,Ford,E250 Van,E250 Van FFV
+2014,Ford,E350 Van,E350 Van
+2014,Ford,E350 Van,E350 Van FFV
+2014,Ford,E350 Wagon,E350 Wagon
+2014,Ford,E350 Wagon,E350 Wagon FFV
+2014,Ford,Edge,Edge AWD
+2014,Ford,Edge,Edge FWD
+2014,Ford,Escape,Escape AWD
+2014,Ford,Escape,Escape FWD
+2014,Ford,Expedition,Expedition 2WD FFV
+2014,Ford,Expedition,Expedition 4WD FFV
+2014,Ford,Explorer,Explorer 2WD FFV
+2014,Ford,Explorer,Explorer AWD
+2014,Ford,Explorer,Explorer AWD FFV
+2014,Ford,Explorer,Explorer FWD
+2014,Ford,F150,F150 Pickup 2WD
+2014,Ford,F150,F150 Pickup 2WD FFV
+2014,Ford,F150,F150 Pickup 4WD
+2014,Ford,F150,F150 Pickup 4WD FFV
+2014,Ford,F150,F150 Raptor Pickup 4WD
+2014,Ford,Fiesta,Fiesta FWD
+2014,Ford,Fiesta,Fiesta SFE FWD
+2014,Ford,Fiesta,Fiesta ST FWD
+2014,Ford,Flex,Flex AWD
+2014,Ford,Flex,Flex FWD
+2014,Ford,Focus,Focus Electric
+2014,Ford,Focus,Focus FWD
+2014,Ford,Focus,Focus FWD FFV
+2014,Ford,Focus,Focus SFE FWD FFV
+2014,Ford,Fusion,Fusion AWD
+2014,Ford,Fusion,Fusion Energi Plug-in Hybrid
+2014,Ford,Fusion,Fusion FWD
+2014,Ford,Fusion,Fusion Hybrid FWD
+2014,Ford,Mustang,Mustang
+2014,Ford,Mustang,Mustang Convertible
+2014,Ford,Taurus,Taurus AWD
+2014,Ford,Taurus,Taurus AWD FFV
+2014,Ford,Taurus,Taurus FWD
+2014,Ford,Taurus,Taurus FWD FFV
+2014,Ford,Transit Connect,Transit Connect Van 2WD
+2014,Ford,Transit Connect,Transit Connect Wagon FWD
+2014,Ford,Transit Connect,Transit Connect Wagon LWB FWD
+2014,GMC,Acadia,Acadia AWD
+2014,GMC,Acadia,Acadia FWD
+2014,GMC,Savana Cargo,Savana 1500  AWD (cargo)
+2014,GMC,Savana Cargo,Savana 1500  AWD Conversion (cargo)
+2014,GMC,Savana Cargo,Savana 1500 2WD (cargo)
+2014,GMC,Savana Cargo,Savana 1500 2WD Conversion (cargo)
+2014,GMC,Savana Cargo,Savana 2500 2WD Conversion (cargo)
+2014,GMC,Savana Passenger,Savana 1500 2WD (Passenger)
+2014,GMC,Savana Passenger,Savana 1500 AWD (Passenger)
+2014,GMC,Savana Passenger,Savana 2500 2WD (Passenger)
+2014,GMC,Savana Passenger,Savana 3500 2WD (Passenger)
+2014,GMC,Sierra,Sierra C15 2WD
+2014,GMC,Sierra,Sierra K15 4WD
+2014,GMC,Terrain,Terrain AWD
+2014,GMC,Terrain,Terrain FWD
+2014,GMC,Yukon,Yukon C10 2WD
+2014,GMC,Yukon,Yukon Denali K10 AWD
+2014,GMC,Yukon,Yukon K10 4WD
+2014,GMC,Yukon,Yukon XL C10 2WD
+2014,GMC,Yukon,Yukon XL K10 4WD
+2014,GMC,Yukon,Yukon XL K10 AWD
+2014,Honda,Accord,Accord
+2014,Honda,Accord,Accord Hybrid
+2014,Honda,Accord,Accord Plug-in Hybrid
+2014,Honda,Civic,Civic
+2014,Honda,Civic,Civic HF
+2014,Honda,Civic,Civic Hybrid
+2014,Honda,Civic,Civic Natural Gas
+2014,Honda,Clarity,FCX Clarity
+2014,Honda,CR-V,CR-V 2WD
+2014,Honda,CR-V,CR-V 4WD
+2014,Honda,CR-Z,CR-Z
+2014,Honda,Crosstour,Crosstour 2WD
+2014,Honda,Crosstour,Crosstour 4WD
+2014,Honda,Fit,Fit EV
+2014,Honda,Insight,Insight
+2014,Honda,Odyssey,Odyssey
+2014,Honda,Pilot,Pilot 2WD
+2014,Honda,Pilot,Pilot 4WD
+2014,Honda,Ridgeline,Ridgeline Truck 4WD
+2014,Hyundai,Accent,Accent
+2014,Hyundai,Azera,Azera
+2014,Hyundai,Elantra,Elantra
+2014,Hyundai,Elantra,Elantra Coupe
+2014,Hyundai,Elantra,Elantra GT
+2014,Hyundai,Elantra,Elantra Limited
+2014,Hyundai,Equus,Equus
+2014,Hyundai,Genesis,Genesis
+2014,Hyundai,Genesis,Genesis Coupe
+2014,Hyundai,Genesis,Genesis R Spec
+2014,Hyundai,Santa Fe,Santa Fe 2WD
+2014,Hyundai,Santa Fe,Santa Fe 4WD
+2014,Hyundai,Santa Fe,Santa Fe Sport 2WD
+2014,Hyundai,Santa Fe,Santa Fe Sport 4WD
+2014,Hyundai,Santa Fe,Santa Fe Ultimate 2WD
+2014,Hyundai,Santa Fe,Santa Fe Ultimate 4WD
+2014,Hyundai,Sonata,Sonata
+2014,Hyundai,Sonata,Sonata Hybrid
+2014,Hyundai,Sonata,Sonata Hybrid Limited
+2014,Hyundai,Tucson,Tucson 2WD
+2014,Hyundai,Tucson,Tucson 4WD
+2014,Hyundai,Veloster,Veloster
+2014,Infiniti,Q50,Q50
+2014,Infiniti,Q50,Q50 AWD
+2014,Infiniti,Q50,Q50 Hybrid
+2014,Infiniti,Q50,Q50 Hybrid AWD
+2014,Infiniti,Q50,Q50a
+2014,Infiniti,Q50,Q50a AWD
+2014,Infiniti,Q50,Q50S Hybrid
+2014,Infiniti,Q50,Q50S Hybrid AWD
+2014,Infiniti,Q60,Q60 AWD Coupe
+2014,Infiniti,Q60,Q60 Convertible
+2014,Infiniti,Q60,Q60 Coupe
+2014,Infiniti,Q70,Q70
+2014,Infiniti,Q70,Q70 AWD
+2014,Infiniti,Q70,Q70 Hybrid
+2014,Infiniti,QX50,QX50
+2014,Infiniti,QX50,QX50 AWD
+2014,Infiniti,QX60,QX60 AWD
+2014,Infiniti,QX60,QX60 FWD
+2014,Infiniti,QX60,QX60 Hybrid AWD
+2014,Infiniti,QX60,QX60 Hybrid FWD
+2014,Infiniti,QX70,QX70 AWD
+2014,Infiniti,QX70,QX70 RWD
+2014,Infiniti,QX80,QX80 2WD
+2014,Infiniti,QX80,QX80 4WD
+2014,Jaguar,F-Type,F-Type Convertible
+2014,Jaguar,F-Type,F-Type S Convertible
+2014,Jaguar,F-Type,F-Type V8 S Convertible
+2014,Jaguar,XF,XF
+2014,Jaguar,XF,XF AWD
+2014,Jaguar,XF,XF FFV
+2014,Jaguar,XJ,XJ
+2014,Jaguar,XJ,XJ AWD
+2014,Jaguar,XJ,XJ FFV
+2014,Jaguar,XJL,XJL
+2014,Jaguar,XJL,XJL AWD
+2014,Jaguar,XJL,XJL FFV
+2014,Jaguar,XK,XK
+2014,Jaguar,XK,XK Convertible
+2014,Jeep,Cherokee,Cherokee 4WD
+2014,Jeep,Cherokee,Cherokee 4WD Active Drive II
+2014,Jeep,Cherokee,Cherokee FWD
+2014,Jeep,Cherokee,Cherokee Trailhawk 4WD
+2014,Jeep,Compass,Compass 4WD
+2014,Jeep,Compass,Compass FWD
+2014,Jeep,Grand Cherokee,Grand Cherokee 2WD
+2014,Jeep,Grand Cherokee,Grand Cherokee 4WD
+2014,Jeep,Grand Cherokee,Grand Cherokee SRT8
+2014,Jeep,Patriot,Patriot 4WD
+2014,Jeep,Patriot,Patriot FWD
+2014,Jeep,Wrangler,Wrangler 4WD
+2014,Jeep,Wrangler,Wrangler Unlimited 4WD
+2014,Kia,Cadenza,Cadenza
+2014,Kia,Forte,Forte
+2014,Kia,Forte,Forte 5
+2014,Kia,Forte,Forte Eco
+2014,Kia,Forte,Forte Koup
+2014,Kia,Optima,Optima
+2014,Kia,Optima,Optima Hybrid
+2014,Kia,Optima,Optima Hybrid EX
+2014,Kia,Rio,Rio
+2014,Kia,Rio,Rio Eco
+2014,Kia,Sedona,Sedona
+2014,Kia,Sorento,Sorento 2WD
+2014,Kia,Sorento,Sorento 4WD
+2014,Kia,Soul,Soul
+2014,Kia,Soul,Soul ECO dynamics
+2014,Kia,Sportage,Sportage 2WD
+2014,Kia,Sportage,Sportage 4WD
+2014,Lamborghini,Aventador,Aventador Coupe
+2014,Lamborghini,Aventador,Aventador Roadster
+2014,Lamborghini,Aventador,Aventador Veneno Coupe
+2014,Lamborghini,Gallardo,Gallardo Coupe
+2014,Lamborghini,Gallardo,Gallardo Spyder
+2014,Land Rover,LR2,LR2
+2014,Land Rover,LR4,LR4
+2014,Land Rover,Range Rover,Range Rover
+2014,Land Rover,Range Rover,Range Rover Evoque
+2014,Land Rover,Range Rover,Range Rover FFV
+2014,Land Rover,Range Rover,Range Rover L FFV
+2014,Land Rover,Range Rover,Range Rover Sport
+2014,Land Rover,Range Rover,Range Rover Sport FFV
+2014,Lexus,CT,CT 200h
+2014,Lexus,ES,ES 300h
+2014,Lexus,ES,ES 350
+2014,Lexus,GS,GS 350
+2014,Lexus,GS,GS 350 AWD
+2014,Lexus,GS,GS 450h
+2014,Lexus,GX,GX 460
+2014,Lexus,IS,IS 250
+2014,Lexus,IS,IS 250 AWD
+2014,Lexus,IS,IS 250 C
+2014,Lexus,IS,IS 350
+2014,Lexus,IS,IS 350 AWD
+2014,Lexus,IS,IS 350 C
+2014,Lexus,IS F,IS F
+2014,Lexus,LS,LS 460
+2014,Lexus,LS,LS 460 AWD
+2014,Lexus,LS,LS 460 L
+2014,Lexus,LS,LS 460 L AWD
+2014,Lexus,LS,LS 600h L
+2014,Lexus,LX,LX 570
+2014,Lexus,RX,RX 350
+2014,Lexus,RX,RX 350 AWD
+2014,Lexus,RX,RX 450h
+2014,Lexus,RX,RX 450h AWD
+2014,Lincoln,MKS,MKS AWD
+2014,Lincoln,MKS,MKS FWD
+2014,Lincoln,MKT,MKT AWD
+2014,Lincoln,MKT,MKT FWD
+2014,Lincoln,MKT,MKT Livery AWD
+2014,Lincoln,MKT,MKT Livery FWD
+2014,Lincoln,MKX,MKX AWD
+2014,Lincoln,MKX,MKX FWD
+2014,Lincoln,MKZ,MKZ AWD
+2014,Lincoln,MKZ,MKZ FWD
+2014,Lincoln,MKZ,MKZ Hybrid FWD
+2014,Lincoln,Navigator,Navigator 2WD FFV
+2014,Lincoln,Navigator,Navigator 4WD FFV
+2014,Lotus,Evora,Evora
+2014,Maserati,Ghibli,Ghibli V6
+2014,Maserati,Ghibli,Ghibli V6 AWD
+2014,Maserati,GranTurismo,GranTurismo
+2014,Maserati,GranTurismo,GranTurismo Convertible
+2014,Maserati,Quattroporte,Quattroporte GTS
+2014,Maserati,Quattroporte,Quattroporte SQ4 V6
+2014,Mazda,2,2
+2014,Mazda,3,3 4-Door
+2014,Mazda,3,3 5-Door
+2014,Mazda,5,5
+2014,Mazda,6,6
+2014,Mazda,CX-5,CX-5 2WD
+2014,Mazda,CX-5,CX-5 4WD
+2014,Mazda,CX-9,CX-9 2WD
+2014,Mazda,CX-9,CX-9 4WD
+2014,Mazda,MX-5,MX-5
+2014,McLaren Automotive,MP4-12C Coupe,MP4-12C Coupe
+2014,McLaren Automotive,MP4-12C Spider,MP4-12C Spider
+2014,McLaren Automotive,P1,P1
+2014,Mercedes-Benz,B-Class Electric Drive,B-Class Electric Drive
+2014,Mercedes-Benz,C-Class,C250
+2014,Mercedes-Benz,C-Class,C250 Coupe
+2014,Mercedes-Benz,C-Class,C300 4matic
+2014,Mercedes-Benz,C-Class,C350
+2014,Mercedes-Benz,C-Class,C350 4matic Coupe
+2014,Mercedes-Benz,C-Class,C350 Coupe
+2014,Mercedes-Benz,C-Class,C63 AMG
+2014,Mercedes-Benz,C-Class,C63 AMG Coupe
+2014,Mercedes-Benz,CL-Class,CL550 4matic
+2014,Mercedes-Benz,CL-Class,CL600
+2014,Mercedes-Benz,CL-Class,CL63 AMG
+2014,Mercedes-Benz,CL-Class,CL65 AMG
+2014,Mercedes-Benz,CLA-Class,CLA250
+2014,Mercedes-Benz,CLA-Class,CLA250 4matic
+2014,Mercedes-Benz,CLA-Class,CLA45 AMG 4matic
+2014,Mercedes-Benz,CLS-Class,CLS550
+2014,Mercedes-Benz,CLS-Class,CLS550 4matic
+2014,Mercedes-Benz,CLS-Class,CLS63 AMG
+2014,Mercedes-Benz,CLS-Class,CLS63 AMG 4matic
+2014,Mercedes-Benz,CLS-Class,CLS63 AMG S
+2014,Mercedes-Benz,CLS-Class,CLS63 AMG S 4matic
+2014,Mercedes-Benz,E-Class,E350
+2014,Mercedes-Benz,E-Class,E350 4matic
+2014,Mercedes-Benz,E-Class,E350 4matic (wagon)
+2014,Mercedes-Benz,E-Class,E350 4matic Coupe
+2014,Mercedes-Benz,E-Class,E350 Convertible
+2014,Mercedes-Benz,E-Class,E350 Coupe
+2014,Mercedes-Benz,E-Class,E400 Hybrid
+2014,Mercedes-Benz,E-Class,E550 4matic
+2014,Mercedes-Benz,E-Class,E550 Convertible
+2014,Mercedes-Benz,E-Class,E550 Coupe
+2014,Mercedes-Benz,E-Class,E63 AMG
+2014,Mercedes-Benz,E-Class,E63 AMG 4matic
+2014,Mercedes-Benz,E-Class,E63 AMG 4matic (wagon)
+2014,Mercedes-Benz,E-Class,E63 AMG S
+2014,Mercedes-Benz,E-Class,E63 AMG S 4matic
+2014,Mercedes-Benz,E-Class,E63 AMG S 4matic (wagon)
+2014,Mercedes-Benz,G-Class,G550
+2014,Mercedes-Benz,G-Class,G63 AMG
+2014,Mercedes-Benz,GL-Class,GL450 4matic
+2014,Mercedes-Benz,GL-Class,GL550 4matic
+2014,Mercedes-Benz,GL-Class,GL63 AMG
+2014,Mercedes-Benz,GLK-Class,GLK250 Bluetec 4matic
+2014,Mercedes-Benz,GLK-Class,GLK350
+2014,Mercedes-Benz,GLK-Class,GLK350 4matic
+2014,Mercedes-Benz,ML-Class,ML350
+2014,Mercedes-Benz,ML-Class,ML350 4matic
+2014,Mercedes-Benz,ML-Class,ML550 4matic
+2014,Mercedes-Benz,ML-Class,ML63 AMG
+2014,Mercedes-Benz,S-Class,S550
+2014,Mercedes-Benz,S-Class,S550 4matic
+2014,Mercedes-Benz,S-Class,S63 AMG 4matic
+2014,Mercedes-Benz,SL-Class,SL550
+2014,Mercedes-Benz,SL-Class,SL63 AMG
+2014,Mercedes-Benz,SL-Class,SL65 AMG
+2014,Mercedes-Benz,SLK-Class,SLK250
+2014,Mercedes-Benz,SLK-Class,SLK350
+2014,Mercedes-Benz,SLK-Class,SLK55 AMG
+2014,Mercedes-Benz,SLS AMG,SLS AMG Black Series Coupe
+2014,Mercedes-Benz,SLS AMG,SLS AMG Coupe
+2014,Mercedes-Benz,SLS AMG,SLS AMG GT Coupe
+2014,Mercedes-Benz,SLS AMG,SLS AMG GT Roadster
+2014,Mercedes-Benz,SLS AMG,SLS AMG Roadster
+2014,MINI,Clubman,Cooper Clubman
+2014,MINI,Clubman,Cooper S Clubman
+2014,MINI,Clubman,John Cooper Works Clubman
+2014,MINI,Cooper,Cooper (3-doors)
+2014,MINI,Cooper,Cooper Clubvan
+2014,MINI,Cooper,Cooper Convertible
+2014,MINI,Cooper,Cooper Coupe
+2014,MINI,Cooper,Cooper S (3-doors)
+2014,MINI,Cooper,Cooper S Convertible
+2014,MINI,Cooper,Cooper S Coupe
+2014,MINI,Countryman,Cooper Countryman
+2014,MINI,Countryman,Cooper S Countryman
+2014,MINI,Countryman,Cooper S Countryman All4
+2014,MINI,Countryman,JCW Countryman All4
+2014,MINI,John Cooper Works,John Cooper Works Convertible
+2014,MINI,John Cooper Works,John Cooper Works Coupe
+2014,MINI,Paceman,Cooper Paceman
+2014,MINI,Paceman,Cooper S Paceman
+2014,MINI,Paceman,Cooper S Paceman All4
+2014,MINI,Paceman,JCW Paceman All4
+2014,MINI,Roadster,Cooper Roadster
+2014,MINI,Roadster,Cooper S Roadster
+2014,MINI,Roadster,John Cooper Works Roadster
+2014,Mitsubishi,i-MiEV,i-MiEV
+2014,Mitsubishi,Lancer,Lancer
+2014,Mitsubishi,Lancer,Lancer AWD
+2014,Mitsubishi,Lancer,Lancer Evolution
+2014,Mitsubishi,Lancer,Lancer Sportback
+2014,Mitsubishi,Mirage,Mirage
+2014,Mitsubishi,Outlander,Outlander 2WD
+2014,Mitsubishi,Outlander,Outlander 4WD
+2014,Mitsubishi,Outlander,Outlander Sport 2WD
+2014,Mitsubishi,Outlander,Outlander Sport 4WD
+2014,Mobility Ventures LLC,MV-1,MV-1
+2014,Mobility Ventures LLC,MV-1,MV-1 CNG
+2014,Nissan,370Z,370Z
+2014,Nissan,370Z,370Z Roadster
+2014,Nissan,Altima,Altima
+2014,Nissan,Armada,Armada 2WD
+2014,Nissan,Armada,Armada 4WD
+2014,Nissan,Cube,Cube
+2014,Nissan,Frontier,Frontier 2WD
+2014,Nissan,Frontier,Frontier 4WD
+2014,Nissan,GT-R,GT-R
+2014,Nissan,Juke,Juke
+2014,Nissan,Juke,Juke AWD
+2014,Nissan,Leaf,Leaf
+2014,Nissan,Maxima,Maxima
+2014,Nissan,Murano,Murano AWD
+2014,Nissan,Murano,Murano CrossCabriolet
+2014,Nissan,Murano,Murano FWD
+2014,Nissan,NV200 Cargo Van,NV200 Cargo Van
+2014,Nissan,Pathfinder,Pathfinder 2WD
+2014,Nissan,Pathfinder,Pathfinder 4WD
+2014,Nissan,Pathfinder,Pathfinder Hybrid 2WD
+2014,Nissan,Pathfinder,Pathfinder Hybrid 4WD
+2014,Nissan,Quest,Quest
+2014,Nissan,Rogue,Rogue AWD
+2014,Nissan,Rogue,Rogue FWD
+2014,Nissan,Rogue,Rogue Select AWD
+2014,Nissan,Rogue,Rogue Select FWD
+2014,Nissan,Sentra,Sentra
+2014,Nissan,Sentra,Sentra FE
+2014,Nissan,Titan,Titan 2WD
+2014,Nissan,Titan,Titan 4WD
+2014,Nissan,Versa,Versa
+2014,Nissan,Xterra,Xterra 2WD
+2014,Nissan,Xterra,Xterra 4WD
+2014,Pagani,Huayra Coupe,Huayra Coupe
+2014,Porsche,911,911 Carrera
+2014,Porsche,911,911 Carrera 4
+2014,Porsche,911,911 Carrera 4 Cabriolet
+2014,Porsche,911,911 Carrera 4S
+2014,Porsche,911,911 Carrera 4S Cabriolet
+2014,Porsche,911,911 Carrera Cabriolet
+2014,Porsche,911,911 Carrera S
+2014,Porsche,911,911 Carrera S Cabriolet
+2014,Porsche,911,911 GT3
+2014,Porsche,911,911 Targa 4
+2014,Porsche,911,911 Targa 4S
+2014,Porsche,911,911 Turbo
+2014,Porsche,911,911 Turbo Cabriolet
+2014,Porsche,911,911 Turbo S
+2014,Porsche,911,911 Turbo S Cabriolet
+2014,Porsche,Boxster,Boxster
+2014,Porsche,Boxster,Boxster S
+2014,Porsche,Cayenne,Cayenne
+2014,Porsche,Cayenne,Cayenne Diesel
+2014,Porsche,Cayenne,Cayenne GTS
+2014,Porsche,Cayenne,Cayenne S
+2014,Porsche,Cayenne,Cayenne S Hybrid
+2014,Porsche,Cayenne,Cayenne Turbo
+2014,Porsche,Cayenne,Cayenne Turbo S
+2014,Porsche,Cayman,Cayman
+2014,Porsche,Cayman,Cayman S
+2014,Porsche,Panamera,Panamera
+2014,Porsche,Panamera,Panamera 4
+2014,Porsche,Panamera,Panamera 4S
+2014,Porsche,Panamera,Panamera 4S Executive
+2014,Porsche,Panamera,Panamera GTS
+2014,Porsche,Panamera,Panamera S
+2014,Porsche,Panamera,Panamera S E-Hybrid
+2014,Porsche,Panamera,Panamera Turbo
+2014,Porsche,Panamera,Panamera Turbo Executive
+2014,Porsche,Panamera,Panamera Turbo S
+2014,Porsche,Panamera,Panamera Turbo S Executive
+2014,Ram,1500,1500 2WD
+2014,Ram,1500,1500 4WD
+2014,Ram,1500,1500 HFE 2WD
+2014,Ram,C/V,C/V
+2014,Rolls-Royce,Ghost,Ghost
+2014,Rolls-Royce,Ghost,Ghost EWB
+2014,Rolls-Royce,Phantom,Phantom
+2014,Rolls-Royce,Phantom,Phantom Coupe
+2014,Rolls-Royce,Phantom,Phantom Drophead Coupe
+2014,Rolls-Royce,Phantom,Phantom EWB
+2014,Rolls-Royce,Wraith,Wraith
+2014,Roush Performance,F150,F150 Pickup 2WD
+2014,Roush Performance,F150,F150 Pickup 4WD
+2014,Roush Performance,F150,F150 Raptor Pickup 4WD
+2014,Roush Performance,Mustang,Stage 3 Mustang
+2014,Scion,FR-S,FR-S
+2014,Scion,iQ,iQ
+2014,Scion,tC,tC
+2014,Scion,xB,xB
+2014,Scion,xD,xD
+2014,smart,fortwo,fortwo cabriolet
+2014,smart,fortwo,fortwo coupe
+2014,smart,fortwo,fortwo electric drive convertible
+2014,smart,fortwo,fortwo electric drive coupe
+2014,SRT,Viper,Viper
+2014,Subaru,BRZ,BRZ
+2014,Subaru,Crosstrek,XV Crosstrek AWD
+2014,Subaru,Crosstrek,XV Crosstrek Hybrid AWD
+2014,Subaru,Forester,Forester AWD
+2014,Subaru,Impreza/Outback Sport,Impreza AWD
+2014,Subaru,Impreza/Outback Sport,Impreza Wagon AWD
+2014,Subaru,Legacy/Outback,Legacy AWD
+2014,Subaru,Legacy/Outback,Outback AWD
+2014,Subaru,Tribeca,Tribeca AWD
+2014,Tesla,Model S,Model S (60 kW-hr battery pack)
+2014,Tesla,Model S,Model S (85 kW-hr battery pack)
+2014,Tesla,Model S,Model S AWD (85 kW-hr battery pack)
+2014,Toyota,4Runner,4Runner 2WD
+2014,Toyota,4Runner,4Runner 4WD
+2014,Toyota,Avalon,Avalon
+2014,Toyota,Avalon,Avalon Hybrid
+2014,Toyota,Camry,Camry
+2014,Toyota,Camry,Camry Hybrid LE
+2014,Toyota,Camry,Camry Hybrid XLE/SE
+2014,Toyota,Corolla,Corolla
+2014,Toyota,Corolla,Corolla LE Eco
+2014,Toyota,FJ Cruiser,FJ Cruiser 2WD
+2014,Toyota,FJ Cruiser,FJ Cruiser 4WD
+2014,Toyota,Highlander,Highlander 2WD
+2014,Toyota,Highlander,Highlander AWD
+2014,Toyota,Highlander,Highlander Hybrid AWD
+2014,Toyota,Highlander,Highlander Hybrid AWD LE Plus
+2014,Toyota,Land Cruiser,Land Cruiser Wagon 4WD
+2014,Toyota,Prius,Prius
+2014,Toyota,Prius,Prius Plug-in Hybrid
+2014,Toyota,Prius c,Prius c
+2014,Toyota,Prius v,Prius v
+2014,Toyota,RAV4,RAV4
+2014,Toyota,RAV4,RAV4 AWD
+2014,Toyota,RAV4,RAV4 EV
+2014,Toyota,RAV4,RAV4 Limited AWD
+2014,Toyota,Sequoia,Sequoia 2WD
+2014,Toyota,Sequoia,Sequoia 4WD
+2014,Toyota,Sequoia,Sequoia 4WD FFV
+2014,Toyota,Sienna,Sienna 2WD
+2014,Toyota,Sienna,Sienna AWD
+2014,Toyota,Tacoma,Tacoma 2WD
+2014,Toyota,Tacoma,Tacoma 4WD
+2014,Toyota,Tundra,Tundra 2WD
+2014,Toyota,Tundra,Tundra 4WD
+2014,Toyota,Tundra,Tundra 4WD FFV
+2014,Toyota,Venza,Venza
+2014,Toyota,Venza,Venza 4WD
+2014,Toyota,Yaris,Yaris
+2014,Volkswagen,Beetle,Beetle
+2014,Volkswagen,Beetle,Beetle Convertible
+2014,Volkswagen,CC,CC
+2014,Volkswagen,CC,CC 4motion
+2014,Volkswagen,Eos,Eos
+2014,Volkswagen,Golf/GTI,Golf
+2014,Volkswagen,Golf/GTI,GTI
+2014,Volkswagen,Jetta,Jetta
+2014,Volkswagen,Jetta,Jetta Hybrid
+2014,Volkswagen,Jetta,Jetta SportWagen
+2014,Volkswagen,Passat,Passat
+2014,Volkswagen,Routan,Routan
+2014,Volkswagen,Tiguan,Tiguan
+2014,Volkswagen,Tiguan,Tiguan 4motion
+2014,Volkswagen,Touareg,Touareg
+2014,Volkswagen,Touareg,Touareg Hybrid
+2014,Volvo,S60,S60 AWD
+2014,Volvo,S60,S60 FWD
+2014,Volvo,S80,S80 AWD
+2014,Volvo,S80,S80 FWD
+2014,Volvo,XC60,XC60 AWD
+2014,Volvo,XC60,XC60 FWD
+2014,Volvo,XC70,XC70 AWD
+2014,Volvo,XC70,XC70 FWD
+2014,Volvo,XC90,XC90 AWD
+2014,Volvo,XC90,XC90 FWD

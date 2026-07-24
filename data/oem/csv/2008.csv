@@ -1,0 +1,625 @@
+year,make,model,trim
+2008,Acura,MDX,MDX 4WD
+2008,Acura,RDX,RDX 4WD
+2008,Acura,RL,RL
+2008,Acura,TL,TL
+2008,Acura,TSX,TSX
+2008,Aston Martin,DB9,DB9 Coupe
+2008,Aston Martin,DB9,DB9 Volante
+2008,Aston Martin,Vantage,V8 Vantage
+2008,Audi,A3,A3
+2008,Audi,A3,A3 quattro
+2008,Audi,A4,A4
+2008,Audi,A4,A4 Avant quattro
+2008,Audi,A4,A4 Cabriolet
+2008,Audi,A4,A4 Cabriolet quattro
+2008,Audi,A4,A4 quattro
+2008,Audi,A5,A5 quattro
+2008,Audi,A6,A6
+2008,Audi,A6,A6 Avant quattro
+2008,Audi,A6,A6 quattro
+2008,Audi,A8,A8
+2008,Audi,A8,A8 L
+2008,Audi,Q7,Q7
+2008,Audi,R8,R8
+2008,Audi,RS 4,RS4
+2008,Audi,RS 4,RS4 Cabriolet
+2008,Audi,S4,S4
+2008,Audi,S4,S4 Avant
+2008,Audi,S4,S4 Cabriolet
+2008,Audi,S5,S5
+2008,Audi,S6,S6
+2008,Audi,S8,S8
+2008,Audi,TT Coupe,TT Coupe
+2008,Audi,TT Coupe,TT Coupe quattro
+2008,Audi,TT Roadster,TT Roadster
+2008,Audi,TT Roadster,TT Roadster quattro
+2008,Bentley,Arnage,Arnage
+2008,Bentley,Arnage,Arnage RL
+2008,Bentley,Azure,Azure
+2008,Bentley,Continental,Continental GT
+2008,Bentley,Continental,Continental GTC
+2008,Bentley,Continental Flying Spur,Continental Flying Spur
+2008,BMW,1 Series,128i
+2008,BMW,1 Series,128i Convertible
+2008,BMW,1 Series,135i
+2008,BMW,1 Series,135i Convertible
+2008,BMW,3 Series,328ci
+2008,BMW,3 Series,328ci Convertible
+2008,BMW,3 Series,328cxi
+2008,BMW,3 Series,328i
+2008,BMW,3 Series,328i Sport Wagon
+2008,BMW,3 Series,328xi
+2008,BMW,3 Series,328xi Sport Wagon
+2008,BMW,3 Series,335ci
+2008,BMW,3 Series,335ci Convertible
+2008,BMW,3 Series,335cxi
+2008,BMW,3 Series,335i
+2008,BMW,3 Series,335xi
+2008,BMW,5 Series,528i
+2008,BMW,5 Series,528xi
+2008,BMW,5 Series,535i
+2008,BMW,5 Series,535xi
+2008,BMW,5 Series,535xi Sport Wagon
+2008,BMW,5 Series,550i
+2008,BMW,6 Series,650ci
+2008,BMW,6 Series,650ci Convertible
+2008,BMW,7 Series,750i
+2008,BMW,7 Series,750li
+2008,BMW,7 Series,760li
+2008,BMW,M,M3
+2008,BMW,M,M3 Convertible
+2008,BMW,M,M3 Coupe
+2008,BMW,M,M5
+2008,BMW,M,M6
+2008,BMW,M,M6 Convertible
+2008,BMW,X3,X3 3.0si
+2008,BMW,X5,X5 3.0si
+2008,BMW,X5,X5 4.8i
+2008,BMW,X6,X6 xDrive35i
+2008,BMW,X6,X6 xDrive50i
+2008,BMW,Z4,Z4 3.0i
+2008,BMW,Z4,Z4 3.0si
+2008,BMW,Z4,Z4 Coupe
+2008,BMW,Z4,Z4 M Coupe
+2008,BMW,Z4,Z4 M Roadster
+2008,BMW Alpina,7 Series,B7
+2008,Bugatti,Veyron,Veyron
+2008,Buick,Enclave,Enclave AWD
+2008,Buick,Enclave,Enclave FWD
+2008,Buick,Lacrosse/Allure,Lacrosse/Allure
+2008,Buick,Lucerne,Lucerne
+2008,Buick,Terraza,Terraza FWD
+2008,Cadillac,CTS,CTS
+2008,Cadillac,CTS,CTS AWD
+2008,Cadillac,DTS,DTS
+2008,Cadillac,Escalade,Escalade 2WD
+2008,Cadillac,Escalade,Escalade AWD
+2008,Cadillac,Escalade,Escalade ESV 2WD
+2008,Cadillac,Funeral Coach/Hearse,Funeral Coach / Hearse
+2008,Cadillac,Limousine,Limousine
+2008,Cadillac,SRX,SRX 2WD
+2008,Cadillac,SRX,SRX AWD
+2008,Cadillac,STS,STS
+2008,Cadillac,STS,STS AWD
+2008,Cadillac,STS-V,STS-V
+2008,Cadillac,XLR,XLR
+2008,Cadillac,XLR-V,XLR-V
+2008,Chevrolet,Avalanche,Avalanche 1500 2WD
+2008,Chevrolet,Avalanche,Avalanche 1500 4WD
+2008,Chevrolet,Aveo,Aveo
+2008,Chevrolet,Aveo,Aveo 5
+2008,Chevrolet,Classic,Classic
+2008,Chevrolet,Cobalt,Cobalt
+2008,Chevrolet,Cobalt,Cobalt XFE
+2008,Chevrolet,Colorado,Colorado 2WD
+2008,Chevrolet,Colorado,Colorado 4WD
+2008,Chevrolet,Colorado,Colorado Cab Chassis inc 2WD
+2008,Chevrolet,Colorado,Colorado Cab Chassis inc 4WD
+2008,Chevrolet,Colorado,Colorado Crew Cab 2WD
+2008,Chevrolet,Colorado,Colorado Crew Cab 4WD
+2008,Chevrolet,Corvette,Corvette
+2008,Chevrolet,Equinox,Equinox AWD
+2008,Chevrolet,Equinox,Equinox FWD
+2008,Chevrolet,Express Passenger,Express 1500 AWD
+2008,Chevrolet,Express Passenger,Express 1500/2500 2WD
+2008,Chevrolet,HHR,HHR FWD
+2008,Chevrolet,HHR,HHR Panel FWD
+2008,Chevrolet,Impala,Impala
+2008,Chevrolet,Malibu,Malibu
+2008,Chevrolet,Malibu,Malibu Hybrid
+2008,Chevrolet,Silverado,Silverado C15 2WD
+2008,Chevrolet,Silverado,Silverado K15 4WD
+2008,Chevrolet,Suburban,Suburban 1500 2WD
+2008,Chevrolet,Suburban,Suburban 1500 4WD
+2008,Chevrolet,Tahoe,Tahoe 1500 2WD
+2008,Chevrolet,Tahoe,Tahoe 1500 4WD
+2008,Chevrolet,Tahoe,Tahoe Hybrid 2WD
+2008,Chevrolet,Tahoe,Tahoe Hybrid 4WD
+2008,Chevrolet,TrailBlazer,TrailBlazer 2WD
+2008,Chevrolet,TrailBlazer,TrailBlazer 4WD
+2008,Chevrolet,TrailBlazer,TrailBlazer AWD
+2008,Chevrolet,Uplander,Uplander FWD
+2008,Chevrolet,Van 15/25 Conversion,Van 15/25 2WD Conversion
+2008,Chevrolet,Van 1500,Van 1500 AWD Conversion
+2008,Chevrolet,Van 1500/2500,Van 1500/2500 2WD
+2008,Chevrolet,Van 1500/2500,Van 1500/2500 AWD
+2008,Chrysler,300,300 AWD
+2008,Chrysler,300 SRT8,300/SRT-8
+2008,Chrysler,Aspen,Aspen 2WD
+2008,Chrysler,Aspen,Aspen 4WD
+2008,Chrysler,Crossfire,Crossfire Coupe
+2008,Chrysler,Crossfire,Crossfire Roadster
+2008,Chrysler,Pacifica,Pacifica AWD
+2008,Chrysler,Pacifica,Pacifica FWD
+2008,Chrysler,PT Cruiser,PT Cruiser
+2008,Chrysler,PT Cruiser,PT Cruiser Convertible
+2008,Chrysler,Sebring,Sebring
+2008,Chrysler,Sebring,Sebring AWD
+2008,Chrysler,Sebring,Sebring Convertible
+2008,Chrysler,Town and Country/Voyager/Grand Voyager,Town and Country/Voyager/Grand Voy. 2WD
+2008,Dodge,Avenger,Avenger
+2008,Dodge,Avenger,Avenger AWD
+2008,Dodge,Caliber,Caliber
+2008,Dodge,Caliber,Caliber AWD
+2008,Dodge,Caravan/Grand Caravan,Caravan/Grand Caravan 2WD
+2008,Dodge,Challenger,Challenger
+2008,Dodge,Charger,Charger
+2008,Dodge,Charger,Charger AWD
+2008,Dodge,Dakota Pickup,Dakota Pickup 2WD
+2008,Dodge,Dakota Pickup,Dakota Pickup 4WD
+2008,Dodge,Durango,Durango 2WD
+2008,Dodge,Durango,Durango 4WD
+2008,Dodge,Magnum,Magnum
+2008,Dodge,Magnum,Magnum AWD
+2008,Dodge,Nitro,Nitro 2WD
+2008,Dodge,Nitro,Nitro 4WD
+2008,Dodge,Ram 1500 Pickup,Ram 1500 Pickup 2WD
+2008,Dodge,Ram 1500 Pickup,Ram 1500 Pickup 4WD
+2008,Dodge,Viper,Viper Convertible
+2008,Dodge,Viper,Viper Coupe
+2008,Ferrari,599 GTB Fiorano,599 GTB Fiorano
+2008,Ferrari,612 Scaglietti,612 Scaglietti
+2008,Ferrari,F430,F430
+2008,Ford,Crown Victoria,Crown Victoria FFV
+2008,Ford,Edge,Edge AWD
+2008,Ford,Edge,Edge FWD
+2008,Ford,Escape,Escape 4WD
+2008,Ford,Escape,Escape FWD
+2008,Ford,Escape,Escape Hybrid 4WD
+2008,Ford,Escape,Escape Hybrid FWD
+2008,Ford,Expedition,Expedition 2WD
+2008,Ford,Explorer,Explorer 2WD
+2008,Ford,Explorer,Explorer 4WD
+2008,Ford,Explorer,Explorer Sport Trac 2WD
+2008,Ford,Explorer,Explorer Sport Trac 4WD
+2008,Ford,F150,F150 Pickup 2WD
+2008,Ford,F150,F150 Pickup 2WD FFV
+2008,Ford,F150,F150 Pickup 4WD
+2008,Ford,F150,F150 Pickup 4WD FFV
+2008,Ford,F150,F150 STX SE 2WD
+2008,Ford,F150,F150 STX SE 2WD FFV
+2008,Ford,Focus,Focus
+2008,Ford,Fusion,Fusion
+2008,Ford,Fusion,Fusion AWD
+2008,Ford,Mustang,Mustang
+2008,Ford,Ranger,Ranger Pickup 2WD
+2008,Ford,Ranger,Ranger Pickup 4WD
+2008,Ford,Taurus,Taurus AWD
+2008,Ford,Taurus,Taurus FWD
+2008,Ford,Taurus,Taurus X AWD
+2008,Ford,Taurus,Taurus X FWD
+2008,GMC,Acadia,Acadia AWD
+2008,GMC,Acadia,Acadia FWD
+2008,GMC,Canyon,Canyon 2WD
+2008,GMC,Canyon,Canyon 4WD
+2008,GMC,Canyon,Canyon Cab Chassis Inc 2WD
+2008,GMC,Canyon,Canyon Cab Chassis Inc 4WD
+2008,GMC,Canyon,Canyon Crew Cab 2WD
+2008,GMC,Canyon,Canyon Crew Cab 4WD
+2008,GMC,Envoy,Envoy 2WD
+2008,GMC,Envoy,Envoy 4WD
+2008,GMC,Savana Cargo,Savana 15/25 2WD Conversion (cargo)
+2008,GMC,Savana Cargo,Savana 1500  AWD Conversion (cargo)
+2008,GMC,Savana Cargo,Savana 1500/2500 2WD (cargo)
+2008,GMC,Savana Cargo,Savana 1500/2500 AWD (cargo)
+2008,GMC,Savana Passenger,Savana 1500 AWD (Passenger)
+2008,GMC,Savana Passenger,Savana 1500/2500 2WD (Passenger)
+2008,GMC,Sierra,Sierra C15 2WD
+2008,GMC,Sierra,Sierra K15 4WD
+2008,GMC,Sierra,Sierra K15 AWD
+2008,GMC,Yukon,Yukon 1500 2WD
+2008,GMC,Yukon,Yukon 1500 4WD
+2008,GMC,Yukon,Yukon 1500 Hybrid 2WD
+2008,GMC,Yukon,Yukon 1500 Hybrid 4WD
+2008,GMC,Yukon,Yukon Denali 1500 AWD
+2008,GMC,Yukon,Yukon XL 1500 2WD
+2008,GMC,Yukon,Yukon XL 1500 4WD
+2008,Honda,Accord,Accord
+2008,Honda,Accord,Accord Coupe
+2008,Honda,Civic,Civic
+2008,Honda,Civic,Civic CNG
+2008,Honda,Civic,Civic Hybrid
+2008,Honda,CR-V,CR-V 2WD
+2008,Honda,CR-V,CR-V 4WD
+2008,Honda,Element,Element 2WD
+2008,Honda,Element,Element 4WD
+2008,Honda,Fit,Fit
+2008,Honda,Odyssey,Odyssey
+2008,Honda,Pilot,Pilot 2WD
+2008,Honda,Pilot,Pilot 4WD
+2008,Honda,Ridgeline,Ridgeline Truck 4WD
+2008,Honda,S2000,S2000
+2008,Hummer,H3,H3 4WD
+2008,Hyundai,Accent,Accent
+2008,Hyundai,Azera,Azera
+2008,Hyundai,Elantra,Elantra
+2008,Hyundai,Entourage,Entourage
+2008,Hyundai,Santa Fe,Santa Fe 2WD
+2008,Hyundai,Santa Fe,Santa Fe 4WD
+2008,Hyundai,Sonata,Sonata
+2008,Hyundai,Tiburon,Tiburon
+2008,Hyundai,Tucson,Tucson 2WD
+2008,Hyundai,Tucson,Tucson 4WD
+2008,Hyundai,Veracruz,Veracruz 2WD
+2008,Hyundai,Veracruz,Veracruz 4WD
+2008,Infiniti,EX35,EX35
+2008,Infiniti,FX35,FX35 AWD
+2008,Infiniti,FX35,FX35 RWD
+2008,Infiniti,FX45,FX45 AWD
+2008,Infiniti,G35,G35
+2008,Infiniti,G35,G35x
+2008,Infiniti,G37,G37 Coupe
+2008,Infiniti,M35,M35
+2008,Infiniti,M35,M35x
+2008,Infiniti,M45,M45
+2008,Infiniti,M45,M45x
+2008,Infiniti,QX56,QX56 2WD
+2008,Infiniti,QX56,QX56 4WD
+2008,Isuzu,Ascender,Ascender 5-passenger 2WD
+2008,Isuzu,Ascender,Ascender 5-passenger 4WD
+2008,Isuzu,i-290 Extended Cab,i-290 Extended Cab 2WD
+2008,Isuzu,i-370 Crew Cab,i-370 Crew Cab 2WD
+2008,Isuzu,i-370 Crew Cab,i-370 Crew Cab 4WD
+2008,Isuzu,i-370 Extended Cab,i-370 Extended Cab 2WD
+2008,Jaguar,S-type,S-Type 3.0 Litre
+2008,Jaguar,S-type,S-Type 4.2 Litre
+2008,Jaguar,S-type,S-Type R
+2008,Jaguar,Super V8,Super V8
+2008,Jaguar,Vdp,Vdp Lwb
+2008,Jaguar,X-Type,X-Type
+2008,Jaguar,X-Type,X-Type Sport Brake
+2008,Jaguar,XJ,XJ8
+2008,Jaguar,XJ,XJ8L
+2008,Jaguar,XJR,XJR
+2008,Jaguar,XK,XK
+2008,Jaguar,XK,XK Convertible
+2008,Jaguar,XKR,XKR
+2008,Jaguar,XKR,XKR Convertible
+2008,Jeep,Commander,Commander 2WD
+2008,Jeep,Commander,Commander 4WD
+2008,Jeep,Compass,Compass 2WD
+2008,Jeep,Compass,Compass 4WD
+2008,Jeep,Grand Cherokee,Grand Cherokee 2WD
+2008,Jeep,Grand Cherokee,Grand Cherokee 4WD
+2008,Jeep,Liberty,Liberty 2WD
+2008,Jeep,Liberty,Liberty 4WD
+2008,Jeep,Patriot,Patriot 2WD
+2008,Jeep,Patriot,Patriot 4WD
+2008,Jeep,Wrangler,Wrangler 2WD
+2008,Jeep,Wrangler,Wrangler 4WD
+2008,Kia,Amanti,Amanti
+2008,Kia,Optima,Optima
+2008,Kia,Rio,Rio
+2008,Kia,Rondo,Rondo
+2008,Kia,Sedona,Sedona
+2008,Kia,Sorento,Sorento 2WD
+2008,Kia,Sorento,Sorento 4WD
+2008,Kia,Spectra,Spectra
+2008,Kia,Sportage,Sportage 2WD
+2008,Kia,Sportage,Sportage 4WD
+2008,Lamborghini,Gallardo,Gallardo Coupe
+2008,Lamborghini,Gallardo,Gallardo Spyder
+2008,Lamborghini,Murcielago,Murcielago
+2008,Lamborghini,Murcielago,Murcielago Reventon
+2008,Lamborghini,Murcielago,Murcielago Roadster
+2008,Land Rover,LR2,LR2
+2008,Land Rover,LR3,LR3
+2008,Land Rover,Range Rover,Range Rover
+2008,Land Rover,Range Rover,Range Rover Sport
+2008,Lexus,ES,ES 350
+2008,Lexus,GS,GS 350
+2008,Lexus,GS,GS 350 AWD
+2008,Lexus,GS,GS 450h
+2008,Lexus,GS,GS 460
+2008,Lexus,GX,GX 470
+2008,Lexus,IS,IS 250
+2008,Lexus,IS,IS 250 AWD
+2008,Lexus,IS,IS 350
+2008,Lexus,IS F,IS F
+2008,Lexus,LS,LS 460
+2008,Lexus,LS,LS 460 L
+2008,Lexus,LS,LS 600h L
+2008,Lexus,LX,LX 570
+2008,Lexus,RX,RX 350 2WD
+2008,Lexus,RX,RX 350 4WD
+2008,Lexus,RX,RX 400h 2WD
+2008,Lexus,RX,RX 400h 4WD
+2008,Lexus,SC,SC 430
+2008,Lincoln,Mark LT,Mark LT
+2008,Lincoln,Mark LT,Mark LT 4WD
+2008,Lincoln,MKX,MKX AWD
+2008,Lincoln,MKX,MKX FWD
+2008,Lincoln,MKZ,MKZ AWD
+2008,Lincoln,MKZ,MKZ FWD
+2008,Lincoln,Navigator,Navigator 2WD
+2008,Lincoln,Town Car,Town Car
+2008,Lotus,Elise/Exige,Elise/Exige
+2008,Maserati,GranTurismo,GranTurismo
+2008,Maserati,Quattroporte,Quattroporte
+2008,Maybach,57,57
+2008,Maybach,57,57S
+2008,Maybach,62,62
+2008,Maybach,62,62S
+2008,Mazda,3,3
+2008,Mazda,5,5
+2008,Mazda,6,6
+2008,Mazda,B Pickup,B2300 2WD
+2008,Mazda,B Pickup,B3000 2WD
+2008,Mazda,B Pickup,B4000 2WD
+2008,Mazda,B Pickup,B4000 4WD
+2008,Mazda,CX-7,CX-7 2WD
+2008,Mazda,CX-7,CX-7 4WD
+2008,Mazda,CX-9,CX-9 2WD
+2008,Mazda,CX-9,CX-9 4WD
+2008,Mazda,MX-5,MX-5
+2008,Mazda,RX-8,RX-8
+2008,Mazda,Speed 3,Speed 3
+2008,Mazda,Tribute,Tribute 4WD
+2008,Mazda,Tribute,Tribute FWD
+2008,Mazda,Tribute,Tribute Hybrid 2WD
+2008,Mazda,Tribute,Tribute Hybrid 4WD
+2008,Mercedes-Benz,C-Class,C300
+2008,Mercedes-Benz,C-Class,C300 4matic
+2008,Mercedes-Benz,C-Class,C350
+2008,Mercedes-Benz,C-Class,C63 AMG
+2008,Mercedes-Benz,CL-Class,CL550
+2008,Mercedes-Benz,CL-Class,CL600
+2008,Mercedes-Benz,CL-Class,CL63 AMG
+2008,Mercedes-Benz,CL-Class,CL65 AMG
+2008,Mercedes-Benz,CLK-Class,CLK350
+2008,Mercedes-Benz,CLK-Class,CLK350 (Cabriolet)
+2008,Mercedes-Benz,CLK-Class,CLK550
+2008,Mercedes-Benz,CLK-Class,CLK550 (Cabriolet)
+2008,Mercedes-Benz,CLK-Class,CLK63 AMG
+2008,Mercedes-Benz,CLK-Class,CLK63 AMG (Cabriolet)
+2008,Mercedes-Benz,CLS-Class,CLS550
+2008,Mercedes-Benz,CLS-Class,CLS63 AMG
+2008,Mercedes-Benz,E-Class,E320 Bluetec
+2008,Mercedes-Benz,E-Class,E350
+2008,Mercedes-Benz,E-Class,E350 4matic
+2008,Mercedes-Benz,E-Class,E350 4matic (wagon)
+2008,Mercedes-Benz,E-Class,E550
+2008,Mercedes-Benz,E-Class,E550 4matic
+2008,Mercedes-Benz,E-Class,E63 AMG
+2008,Mercedes-Benz,E-Class,E63 AMG (wagon)
+2008,Mercedes-Benz,G-Class,G500
+2008,Mercedes-Benz,G-Class,G55 AMG
+2008,Mercedes-Benz,GL-Class,GL320 CDI 4matic
+2008,Mercedes-Benz,GL-Class,GL450 4matic
+2008,Mercedes-Benz,GL-Class,GL550 4matic
+2008,Mercedes-Benz,ML-Class,ML320 CDI 4matic
+2008,Mercedes-Benz,ML-Class,ML350 4matic
+2008,Mercedes-Benz,ML-Class,ML550 4matic
+2008,Mercedes-Benz,ML-Class,ML63 AMG
+2008,Mercedes-Benz,R-Class,R320 CDI 4matic
+2008,Mercedes-Benz,R-Class,R350
+2008,Mercedes-Benz,R-Class,R350 4matic
+2008,Mercedes-Benz,S-Class,S550
+2008,Mercedes-Benz,S-Class,S550 4matic
+2008,Mercedes-Benz,S-Class,S600
+2008,Mercedes-Benz,S-Class,S63 AMG
+2008,Mercedes-Benz,S-Class,S65 AMG
+2008,Mercedes-Benz,SL-Class,SL55 AMG
+2008,Mercedes-Benz,SL-Class,SL550
+2008,Mercedes-Benz,SL-Class,SL600
+2008,Mercedes-Benz,SL-Class,SL65 AMG
+2008,Mercedes-Benz,SLK-Class,SLK280
+2008,Mercedes-Benz,SLK-Class,SLK350
+2008,Mercedes-Benz,SLK-Class,SLK55 AMG
+2008,Mercedes-Benz,SLR,SLR
+2008,Mercury,Grand Marquis,Grand Marquis FFV
+2008,Mercury,Mariner,Mariner 4WD
+2008,Mercury,Mariner,Mariner FWD
+2008,Mercury,Mariner,Mariner Hybrid 4WD
+2008,Mercury,Mariner,Mariner Hybrid FWD
+2008,Mercury,Milan,Milan
+2008,Mercury,Milan,Milan AWD
+2008,Mercury,Mountaineer,Mountaineer 2WD
+2008,Mercury,Mountaineer,Mountaineer 4WD
+2008,Mercury,Sable,Sable AWD
+2008,Mercury,Sable,Sable FWD
+2008,MINI,Clubman,Clubman
+2008,MINI,Clubman,Clubman S
+2008,MINI,Cooper,Cooper
+2008,MINI,Cooper,Cooper Convertible
+2008,MINI,Cooper,Cooper S
+2008,MINI,Cooper,Cooper S Convertible
+2008,MINI,MiniE,MiniE
+2008,Mitsubishi,Eclipse,Eclipse
+2008,Mitsubishi,Eclipse,Eclipse Spyder
+2008,Mitsubishi,Endeavor,Endeavor 2WD
+2008,Mitsubishi,Endeavor,Endeavor AWD
+2008,Mitsubishi,Galant,Galant
+2008,Mitsubishi,Lancer,Lancer
+2008,Mitsubishi,Lancer,Lancer Evolution
+2008,Mitsubishi,Outlander,Outlander 2WD
+2008,Mitsubishi,Outlander,Outlander 4WD
+2008,Mitsubishi,Raider Pickup,Raider Pickup 2WD
+2008,Mitsubishi,Raider Pickup,Raider Pickup 4WD
+2008,Nissan,350z,350z
+2008,Nissan,350z,350z Roadster
+2008,Nissan,Altima,Altima
+2008,Nissan,Altima,Altima Coupe
+2008,Nissan,Altima,Altima Hybrid
+2008,Nissan,Armada,Armada 2WD
+2008,Nissan,Armada,Armada 4WD
+2008,Nissan,Frontier,Frontier 2WD
+2008,Nissan,Frontier,Frontier 4WD
+2008,Nissan,Maxima,Maxima
+2008,Nissan,Pathfinder,Pathfinder 2WD
+2008,Nissan,Pathfinder,Pathfinder 4WD
+2008,Nissan,Quest,Quest
+2008,Nissan,Rogue,Rogue AWD
+2008,Nissan,Rogue,Rogue FWD
+2008,Nissan,Sentra,Sentra
+2008,Nissan,Titan,Titan 2WD
+2008,Nissan,Titan,Titan 4WD
+2008,Nissan,Versa,Versa
+2008,Nissan,Xterra,Xterra 2WD
+2008,Nissan,Xterra,Xterra 4WD
+2008,Pontiac,G5,G5 XFE
+2008,Pontiac,G5,G5/Pursuit
+2008,Pontiac,G6,G6
+2008,Pontiac,G8,G8
+2008,Pontiac,Grand Prix,Grand Prix
+2008,Pontiac,Solstice,Solstice
+2008,Pontiac,Torrent,Torrent AWD
+2008,Pontiac,Torrent,Torrent FWD
+2008,Pontiac,Vibe,Vibe
+2008,Porsche,911,911 GT2
+2008,Porsche,911,911 GT3
+2008,Porsche,911,911 GT3 RS
+2008,Porsche,911,911 Turbo
+2008,Porsche,911,911 Turbo Cabriolet
+2008,Porsche,Boxster,Boxster
+2008,Porsche,Boxster,Boxster S
+2008,Porsche,Carrera 2 Cabriolet,Carrera 2 Cabriolet
+2008,Porsche,Carrera 2 Coupe,Carrera 2 Coupe
+2008,Porsche,Carrera 2 S Cabriolet,Carrera 2 S Cabriolet
+2008,Porsche,Carrera 2 S Coupe,Carrera 2 S Coupe
+2008,Porsche,Carrera 4 Cabriolet,Carrera 4 Cabriolet
+2008,Porsche,Carrera 4 Coupe,Carrera 4 Coupe
+2008,Porsche,Carrera 4 S Cabriolet,Carrera 4 S Cabriolet
+2008,Porsche,Carrera 4 S Coupe,Carrera 4 S Coupe
+2008,Porsche,Carrera 4 S Targa,Carrera 4 S Targa
+2008,Porsche,Carrera 4 Targa,Carrera 4 Targa
+2008,Porsche,Cayenne,Cayenne
+2008,Porsche,Cayenne,Cayenne GTS
+2008,Porsche,Cayenne,Cayenne S
+2008,Porsche,Cayenne,Cayenne Turbo
+2008,Porsche,Cayman,Cayman
+2008,Porsche,Cayman,Cayman S
+2008,Rolls-Royce,Phantom,Phantom
+2008,Rolls-Royce,Phantom,Phantom Drophead Coupe
+2008,Rolls-Royce,Phantom,Phantom EWB
+2008,Roush Performance,F150,Stage 3 F150 Regular Cab 2WD
+2008,Roush Performance,F150,Stage 3 F150 Regular Cab 4WD
+2008,Roush Performance,F150,Stage 3 F150 Super Cab 2WD
+2008,Roush Performance,F150,Stage 3 F150 Super Cab 4WD
+2008,Roush Performance,F150,Stage 3 F150 Super Crew 2WD
+2008,Roush Performance,F150,Stage 3 F150 Super Crew 4WD
+2008,Roush Performance,Mustang,Stage 3 Mustang
+2008,Saab,9-3,9-3 Aero Sedan AWD
+2008,Saab,9-3,9-3 Aero SportCombi AWD
+2008,Saab,9-3,9-3 Convertible
+2008,Saab,9-3,9-3 Sport Sedan
+2008,Saab,9-3,9-3 SportCombi
+2008,Saab,9-5,9-5 Sedan
+2008,Saab,9-5,9-5 SportCombi
+2008,Saab,9-7,9-7X AWD
+2008,Saleen Performance,F150 Supercharged,F150 Supercharged
+2008,Saleen Performance,S281 Family,S281 Family
+2008,Saleen Performance,S331 Family,S331 Family
+2008,Saturn,Astra,Astra 2DR Hatchback
+2008,Saturn,Astra,Astra 4DR Hatchback
+2008,Saturn,Aura,Aura
+2008,Saturn,Aura,Aura Hybrid
+2008,Saturn,Outlook,Outlook AWD
+2008,Saturn,Outlook,Outlook FWD
+2008,Saturn,SKY,SKY
+2008,Saturn,Vue,Vue AWD
+2008,Saturn,Vue,Vue FWD
+2008,Saturn,Vue,Vue Hybrid
+2008,Scion,tC,tC
+2008,Scion,xB,xB
+2008,Scion,xD,xD
+2008,Shelby,Mustang GT,Mustang GT
+2008,smart,fortwo,fortwo convertible
+2008,smart,fortwo,fortwo coupe
+2008,Subaru,Forester,Forester AWD
+2008,Subaru,Impreza/Outback Sport,Impreza AWD
+2008,Subaru,Impreza/Outback Sport,Impreza Wagon/Outback SPT AWD
+2008,Subaru,Legacy/Outback,Legacy AWD
+2008,Subaru,Legacy/Outback,Outback Wagon AWD
+2008,Subaru,Tribeca,Tribeca AWD
+2008,Suzuki,Forenza,Forenza
+2008,Suzuki,Forenza,Forenza Wagon
+2008,Suzuki,Grand Vitara,Grand Vitara
+2008,Suzuki,Grand Vitara,Grand Vitara AWD
+2008,Suzuki,Reno,Reno
+2008,Suzuki,SX4,SX4
+2008,Suzuki,SX4,SX4 AWD
+2008,Suzuki,SX4,SX4 Sedan
+2008,Suzuki,XL7,XL7 AWD
+2008,Suzuki,XL7,XL7 FWD
+2008,"Tecstar, LP",Foose F150,Foose F150 Regular Cab 2WD
+2008,"Tecstar, LP",Foose F150,Foose F150 Regular Cab 4WD
+2008,"Tecstar, LP",Foose F150,Foose F150 Super Cab 2WD
+2008,"Tecstar, LP",Foose F150,Foose F150 Super Cab 4WD
+2008,"Tecstar, LP",Foose F150,Foose F150 Super Crew 2WD
+2008,"Tecstar, LP",Foose F150,Foose F150 Super Crew 4WD
+2008,Toyota,4Runner,4Runner 2WD
+2008,Toyota,4Runner,4Runner 4WD
+2008,Toyota,Avalon,Avalon
+2008,Toyota,Camry,Camry
+2008,Toyota,Camry,Camry Hybrid
+2008,Toyota,Camry,Camry Solara
+2008,Toyota,Camry,Camry Solara Convertible
+2008,Toyota,Corolla,Corolla
+2008,Toyota,FJ Cruiser,FJ Cruiser 2WD
+2008,Toyota,FJ Cruiser,FJ Cruiser 4WD
+2008,Toyota,Highlander,Highlander 2WD
+2008,Toyota,Highlander,Highlander 4WD
+2008,Toyota,Highlander,Highlander Hybrid 4WD
+2008,Toyota,Land Cruiser,Land Cruiser Wagon 4WD
+2008,Toyota,Matrix,Matrix
+2008,Toyota,Prius,Prius
+2008,Toyota,RAV4,RAV4 2WD
+2008,Toyota,RAV4,RAV4 4WD
+2008,Toyota,Sequoia,Sequoia 2WD
+2008,Toyota,Sequoia,Sequoia 4WD
+2008,Toyota,Sienna,Sienna 2WD
+2008,Toyota,Sienna,Sienna 4WD
+2008,Toyota,Tacoma,Tacoma 2WD
+2008,Toyota,Tacoma,Tacoma 4WD
+2008,Toyota,Tundra,Tundra 2WD
+2008,Toyota,Tundra,Tundra 4WD
+2008,Toyota,Yaris,Yaris
+2008,Volkswagen,Beetle,New Beetle
+2008,Volkswagen,Beetle,New Beetle Convertible
+2008,Volkswagen,Eos,Eos
+2008,Volkswagen,Golf/GTI,GTI
+2008,Volkswagen,Jetta,Jetta
+2008,Volkswagen,Jetta,Jetta SportWagen
+2008,Volkswagen,Passat,Passat
+2008,Volkswagen,Passat,Passat 4motion
+2008,Volkswagen,Passat,Passat Wagon
+2008,Volkswagen,Passat,Passat Wagon 4motion
+2008,Volkswagen,R32,R32
+2008,Volkswagen,Rabbit,Rabbit
+2008,Volkswagen,Touareg,Touareg
+2008,Volvo,C30,C30 FWD
+2008,Volvo,C70,C70 Convertible
+2008,Volvo,S40,S40 AWD
+2008,Volvo,S40,S40 FWD
+2008,Volvo,S60,S60 AWD
+2008,Volvo,S60,S60 FWD
+2008,Volvo,S80,S80 AWD
+2008,Volvo,S80,S80 FWD
+2008,Volvo,V50,V50 AWD
+2008,Volvo,V50,V50 FWD
+2008,Volvo,V70,V70 FWD
+2008,Volvo,XC70,XC70 AWD
+2008,Volvo,XC90,XC90 AWD
+2008,Volvo,XC90,XC90 FWD

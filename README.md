@@ -39,6 +39,21 @@ Our work ensures that:
 The primary focus of this repository is the maintenance of our foundational standards:
 
 - **OC-EVENT:** The universal schema for automotive gatherings. It accounts for surface types (on-road/off-road), venue categories (business/parking lot), and event dynamics (static/rally)
+- **OC-OEM:** The minimal schema for OEM vehicle identity (year, make, model, trim)
+- **OC-DATA (Coming Soon):** Standards for aftermarket part interoperability and vehicle profiles
+
+### OC-OEM data & explorer
+
+- Canonical year CSVs: `data/oem/csv/`
+- Generated SQLite DB: `data/oem.db` (gitignored; built in CI and locally)
+- Static explorer app: `www/` (React + HeroUI, loads `oem.db` in the browser)
+
+```bash
+cd db && npm install && npm run build:db
+cd ../www && npm install && npm run dev
+```
+
+Push to `main` builds `oem.db` and deploys the explorer to GitHub Pages.
 
 ---
 

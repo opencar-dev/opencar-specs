@@ -1,0 +1,417 @@
+year,make,model,trim
+1993,Acura,Integra,Integra
+1993,Acura,Legend,Legend
+1993,Acura,NSX,NSX
+1993,Acura,Vigor,Vigor
+1993,Alfa Romeo,164,164
+1993,Alfa Romeo,Spider,Spider
+1993,Aston Martin,Virage/Volante,Virage/Volante
+1993,Audi,100,100
+1993,Audi,100,100 quattro
+1993,Audi,100,100 quattro Wagon
+1993,Audi,80/90,90
+1993,Audi,80/90,90 quattro
+1993,Audi,S4,S4
+1993,Audi,V8,V8
+1993,Autokraft Limited,A.C.MARK IV,A.C.MARK IV
+1993,BMW,3 Series,318i/318is
+1993,BMW,3 Series,325i Convertible
+1993,BMW,3 Series,325i/325is
+1993,BMW,5 Series,525i
+1993,BMW,5 Series,525i Touring
+1993,BMW,5 Series,535i
+1993,BMW,7 Series,740i
+1993,BMW,7 Series,740il
+1993,BMW,7 Series,750il
+1993,BMW,8 Series,850ci
+1993,BMW,M,M5
+1993,Buick,Century,Century
+1993,Buick,Century Wagon,Century Wagon
+1993,Buick,Coachbuilder Wagon,Coachbuilder Wagon
+1993,Buick,LeSabre,LeSabre
+1993,Buick,Park Avenue,Park Avenue
+1993,Buick,Regal,Regal
+1993,Buick,Riviera,Riviera
+1993,Buick,Roadmaster,Roadmaster
+1993,Buick,Roadmaster,Roadmaster Wagon
+1993,Buick,Skylark,Skylark
+1993,Cadillac,Allante,Allante
+1993,Cadillac,Commercial Chassis,Commercial Chassis
+1993,Cadillac,DeVille/60 Special,DeVille/60 Special
+1993,Cadillac,Eldorado,Eldorado
+1993,Cadillac,Fleetwood,Fleetwood
+1993,Cadillac,Seville,Seville
+1993,Chevrolet,Astro Cargo,Astro 2WD (cargo)
+1993,Chevrolet,Astro Cargo,Astro AWD (cargo)
+1993,Chevrolet,Astro Passenger,Astro 2WD (passenger)
+1993,Chevrolet,Astro Passenger,Astro AWD (passenger)
+1993,Chevrolet,Beretta,Beretta
+1993,Chevrolet,Blazer,Blazer 1500 4WD
+1993,Chevrolet,Blazer,S10 Blazer 2WD
+1993,Chevrolet,Blazer,S10 Blazer 4WD
+1993,Chevrolet,C1500 Pickup,C1500 Pickup 2WD
+1993,Chevrolet,C2500 Pickup,C2500 Pickup 2WD
+1993,Chevrolet,Camaro,Camaro
+1993,Chevrolet,Caprice,Caprice
+1993,Chevrolet,Caprice,Caprice Wagon
+1993,Chevrolet,Cavalier,Cavalier
+1993,Chevrolet,Cavalier,Cavalier Wagon
+1993,Chevrolet,Coachbuilder Wagon,Coachbuilder Wagon
+1993,Chevrolet,Corsica,Corsica
+1993,Chevrolet,Corvette,Corvette
+1993,Chevrolet,G10/20 Van,G10/20 Sport Van 2WD
+1993,Chevrolet,G10/20 Van,G10/20 Van 2WD
+1993,Chevrolet,G30 Van,G30 Van 2WD
+1993,Chevrolet,K1500 Pickup,K1500 Pickup 4WD
+1993,Chevrolet,K2500 Pickup,K2500 Pickup 4WD
+1993,Chevrolet,Lumina,Lumina
+1993,Chevrolet,Lumina/APV Minivan,Lumina/APV Minivan 2WD
+1993,Chevrolet,Pickup 2500,Pickup 2500 2WD
+1993,Chevrolet,Pickup 2500,Pickup 2500 4WD
+1993,Chevrolet,Postal Cab Chassis,Postal Cab Chassis 2WD
+1993,Chevrolet,S10 Pickup,S10 Pickup 2WD
+1993,Chevrolet,S10 Pickup,S10 Pickup 4WD
+1993,Chevrolet,Sport Van,Sport Van G10/20 2WD
+1993,Chevrolet,Sport Van,Sport Van G30 2WD
+1993,Chevrolet,Sprint,Sprint
+1993,Chevrolet,Suburban,Suburban 1500 2WD
+1993,Chevrolet,Suburban,Suburban 1500 4WD
+1993,Chrysler,Concorde,Concorde
+1993,Chrysler,Fifth Avenue/Imperial,Fifth Avenue/Imperial
+1993,Chrysler,LeBaron,LeBaron
+1993,Chrysler,LeBaron,LeBaron Convertible
+1993,Chrysler,New Yorker,New Yorker
+1993,Chrysler,Town and Country,Town and Country 2WD
+1993,Chrysler,Town and Country,Town and Country 4WD
+1993,CX Automotive,XM,XM v6
+1993,CX Automotive,XM,XM v6 Break
+1993,CX Automotive,XM,XM v6a
+1993,Dodge,B150/B250 Van,B150/B250 Van 2WD
+1993,Dodge,B150/B250 Wagon,B150/B250 Wagon 2WD
+1993,Dodge,B350 Van,B350 Van 2WD
+1993,Dodge,B350 Wagon,B350 Wagon 2WD
+1993,Dodge,Caravan C/V/Grand Caravan,Caravan C/V/Grand Caravan 2WD
+1993,Dodge,Caravan/Grand Caravan,Caravan/Grand Caravan 2WD
+1993,Dodge,Caravan/Grand Caravan,Caravan/Grand Caravan 4WD
+1993,Dodge,Colt,Colt
+1993,Dodge,D100/D150 Pickup,D100/D150 Pickup 2WD
+1993,Dodge,D250 Cab Chassis,D250 Cab Chassis 2WD
+1993,Dodge,D250 Pickup,D250 Pickup 2WD
+1993,Dodge,Dakota Cab Chassis,Dakota Cab Chassis 2WD
+1993,Dodge,Dakota Pickup,Dakota Pickup 2WD
+1993,Dodge,Dakota Pickup,Dakota Pickup 4WD
+1993,Dodge,Daytona,Daytona
+1993,Dodge,Dynasty,Dynasty
+1993,Dodge,Intrepid,Intrepid
+1993,Dodge,Power Ram 50 Pickup,Power Ram 50 4WD
+1993,Dodge,Ram 50 Pickup,Ram 50 Pickup 2WD
+1993,Dodge,Ramcharger,Ramcharger 2WD
+1993,Dodge,Ramcharger,Ramcharger 4WD
+1993,Dodge,Shadow,Shadow
+1993,Dodge,Shadow,Shadow Convertible
+1993,Dodge,Spirit,Spirit
+1993,Dodge,Stealth,Stealth
+1993,Dodge,Viper,Viper
+1993,Dodge,W100/W150 Pickup,W100/W150 Pickup 4WD
+1993,Dodge,W250 Pickup,W250 Pickup 4WD
+1993,Eagle,Summit,Summit
+1993,Eagle,Summit,Summit Wagon
+1993,Eagle,Talon,Talon
+1993,Eagle,Vision,Vision
+1993,Ferrari,348 TB/TS,348 TB/TS
+1993,Ferrari,Ferrari 348 TB/TS,Ferrari 348 TB/TS
+1993,Ferrari,Ferrari 512 TR,Ferrari 512 TR
+1993,Ferrari,Ferrari Mondial T/Cabriolet,Ferrari Mondial T/Cabriolet
+1993,Ford,Aerostar Van,Aerostar Van
+1993,Ford,Aerostar Van,Aerostar Van AWD
+1993,Ford,Aerostar Wagon,Aerostar Wagon
+1993,Ford,Aerostar Wagon,Aerostar Wagon AWD
+1993,Ford,Bronco,Bronco 4WD
+1993,Ford,Crown Victoria,Crown Victoria Police
+1993,Ford,E150 Club Wagon,E150 Club Wagon
+1993,Ford,E150 Econoline,E150 Econoline 2WD
+1993,Ford,E250 Econoline,E250 Econoline 2WD
+1993,Ford,Escort,Escort
+1993,Ford,Escort,Escort FS
+1993,Ford,Escort,Escort Wagon
+1993,Ford,Explorer,Explorer 2WD
+1993,Ford,Explorer,Explorer 4WD
+1993,Ford,F150,F150 Pickup 2WD
+1993,Ford,F150,F150 Pickup 4WD
+1993,Ford,F250,F250 Pickup 2WD
+1993,Ford,Festiva,Festiva
+1993,Ford,LTD Crown Victoria,LTD Crown Victoria
+1993,Ford,Mustang,Mustang
+1993,Ford,Probe,Probe
+1993,Ford,Ranger,Ranger Pickup 2WD
+1993,Ford,Ranger,Ranger Pickup 4WD
+1993,Ford,Taurus,Taurus
+1993,Ford,Taurus,Taurus SHO
+1993,Ford,Taurus,Taurus Wagon
+1993,Ford,Tempo,Tempo
+1993,Ford,Thunderbird,Thunderbird
+1993,Geo,Metro,Metro
+1993,Geo,Metro,Metro LSI
+1993,Geo,Metro,Metro LSI Convertible
+1993,Geo,Metro,Metro XFI
+1993,Geo,Prizm,Prizm
+1993,Geo,Storm,Storm
+1993,Geo,Tracker,Tracker Convertible 2WD
+1993,Geo,Tracker,Tracker Convertible 4WD
+1993,Geo,Tracker,Tracker Van 4WD
+1993,GMC,Jimmy,Jimmy 2WD
+1993,GMC,Jimmy,Jimmy 4WD
+1993,GMC,Rally,Rally G15/25 2WD
+1993,GMC,Rally,Rally G35 2WD
+1993,GMC,Safari,Safari 2WD (cargo)
+1993,GMC,Safari,Safari 2WD (passenger)
+1993,GMC,Safari,Safari AWD (cargo)
+1993,GMC,Safari,Safari AWD (passenger)
+1993,GMC,Sierra,Sierra 1500 2WD
+1993,GMC,Sierra,Sierra 1500 4WD
+1993,GMC,Sierra,Sierra 2500 2WD
+1993,GMC,Sierra,Sierra 2500 4WD
+1993,GMC,Sonoma,Sonoma 2WD
+1993,GMC,Sonoma,Sonoma 4WD
+1993,GMC,Suburban,Suburban 1500 2WD
+1993,GMC,Suburban,Suburban 1500 4WD
+1993,GMC,Vandura,Vandura G15/25 2WD
+1993,GMC,Vandura,Vandura G35 2WD
+1993,GMC,Yukon,Yukon 1500 4WD
+1993,Honda,Accord,Accord
+1993,Honda,Accord,Accord Wagon
+1993,Honda,Civic,Civic
+1993,Honda,Civic,Civic HB VX
+1993,Honda,Del Sol,Civic Del Sol
+1993,Honda,Prelude,Prelude
+1993,Hyundai,Elantra,Elantra
+1993,Hyundai,Excel,Excel
+1993,Hyundai,Scoupe,Scoupe
+1993,Hyundai,Sonata,Sonata
+1993,Infiniti,G20,G20
+1993,Infiniti,J30,J30
+1993,Infiniti,Q45,Q45
+1993,Infiniti,Q45,Q45 Full-Active Suspension
+1993,Isuzu,Amigo,Amigo 2WD
+1993,Isuzu,Amigo,Amigo 4WD
+1993,Isuzu,Impulse,Impulse
+1993,Isuzu,Pickup,Pickup 2WD
+1993,Isuzu,Pickup,Pickup 4WD
+1993,Isuzu,Rodeo,Rodeo 2WD
+1993,Isuzu,Rodeo,Rodeo 4WD
+1993,Isuzu,Stylus,Stylus
+1993,Isuzu,Trooper,Trooper
+1993,J.K. Motors,190E 2.3 MERC BENZ,190E 2.3 MERC BENZ
+1993,J.K. Motors,230E MERC BENZ,230E MERC BENZ
+1993,J.K. Motors,300SL,300SL
+1993,J.K. Motors,BMW535I,BMW535I
+1993,J.K. Motors,BMW635CSI,BMW635CSI
+1993,J.K. Motors,BMW635L6,BMW635L6
+1993,J.K. Motors,BMW735I,BMW735I
+1993,J.K. Motors,BMW735IL,BMW735IL
+1993,J.K. Motors,MERC BENZ 300CE,MERC BENZ 300CE
+1993,J.K. Motors,MERC BENZ 300E,MERC BENZ 300E
+1993,J.K. Motors,MERC BENZ 300SE,MERC BENZ 300SE
+1993,J.K. Motors,MERC BENZ 300SEL,MERC BENZ 300SEL
+1993,J.K. Motors,MERC BENZ 300TE,MERC BENZ 300TE
+1993,J.K. Motors,MERC.BENZ 260E,MERC.BENZ 260E
+1993,J.K. Motors,PORSCHE 928 S4,PORSCHE 928 S4
+1993,J.K. Motors,Testarossa,Testarossa
+1993,Jaguar,XJ,XJ6
+1993,Jaguar,XJRS,XJRS Convertble
+1993,Jaguar,XJRS,XJRS Coupe
+1993,Jaguar,XJS,XJS Convertible
+1993,Jaguar,XJS,XJS Coupe
+1993,Jeep,Cherokee,Cherokee 2WD
+1993,Jeep,Cherokee,Cherokee 4WD
+1993,Jeep,Comanche Pickup,Comanche Pickup 2WD
+1993,Jeep,Comanche Pickup,Comanche Pickup 4WD
+1993,Jeep,Grand Cherokee,Grand Cherokee 2WD
+1993,Jeep,Grand Cherokee,Grand Cherokee 4WD
+1993,Jeep,Wrangler,Wrangler 4WD
+1993,Kia,Sephia,Sephia
+1993,Lamborghini,Diablo,DB132/Diablo
+1993,Land Rover,Defender,Defender 110
+1993,Land Rover,Range Rover,Range Rover County
+1993,Land Rover,Range Rover,Range Rover County LWB
+1993,Lexus,ES,ES 300
+1993,Lexus,GS,GS300
+1993,Lexus,LS,LS 400
+1993,Lexus,SC,SC 300/SC 400
+1993,Lincoln,Continental,Continental
+1993,Lincoln,Mark VIII,Mark VIII
+1993,Lincoln,Town Car,Town Car
+1993,Lotus,Elan,Elan
+1993,Lotus,Esprit,Esprit Turbo
+1993,Mazda,323,323
+1993,Mazda,626,626
+1993,Mazda,929,929
+1993,Mazda,B Pickup,B2200/B2600i
+1993,Mazda,B Pickup,B2600i 4x4
+1993,Mazda,MPV,MPV
+1993,Mazda,MPV,MPV 4x4
+1993,Mazda,MX-3,MX-3
+1993,Mazda,MX-5 Miata,MX-5 Miata
+1993,Mazda,MX-6,MX-6
+1993,Mazda,Navajo,Navajo
+1993,Mazda,Navajo,Navajo 4x4
+1993,Mazda,Protege,Protege
+1993,Mazda,RX-7,RX-7
+1993,Mercedes-Benz,190,190E 2.3
+1993,Mercedes-Benz,190,190E 2.6
+1993,Mercedes-Benz,300,300CE
+1993,Mercedes-Benz,300,300D 2.5 Turbo
+1993,Mercedes-Benz,300,300E
+1993,Mercedes-Benz,300,300E 2.8
+1993,Mercedes-Benz,300,300E 4Matic
+1993,Mercedes-Benz,300,300SD
+1993,Mercedes-Benz,300,300SE
+1993,Mercedes-Benz,300,300SL
+1993,Mercedes-Benz,300,300TE
+1993,Mercedes-Benz,300,300TE 4Matic
+1993,Mercedes-Benz,400,400E
+1993,Mercedes-Benz,400,400SEL
+1993,Mercedes-Benz,500,500E
+1993,Mercedes-Benz,500,500SEC
+1993,Mercedes-Benz,500,500SEL
+1993,Mercedes-Benz,500,500SL
+1993,Mercedes-Benz,600,600SEL/SEC
+1993,Mercedes-Benz,600,600SL
+1993,Mercury,Capri,Capri
+1993,Mercury,Cougar,Cougar
+1993,Mercury,Grand Marquis,Grand Marquis
+1993,Mercury,Sable,Sable
+1993,Mercury,Sable,Sable Wagon
+1993,Mercury,Topaz,Topaz
+1993,Mercury,Tracer,Tracer
+1993,Mercury,Tracer,Tracer Wagon
+1993,Mercury,Villager,Villager FWD Van
+1993,Mercury,Villager,Villager FWD Wagon
+1993,Mitsubishi,3000 GT,3000 GT
+1993,Mitsubishi,Diamante,Diamante
+1993,Mitsubishi,Diamante,Diamante Wagon
+1993,Mitsubishi,Eclipse,Eclipse
+1993,Mitsubishi,Expo,Expo
+1993,Mitsubishi,Expo,Expo.LRV
+1993,Mitsubishi,Galant,Galant
+1993,Mitsubishi,Mirage,Mirage
+1993,Mitsubishi,Montero,Montero
+1993,Mitsubishi,Precis,Precis
+1993,Mitsubishi,Truck,Truck 2WD
+1993,Mitsubishi,Truck,Truck 4WD
+1993,Nissan,240SX,240SX
+1993,Nissan,300ZX,300ZX
+1993,Nissan,300ZX,300ZX 2x2
+1993,Nissan,Altima / Stanza,Altima / Stanza
+1993,Nissan,Maxima,Maxima
+1993,Nissan,NX,NX
+1993,Nissan,Pathfinder,Pathfinder 2WD
+1993,Nissan,Pathfinder,Pathfinder 4WD
+1993,Nissan,Quest,Quest
+1993,Nissan,Sentra,Sentra
+1993,Nissan,Truck,Truck 2WD
+1993,Nissan,Truck,Truck 4WD
+1993,Oldsmobile,Achieva,Achieva
+1993,Oldsmobile,Bravada,Bravada AWD
+1993,Oldsmobile,Cutlass Ciera,Cutlass Ciera
+1993,Oldsmobile,Cutlass Cruiser,Cutlass Cruiser
+1993,Oldsmobile,Cutlass Supreme,Cutlass Supreme
+1993,Oldsmobile,Eighty-Eight,Eighty-Eight
+1993,Oldsmobile,Ninety-Eight,Ninety-Eight
+1993,Oldsmobile,Silhouette,Silhouette 2WD
+1993,Oldsmobile,Toronado,Toronado
+1993,Panos,Roadster,Roadster
+1993,"PAS, Inc",Pas-Typhoon,Pas-Typhoon
+1993,Plymouth,Acclaim,Acclaim
+1993,Plymouth,Colt,Colt
+1993,Plymouth,Colt,Colt Vista
+1993,Plymouth,Laser,Laser
+1993,Plymouth,Sundance/Duster,Sundance/Duster
+1993,Plymouth,Voyager/Grand Voyager,Voyager/Grand Voyager 2WD
+1993,Plymouth,Voyager/Grand Voyager,Voyager/Grand Voyager 4WD
+1993,Pontiac,Bonneville,Bonneville
+1993,Pontiac,Firebird/Trans Am/Formula,Firebird/Formula
+1993,Pontiac,Firefly,Firefly
+1993,Pontiac,Grand Am,Grand Am
+1993,Pontiac,Grand Prix,Grand Prix
+1993,Pontiac,Lemans,Lemans
+1993,Pontiac,Sunbird,Sunbird
+1993,Pontiac,Trans Sport/Montana,Trans Sport 2WD
+1993,Porsche,911,911 Carrera 4/2
+1993,Porsche,928,928 GTS
+1993,Porsche,968,968
+1993,Rolls-Royce,Brooklands/Turbo R,Brooklands/Brklnds L
+1993,Rolls-Royce,Brooklands/Turbo R,Turbo R/Turbo R(lwb)
+1993,Rolls-Royce,Corniche/Continental,Continental
+1993,Rolls-Royce,Corniche/Continental,Continental R
+1993,Rolls-Royce,Corniche/Continental,Corniche IV
+1993,Rolls-Royce,Silver Spirit II/Silver Spur,Silver Spirit II/Silver Spur
+1993,Rolls-Royce,Silver Spur II Mpw Touring L,Silver Spur II Mpw Touring L
+1993,Saab,900,900
+1993,Saab,9000,9000
+1993,Saab,Convertible,Convertible
+1993,Saleen,Mustang,Mustang
+1993,Saturn,SC,SC
+1993,Saturn,SL,SL
+1993,Saturn,SW,SW
+1993,Subaru,Impreza/Outback Sport,Impreza
+1993,Subaru,Impreza/Outback Sport,Impreza AWD
+1993,Subaru,Impreza/Outback Sport,Impreza Wagon
+1993,Subaru,Impreza/Outback Sport,Impreza Wagon AWD
+1993,Subaru,Justy,Justy
+1993,Subaru,Justy,Justy AWD
+1993,Subaru,Legacy/Outback,Legacy
+1993,Subaru,Legacy/Outback,Legacy AWD
+1993,Subaru,Legacy/Outback,Legacy AWD Turbo
+1993,Subaru,Legacy/Outback,Legacy Wagon
+1993,Subaru,Legacy/Outback,Legacy Wagon AWD
+1993,Subaru,Legacy/Outback,Legacy Wagon AWD Turbo
+1993,Subaru,Loyale,Loyale
+1993,Subaru,Loyale,Loyale AWD
+1993,Subaru,Loyale,Loyale Wagon
+1993,Subaru,Loyale,Loyale Wagon AWD
+1993,Subaru,SVX,SVX
+1993,Subaru,SVX,SVX AWD
+1993,Suzuki,Samurai,Samurai 2WD
+1993,Suzuki,Samurai,Samurai Soft-top 4WD
+1993,Suzuki,Sidekick,Sidekick 2WD
+1993,Suzuki,Sidekick,Sidekick Hardtop 2WD
+1993,Suzuki,Sidekick,Sidekick Hardtop 4WD
+1993,Suzuki,Sidekick,Sidekick Soft-top 4WD
+1993,Suzuki,Swift,Swift
+1993,Suzuki,Swift,Swift GT
+1993,Toyota,4Runner,4Runner 2WD
+1993,Toyota,4Runner,4Runner 4WD
+1993,Toyota,Cab Chassis,Cab/Chassis 2WD
+1993,Toyota,Camry,Camry
+1993,Toyota,Camry,Camry Wagon
+1993,Toyota,Celica,Celica
+1993,Toyota,Celica,Celica Convertible
+1993,Toyota,Corolla,Corolla
+1993,Toyota,Corolla,Corolla Wagon
+1993,Toyota,Land Cruiser,Land Cruiser Wagon 4WD
+1993,Toyota,MR2,MR2
+1993,Toyota,Paseo,Paseo
+1993,Toyota,Previa,Previa
+1993,Toyota,Previa,Previa All-Trac
+1993,Toyota,Supra,Supra
+1993,Toyota,Tercel,Tercel
+1993,Toyota,Truck/T100,T100 2WD
+1993,Toyota,Truck/T100,Truck 2WD/T100 2WD
+1993,Toyota,Truck/T100,Truck 4WD/T100 4WD
+1993,Vector,W8,W8
+1993,Volkswagen,Cabriolet,Cabriolet
+1993,Volkswagen,Corrado,Corrado SLC
+1993,Volkswagen,Eurovan,Eurovan
+1993,Volkswagen,Fox,Fox
+1993,Volkswagen,Golf/GTI,Golf III / GTI
+1993,Volkswagen,Jetta,Jetta III
+1993,Volkswagen,Passat,Passat
+1993,Volkswagen,Passat,Passat Wagon
+1993,Volvo,240,240
+1993,Volvo,240,240 Wagon
+1993,Volvo,850,850
+1993,Volvo,940,940
+1993,Volvo,940,940 Wagon
+1993,Volvo,960,960
+1993,Volvo,960,960 Wagon

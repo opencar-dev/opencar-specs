@@ -1,0 +1,572 @@
+year,make,model,trim
+2005,Acura,MDX,MDX 4WD
+2005,Acura,NSX,NSX
+2005,Acura,RL,RL
+2005,Acura,RSX,RSX
+2005,Acura,TL,TL
+2005,Acura,TSX,TSX
+2005,Aston Martin,DB9,DB9
+2005,Aston Martin,DB9,DB9 Coupe Manual
+2005,Aston Martin,DB9,DB9 Volante
+2005,Aston Martin,DB9,DB9 Volante Manual
+2005,Aston Martin,Vanquish,V12 Vanquish S
+2005,Audi,A4,A4
+2005,Audi,A4,A4 Avant quattro
+2005,Audi,A4,A4 Cabriolet
+2005,Audi,A4,A4 Cabriolet quattro
+2005,Audi,A4,A4 quattro
+2005,Audi,A6,A6 quattro
+2005,Audi,A8,A8
+2005,Audi,A8,A8 L
+2005,Audi,Allroad,Allroad quattro
+2005,Audi,S4,S4
+2005,Audi,S4,S4 Avant
+2005,Audi,S4,S4 Cabriolet
+2005,Audi,TT Coupe,TT Coupe
+2005,Audi,TT Coupe,TT Coupe quattro
+2005,Audi,TT Roadster,TT Roadster
+2005,Audi,TT Roadster,TT Roadster quattro
+2005,Bentley,Arnage,Arnage
+2005,Bentley,Arnage,Arnage LWB
+2005,Bentley,Continental,Continental GT
+2005,BMW,3 Series,325ci
+2005,BMW,3 Series,325ci Convertible
+2005,BMW,3 Series,325i
+2005,BMW,3 Series,325i Sport Wagon
+2005,BMW,3 Series,325xi
+2005,BMW,3 Series,325xi Sport Wagon
+2005,BMW,3 Series,330ci
+2005,BMW,3 Series,330ci Convertible
+2005,BMW,3 Series,330i
+2005,BMW,3 Series,330xi
+2005,BMW,5 Series,525i
+2005,BMW,5 Series,530i
+2005,BMW,5 Series,545i
+2005,BMW,6 Series,645ci
+2005,BMW,6 Series,645ci Convertible
+2005,BMW,7 Series,745i
+2005,BMW,7 Series,745li
+2005,BMW,7 Series,760i
+2005,BMW,7 Series,760li
+2005,BMW,M,M3
+2005,BMW,M,M3 Convertible
+2005,BMW,X3,X3
+2005,BMW,X5,X5
+2005,BMW,X5,X5 4.8is
+2005,BMW,Z4,Z4 Roadster
+2005,Buick,Century,Century
+2005,Buick,Lacrosse/Allure,Lacrosse/Allure
+2005,Buick,LeSabre,LeSabre
+2005,Buick,Park Avenue,Park Avenue
+2005,Buick,Rainier,Rainier 2WD
+2005,Buick,Rainier,Rainier AWD
+2005,Buick,Rendezvous,Rendezvous AWD
+2005,Buick,Rendezvous,Rendezvous FWD
+2005,Buick,Terraza,Terraza AWD
+2005,Buick,Terraza,Terraza FWD
+2005,Cadillac,Armored Deville,Armored Deville
+2005,Cadillac,CTS,CTS
+2005,Cadillac,CTS,CTS-V
+2005,Cadillac,DeVille,DeVille
+2005,Cadillac,Escalade,Escalade 2WD
+2005,Cadillac,Escalade,Escalade AWD
+2005,Cadillac,Escalade,Escalade ESV AWD
+2005,Cadillac,Escalade,Escalade Ext AWD
+2005,Cadillac,Funeral Coach/Hearse,Funeral Coach / Hearse
+2005,Cadillac,Limousine,Limousine
+2005,Cadillac,SRX,SRX 2WD
+2005,Cadillac,SRX,SRX AWD
+2005,Cadillac,STS,STS 2WD
+2005,Cadillac,STS,STS AWD
+2005,Cadillac,XLR,XLR
+2005,Chevrolet,Astro Cargo,Astro 2WD (cargo)
+2005,Chevrolet,Astro Cargo,Astro 2WD (cargo) Conversion
+2005,Chevrolet,Astro Cargo,Astro AWD (cargo)
+2005,Chevrolet,Astro Cargo,Astro AWD (cargo) Conversion
+2005,Chevrolet,Astro Passenger,Astro 2WD (passenger)
+2005,Chevrolet,Astro Passenger,Astro AWD (passenger)
+2005,Chevrolet,Avalanche,Avalanche 1500 2WD
+2005,Chevrolet,Avalanche,Avalanche 1500 4WD
+2005,Chevrolet,Aveo,Aveo
+2005,Chevrolet,Aveo,Aveo 5
+2005,Chevrolet,Blazer,Blazer 2WD
+2005,Chevrolet,Blazer,Blazer 4WD
+2005,Chevrolet,Cavalier,Cavalier
+2005,Chevrolet,Classic,Classic
+2005,Chevrolet,Cobalt,Cobalt
+2005,Chevrolet,Colorado,Colorado 2WD
+2005,Chevrolet,Colorado,Colorado 4WD
+2005,Chevrolet,Colorado,Colorado Crew Cab 2WD
+2005,Chevrolet,Colorado,Colorado Crew Cab 4WD
+2005,Chevrolet,Corvette,Corvette
+2005,Chevrolet,Epica,Epica
+2005,Chevrolet,Equinox,Equinox AWD
+2005,Chevrolet,Equinox,Equinox FWD
+2005,Chevrolet,Express Passenger,Express 1500 AWD
+2005,Chevrolet,Express Passenger,Express 1500/2500 2WD
+2005,Chevrolet,Impala,Impala
+2005,Chevrolet,Impala,Impala Police
+2005,Chevrolet,Malibu,Malibu
+2005,Chevrolet,Malibu,Malibu Maxx
+2005,Chevrolet,Monte Carlo,Monte Carlo
+2005,Chevrolet,Optra,Optra
+2005,Chevrolet,Optra,Optra 5
+2005,Chevrolet,Optra,Optra Wagon
+2005,Chevrolet,Silverado,Silverado 15 Hybrid 2WD
+2005,Chevrolet,Silverado,Silverado 15 Hybrid 4WD
+2005,Chevrolet,Silverado,Silverado 1500 2WD
+2005,Chevrolet,Silverado,Silverado 1500 4WD
+2005,Chevrolet,Silverado,Silverado 1500 AWD
+2005,Chevrolet,Silverado,Silverado 2500 HD 2WD
+2005,Chevrolet,Silverado,Silverado 2500 HD 2WD CNG
+2005,Chevrolet,Silverado,Silverado 2500 HD 4WD CNG
+2005,Chevrolet,SSR Pickup,SSR Pickup 2WD
+2005,Chevrolet,Suburban,Suburban 1500 2WD
+2005,Chevrolet,Suburban,Suburban 1500 4WD
+2005,Chevrolet,Suburban,Suburban 1500 AWD
+2005,Chevrolet,Tahoe,Tahoe 1500 2WD
+2005,Chevrolet,Tahoe,Tahoe 1500 4WD
+2005,Chevrolet,Tahoe,Tahoe 1500 AWD
+2005,Chevrolet,TrailBlazer,TrailBlazer 2WD
+2005,Chevrolet,TrailBlazer,TrailBlazer 4WD
+2005,Chevrolet,TrailBlazer,TrailBlazer Ext 2WD
+2005,Chevrolet,TrailBlazer,TrailBlazer Ext 4WD
+2005,Chevrolet,Uplander,Uplander AWD
+2005,Chevrolet,Uplander,Uplander FWD
+2005,Chevrolet,Van 15/25 Conversion,Van 15/25  2WD Conversion
+2005,Chevrolet,Van 15/25 Conversion,Van 15/25 2WD Conversion
+2005,Chevrolet,Van 1500,Van 1500 AWD Conversion
+2005,Chevrolet,Van 1500/2500,Van 1500/2500 2WD
+2005,Chevrolet,Van 1500/2500,Van 1500/2500 AWD
+2005,Chevrolet,Venture,Venture FWD
+2005,Chrysler,300,300C AWD
+2005,Chrysler,300 SRT8,300C/SRT-8
+2005,Chrysler,Crossfire,Crossfire Coupe
+2005,Chrysler,Crossfire,Crossfire Roadster
+2005,Chrysler,Pacifica,Pacifica 2WD
+2005,Chrysler,Pacifica,Pacifica AWD
+2005,Chrysler,PT Cruiser,PT Cruiser
+2005,Chrysler,PT Cruiser,PT Cruiser Convertible
+2005,Chrysler,Sebring,Sebring
+2005,Chrysler,Sebring,Sebring 4 Door
+2005,Chrysler,Sebring,Sebring Convertible
+2005,Chrysler,Voyager/Town and Country,Voyager/Town and Country 2WD
+2005,Dodge,Caravan/Grand Caravan,Caravan/Grand Caravan 2WD
+2005,Dodge,Dakota Pickup,Dakota Pickup 2WD
+2005,Dodge,Dakota Pickup,Dakota Pickup 4WD
+2005,Dodge,Durango,Durango 2WD
+2005,Dodge,Durango,Durango 4WD
+2005,Dodge,Magnum,Magnum 2WD
+2005,Dodge,Magnum,Magnum AWD
+2005,Dodge,Neon/SRT-4/SX 2.0,Neon/SRT-4/SX 2.0
+2005,Dodge,Ram 1500 Pickup,Ram 1500 Pickup 2WD
+2005,Dodge,Ram 1500 Pickup,Ram 1500 Pickup 4WD
+2005,Dodge,Stratus,Stratus
+2005,Dodge,Stratus,Stratus 4 Door
+2005,Dodge,Viper,Viper Convertible
+2005,Ferrari,360 Modena/Spider/Challenge,360 Modena/Spider/Challenge
+2005,Ferrari,575 M Maranello and Superamerica,575 M Maranello and Superamerica
+2005,Ferrari,612 Scaglietti,612 Scaglietti
+2005,Ferrari,F430,F430
+2005,Ford,Crown Victoria,Crown Victoria
+2005,Ford,Crown Victoria,Crown Victoria Police
+2005,Ford,E150 Club Wagon,E150 Club Wagon
+2005,Ford,E150 Econoline,E150 Econoline 2WD
+2005,Ford,E250 Econoline,E250 Econoline 2WD
+2005,Ford,Escape,Escape 2WD
+2005,Ford,Escape,Escape 4WD
+2005,Ford,Escape,Escape Hybrid 2WD
+2005,Ford,Escape,Escape Hybrid 4WD
+2005,Ford,Expedition,Expedition 2WD
+2005,Ford,Expedition,Expedition 4WD
+2005,Ford,Explorer,Explorer 2WD
+2005,Ford,Explorer,Explorer 2WD FFV
+2005,Ford,Explorer,Explorer 4WD
+2005,Ford,Explorer,Explorer 4WD FFV
+2005,Ford,Explorer,Explorer Sport Trac 2WD FFV
+2005,Ford,Explorer,Explorer Sport Trac 4WD FFV
+2005,Ford,F150,F150 Pickup 2WD
+2005,Ford,F150,F150 Pickup 4WD
+2005,Ford,Five Hundred,Five Hundred AWD
+2005,Ford,Five Hundred,Five Hundred FWD
+2005,Ford,Focus,Focus
+2005,Ford,Focus,Focus Station Wagon
+2005,Ford,Freestar,Freestar Cargo Van FWD
+2005,Ford,Freestar,Freestar Wagon FWD
+2005,Ford,Freestyle,Freestyle AWD
+2005,Ford,Freestyle,Freestyle FWD
+2005,Ford,GT,GT
+2005,Ford,Mustang,Mustang
+2005,Ford,Ranger,Ranger Pickup 2WD
+2005,Ford,Ranger,Ranger Pickup 4WD
+2005,Ford,Taurus,Taurus
+2005,Ford,Taurus,Taurus Wagon
+2005,Ford,Thunderbird,Thunderbird
+2005,GMC,Canyon,Canyon 2WD
+2005,GMC,Canyon,Canyon 4WD
+2005,GMC,Canyon,Canyon Crew Cab 2WD
+2005,GMC,Canyon,Canyon Crew Cab 4WD
+2005,GMC,Envoy,Envoy 2WD
+2005,GMC,Envoy,Envoy 4WD
+2005,GMC,Envoy,Envoy XL 2WD
+2005,GMC,Envoy,Envoy XL 4WD
+2005,GMC,Envoy,Envoy XUV 2WD
+2005,GMC,Envoy,Envoy XUV 4WD
+2005,GMC,Safari Cargo,Safari 2WD (cargo)
+2005,GMC,Safari Cargo,Safari 2WD Conversion (cargo)
+2005,GMC,Safari Cargo,Safari AWD (cargo)
+2005,GMC,Safari Cargo,Safari AWD Conversion (cargo)
+2005,GMC,Safari Passenger,Safari 2WD (Passenger)
+2005,GMC,Safari Passenger,Safari AWD (Passenger)
+2005,GMC,Savana Cargo,Savana 15/25 2WD Conversion (cargo)
+2005,GMC,Savana Cargo,Savana 15/25 AWD Conversion (cargo)
+2005,GMC,Savana Cargo,Savana 1500/2500 2WD (cargo)
+2005,GMC,Savana Cargo,Savana 1500/2500 AWD (cargo)
+2005,GMC,Savana Passenger,Savana 1500 AWD (Passenger)
+2005,GMC,Savana Passenger,Savana 1500/2500 2WD (Passenger)
+2005,GMC,Sierra,Sierra 15 Hybrid 2WD
+2005,GMC,Sierra,Sierra 15 Hybrid 4WD
+2005,GMC,Sierra,Sierra 1500 2WD
+2005,GMC,Sierra,Sierra 1500 4WD
+2005,GMC,Sierra,Sierra 1500 AWD
+2005,GMC,Sierra,Sierra 2500 Hd 2WD
+2005,GMC,Sierra,Sierra 2500 HD 2WD CNG
+2005,GMC,Sierra,Sierra 2500 HD 4WD CNG
+2005,GMC,Yukon,Yukon 1500 2WD
+2005,GMC,Yukon,Yukon 1500 4WD
+2005,GMC,Yukon,Yukon 1500 AWD
+2005,GMC,Yukon,Yukon XL 1500 2WD
+2005,GMC,Yukon,Yukon XL 1500 4WD
+2005,GMC,Yukon,Yukon XL 1500 AWD
+2005,Honda,Accord,Accord
+2005,Honda,Accord,Accord Hybrid
+2005,Honda,Civic,Civic
+2005,Honda,Civic,Civic CNG
+2005,Honda,Civic,Civic Hybrid
+2005,Honda,CR-V,CR-V 2WD
+2005,Honda,CR-V,CR-V 4WD
+2005,Honda,Element,Element 2WD
+2005,Honda,Element,Element 4WD
+2005,Honda,Insight,Insight
+2005,Honda,Odyssey,Odyssey
+2005,Honda,Pilot,Pilot 4WD
+2005,Honda,S2000,S2000
+2005,Hyundai,Accent/Brio,Accent/Brio
+2005,Hyundai,Elantra,Elantra
+2005,Hyundai,Santa Fe,Santa Fe 2WD
+2005,Hyundai,Santa Fe,Santa Fe 4WD
+2005,Hyundai,Sonata,Sonata
+2005,Hyundai,Tiburon,Tiburon
+2005,Hyundai,Tucson,Tucson 2WD
+2005,Hyundai,Tucson,Tucson 4WD
+2005,Hyundai,XG,XG350
+2005,Infiniti,FX35,FX35 AWD
+2005,Infiniti,FX35,FX35 RWD
+2005,Infiniti,FX45,FX45 AWD
+2005,Infiniti,G35,G35
+2005,Infiniti,Q45,Q45
+2005,Infiniti,QX56,QX56 2WD
+2005,Infiniti,QX56,QX56 4WD
+2005,Isuzu,Ascender,Ascender 5-passenger 2WD
+2005,Isuzu,Ascender,Ascender 5-passenger 4WD
+2005,Isuzu,Ascender,Ascender 7-passenger 2WD
+2005,Isuzu,Ascender,Ascender 7-passenger 4WD
+2005,Jaguar,S-type,S-Type 3.0 Litre
+2005,Jaguar,S-type,S-Type 4.2 Litre
+2005,Jaguar,S-type,S-Type R
+2005,Jaguar,Super V8,Super V8
+2005,Jaguar,Vdp,Vdp Lwb
+2005,Jaguar,X-Type,X-Type
+2005,Jaguar,X-Type,X-Type Sport Brake
+2005,Jaguar,XJ,XJ8 4.2 Litre
+2005,Jaguar,XJ,XJ8l
+2005,Jaguar,XJR,XJR 4.2 Litre
+2005,Jaguar,XK8,XK8
+2005,Jaguar,XK8,XK8 Convertible
+2005,Jaguar,XKR,XKR
+2005,Jaguar,XKR,XKR Convertible
+2005,Jeep,Grand Cherokee,Grand Cherokee 2WD
+2005,Jeep,Grand Cherokee,Grand Cherokee 4WD
+2005,Jeep,Liberty/Cherokee,Liberty/Cherokee 2WD
+2005,Jeep,Liberty/Cherokee,Liberty/Cherokee 4WD
+2005,Jeep,Wrangler/TJ,Wrangler/TJ 4WD
+2005,Kia,Amanti,Amanti
+2005,Kia,Optima,Optima
+2005,Kia,Rio,Rio
+2005,Kia,Sedona,Sedona
+2005,Kia,Sorento,Sorento 2WD
+2005,Kia,Sorento,Sorento 4WD
+2005,Kia,Spectra,Spectra
+2005,Kia,Sportage,Sportage 2WD
+2005,Kia,Sportage,Sportage 4WD
+2005,Lamborghini,Gallardo,L-140/141 Gallardo
+2005,Lamborghini,Murcielago,L-147/148 Murcielago
+2005,Land Rover,Freelander,Freelander
+2005,Land Rover,LR3,LR3
+2005,Land Rover,Range Rover,Range Rover
+2005,Lexus,ES,ES 330
+2005,Lexus,GS,GS 300/GS 430
+2005,Lexus,GX,GX 470
+2005,Lexus,IS,IS 300
+2005,Lexus,LS,LS 430
+2005,Lexus,LX,LX 470
+2005,Lexus,RX,RX 330 2WD
+2005,Lexus,RX,RX 330 4WD
+2005,Lexus,SC,SC 430
+2005,Lincoln,Aviator,Aviator 2WD
+2005,Lincoln,Aviator,Aviator 4WD
+2005,Lincoln,LS,LS
+2005,Lincoln,Navigator,Navigator 2WD
+2005,Lincoln,Town Car,Town Car
+2005,Lotus,Elise/exige,Elise/exige
+2005,Maserati,Coupe and Gransport,Coupe and Gransport
+2005,Maserati,Quattroporte,Quattroporte
+2005,Maserati,Spyder,Spyder Cambiocorsa/GT/90 ANV
+2005,Maybach,57,57
+2005,Maybach,62,62
+2005,Mazda,3,3
+2005,Mazda,6,6
+2005,Mazda,6,6 Sport Wagon
+2005,Mazda,B Pickup,B2300 2WD
+2005,Mazda,B Pickup,B3000
+2005,Mazda,B Pickup,B4000 2WD
+2005,Mazda,B Pickup,B4000 4WD
+2005,Mazda,MPV,MPV
+2005,Mazda,MX-5 Miata,MX-5 Miata
+2005,Mazda,RX-8,RX-8
+2005,Mazda,Tribute,Tribute 2WD
+2005,Mazda,Tribute,Tribute 4WD
+2005,Mercedes-Benz,C-Class,C230 Kompressor
+2005,Mercedes-Benz,C-Class,C230 Kompressor Sports Coupe
+2005,Mercedes-Benz,C-Class,C240 4matic
+2005,Mercedes-Benz,C-Class,C240 4matic (Wagon)
+2005,Mercedes-Benz,C-Class,C240 FFV
+2005,Mercedes-Benz,C-Class,C240 FFV (Wagon)
+2005,Mercedes-Benz,C-Class,C320
+2005,Mercedes-Benz,C-Class,C320 4matic
+2005,Mercedes-Benz,C-Class,C320 FFV
+2005,Mercedes-Benz,C-Class,C320 Sports Coupe
+2005,Mercedes-Benz,C-Class,C320 Sports Coupe FFV
+2005,Mercedes-Benz,C-Class,C55 AMG
+2005,Mercedes-Benz,CL-Class,CL500
+2005,Mercedes-Benz,CL-Class,CL55 AMG
+2005,Mercedes-Benz,CL-Class,CL600
+2005,Mercedes-Benz,CL-Class,CL65 AMG
+2005,Mercedes-Benz,CLK-Class,CLK320
+2005,Mercedes-Benz,CLK-Class,CLK320 (Cabriolet)
+2005,Mercedes-Benz,CLK-Class,CLK500
+2005,Mercedes-Benz,CLK-Class,CLK500 (Cabriolet)
+2005,Mercedes-Benz,CLK-Class,CLK55 AMG
+2005,Mercedes-Benz,CLK-Class,CLK55 AMG (Cabriolet)
+2005,Mercedes-Benz,E-Class,E320
+2005,Mercedes-Benz,E-Class,E320 (Wagon)
+2005,Mercedes-Benz,E-Class,E320 4matic
+2005,Mercedes-Benz,E-Class,E320 4matic (Wagon)
+2005,Mercedes-Benz,E-Class,E320 Cdi
+2005,Mercedes-Benz,E-Class,E500
+2005,Mercedes-Benz,E-Class,E500 4matic
+2005,Mercedes-Benz,E-Class,E500 4matic (Wagon)
+2005,Mercedes-Benz,E-Class,E55 AMG
+2005,Mercedes-Benz,E-Class,E55 AMG (Wagon)
+2005,Mercedes-Benz,G-Class,G500
+2005,Mercedes-Benz,G-Class,G55 AMG
+2005,Mercedes-Benz,ML-Class,ML350
+2005,Mercedes-Benz,ML-Class,ML500
+2005,Mercedes-Benz,S-Class,S430
+2005,Mercedes-Benz,S-Class,S430 4matic
+2005,Mercedes-Benz,S-Class,S500
+2005,Mercedes-Benz,S-Class,S500 4matic
+2005,Mercedes-Benz,S-Class,S55 AMG
+2005,Mercedes-Benz,S-Class,S600
+2005,Mercedes-Benz,SL-Class,SL500
+2005,Mercedes-Benz,SL-Class,SL55 AMG
+2005,Mercedes-Benz,SL-Class,SL600
+2005,Mercedes-Benz,SL-Class,SL65 AMG
+2005,Mercedes-Benz,SLK-Class,SLK350
+2005,Mercedes-Benz,SLK-Class,SLK55 AMG
+2005,Mercedes-Benz,SLR,SLR
+2005,Mercury,Grand Marquis,Grand Marquis
+2005,Mercury,Mariner,Mariner 2WD
+2005,Mercury,Mariner,Mariner 4WD
+2005,Mercury,Montego,Montego AWD
+2005,Mercury,Montego,Montego FWD
+2005,Mercury,Monterey,Monterey Wagon FWD
+2005,Mercury,Mountaineer,Mountaineer 2WD
+2005,Mercury,Mountaineer,Mountaineer 4WD
+2005,Mercury,Mountaineer,Mountaineer FFV 2WD
+2005,Mercury,Mountaineer,Mountaineer FFV 4WD
+2005,Mercury,Sable,Sable
+2005,Mercury,Sable,Sable Wagon
+2005,MINI,Cooper,Cooper
+2005,MINI,Cooper,Cooper Convertible
+2005,MINI,Cooper,Cooper S
+2005,MINI,Cooper,Cooper S Convertible
+2005,Mitsubishi,Diamante,Diamante Sedan
+2005,Mitsubishi,Eclipse,Eclipse
+2005,Mitsubishi,Eclipse,Eclipse Spyder
+2005,Mitsubishi,Endeavor,Endeavor 2WD
+2005,Mitsubishi,Endeavor,Endeavor 4WD
+2005,Mitsubishi,Galant,Galant
+2005,Mitsubishi,Lancer,Lancer
+2005,Mitsubishi,Lancer,Lancer Evolution
+2005,Mitsubishi,Lancer,Lancer Sportback
+2005,Mitsubishi,Montero,Montero
+2005,Mitsubishi,Outlander,Outlander 2WD
+2005,Mitsubishi,Outlander,Outlander 4WD
+2005,Nissan,350z,350z
+2005,Nissan,350z,350z Roadster
+2005,Nissan,Altima,Altima
+2005,Nissan,Armada,Armada 2WD
+2005,Nissan,Armada,Armada 4WD
+2005,Nissan,Frontier,Frontier 2WD
+2005,Nissan,Frontier,Frontier V6 2WD
+2005,Nissan,Frontier,Frontier V6 4WD
+2005,Nissan,Maxima,Maxima
+2005,Nissan,Murano,Murano AWD
+2005,Nissan,Murano,Murano FWD
+2005,Nissan,Pathfinder,Pathfinder 2WD
+2005,Nissan,Pathfinder,Pathfinder 4WD
+2005,Nissan,Quest,Quest
+2005,Nissan,Sentra,Sentra
+2005,Nissan,Titan,Titan 2WD
+2005,Nissan,Titan,Titan 4WD
+2005,Nissan,Xterra,Xterra 2WD
+2005,Nissan,Xterra,Xterra 4WD
+2005,Pontiac,Aztek,Aztek AWD
+2005,Pontiac,Aztek,Aztek FWD
+2005,Pontiac,Bonneville,Bonneville
+2005,Pontiac,G6,G6
+2005,Pontiac,Grand Am,Grand Am
+2005,Pontiac,Grand Prix,Grand Prix
+2005,Pontiac,GTO,GTO
+2005,Pontiac,Montana,Montana SVX AWD
+2005,Pontiac,Montana,Montana SVX FWD
+2005,Pontiac,Monterey,Monterey Wagon FWD
+2005,Pontiac,Sunfire,Sunfire
+2005,Pontiac,Vibe,Vibe
+2005,Pontiac,Vibe,Vibe AWD
+2005,Pontiac,Wave,Wave
+2005,Pontiac,Wave,Wave 5
+2005,Porsche,Boxster,Boxster
+2005,Porsche,Boxster,Boxster S
+2005,Porsche,Carrera 2 911 GT3,Carrera 2 911 GT3
+2005,Porsche,Carrera 2 Cabriolet,Carrera 2 Cabriolet
+2005,Porsche,Carrera 2 Cabriolet Kit,Carrera 2 Cabriolet Kit
+2005,Porsche,Carrera 2 Coupe,Carrera 2 Coupe
+2005,Porsche,Carrera 2 Coupe Kit,Carrera 2 Coupe Kit
+2005,Porsche,Carrera 2 S Cabriolet,Carrera 2 S Cabriolet
+2005,Porsche,Carrera 2 S Coupe,Carrera 2 S Coupe
+2005,Porsche,Carrera 4 Cabriolet,Carrera 4 Cabriolet
+2005,Porsche,Carrera 4 Cabriolet Kit,Carrera 4 Cabriolet Kit
+2005,Porsche,Carrera 4 S Cabriolet,Carrera 4 S Cabriolet
+2005,Porsche,Carrera 4 S Cabriolet Kit,Carrera 4 S Cabriolet Kit
+2005,Porsche,Carrera 4 S Coupe,Carrera 4 S Coupe
+2005,Porsche,Carrera 4 S Kit,Carrera 4 S Kit
+2005,Porsche,Carrera GT,Carrera GT
+2005,Porsche,Cayenne,Cayenne
+2005,Porsche,Cayenne,Cayenne S
+2005,Porsche,Cayenne,Cayenne Turbo
+2005,Porsche,Targa,Targa
+2005,Porsche,Targa,Targa Kit
+2005,Porsche,Turbo 2 911 GT2,Turbo 2 911 GT2
+2005,Porsche,Turbo 4 911 Cab,Turbo 4 911 Cab
+2005,Porsche,Turbo 4 911 Cab Kit,Turbo 4 911 Cab Kit
+2005,Porsche,Turbo 4 911 Kit,Turbo 4 911 Kit
+2005,Porsche,Turbo 4 911 S,Turbo 4 911 S
+2005,Porsche,Turbo 4 911 Turbo,Turbo 4 911 Turbo
+2005,Porsche,Turbo 4 911 Turbo Cab S,Turbo 4 911 Turbo Cab S
+2005,Rolls-Royce,Phantom,Phantom
+2005,Saab,9-2,9-2x Wagon AWD
+2005,Saab,9-3,9-3 Convertible
+2005,Saab,9-3,9-3 Sport Sedan
+2005,Saab,9-5,9-5
+2005,Saab,9-5,9-5 Wagon
+2005,Saab,9-7,9-7X AWD
+2005,Saturn,Ion,Ion
+2005,Saturn,L300,L300
+2005,Saturn,LW,LW300
+2005,Saturn,Relay,Relay AWD
+2005,Saturn,Relay,Relay FWD
+2005,Saturn,Vue,Vue AWD
+2005,Saturn,Vue,Vue FWD
+2005,Scion,tC,tC
+2005,Scion,xA,xA
+2005,Scion,xB,xB
+2005,Spyker,C8,C8 Laviolette
+2005,Spyker,C8,C8 Spyder
+2005,Spyker,C8,C8 Spyder Wide Body
+2005,Subaru,Baja,Baja AWD
+2005,Subaru,Forester,Forester AWD
+2005,Subaru,Impreza/Outback Sport,Impreza AWD
+2005,Subaru,Impreza/Outback Sport,Impreza Wagon/Outback SPT AWD
+2005,Subaru,Legacy/Outback,Legacy AWD
+2005,Subaru,Legacy/Outback,Legacy Wagon AWD
+2005,Subaru,Legacy/Outback,Outback AWD
+2005,Subaru,Legacy/Outback,Outback Wagon AWD
+2005,Suzuki,Aerio,Aerio
+2005,Suzuki,Aerio,Aerio AWD
+2005,Suzuki,Aerio,Aerio SX
+2005,Suzuki,Aerio,Aerio SX AWD
+2005,Suzuki,Forenza,Forenza
+2005,Suzuki,Forenza,Forenza Wagon
+2005,Suzuki,Grand Vitara,Grand Vitara
+2005,Suzuki,Grand Vitara,Grand Vitara 4WD
+2005,Suzuki,Grand Vitara,Grand Vitara XL7
+2005,Suzuki,Grand Vitara,Grand Vitara XL7 4WD
+2005,Suzuki,Reno,Reno
+2005,Suzuki,Swift,Swift
+2005,Suzuki,Swift,Swift x
+2005,Suzuki,Verona,Verona
+2005,Toyota,4Runner,4Runner 2WD
+2005,Toyota,4Runner,4Runner 4WD
+2005,Toyota,Avalon,Avalon
+2005,Toyota,Camry,Camry
+2005,Toyota,Camry,Camry Solara
+2005,Toyota,Camry,Camry Solara Convertible
+2005,Toyota,Celica,Celica
+2005,Toyota,Corolla,Corolla
+2005,Toyota,Echo,Echo
+2005,Toyota,Highlander,Highlander 2WD
+2005,Toyota,Highlander,Highlander 4WD
+2005,Toyota,Land Cruiser,Land Cruiser Wagon 4WD
+2005,Toyota,Matrix,Matrix
+2005,Toyota,Matrix,Matrix AWD
+2005,Toyota,MR2,MR2
+2005,Toyota,Prius,Prius
+2005,Toyota,RAV4,RAV4 2WD
+2005,Toyota,RAV4,RAV4 4WD
+2005,Toyota,Sequoia,Sequoia 2WD
+2005,Toyota,Sequoia,Sequoia 4WD
+2005,Toyota,Sienna,Sienna 2WD
+2005,Toyota,Sienna,Sienna 4WD
+2005,Toyota,Tacoma,Tacoma 2WD
+2005,Toyota,Tacoma,Tacoma 4WD
+2005,Toyota,Tundra,Tundra 2WD
+2005,Toyota,Tundra,Tundra 4WD
+2005,Volkswagen,Beetle,New Beetle
+2005,Volkswagen,Beetle,New Beetle Convertible
+2005,Volkswagen,Golf/GTI,Golf
+2005,Volkswagen,Golf/GTI,GTI
+2005,Volkswagen,Jetta,Jetta
+2005,Volkswagen,Jetta,Jetta Wagon
+2005,Volkswagen,Passat,Passat
+2005,Volkswagen,Passat,Passat 4motion
+2005,Volkswagen,Passat,Passat Wagon
+2005,Volkswagen,Passat,Passat Wagon 4motion
+2005,Volkswagen,Phaeton,Phaeton
+2005,Volkswagen,Touareg,Touareg
+2005,Volvo,S40,S40 AWD
+2005,Volvo,S40,S40 FWD
+2005,Volvo,S60,S60 AWD
+2005,Volvo,S60,S60 FWD
+2005,Volvo,S60,S60 R AWD
+2005,Volvo,S80,S80 AWD
+2005,Volvo,S80,S80 FWD
+2005,Volvo,V50,V50 AWD
+2005,Volvo,V50,V50 FWD
+2005,Volvo,V70,V70 AWD
+2005,Volvo,V70,V70 FWD
+2005,Volvo,V70,V70 R AWD
+2005,Volvo,XC70,XC70 AWD
+2005,Volvo,XC90,XC90 AWD
+2005,Volvo,XC90,XC90 FWD

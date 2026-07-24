@@ -1,0 +1,389 @@
+year,make,model,trim
+1995,Acura,Integra,Integra
+1995,Acura,Legend,Legend
+1995,Acura,NSX,NSX
+1995,Acura,TL,2.5TL
+1995,Alfa Romeo,164,164
+1995,Audi,80/90,90
+1995,Audi,80/90,90 quattro
+1995,Audi,A6,A6
+1995,Audi,A6,A6 quattro
+1995,Audi,A6,A6 quattro Wagon
+1995,Audi,A6,A6 Wagon
+1995,Audi,Cabriolet,Cabriolet
+1995,Audi,S6,S6
+1995,Audi,S6,S6 Wagon
+1995,BMW,3 Series,318i Convertible
+1995,BMW,3 Series,318i/318is
+1995,BMW,3 Series,318ti
+1995,BMW,3 Series,325i Convertible
+1995,BMW,3 Series,325i/325is
+1995,BMW,5 Series,525i
+1995,BMW,5 Series,525i Touring
+1995,BMW,5 Series,530i
+1995,BMW,5 Series,530i Touring
+1995,BMW,5 Series,540i
+1995,BMW,7 Series,740i
+1995,BMW,7 Series,740il
+1995,BMW,7 Series,750il
+1995,BMW,8 Series,840ci
+1995,BMW,8 Series,850ci
+1995,BMW,8 Series,850csi
+1995,BMW,M,M3
+1995,Buick,Century,Century
+1995,Buick,Century Wagon,Century Wagon
+1995,Buick,Coachbuilder Wagon,Coachbuilder Wagon
+1995,Buick,LeSabre,LeSabre
+1995,Buick,Park Avenue,Park Avenue
+1995,Buick,Regal,Regal
+1995,Buick,Riviera,Riviera
+1995,Buick,Roadmaster,Roadmaster
+1995,Buick,Roadmaster,Roadmaster Wagon
+1995,Buick,Skylark,Skylark
+1995,Cadillac,DeVille/Concourse,DeVille/Concourse
+1995,Cadillac,Eldorado,Eldorado
+1995,Cadillac,Fleetwood,Fleetwood
+1995,Cadillac,Seville,Seville
+1995,Chevrolet,Astro Cargo,Astro 2WD (cargo)
+1995,Chevrolet,Astro Cargo,Astro AWD (cargo)
+1995,Chevrolet,Astro Passenger,Astro 2WD (passenger)
+1995,Chevrolet,Astro Passenger,Astro AWD (passenger)
+1995,Chevrolet,Beretta,Beretta
+1995,Chevrolet,Blazer,Blazer 2WD
+1995,Chevrolet,Blazer,Blazer 4WD
+1995,Chevrolet,C1500 Pickup,C1500 Pickup 2WD
+1995,Chevrolet,Camaro,Camaro
+1995,Chevrolet,Cavalier,Cavalier
+1995,Chevrolet,Corsica,Corsica
+1995,Chevrolet,Corvette,Corvette
+1995,Chevrolet,G10/20 Van,G10/20 Van 2WD
+1995,Chevrolet,G10/20 Van,G10/20 Van 2WD (cargo)
+1995,Chevrolet,G30 Van,G30 Van 2WD
+1995,Chevrolet,G30 Van,G30 Van 2WD (cargo)
+1995,Chevrolet,Impala/Caprice,Caprice/Impala
+1995,Chevrolet,Impala/Caprice,Caprice/Impala Wagon
+1995,Chevrolet,K1500 Pickup,K1500 Pickup 4WD
+1995,Chevrolet,Lumina Minivan,Lumina Minivan 2WD
+1995,Chevrolet,Lumina/Monte Carlo,Lumina/Monte Carlo
+1995,Chevrolet,Pickup 2500,Pickup 2500 2WD
+1995,Chevrolet,Pickup 2500,Pickup 2500 4WD
+1995,Chevrolet,S10 Pickup,S10 Pickup 2WD
+1995,Chevrolet,S10 Pickup,S10 Pickup 4WD
+1995,Chevrolet,Sport Van,Sport Van G10/20 2WD
+1995,Chevrolet,Sport Van,Sport Van G10/20 2WD (passenger)
+1995,Chevrolet,Sport Van,Sport Van G30 2WD (cargo)
+1995,Chevrolet,Suburban,Suburban 1500 2WD
+1995,Chevrolet,Suburban,Suburban 1500 4WD
+1995,Chevrolet,Tahoe,Tahoe 1500 2WD
+1995,Chevrolet,Tahoe,Tahoe 1500 4WD
+1995,Chrysler,Cirrus,Cirrus
+1995,Chrysler,Concorde,Concorde
+1995,Chrysler,LeBaron,LeBaron Convertible
+1995,Chrysler,New Yorker/LHS,New Yorker/LHS
+1995,Chrysler,Sebring,Sebring
+1995,Chrysler,Town and Country,Town and Country 2WD
+1995,Chrysler,Town and Country,Town and Country 4WD
+1995,Dabryan Coach Builders Inc,WB,WB
+1995,Dodge,Avenger,Avenger
+1995,Dodge,B1500/B2500 Van,B1500/B2500 Van 2WD
+1995,Dodge,B1500/B2500 Wagon,B1500/B2500 Wagon 2WD
+1995,Dodge,B3500 Van,B3500 Van 2WD
+1995,Dodge,B3500 Wagon,B3500 Wagon 2WD
+1995,Dodge,Caravan C/V/Grand Caravan,Caravan C/V/Grand Caravan 2WD
+1995,Dodge,Caravan/Grand Caravan,Caravan/Grand Caravan 2WD
+1995,Dodge,Caravan/Grand Caravan,Caravan/Grand Caravan 4WD
+1995,Dodge,Dakota Cab Chassis,Dakota Cab Chassis 2WD
+1995,Dodge,Dakota Pickup,Dakota Pickup 2WD
+1995,Dodge,Dakota Pickup,Dakota Pickup 4WD
+1995,Dodge,Intrepid,Intrepid
+1995,Dodge,Neon,Neon
+1995,Dodge,Ram 1500 Pickup,Ram 1500 Pickup 2WD
+1995,Dodge,Ram 1500 Pickup,Ram 1500 Pickup 4WD
+1995,Dodge,Ram 2500 Pickup,Ram 2500 Pickup 2WD
+1995,Dodge,Ram 2500 Pickup,Ram 2500 Pickup 4WD
+1995,Dodge,Spirit,Spirit
+1995,Dodge,Stealth,Stealth
+1995,Dodge,Stratus,Stratus
+1995,Dodge,Viper,Viper
+1995,Eagle,Summit,Summit
+1995,Eagle,Summit,Summit Wagon
+1995,Eagle,Talon,Talon
+1995,Eagle,Vision,Vision
+1995,Federal Coach,24E,24E
+1995,Federal Coach,85J,85J
+1995,Federal Coach,Eagle,Eagle
+1995,Federal Coach,Formal,Formal
+1995,Federal Coach,Heritage,Heritage
+1995,Federal Coach,Lincoln 100J,Lincoln 100J
+1995,Federal Coach,Lincoln 24E,Lincoln 24E
+1995,Federal Coach,Lincoln 85J,Lincoln 85J
+1995,Federal Coach,Lincoln Eagle/Windsor,Lincoln Eagle/Windsor
+1995,Federal Coach,Lincoln Eaton,Lincoln Eaton
+1995,Federal Coach,Lincoln Stratford,Lincoln Stratford
+1995,Federal Coach,Renaissance,Renaissance
+1995,Federal Coach,Six Door,Six Door
+1995,Federal Coach,Windsor,Windsor
+1995,Ferrari,Ferrari 348 TB/TS/Spider,Ferrari 348 TB/TS/Spider
+1995,Ferrari,Ferrari 456,Ferrari 456 GT
+1995,Ferrari,Ferrari F355 Berlinetta/GTS,Ferrari F355 Berlinetta/GTS
+1995,Ferrari,Ferrari F50,Ferrari F50
+1995,Ferrari,Ferrari F512M,Ferrari F512M
+1995,Ford,Aerostar Van,Aerostar Van
+1995,Ford,Aerostar Wagon,Aerostar Wagon
+1995,Ford,Aerostar Wagon,Aerostar Wagon AWD
+1995,Ford,Aspire,Aspire
+1995,Ford,Bronco,Bronco 4WD
+1995,Ford,Contour,Contour
+1995,Ford,Crown Victoria,Crown Victoria
+1995,Ford,Crown Victoria,Crown Victoria Police
+1995,Ford,E150 Club Wagon,E150 Club Wagon
+1995,Ford,E150 Econoline,E150 Econoline 2WD
+1995,Ford,E250 Econoline,E250 Econoline 2WD
+1995,Ford,Escort,Escort
+1995,Ford,Escort,Escort Wagon
+1995,Ford,Explorer,Explorer 2WD
+1995,Ford,Explorer,Explorer 4WD
+1995,Ford,F150,F150 Pickup 2WD
+1995,Ford,F150,F150 Pickup 4WD
+1995,Ford,F150,Lightning F150 2WD
+1995,Ford,F250,F250 Pickup 2WD
+1995,Ford,Mustang,Mustang
+1995,Ford,Probe,Probe
+1995,Ford,Ranger,Ranger Pickup 2WD
+1995,Ford,Ranger,Ranger Pickup 4WD
+1995,Ford,Taurus,Taurus
+1995,Ford,Taurus,Taurus FFV
+1995,Ford,Taurus,Taurus SHO
+1995,Ford,Taurus,Taurus Wagon
+1995,Ford,Thunderbird,Thunderbird
+1995,Ford,Windstar,Windstar FWD Van
+1995,Ford,Windstar,Windstar FWD Wagon
+1995,Geo,Metro,Metro
+1995,Geo,Prizm,Prizm
+1995,GMC,Jimmy,Jimmy 2WD
+1995,GMC,Jimmy,Jimmy 4WD
+1995,GMC,Pickup,Rally G15/25 2WD
+1995,GMC,Rally,Rally G15/25 2WD
+1995,GMC,Rally,Rally G15/25 2WD (passenger)
+1995,GMC,Safari Cargo,Safari 2WD (cargo)
+1995,GMC,Safari Cargo,Safari AWD (cargo)
+1995,GMC,Safari Passenger,Safari 2WD (passenger)
+1995,GMC,Safari Passenger,Safari AWD (passenger)
+1995,GMC,Sierra,Sierra 1500 2WD
+1995,GMC,Sierra,Sierra 1500 4WD
+1995,GMC,Sierra,Sierra 2500 2WD
+1995,GMC,Sierra,Sierra 2500 4WD
+1995,GMC,Sonoma,Sonoma 2WD
+1995,GMC,Sonoma,Sonoma 4WD
+1995,GMC,Suburban,Suburban 1500 2WD
+1995,GMC,Suburban,Suburban 1500 4WD
+1995,GMC,Vandura,Vandura 2500 2WD
+1995,GMC,Vandura,Vandura G15/25 2WD
+1995,GMC,Vandura,Vandura G15/25 2WD (cargo)
+1995,GMC,Vandura,Vandura G35 2WD
+1995,GMC,Vandura,Vandura G35 2WD (cargo)
+1995,GMC,Yukon,Yukon 1500 2WD
+1995,GMC,Yukon,Yukon 1500 4WD
+1995,Honda,Accord,Accord
+1995,Honda,Accord,Accord Wagon
+1995,Honda,Civic,Civic
+1995,Honda,Civic,Civic HB VX
+1995,Honda,Del Sol,Civic Del Sol
+1995,Honda,Odyssey,Odyssey
+1995,Honda,Passport,Passport 2WD
+1995,Honda,Passport,Passport 4WD
+1995,Honda,Prelude,Prelude
+1995,Hyundai,Accent,Accent
+1995,Hyundai,Elantra,Elantra
+1995,Hyundai,Scoupe,Scoupe
+1995,Hyundai,Sonata,Sonata
+1995,Infiniti,G20,G20
+1995,Infiniti,J30,J30
+1995,Infiniti,Q45,Q45
+1995,Infiniti,Q45,Q45 Full-Active Suspension
+1995,Isuzu,Pickup,Pickup 2WD
+1995,Isuzu,Pickup,Pickup 4WD
+1995,Isuzu,Rodeo,Rodeo 2WD
+1995,Isuzu,Rodeo,Rodeo 4WD
+1995,Isuzu,Trooper,Trooper
+1995,Jaguar,XJ,XJ12
+1995,Jaguar,XJ,XJ6
+1995,Jaguar,XJR,XJR
+1995,Jaguar,XJS,XJS Convertible
+1995,Jaguar,XJS,XJS Coupe
+1995,Jaguar,XJS,XJS V12 Convertible
+1995,Jaguar,XJS,XJS V12 Coupe
+1995,Jeep,Cherokee,Cherokee 2WD
+1995,Jeep,Cherokee,Cherokee 4WD
+1995,Jeep,Grand Cherokee,Grand Cherokee 2WD
+1995,Jeep,Grand Cherokee,Grand Cherokee 4WD
+1995,Jeep,Wrangler,Wrangler 4WD
+1995,Kia,Sephia,Sephia
+1995,Kia,Sportage,Sportage 2WD
+1995,Kia,Sportage,Sportage 4WD
+1995,Lamborghini,Diablo,DB132/Diablo
+1995,Land Rover,Defender,Defender 90
+1995,Land Rover,Discovery,Discovery
+1995,Land Rover,Range Rover,Range Rover
+1995,Land Rover,Range Rover,Range Rover County Classic
+1995,Land Rover,Range Rover,Range Rover County LWB
+1995,Lexus,ES,ES 300
+1995,Lexus,GS,GS 300
+1995,Lexus,LS,LS 400
+1995,Lexus,SC,SC 300/SC 400
+1995,Lincoln,Continental,Continental
+1995,Lincoln,Mark VIII,Mark VIII
+1995,Lincoln,Town Car,Town Car
+1995,Lotus,Esprit,Esprit Turbo
+1995,Mazda,323,323
+1995,Mazda,626,626
+1995,Mazda,929,929
+1995,Mazda,B Pickup,B2300/B3000/B4000 Pickup 2WD
+1995,Mazda,B Pickup,B2300/B3000/B4000 Pickup 4WD
+1995,Mazda,Millenia,Millenia
+1995,Mazda,MPV,MPV
+1995,Mazda,MPV,MPV 4x4
+1995,Mazda,MX-3,MX-3
+1995,Mazda,MX-5 Miata,MX-5 Miata
+1995,Mazda,MX-6,MX-6
+1995,Mazda,Protege,Protege
+1995,Mazda,RX-7,RX-7
+1995,Mercedes-Benz,C-Class,C220
+1995,Mercedes-Benz,C-Class,C280
+1995,Mercedes-Benz,C-Class,C36
+1995,Mercedes-Benz,E-Class,E300 Diesel
+1995,Mercedes-Benz,E-Class,E320 Convertible
+1995,Mercedes-Benz,E-Class,E320 Coupe
+1995,Mercedes-Benz,E-Class,E320 Sedan
+1995,Mercedes-Benz,E-Class,E320 Wagon
+1995,Mercedes-Benz,E-Class,E420
+1995,Mercedes-Benz,S-Class,S320
+1995,Mercedes-Benz,S-Class,S350
+1995,Mercedes-Benz,S-Class,S420
+1995,Mercedes-Benz,S-Class,S500 Coupe
+1995,Mercedes-Benz,S-Class,S500 Sedan
+1995,Mercedes-Benz,S-Class,S600 Coupe
+1995,Mercedes-Benz,S-Class,S600 Sedan
+1995,Mercedes-Benz,SL-Class,SL320
+1995,Mercedes-Benz,SL-Class,SL500
+1995,Mercedes-Benz,SL-Class,SL600
+1995,Mercury,Cougar,Cougar
+1995,Mercury,Grand Marquis,Grand Marquis
+1995,Mercury,Mystique,Mystique
+1995,Mercury,Sable,Sable
+1995,Mercury,Sable,Sable Wagon
+1995,Mercury,Tracer,Tracer
+1995,Mercury,Tracer,Tracer Wagon
+1995,Mercury,Villager,Villager FWD Van
+1995,Mercury,Villager,Villager FWD Wagon
+1995,Mitsubishi,3000 GT,3000 GT
+1995,Mitsubishi,3000 GT Spyder,3000 GT Spyder
+1995,Mitsubishi,Diamante,Diamante
+1995,Mitsubishi,Eclipse,Eclipse
+1995,Mitsubishi,Expo,Expo
+1995,Mitsubishi,Expo,Expo.LRV
+1995,Mitsubishi,Galant,Galant
+1995,Mitsubishi,Mirage,Mirage
+1995,Mitsubishi,Montero,Montero
+1995,Mitsubishi,Truck,Truck 2WD
+1995,Mitsubishi,Truck,Truck 4WD
+1995,Nissan,240SX,240SX
+1995,Nissan,300ZX,300ZX
+1995,Nissan,300ZX,300ZX 2x2
+1995,Nissan,Altima / Stanza,Altima / Stanza
+1995,Nissan,Maxima,Maxima
+1995,Nissan,Pathfinder,Pathfinder 2WD
+1995,Nissan,Pathfinder,Pathfinder 4WD
+1995,Nissan,Pathfinder,Pathfinder Van (cargo)
+1995,Nissan,Quest,Quest
+1995,Nissan,Sentra,Sentra Classic
+1995,Nissan,Sentra/200SX,Sentra/200SX
+1995,Nissan,Truck,Truck 2WD
+1995,Nissan,Truck,Truck 4WD
+1995,Oldsmobile,Achieva,Achieva
+1995,Oldsmobile,Aurora,Aurora
+1995,Oldsmobile,Cutlass Ciera,Cutlass Ciera
+1995,Oldsmobile,Cutlass Cruiser,Cutlass Cruiser
+1995,Oldsmobile,Cutlass Supreme,Cutlass Supreme
+1995,Oldsmobile,Eighty-Eight,Eighty-Eight
+1995,Oldsmobile,Ninety-Eight,Ninety-Eight
+1995,Oldsmobile,Silhouette,Silhouette 2WD
+1995,Panoz Auto-Development,Panoz Roadster,Panoz Roadster
+1995,Plymouth,Acclaim,Acclaim
+1995,Plymouth,Neon,Neon
+1995,Plymouth,Voyager/Grand Voyager,Voyager/Grand Voyager 2WD
+1995,Plymouth,Voyager/Grand Voyager,Voyager/Grand Voyager 4WD
+1995,Pontiac,Bonneville,Bonneville
+1995,Pontiac,Firebird/Trans Am/Formula,Firebird/Formula
+1995,Pontiac,Grand Am,Grand Am
+1995,Pontiac,Grand Prix,Grand Prix
+1995,Pontiac,Sunfire,Sunfire
+1995,Pontiac,Trans Sport/Montana,Trans Sport 2WD
+1995,Porsche,911,911 Carrera 4/2
+1995,Porsche,928,928 GTS
+1995,Porsche,968,968
+1995,Rolls-Royce,Brooklands/Turbo R,Brooklands and (LWB)
+1995,Rolls-Royce,Brooklands/Turbo R,Turbo R/Rl Bklds Turbo/LWB
+1995,Rolls-Royce,Corniche/Continental,Continental
+1995,Rolls-Royce,Corniche/Continental,Continental (turbo)
+1995,Rolls-Royce,Corniche/Continental,Continental R
+1995,Rolls-Royce,Corniche/Continental,Corniche IV
+1995,Rolls-Royce,Corniche/Continental,Corniche S
+1995,Rolls-Royce,Flying Spur,Flying Spur
+1995,Rolls-Royce,Silver Spur III Limousine,Silver Spur III Limousine
+1995,Rolls-Royce,Spirit III/Spur III/Dawn,Spirit III/Spur III/Dawn
+1995,Saab,900,900
+1995,Saab,900,900 Convertible
+1995,Saab,9000,9000
+1995,Saleen,Mustang,Mustang S351
+1995,Saturn,SC,SC
+1995,Saturn,SL,SL
+1995,Saturn,SW,SW
+1995,Subaru,Impreza/Outback Sport,Impreza
+1995,Subaru,Impreza/Outback Sport,Impreza AWD
+1995,Subaru,Impreza/Outback Sport,Impreza Wagon
+1995,Subaru,Impreza/Outback Sport,Impreza Wagon AWD
+1995,Subaru,Legacy/Outback,Legacy
+1995,Subaru,Legacy/Outback,Legacy AWD
+1995,Subaru,Legacy/Outback,Legacy Wagon
+1995,Subaru,Legacy/Outback,Legacy Wagon AWD
+1995,Subaru,SVX,SVX
+1995,Subaru,SVX,SVX AWD
+1995,Suzuki,Samurai,Samurai
+1995,Suzuki,Swift,Swift
+1995,Toyota,4Runner,4Runner 2WD
+1995,Toyota,4Runner,4Runner 4WD
+1995,Toyota,Avalon,Avalon
+1995,Toyota,Camry,Camry
+1995,Toyota,Camry,Camry Wagon
+1995,Toyota,Celica,Celica
+1995,Toyota,Celica,Celica Convertible
+1995,Toyota,Corolla,Corolla
+1995,Toyota,Corolla,Corolla Wagon
+1995,Toyota,Land Cruiser,Land Cruiser Wagon 4WD
+1995,Toyota,MR2,MR2
+1995,Toyota,Paseo,Paseo
+1995,Toyota,Previa,Previa
+1995,Toyota,Previa,Previa All-Trac
+1995,Toyota,Supra,Supra
+1995,Toyota,Tacoma,Tacoma 2WD
+1995,Toyota,Tacoma,Tacoma 4WD
+1995,Toyota,Tercel,Tercel
+1995,Toyota,Truck/T100,T100 2WD
+1995,Toyota,Truck/T100,T100 4WD
+1995,Toyota,Truck/T100,Truck 2WD
+1995,Toyota,Truck/T100,Truck 4WD
+1995,Volkswagen,Cabrio,Cabrio
+1995,Volkswagen,Eurovan,Eurovan Camper
+1995,Volkswagen,Golf/GTI,Golf III
+1995,Volkswagen,Golf/GTI,GTI VR6
+1995,Volkswagen,Jetta,Jetta III
+1995,Volkswagen,Jetta,Jetta III GLX
+1995,Volkswagen,Passat,Passat
+1995,Volkswagen,Passat,Passat Wagon
+1995,Volvo,850,850
+1995,Volvo,850,850 Wagon
+1995,Volvo,940,940
+1995,Volvo,940,940 Wagon
+1995,Volvo,960,960
+1995,Volvo,960,960 Wagon

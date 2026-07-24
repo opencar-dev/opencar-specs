@@ -1,0 +1,11 @@
+/raw/
+/data/oem.db
+/data/oem.db-*
+/www/public/oem.db
+/www/public/sql-wasm.wasm
+/www/public/sql-wasm.js
+/www/dist/
+**/node_modules/
+.DS_Store
+.env
+.env.*

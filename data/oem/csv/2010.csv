@@ -1,0 +1,626 @@
+year,make,model,trim
+2010,Acura,MDX,MDX 4WD
+2010,Acura,RDX,RDX 2WD
+2010,Acura,RDX,RDX 4WD
+2010,Acura,RL,RL
+2010,Acura,TL,TL 2WD
+2010,Acura,TL,TL 4WD
+2010,Acura,TSX,TSX
+2010,Acura,ZDX,ZDX 4WD
+2010,Aston Martin,DB9,DB9
+2010,Aston Martin,DBS,DBS
+2010,Aston Martin,Rapide,Rapide
+2010,Aston Martin,Vantage,V8 Vantage
+2010,Audi,A3,A3
+2010,Audi,A3,A3 quattro
+2010,Audi,A4,A4
+2010,Audi,A4,A4 Avant quattro
+2010,Audi,A4,A4 quattro
+2010,Audi,A5,A5 Cabriolet
+2010,Audi,A5,A5 Cabriolet quattro
+2010,Audi,A5,A5 quattro
+2010,Audi,A6,A6
+2010,Audi,A6,A6 Avant quattro
+2010,Audi,A6,A6 quattro
+2010,Audi,A8,A8
+2010,Audi,A8,A8 L
+2010,Audi,Q5,Q5
+2010,Audi,Q7,Q7
+2010,Audi,R8,R8
+2010,Audi,S4,S4
+2010,Audi,S5,S5
+2010,Audi,S5,S5 Cabriolet
+2010,Audi,S6,S6
+2010,Audi,TT Coupe,TT Coupe quattro
+2010,Audi,TT Roadster,TT Roadster quattro
+2010,Bentley,Azure,Azure
+2010,Bentley,Brooklands,Brooklands
+2010,Bentley,Continental,Continental GT
+2010,Bentley,Continental,Continental GTC
+2010,Bentley,Continental Flying Spur,Continental Flying Spur
+2010,Bentley,Continental Supersports,Continental Supersports
+2010,BMW,1 Series,128ci Convertible
+2010,BMW,1 Series,128i
+2010,BMW,1 Series,135i
+2010,BMW,1 Series,135i Convertible
+2010,BMW,3 Series,328ci
+2010,BMW,3 Series,328ci Convertible
+2010,BMW,3 Series,328ci xDrive
+2010,BMW,3 Series,328i
+2010,BMW,3 Series,328i Sport Wagon
+2010,BMW,3 Series,328i Sport Wagon xDrive
+2010,BMW,3 Series,328i xDrive
+2010,BMW,3 Series,335ci
+2010,BMW,3 Series,335ci Convertible
+2010,BMW,3 Series,335ci xDrive
+2010,BMW,3 Series,335d
+2010,BMW,3 Series,335i
+2010,BMW,3 Series,335i xDrive
+2010,BMW,5 Series,528i
+2010,BMW,5 Series,528i xDrive
+2010,BMW,5 Series,535i
+2010,BMW,5 Series,535i Gran Turismo
+2010,BMW,5 Series,535i Sport Wagon xDrive
+2010,BMW,5 Series,535i xDrive
+2010,BMW,5 Series,550 GT
+2010,BMW,5 Series,550i
+2010,BMW,5 Series,550i xDrive GT
+2010,BMW,6 Series,650ci
+2010,BMW,6 Series,650ci Convertible
+2010,BMW,7 Series,750i
+2010,BMW,7 Series,750i xDrive
+2010,BMW,7 Series,750Li
+2010,BMW,7 Series,750Li xDrive
+2010,BMW,7 Series,760Li
+2010,BMW,ActiveHybrid X6,ActiveHybrid X6
+2010,BMW,M,M3
+2010,BMW,M,M3 Convertible
+2010,BMW,M,M3 Coupe
+2010,BMW,M,M5
+2010,BMW,M,M6
+2010,BMW,M,M6 Convertible
+2010,BMW,X3,X3 xDrive30i
+2010,BMW,X5,X5 xDrive30i
+2010,BMW,X5,X5 xDrive35d
+2010,BMW,X5,X5 xDrive48i
+2010,BMW,X5,X5 xDriveM
+2010,BMW,X6,X6 xDrive35i
+2010,BMW,X6,X6 xDrive50i
+2010,BMW,X6,X6 xDriveM
+2010,BMW,Z4,Z4 sDrive30i
+2010,BMW,Z4,Z4 sDrive35i
+2010,Bugatti,Veyron,Veyron
+2010,Buick,Enclave,Enclave AWD
+2010,Buick,Enclave,Enclave FWD
+2010,Buick,Lacrosse/Allure,Lacrosse/Allure
+2010,Buick,Lacrosse/Allure,Lacrosse/Allure AWD
+2010,Buick,Lucerne,Lucerne
+2010,Cadillac,CTS,CTS
+2010,Cadillac,CTS,CTS AWD
+2010,Cadillac,CTS,CTS Wagon
+2010,Cadillac,CTS,CTS Wagon AWD
+2010,Cadillac,CTS,CTS-V
+2010,Cadillac,DTS,DTS
+2010,Cadillac,Escalade,Escalade 2WD
+2010,Cadillac,Escalade,Escalade AWD
+2010,Cadillac,Escalade,Escalade ESV 2WD
+2010,Cadillac,Escalade,Escalade Hybrid 2WD
+2010,Cadillac,Funeral Coach/Hearse,Funeral Coach / Hearse
+2010,Cadillac,Limousine,Limousine
+2010,Cadillac,SRX,SRX 2WD
+2010,Cadillac,SRX,SRX AWD
+2010,Cadillac,STS,STS
+2010,Cadillac,STS,STS AWD
+2010,Chevrolet,Avalanche,Avalanche 1500 2WD
+2010,Chevrolet,Aveo,Aveo
+2010,Chevrolet,Aveo,Aveo 5
+2010,Chevrolet,Camaro,Camaro
+2010,Chevrolet,Cobalt,Cobalt Coupe
+2010,Chevrolet,Cobalt,Cobalt Sedan
+2010,Chevrolet,Cobalt,Cobalt SS Coupe
+2010,Chevrolet,Cobalt,Cobalt XFE Coupe
+2010,Chevrolet,Cobalt,Cobalt XFE Sedan
+2010,Chevrolet,Colorado,Colorado 2WD
+2010,Chevrolet,Colorado,Colorado 4WD
+2010,Chevrolet,Colorado,Colorado Cab Chassis inc 2WD
+2010,Chevrolet,Colorado,Colorado Cab Chassis inc 4WD
+2010,Chevrolet,Colorado,Colorado Crew Cab 2WD
+2010,Chevrolet,Colorado,Colorado Crew Cab 4WD
+2010,Chevrolet,Corvette,Corvette
+2010,Chevrolet,Equinox,Equinox AWD
+2010,Chevrolet,Equinox,Equinox FWD
+2010,Chevrolet,Express Cargo,Express 1500 2WD Cargo
+2010,Chevrolet,Express Cargo,Express 1500 2WD Conversion Cargo
+2010,Chevrolet,Express Cargo,Express 1500 AWD Cargo
+2010,Chevrolet,Express Cargo,Express 1500 AWD Conversion Cargo
+2010,Chevrolet,Express Passenger,Express 1500 2WD Passenger
+2010,Chevrolet,Express Passenger,Express 1500 AWD Passenger
+2010,Chevrolet,HHR,HHR FWD
+2010,Chevrolet,HHR,HHR Panel FWD
+2010,Chevrolet,Impala,Impala
+2010,Chevrolet,Malibu,Malibu
+2010,Chevrolet,Malibu,Malibu Hybrid
+2010,Chevrolet,Silverado,Silverado 15 Hybrid 2WD
+2010,Chevrolet,Silverado,Silverado 15 Hybrid 4WD
+2010,Chevrolet,Silverado,Silverado C15 2WD
+2010,Chevrolet,Silverado,Silverado C15 XFE 2WD
+2010,Chevrolet,Silverado,Silverado K15 4WD
+2010,Chevrolet,Suburban,Suburban 1500 2WD
+2010,Chevrolet,Tahoe,Tahoe 1500 2WD
+2010,Chevrolet,Tahoe,Tahoe 1500 4WD
+2010,Chevrolet,Tahoe,Tahoe Hybrid 2WD
+2010,Chevrolet,Tahoe,Tahoe Hybrid 4WD
+2010,Chevrolet,Traverse,Traverse AWD
+2010,Chevrolet,Traverse,Traverse FWD
+2010,Chrysler,300,300 AWD
+2010,Chrysler,300 SRT8,300/SRT-8
+2010,Chrysler,PT Cruiser,PT Cruiser
+2010,Chrysler,Sebring,Sebring
+2010,Chrysler,Sebring,Sebring Convertible
+2010,Chrysler,Town and Country,Town and Country
+2010,Dodge,Avenger,Avenger
+2010,Dodge,Caliber,Caliber
+2010,Dodge,Challenger,Challenger
+2010,Dodge,Charger,Charger
+2010,Dodge,Charger,Charger AWD
+2010,Dodge,Dakota Pickup,Dakota Pickup 2WD
+2010,Dodge,Dakota Pickup,Dakota Pickup 4WD
+2010,Dodge,Grand Caravan,Grand Caravan
+2010,Dodge,Journey,Journey  2WD
+2010,Dodge,Journey,Journey  AWD
+2010,Dodge,Nitro,Nitro 2WD
+2010,Dodge,Nitro,Nitro 4WD
+2010,Dodge,Ram 1500 Pickup,Ram 1500 Pickup 2WD
+2010,Dodge,Ram 1500 Pickup,Ram 1500 Pickup 4WD
+2010,Dodge,Viper,Viper Convertible
+2010,Dodge,Viper,Viper Coupe
+2010,Ferrari,458 Italia,458 Italia
+2010,Ferrari,599 GTB Fiorano,599 GTB Fiorano
+2010,Ferrari,612 Scaglietti,612 Scaglietti
+2010,Ferrari,California,California
+2010,Ford,Crown Victoria,Crown Victoria FFV
+2010,Ford,Edge,Edge AWD
+2010,Ford,Edge,Edge FWD
+2010,Ford,Escape,Escape 4WD
+2010,Ford,Escape,Escape 4WD FFV
+2010,Ford,Escape,Escape FWD
+2010,Ford,Escape,Escape FWD FFV
+2010,Ford,Escape,Escape Hybrid 4WD
+2010,Ford,Escape,Escape Hybrid FWD
+2010,Ford,Expedition,Expedition 2WD FFV
+2010,Ford,Expedition,Expedition 4WD FFV
+2010,Ford,Explorer,Explorer 2WD
+2010,Ford,Explorer,Explorer 4WD
+2010,Ford,Explorer,Explorer Sport Trac 2WD
+2010,Ford,Explorer,Explorer Sport Trac 4WD
+2010,Ford,F150,F150 Pickup 2WD
+2010,Ford,F150,F150 Pickup 2WD FFV
+2010,Ford,F150,F150 Pickup 4WD
+2010,Ford,F150,F150 Pickup 4WD FFV
+2010,Ford,Flex,Flex AWD
+2010,Ford,Flex,Flex FWD
+2010,Ford,Focus,Focus FWD
+2010,Ford,Fusion,Fusion AWD
+2010,Ford,Fusion,Fusion AWD FFV
+2010,Ford,Fusion,Fusion FWD
+2010,Ford,Fusion,Fusion FWD FFV
+2010,Ford,Fusion,Fusion Hybrid FWD
+2010,Ford,Fusion,Fusion S FWD
+2010,Ford,Mustang,Mustang
+2010,Ford,Ranger,Ranger 2WD
+2010,Ford,Ranger,Ranger 4WD
+2010,Ford,Taurus,Taurus AWD
+2010,Ford,Taurus,Taurus FWD
+2010,Ford,Transit Connect,Transit Connect
+2010,GMC,Acadia,Acadia AWD
+2010,GMC,Acadia,Acadia FWD
+2010,GMC,Canyon,Canyon 2WD
+2010,GMC,Canyon,Canyon 4WD
+2010,GMC,Canyon,Canyon Cab Chassis Inc 2WD
+2010,GMC,Canyon,Canyon Cab Chassis Inc 4WD
+2010,GMC,Canyon,Canyon Crew Cab 2WD
+2010,GMC,Canyon,Canyon Crew Cab 4WD
+2010,GMC,Savana Cargo,Savana 1500  AWD (cargo)
+2010,GMC,Savana Cargo,Savana 1500  AWD Conversion (cargo)
+2010,GMC,Savana Cargo,Savana 1500 2WD (cargo)
+2010,GMC,Savana Cargo,Savana 1500 2WD Conversion (cargo)
+2010,GMC,Savana Passenger,Savana 1500 2WD (Passenger)
+2010,GMC,Savana Passenger,Savana 1500 AWD (Passenger)
+2010,GMC,Sierra,Sierra 15 Hybrid 2WD
+2010,GMC,Sierra,Sierra 15 Hybrid 4WD
+2010,GMC,Sierra,Sierra C15 2WD
+2010,GMC,Sierra,Sierra C15 XFE 2WD
+2010,GMC,Sierra,Sierra K15 4WD
+2010,GMC,Sierra,Sierra K15 AWD
+2010,GMC,Terrain,Terrain AWD
+2010,GMC,Terrain,Terrain FWD
+2010,GMC,Yukon,Yukon 1500 2WD
+2010,GMC,Yukon,Yukon 1500 4WD
+2010,GMC,Yukon,Yukon 1500 Hybrid 2WD
+2010,GMC,Yukon,Yukon 1500 Hybrid 4WD
+2010,GMC,Yukon,Yukon Denali 1500 AWD
+2010,GMC,Yukon,Yukon XL 1500 2WD
+2010,Honda,Accord,Accord
+2010,Honda,Accord,Accord Coupe
+2010,Honda,Civic,Civic
+2010,Honda,Civic,Civic CNG
+2010,Honda,Civic,Civic Hybrid
+2010,Honda,CR-V,CR-V 2WD
+2010,Honda,CR-V,CR-V 4WD
+2010,Honda,Crosstour,Accord Crosstour 2WD
+2010,Honda,Crosstour,Accord Crosstour 4WD
+2010,Honda,Element,Element 2WD
+2010,Honda,Element,Element 4WD
+2010,Honda,Fit,Fit
+2010,Honda,Insight,Insight
+2010,Honda,Odyssey,Odyssey
+2010,Honda,Pilot,Pilot 2WD
+2010,Honda,Pilot,Pilot 4WD
+2010,Honda,Ridgeline,Ridgeline Truck 4WD
+2010,Hummer,H3,H3 4WD
+2010,Hummer,H3T,H3T 4WD
+2010,Hyundai,Accent,Accent
+2010,Hyundai,Accent,Accent Blue
+2010,Hyundai,Azera,Azera
+2010,Hyundai,Elantra,Elantra
+2010,Hyundai,Elantra,Elantra Blue
+2010,Hyundai,Elantra,Elantra Touring
+2010,Hyundai,Entourage,Entourage
+2010,Hyundai,Genesis,Genesis
+2010,Hyundai,Genesis,Genesis Coupe
+2010,Hyundai,Santa Fe,Santa Fe 2WD
+2010,Hyundai,Santa Fe,Santa Fe 4WD
+2010,Hyundai,Sonata,Sonata
+2010,Hyundai,Tucson,Tucson 2WD
+2010,Hyundai,Tucson,Tucson 4WD
+2010,Hyundai,Veracruz,Veracruz 2WD
+2010,Hyundai,Veracruz,Veracruz 4WD
+2010,Infiniti,EX35,EX35
+2010,Infiniti,EX35,EX35 AWD
+2010,Infiniti,FX35,FX35 AWD
+2010,Infiniti,FX35,FX35 RWD
+2010,Infiniti,FX50,FX50
+2010,Infiniti,G37,G37
+2010,Infiniti,G37,G37 Convertible
+2010,Infiniti,G37,G37 Coupe
+2010,Infiniti,G37,G37x
+2010,Infiniti,G37,G37x Coupe
+2010,Infiniti,M35,M35
+2010,Infiniti,M35,M35x
+2010,Infiniti,M45,M45
+2010,Infiniti,M45,M45x
+2010,Infiniti,QX56,QX56 2WD
+2010,Infiniti,QX56,QX56 4WD
+2010,Jaguar,XF,XF
+2010,Jaguar,XJ,XJ
+2010,Jaguar,XK,XK
+2010,Jaguar,XK,XK Convertible
+2010,Jeep,Commander,Commander 2WD
+2010,Jeep,Commander,Commander 4WD
+2010,Jeep,Compass,Compass 2WD
+2010,Jeep,Compass,Compass 4WD
+2010,Jeep,Grand Cherokee,Grand Cherokee 2WD
+2010,Jeep,Grand Cherokee,Grand Cherokee 4WD
+2010,Jeep,Grand Cherokee,Grand Cherokee SRT8 AWD
+2010,Jeep,Liberty,Liberty 2WD
+2010,Jeep,Liberty,Liberty 4WD
+2010,Jeep,Patriot,Patriot 2WD
+2010,Jeep,Patriot,Patriot 4WD
+2010,Jeep,Wrangler,Wrangler 2WD
+2010,Jeep,Wrangler,Wrangler 4WD
+2010,Kia,Borrego,Borrego 2WD
+2010,Kia,Borrego,Borrego 4WD
+2010,Kia,Forte,Forte
+2010,Kia,Optima,Optima
+2010,Kia,Rio,Rio
+2010,Kia,Rondo,Rondo
+2010,Kia,Sedona,Sedona
+2010,Kia,Soul,Soul
+2010,Kia,Sportage,Sportage 2WD
+2010,Kia,Sportage,Sportage 4WD
+2010,Lamborghini,Gallardo,Gallardo Coupe
+2010,Lamborghini,Gallardo,Gallardo Spyder
+2010,Lamborghini,Murcielago,Murcielago
+2010,Lamborghini,Murcielago,Murcielago Reventon Roadster
+2010,Lamborghini,Murcielago,Murcielago Roadster
+2010,Land Rover,LR2,LR2
+2010,Land Rover,LR4,LR4
+2010,Land Rover,Range Rover,Range Rover
+2010,Land Rover,Range Rover,Range Rover Sport
+2010,Lexus,ES,ES 350
+2010,Lexus,GS,GS 350
+2010,Lexus,GS,GS 350 AWD
+2010,Lexus,GS,GS 450h
+2010,Lexus,GS,GS 460
+2010,Lexus,GX,GX 460
+2010,Lexus,HS,HS 250h
+2010,Lexus,IS,IS 250 AWD
+2010,Lexus,IS,IS 250/IS 250C
+2010,Lexus,IS,IS 350/IS 350C
+2010,Lexus,IS F,IS F
+2010,Lexus,LS,LS 460
+2010,Lexus,LS,LS 460 AWD
+2010,Lexus,LS,LS 460 L
+2010,Lexus,LS,LS 460 L AWD
+2010,Lexus,LS,LS 600h L
+2010,Lexus,LX,LX 570
+2010,Lexus,RX,RX 350 2WD
+2010,Lexus,RX,RX 350 AWD
+2010,Lexus,RX,RX 450h
+2010,Lexus,RX,RX 450h AWD
+2010,Lexus,SC,SC 430
+2010,Lincoln,MKS,MKS AWD
+2010,Lincoln,MKS,MKS FWD
+2010,Lincoln,MKT,MKT AWD
+2010,Lincoln,MKT,MKT FWD
+2010,Lincoln,MKX,MKX AWD
+2010,Lincoln,MKX,MKX FWD
+2010,Lincoln,MKZ,MKZ AWD
+2010,Lincoln,MKZ,MKZ FWD
+2010,Lincoln,Navigator,Navigator 2WD FFV
+2010,Lincoln,Town Car,Town Car FFV
+2010,Lotus,Elise/Exige,Elise/Exige
+2010,Lotus,Evora,Evora
+2010,Maserati,GranTurismo,GranTurismo
+2010,Maserati,GranTurismo,GranTurismo Convertible
+2010,Maserati,Quattroporte,Quattroporte
+2010,Maybach,57,57
+2010,Maybach,57,57 Zeppelin
+2010,Maybach,57,57S
+2010,Mazda,3,3
+2010,Mazda,5,5
+2010,Mazda,6,6
+2010,Mazda,CX-7,CX-7 2WD
+2010,Mazda,CX-7,CX-7 4WD
+2010,Mazda,CX-9,CX-9 2WD
+2010,Mazda,CX-9,CX-9 4WD
+2010,Mazda,MX-5,MX-5
+2010,Mazda,RX-8,RX-8
+2010,Mazda,Speed 3,Speed 3
+2010,Mazda,Tribute,Tribute 4WD
+2010,Mazda,Tribute,Tribute 4WD FFV
+2010,Mazda,Tribute,Tribute FWD
+2010,Mazda,Tribute,Tribute FWD FFV
+2010,Mazda,Tribute,Tribute Hybrid 2WD
+2010,Mazda,Tribute,Tribute Hybrid 4WD
+2010,Mercedes-Benz,C-Class,C300
+2010,Mercedes-Benz,C-Class,C300 4matic
+2010,Mercedes-Benz,C-Class,C350
+2010,Mercedes-Benz,C-Class,C63 AMG
+2010,Mercedes-Benz,CL-Class,CL550 4matic
+2010,Mercedes-Benz,CL-Class,CL600
+2010,Mercedes-Benz,CL-Class,CL63 AMG
+2010,Mercedes-Benz,CL-Class,CL65 AMG
+2010,Mercedes-Benz,CLS-Class,CLS550
+2010,Mercedes-Benz,CLS-Class,CLS63 AMG
+2010,Mercedes-Benz,E-Class,E350
+2010,Mercedes-Benz,E-Class,E350 4matic
+2010,Mercedes-Benz,E-Class,E350 Coupe
+2010,Mercedes-Benz,E-Class,E550
+2010,Mercedes-Benz,E-Class,E550 4matic
+2010,Mercedes-Benz,E-Class,E550 Coupe
+2010,Mercedes-Benz,E-Class,E63 AMG
+2010,Mercedes-Benz,G-Class,G55 AMG
+2010,Mercedes-Benz,G-Class,G550
+2010,Mercedes-Benz,GL-Class,GL450 4matic
+2010,Mercedes-Benz,GL-Class,GL550 4matic
+2010,Mercedes-Benz,GLK-Class,GLK350
+2010,Mercedes-Benz,GLK-Class,GLK350 4matic
+2010,Mercedes-Benz,ML-Class,ML350
+2010,Mercedes-Benz,ML-Class,ML350 4matic
+2010,Mercedes-Benz,ML-Class,ML450 Hybrid 4matic
+2010,Mercedes-Benz,ML-Class,ML550 4matic
+2010,Mercedes-Benz,ML-Class,ML63 AMG
+2010,Mercedes-Benz,R-Class,R350 4matic
+2010,Mercedes-Benz,S-Class,S400 Hybrid
+2010,Mercedes-Benz,S-Class,S550
+2010,Mercedes-Benz,S-Class,S550 4matic
+2010,Mercedes-Benz,S-Class,S600
+2010,Mercedes-Benz,S-Class,S63 AMG
+2010,Mercedes-Benz,S-Class,S65 AMG
+2010,Mercedes-Benz,SLK-Class,SLK300
+2010,Mercedes-Benz,SLK-Class,SLK350
+2010,Mercedes-Benz,SLK-Class,SLK55 AMG
+2010,Mercury,Grand Marquis,Grand Marquis FFV
+2010,Mercury,Mariner,Mariner 4WD
+2010,Mercury,Mariner,Mariner 4WD FFV
+2010,Mercury,Mariner,Mariner FWD
+2010,Mercury,Mariner,Mariner FWD FFV
+2010,Mercury,Mariner,Mariner Hybrid 4WD
+2010,Mercury,Mariner,Mariner Hybrid FWD
+2010,Mercury,Milan,Milan
+2010,Mercury,Milan,Milan AWD FFV
+2010,Mercury,Milan,Milan FFV
+2010,Mercury,Milan,Milan Hybrid FWD
+2010,Mercury,Milan,Milan S
+2010,Mercury,Mountaineer,Mountaineer 2WD
+2010,Mercury,Mountaineer,Mountaineer AWD
+2010,MINI,Clubman,Clubman
+2010,MINI,Clubman,Clubman S
+2010,MINI,Clubman,John Cooper Works Clubman
+2010,MINI,Cooper,Cooper
+2010,MINI,Cooper,Cooper Convertible
+2010,MINI,Cooper,Cooper S
+2010,MINI,Cooper,Cooper S Convertible
+2010,MINI,John Cooper Works,John Cooper Works
+2010,MINI,John Cooper Works,John Cooper Works Convertible
+2010,Mitsubishi,Eclipse,Eclipse
+2010,Mitsubishi,Eclipse,Eclipse Spyder
+2010,Mitsubishi,Endeavor,Endeavor 2WD
+2010,Mitsubishi,Endeavor,Endeavor AWD
+2010,Mitsubishi,Galant,Galant
+2010,Mitsubishi,Lancer,Lancer
+2010,Mitsubishi,Lancer,Lancer Evolution
+2010,Mitsubishi,Lancer,Lancer Sportback
+2010,Mitsubishi,Outlander,Outlander 2WD
+2010,Mitsubishi,Outlander,Outlander 4WD
+2010,Mitsubishi,Raider Pickup,Raider Pickup 2WD
+2010,Nissan,370Z,370Z
+2010,Nissan,370Z,370Z Roadster
+2010,Nissan,Altima,Altima
+2010,Nissan,Altima,Altima Coupe
+2010,Nissan,Altima,Altima Hybrid
+2010,Nissan,Armada,Armada 2WD
+2010,Nissan,Armada,Armada 2WD FFV
+2010,Nissan,Armada,Armada 4WD
+2010,Nissan,Armada,Armada 4WD FFV
+2010,Nissan,Cube,Cube
+2010,Nissan,Frontier,Frontier 2WD
+2010,Nissan,Frontier,Frontier 4WD
+2010,Nissan,GT-R,GT-R
+2010,Nissan,Maxima,Maxima
+2010,Nissan,Murano,Murano AWD
+2010,Nissan,Murano,Murano FWD
+2010,Nissan,Pathfinder,Pathfinder 2WD
+2010,Nissan,Pathfinder,Pathfinder 4WD
+2010,Nissan,Pathfinder,Pathfinder FE 2WD
+2010,Nissan,Rogue,Rogue AWD
+2010,Nissan,Rogue,Rogue FWD
+2010,Nissan,Sentra,Sentra
+2010,Nissan,Titan,Titan 2WD
+2010,Nissan,Titan,Titan 2WD FFV
+2010,Nissan,Titan,Titan 4WD
+2010,Nissan,Titan,Titan 4WD FFV
+2010,Nissan,Versa,Versa
+2010,Nissan,Xterra,Xterra 2WD
+2010,Nissan,Xterra,Xterra 4WD
+2010,Pontiac,G3,G3 (3-Door)
+2010,Pontiac,G3,G3 (5-Door)
+2010,Pontiac,G5,G5
+2010,Pontiac,G5,G5 GT
+2010,Pontiac,G5,G5 XFE
+2010,Pontiac,G6,G6
+2010,Pontiac,Solstice,Solstice
+2010,Pontiac,Vibe,Vibe
+2010,Porsche,911,911 Carrera
+2010,Porsche,911,911 Carrera 4
+2010,Porsche,911,911 Carrera 4 Cabriolet
+2010,Porsche,911,911 Carrera 4 Targa
+2010,Porsche,911,911 Carrera 4S
+2010,Porsche,911,911 Carrera 4S Cabriolet
+2010,Porsche,911,911 Carrera 4S Targa
+2010,Porsche,911,911 Carrera Cabriolet
+2010,Porsche,911,911 Carrera S
+2010,Porsche,911,911 Carrera S Cabriolet
+2010,Porsche,911,911 GT3
+2010,Porsche,911,911 GT3 RS
+2010,Porsche,911,911 Turbo Cabriolet
+2010,Porsche,911,911 Turbo Coupe
+2010,Porsche,911,911 Turbo S Cabriolet
+2010,Porsche,911,911 Turbo S Coupe
+2010,Porsche,Boxster,Boxster
+2010,Porsche,Boxster,Boxster S
+2010,Porsche,Cayenne,Cayenne
+2010,Porsche,Cayenne,Cayenne GTS
+2010,Porsche,Cayenne,Cayenne S
+2010,Porsche,Cayenne,Cayenne TransSiberia
+2010,Porsche,Cayenne,Cayenne Turbo
+2010,Porsche,Cayenne,Cayenne Turbo Kit
+2010,Porsche,Cayenne,Cayenne Turbo S
+2010,Porsche,Cayman,Cayman
+2010,Porsche,Cayman,Cayman S
+2010,Porsche,Panamera,Panamera 4S
+2010,Porsche,Panamera,Panamera S
+2010,Porsche,Panamera,Panamera Turbo
+2010,Rolls-Royce,Ghost,Ghost
+2010,Rolls-Royce,Phantom,Phantom
+2010,Rolls-Royce,Phantom,Phantom Coupe
+2010,Rolls-Royce,Phantom,Phantom Drophead Coupe
+2010,Rolls-Royce,Phantom,Phantom EWB
+2010,Roush Performance,Mustang,Stage 3 Mustang
+2010,Saab,9-3,9-3 Convertible
+2010,Saab,9-3,9-3 Sedan AWD
+2010,Saab,9-3,9-3 Sport Sedan
+2010,Saab,9-3,9-3 SportCombi
+2010,Saab,9-3,9-3X SportCombi AWD
+2010,Saab,9-5,9-5 Sedan AWD
+2010,Saturn,Aura,Aura
+2010,Saturn,Outlook,Outlook AWD
+2010,Saturn,Outlook,Outlook FWD
+2010,Saturn,SKY,SKY
+2010,Saturn,Vue,Vue AWD
+2010,Saturn,Vue,Vue FWD
+2010,Saturn,Vue,Vue Hybrid
+2010,Scion,tC,tC
+2010,Scion,xB,xB
+2010,Scion,xD,xD
+2010,smart,fortwo,fortwo cabriolet
+2010,smart,fortwo,fortwo coupe
+2010,Spyker,C8,C8 Aileron
+2010,Subaru,Forester,Forester AWD
+2010,Subaru,Impreza/Outback Sport,Impreza AWD
+2010,Subaru,Impreza/Outback Sport,Impreza Wagon/Outback Sport
+2010,Subaru,Legacy/Outback,Legacy AWD
+2010,Subaru,Legacy/Outback,Outback Wagon AWD
+2010,Subaru,Tribeca,Tribeca AWD
+2010,Suzuki,Equator,Equator 2WD
+2010,Suzuki,Equator,Equator 4WD
+2010,Suzuki,Grand Vitara,Grand Vitara
+2010,Suzuki,Grand Vitara,Grand Vitara 4WD
+2010,Suzuki,Kizashi,Kizashi
+2010,Suzuki,Kizashi,Kizashi AWD
+2010,Suzuki,Kizashi,Kizashi S
+2010,Suzuki,Kizashi,Kizashi S AWD
+2010,Suzuki,Swift,Swift x
+2010,Suzuki,SX4,SX4
+2010,Suzuki,SX4,SX4 AWD
+2010,Suzuki,SX4,SX4 Sedan
+2010,Suzuki,SX4,SX4 Sport
+2010,Toyota,4Runner,4Runner 2WD
+2010,Toyota,4Runner,4Runner 4WD
+2010,Toyota,Avalon,Avalon
+2010,Toyota,Camry,Camry
+2010,Toyota,Camry,Camry Hybrid
+2010,Toyota,Corolla,Corolla
+2010,Toyota,FJ Cruiser,FJ Cruiser 2WD
+2010,Toyota,FJ Cruiser,FJ Cruiser 4WD
+2010,Toyota,Highlander,Highlander 2WD
+2010,Toyota,Highlander,Highlander 4WD
+2010,Toyota,Highlander,Highlander Hybrid 4WD
+2010,Toyota,Land Cruiser,Land Cruiser Wagon 4WD
+2010,Toyota,Matrix,Matrix
+2010,Toyota,Prius,Prius
+2010,Toyota,RAV4,RAV4 2WD
+2010,Toyota,RAV4,RAV4 4WD
+2010,Toyota,Sequoia,Sequoia 2WD
+2010,Toyota,Sequoia,Sequoia 4WD
+2010,Toyota,Sequoia,Sequoia 4WD FFV
+2010,Toyota,Sienna,Sienna 2WD
+2010,Toyota,Sienna,Sienna 4WD
+2010,Toyota,Tacoma,Tacoma 2WD
+2010,Toyota,Tacoma,Tacoma 4WD
+2010,Toyota,Tundra,Tundra 2WD
+2010,Toyota,Tundra,Tundra 4WD
+2010,Toyota,Tundra,Tundra 4WD FFV
+2010,Toyota,Venza,Venza
+2010,Toyota,Venza,Venza AWD
+2010,Toyota,Yaris,Yaris
+2010,Volkswagen,Beetle,New Beetle
+2010,Volkswagen,Beetle,New Beetle Convertible
+2010,Volkswagen,CC,CC
+2010,Volkswagen,CC,CC 4motion
+2010,Volkswagen,Eos,Eos
+2010,Volkswagen,Golf/GTI,Golf
+2010,Volkswagen,Golf/GTI,GTI
+2010,Volkswagen,Jetta,Jetta
+2010,Volkswagen,Jetta,Jetta SportWagen
+2010,Volkswagen,Passat,Passat
+2010,Volkswagen,Passat,Passat Wagon
+2010,Volkswagen,Routan,Routan
+2010,Volkswagen,Tiguan,Tiguan
+2010,Volkswagen,Tiguan,Tiguan 4motion
+2010,Volkswagen,Touareg,Touareg
+2010,Volvo,C30,C30 FWD
+2010,Volvo,C70,C70 FWD
+2010,Volvo,S40,S40 AWD
+2010,Volvo,S40,S40 FWD
+2010,Volvo,S80,S80 AWD
+2010,Volvo,S80,S80 FWD
+2010,Volvo,V50,V50 AWD
+2010,Volvo,V50,V50 FWD
+2010,Volvo,V70,V70 FWD
+2010,Volvo,XC60,XC60 AWD
+2010,Volvo,XC60,XC60 FWD
+2010,Volvo,XC70,XC70 AWD
+2010,Volvo,XC90,XC90 AWD
+2010,Volvo,XC90,XC90 FWD

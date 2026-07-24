@@ -1,0 +1,441 @@
+year,make,model,trim
+2001,Acura,CL,3.2CL
+2001,Acura,Integra,Integra
+2001,Acura,MDX,MDX
+2001,Acura,NSX,NSX
+2001,Acura,RL,3.5RL
+2001,Acura,TL,3.2TL
+2001,Audi,A4,A4
+2001,Audi,A4,A4 Avant quattro
+2001,Audi,A4,A4 quattro
+2001,Audi,A6,A6
+2001,Audi,A6,A6 Avant quattro
+2001,Audi,A6,A6 quattro
+2001,Audi,A8,A8 L
+2001,Audi,A8,A8 quattro
+2001,Audi,Allroad,Allroad
+2001,Audi,S4,S4
+2001,Audi,S4,S4 Avant
+2001,Audi,S8,S8 quattro
+2001,Audi,TT Coupe,TT Coupe
+2001,Audi,TT Coupe,TT Coupe quattro
+2001,Audi,TT Roadster,TT Roadster
+2001,Audi,TT Roadster,TT Roadster quattro
+2001,Bentley,Arnage,Arnage
+2001,Bentley,Azure,Azure
+2001,Bentley,Continental,Continental R
+2001,Bentley,Continental,Continental SC
+2001,Bentley,Continental,Continental T
+2001,BMW,3 Series,325ci
+2001,BMW,3 Series,325ci Convertible
+2001,BMW,3 Series,325i
+2001,BMW,3 Series,325i Sport Wagon
+2001,BMW,3 Series,325xi
+2001,BMW,3 Series,325xi Sport Wagon
+2001,BMW,3 Series,330ci
+2001,BMW,3 Series,330ci Convertible
+2001,BMW,3 Series,330i
+2001,BMW,3 Series,330xi
+2001,BMW,5 Series,525i
+2001,BMW,5 Series,525i Sport Wagon
+2001,BMW,5 Series,530i
+2001,BMW,5 Series,540i
+2001,BMW,5 Series,540i Sport Wagon
+2001,BMW,7 Series,740i
+2001,BMW,7 Series,740il
+2001,BMW,7 Series,750il
+2001,BMW,M,M Coupe
+2001,BMW,M,M Roadster
+2001,BMW,M,M3
+2001,BMW,M,M3 Convertible
+2001,BMW,M,M5
+2001,BMW,X5,X5
+2001,BMW,Z3,Z3 Coupe
+2001,BMW,Z3,Z3 Roadster
+2001,BMW,Z8,Z8
+2001,Buick,Century,Century
+2001,Buick,LeSabre,LeSabre
+2001,Buick,Park Avenue,Park Avenue
+2001,Buick,Regal,Regal
+2001,Cadillac,Catera,Catera
+2001,Cadillac,DeVille,DeVille
+2001,Cadillac,Eldorado,Eldorado
+2001,Cadillac,Seville,Seville
+2001,Chevrolet,Astro Cargo,Astro 2WD (cargo)
+2001,Chevrolet,Astro Cargo,Astro AWD (cargo)
+2001,Chevrolet,Astro Passenger,Astro 2WD (passenger)
+2001,Chevrolet,Astro Passenger,Astro AWD (passenger)
+2001,Chevrolet,Blazer,Blazer 2WD
+2001,Chevrolet,Blazer,Blazer 4WD
+2001,Chevrolet,Camaro,Camaro
+2001,Chevrolet,Cavalier,Cavalier
+2001,Chevrolet,Cavalier,Cavalier (Bi-fuel CNG)
+2001,Chevrolet,Corvette,Corvette
+2001,Chevrolet,Express Passenger,Express 1500/2500 2WD
+2001,Chevrolet,Impala,Impala
+2001,Chevrolet,Impala,Impala Police
+2001,Chevrolet,Lumina,Lumina
+2001,Chevrolet,Malibu,Malibu
+2001,Chevrolet,Metro,Metro
+2001,Chevrolet,Monte Carlo,Monte Carlo
+2001,Chevrolet,Prizm,Prizm
+2001,Chevrolet,S10 Pickup,S10 Pickup 2WD
+2001,Chevrolet,S10 Pickup,S10 Pickup 2WD FFV
+2001,Chevrolet,S10 Pickup,S10 Pickup 4WD
+2001,Chevrolet,Silverado,Silverado 1500 2WD
+2001,Chevrolet,Silverado,Silverado 1500 4WD
+2001,Chevrolet,Suburban,Suburban 1500 2WD
+2001,Chevrolet,Suburban,Suburban 1500 4WD
+2001,Chevrolet,Tahoe,Tahoe 1500 2WD
+2001,Chevrolet,Tahoe,Tahoe 1500 4WD
+2001,Chevrolet,Tracker,Tracker 2WD Convertible
+2001,Chevrolet,Tracker,Tracker 2WD Hardtop
+2001,Chevrolet,Tracker,Tracker 4WD Convertible
+2001,Chevrolet,Tracker,Tracker 4WD Hardtop
+2001,Chevrolet,Tracker,Tracker LT 2WD
+2001,Chevrolet,Tracker,Tracker LT 4WD
+2001,Chevrolet,Tracker,Tracker ZR2 4WD
+2001,Chevrolet,Tracker,Tracker ZR2 4WD Convertible
+2001,Chevrolet,Van 1500/2500,Van 1500/2500 2WD
+2001,Chevrolet,Venture,Venture FWD
+2001,Chrysler,300,300 M
+2001,Chrysler,Concorde,Concorde
+2001,Chrysler,LHS,LHS
+2001,Chrysler,PT Cruiser,PT Cruiser
+2001,Chrysler,Sebring,Sebring
+2001,Chrysler,Sebring,Sebring 4 Door
+2001,Chrysler,Sebring,Sebring Convertible
+2001,Chrysler,Town and Country/Voyager/Grand Voyager,Town and Country/Voyager/Grand Voy. 2WD
+2001,Chrysler,Town and Country/Voyager/Grand Voyager,Town and Country/Voyager/Grand Voy. AWD
+2001,Daewoo,Lanos,Lanos
+2001,Daewoo,Leganza,Leganza
+2001,Daewoo,Nubira,Nubira
+2001,Daewoo,Nubira,Nubira Station Wagon
+2001,Dodge,Caravan/Grand Caravan,Caravan/Grand Caravan 2WD
+2001,Dodge,Caravan/Grand Caravan,Caravan/Grand Caravan AWD
+2001,Dodge,Dakota Pickup,Dakota Pickup 2WD
+2001,Dodge,Dakota Pickup,Dakota Pickup 4WD
+2001,Dodge,Durango,Durango 2WD
+2001,Dodge,Durango,Durango 4WD
+2001,Dodge,Intrepid,Intrepid
+2001,Dodge,Neon,Neon
+2001,Dodge,Ram 1500 Pickup,Ram 1500 Pickup 2WD
+2001,Dodge,Ram 1500 Pickup,Ram 1500 Pickup 4WD
+2001,Dodge,Ram Van 1500,Ram Van 1500 2WD
+2001,Dodge,Ram Van 2500,Ram Van 2500 2WD
+2001,Dodge,Ram Van 2500,Ram Van 2500 2WD CNG
+2001,Dodge,Ram Wagon 1500,Ram Wagon 1500 2WD
+2001,Dodge,Ram Wagon 2500,Ram Wagon 2500 2WD
+2001,Dodge,Ram Wagon 2500,Ram Wagon 2500 2WD CNG
+2001,Dodge,Stratus,Stratus
+2001,Dodge,Stratus,Stratus 4 Door
+2001,Dodge,Viper,Viper Convertible
+2001,Dodge,Viper,Viper Coupe
+2001,Ferrari,360 Modena/Spider,360 Modena/Spider
+2001,Ferrari,456 MGT/MGA,456 MGT/MGA
+2001,Ferrari,550 Maranello/Barchetta,550 Maranello/Barchetta
+2001,Ford,Crown Victoria,Crown Victoria
+2001,Ford,Crown Victoria,Crown Victoria CNG
+2001,Ford,Crown Victoria,Crown Victoria Police
+2001,Ford,E150 Club Wagon,E150 Club Wagon
+2001,Ford,E150 Econoline,E150 Econoline 2WD
+2001,Ford,E250 Econoline,E250 Econoline 2WD
+2001,Ford,E250 Van,E250 CNG
+2001,Ford,Escape,Escape 2WD
+2001,Ford,Escape,Escape 4WD
+2001,Ford,Escort,Escort
+2001,Ford,Escort,Escort ZX2
+2001,Ford,Expedition,Expedition 2WD
+2001,Ford,Expedition,Expedition 4WD
+2001,Ford,Explorer,Explorer 2WD
+2001,Ford,Explorer,Explorer 4WD
+2001,Ford,Explorer,Explorer Sport 2WD
+2001,Ford,Explorer,Explorer Sport 2WD FFV
+2001,Ford,Explorer,Explorer Sport 4WD
+2001,Ford,Explorer,Explorer Sport 4WD FFV
+2001,Ford,Explorer,Explorer Sport Trac 2WD
+2001,Ford,Explorer,Explorer Sport Trac 4WD
+2001,Ford,Explorer,Explorer USPS 2WD
+2001,Ford,Explorer,Explorer USPS 2WD FFV
+2001,Ford,Explorer,Explorer USPS 4WD
+2001,Ford,Explorer,Explorer USPS 4WD FFV
+2001,Ford,Explorer,Explorer USPS Electric
+2001,Ford,F150,F150 CNG
+2001,Ford,F150,F150 Dual-fuel 2WD (CNG)
+2001,Ford,F150,F150 Dual-fuel 2WD (LPG)
+2001,Ford,F150,F150 Dual-fuel 4WD (CNG)
+2001,Ford,F150,F150 Dual-fuel 4WD (LPG)
+2001,Ford,F150,F150 Pickup 2WD
+2001,Ford,F150,F150 Pickup 4WD
+2001,Ford,Focus,Focus
+2001,Ford,Focus,Focus Station Wagon
+2001,Ford,Mustang,Mustang
+2001,Ford,Ranger,Ranger 2WD FFV
+2001,Ford,Ranger,Ranger Pickup 2WD
+2001,Ford,Ranger,Ranger Pickup 4WD
+2001,Ford,Taurus,Taurus
+2001,Ford,Taurus,Taurus FFV
+2001,Ford,Taurus,Taurus Wagon
+2001,Ford,Taurus,Taurus Wagon FFV
+2001,Ford,Th!nk,Th!nk
+2001,Ford,Windstar,Windstar FWD Van
+2001,Ford,Windstar,Windstar FWD Wagon
+2001,GMC,Jimmy,Jimmy 2WD
+2001,GMC,Jimmy,Jimmy 4WD
+2001,GMC,Safari Cargo,Safari 2WD (cargo)
+2001,GMC,Safari Cargo,Safari AWD (cargo)
+2001,GMC,Safari Passenger,Safari 2WD (Passenger)
+2001,GMC,Safari Passenger,Safari AWD (Passenger)
+2001,GMC,Savana Cargo,Savana 1500/2500 2WD (cargo)
+2001,GMC,Savana Passenger,Savana 1500/2500  2WD (Passenger)
+2001,GMC,Sierra,Sierra 1500 2WD
+2001,GMC,Sierra,Sierra 1500 4WD
+2001,GMC,Sonoma,Sonoma 2WD
+2001,GMC,Sonoma,Sonoma 2WD (FFV)
+2001,GMC,Sonoma,Sonoma 4WD
+2001,GMC,Yukon,Yukon 1500 2WD
+2001,GMC,Yukon,Yukon 1500 4WD
+2001,GMC,Yukon,Yukon XL 1500 2WD
+2001,GMC,Yukon,Yukon XL 1500 4WD
+2001,Honda,Accord,Accord
+2001,Honda,Civic,Civic
+2001,Honda,Civic,Civic CNG
+2001,Honda,Civic,Civic HX
+2001,Honda,CR-V,CR-V 2WD
+2001,Honda,CR-V,CR-V 4WD
+2001,Honda,Insight,Insight
+2001,Honda,Odyssey,Odyssey
+2001,Honda,Passport,Passport 2WD
+2001,Honda,Passport,Passport 4WD
+2001,Honda,Prelude,Prelude
+2001,Honda,S2000,S2000
+2001,Hyundai,Accent/Brio,Accent/Brio
+2001,Hyundai,Elantra,Elantra
+2001,Hyundai,Santa Fe,Santa Fe 2WD
+2001,Hyundai,Santa Fe,Santa Fe 4WD
+2001,Hyundai,Sonata,Sonata
+2001,Hyundai,Tiburon,Tiburon
+2001,Hyundai,XG,XG300
+2001,Infiniti,G20,G20
+2001,Infiniti,I30,I30
+2001,Infiniti,Q45,Q45
+2001,Infiniti,QX4,QX4 2WD
+2001,Infiniti,QX4,QX4 4WD
+2001,Isuzu,Hombre Pickup,Hombre Pickup 2WD
+2001,Isuzu,Hombre Pickup,Hombre Pickup 2WD (FFV)
+2001,Isuzu,Hombre Pickup,Hombre Pickup 4WD
+2001,Isuzu,Rodeo,Rodeo 2WD
+2001,Isuzu,Rodeo,Rodeo 4WD
+2001,Isuzu,Rodeo,Rodeo Sport 2WD
+2001,Isuzu,Rodeo,Rodeo Sport 4WD
+2001,Isuzu,Trooper,Trooper 2WD
+2001,Isuzu,Trooper,Trooper 4WD
+2001,Isuzu,Vehicross,Vehicross 4WD
+2001,Jaguar,S-Type,S-Type
+2001,Jaguar,Vanden Plas,Vanden Plas
+2001,Jaguar,Vanden Plas,Vanden Plas S/C
+2001,Jaguar,XJ,XJ8
+2001,Jaguar,XJ,XJ8L
+2001,Jaguar,XJR,XJR
+2001,Jaguar,XK8,XK8
+2001,Jaguar,XK8,XK8 Convertible
+2001,Jaguar,XKR,XKR
+2001,Jaguar,XKR,XKR Convertible
+2001,Jeep,Cherokee,Cherokee 2WD
+2001,Jeep,Cherokee,Cherokee 4WD
+2001,Jeep,Grand Cherokee,Grand Cherokee 2WD
+2001,Jeep,Grand Cherokee,Grand Cherokee 4WD
+2001,Jeep,Wrangler,Wrangler 4WD
+2001,Kia,Optima,Optima
+2001,Kia,Rio,Rio
+2001,Kia,Sephia/Spectra,Sephia/Spectra
+2001,Kia,Sportage,Sportage 2WD
+2001,Kia,Sportage,Sportage 4WD
+2001,Lamborghini,Diablo,DB132/144 Diablo
+2001,Land Rover,Discovery,Discovery Series II
+2001,Land Rover,Range Rover,Range Rover
+2001,Lexus,ES,ES 300
+2001,Lexus,GS,GS 300/GS 430
+2001,Lexus,IS,IS 300
+2001,Lexus,LS,LS 430
+2001,Lexus,LX,LX 470
+2001,Lexus,RX,RX 300
+2001,Lexus,RX,RX 300 4WD
+2001,Lincoln,Continental,Continental
+2001,Lincoln,LS,LS
+2001,Lincoln,Navigator,Navigator 2WD
+2001,Lincoln,Navigator,Navigator 4WD
+2001,Lincoln,Town Car,Town Car
+2001,Lotus,Esprit,Esprit V8
+2001,Mazda,626,626
+2001,Mazda,B Pickup,B2300 2WD
+2001,Mazda,B Pickup,B2500 2WD
+2001,Mazda,B Pickup,B3000
+2001,Mazda,B Pickup,B3000 (FFV) Ethanol 2WD
+2001,Mazda,B Pickup,B3000 4WD
+2001,Mazda,B Pickup,B4000 2WD
+2001,Mazda,B Pickup,B4000 4WD
+2001,Mazda,Millenia,Millenia
+2001,Mazda,MPV,MPV
+2001,Mazda,MX-5 Miata,MX-5 Miata
+2001,Mazda,Protege/Protege MPS,Protege/Protege MPS
+2001,Mazda,Tribute,Tribute 2WD
+2001,Mazda,Tribute,Tribute 4WD
+2001,Mercedes-Benz,C-Class,C240
+2001,Mercedes-Benz,C-Class,C320
+2001,Mercedes-Benz,CL-Class,CL500
+2001,Mercedes-Benz,CL-Class,CL55 AMG
+2001,Mercedes-Benz,CL-Class,CL600
+2001,Mercedes-Benz,CLK-Class,CLK320
+2001,Mercedes-Benz,CLK-Class,CLK320 (Cabriolet)
+2001,Mercedes-Benz,CLK-Class,CLK430
+2001,Mercedes-Benz,CLK-Class,CLK430 (Cabriolet)
+2001,Mercedes-Benz,CLK-Class,CLK55 AMG
+2001,Mercedes-Benz,E-Class,E320
+2001,Mercedes-Benz,E-Class,E320 (Wagon)
+2001,Mercedes-Benz,E-Class,E320 4Matic
+2001,Mercedes-Benz,E-Class,E320 4Matic (Wagon)
+2001,Mercedes-Benz,E-Class,E430
+2001,Mercedes-Benz,E-Class,E430 4Matic
+2001,Mercedes-Benz,E-Class,E55 AMG
+2001,Mercedes-Benz,ML-Class,ML320
+2001,Mercedes-Benz,ML-Class,ML430
+2001,Mercedes-Benz,ML-Class,ML55 AMG
+2001,Mercedes-Benz,S-Class,S430
+2001,Mercedes-Benz,S-Class,S500
+2001,Mercedes-Benz,S-Class,S55 AMG
+2001,Mercedes-Benz,S-Class,S600
+2001,Mercedes-Benz,SL-Class,SL500
+2001,Mercedes-Benz,SL-Class,SL600
+2001,Mercedes-Benz,SLK-Class,SLK230 Kompressor
+2001,Mercedes-Benz,SLK-Class,SLK320
+2001,Mercury,Cougar,Cougar
+2001,Mercury,Grand Marquis,Grand Marquis
+2001,Mercury,Mountaineer,Mountaineer 2WD
+2001,Mercury,Mountaineer,Mountaineer 4WD
+2001,Mercury,Sable,Sable
+2001,Mercury,Sable,Sable (FFV)
+2001,Mercury,Sable,Sable Wagon
+2001,Mercury,Sable,Sable Wagon (FFV)
+2001,Mercury,Villager,Villager FWD Wagon
+2001,Mitsubishi,Diamante,Diamante
+2001,Mitsubishi,Eclipse,Eclipse
+2001,Mitsubishi,Eclipse,Eclipse Spyder
+2001,Mitsubishi,Galant,Galant
+2001,Mitsubishi,Mirage,Mirage
+2001,Mitsubishi,Montero,Montero
+2001,Mitsubishi,Montero Sport,Montero Sport 2WD
+2001,Mitsubishi,Montero Sport,Montero Sport 4WD
+2001,Mitsubishi,Nativa,Nativa 2WD (Puerto Rico Only)
+2001,Mitsubishi,Nativa,Nativa 4WD (Puerto Rico Only)
+2001,Nissan,Altima,Altima
+2001,Nissan,Frontier,Frontier 2WD
+2001,Nissan,Frontier,Frontier V6 2WD
+2001,Nissan,Frontier,Frontier V6 4WD
+2001,Nissan,Hyper-Mini,Hyper-Mini
+2001,Nissan,Maxima,Maxima
+2001,Nissan,Pathfinder,Pathfinder 2WD
+2001,Nissan,Pathfinder,Pathfinder 4WD
+2001,Nissan,Quest,Quest
+2001,Nissan,Sentra,Sentra
+2001,Nissan,Xterra,Xterra 2WD
+2001,Nissan,Xterra,Xterra V6 2WD
+2001,Nissan,Xterra,Xterra V6 4WD
+2001,Oldsmobile,Alero,Alero
+2001,Oldsmobile,Aurora,Aurora
+2001,Oldsmobile,Bravada,Bravada AWD
+2001,Oldsmobile,Intrigue,Intrigue
+2001,Oldsmobile,Silhouette,Silhouette 2WD
+2001,Plymouth,Neon,Neon
+2001,Plymouth,Prowler,Prowler
+2001,Pontiac,Aztek,Aztek AWD
+2001,Pontiac,Aztek,Aztek FWD
+2001,Pontiac,Bonneville,Bonneville
+2001,Pontiac,Firebird/Trans Am/Formula,Firebird/Trans Am
+2001,Pontiac,Grand Am,Grand Am
+2001,Pontiac,Grand Prix,Grand Prix
+2001,Pontiac,Montana,Montana FWD
+2001,Pontiac,Sunfire,Sunfire
+2001,Porsche,911,911 Carrera 2/4
+2001,Porsche,911,911 Turbo
+2001,Porsche,Boxster,Boxster
+2001,Porsche,Boxster,Boxster S
+2001,Rolls-Royce,Corniche/Continental,Corniche
+2001,Rolls-Royce,Park Ward,Park Ward
+2001,Rolls-Royce,Silver Seraph,Silver Seraph
+2001,Roush Performance,Mustang,Stage 3 Mustang
+2001,Saab,9-3,9-3
+2001,Saab,9-3,9-3 Convertible
+2001,Saab,9-3,9-3 Viggen
+2001,Saab,9-3,9-3 Viggen Convertible
+2001,Saab,9-5,9-5
+2001,Saab,9-5,9-5 Wagon
+2001,Saturn,L100/200,L100/200
+2001,Saturn,L300,L300
+2001,Saturn,LW,LW200
+2001,Saturn,LW,LW300
+2001,Saturn,SC,SC
+2001,Saturn,SL,SL
+2001,Saturn,SW,SW
+2001,Subaru,Forester,Forester AWD
+2001,Subaru,Impreza/Outback Sport,Impreza AWD
+2001,Subaru,Impreza/Outback Sport,Impreza Wagon AWD
+2001,Subaru,Legacy/Outback,Legacy AWD
+2001,Subaru,Legacy/Outback,Legacy Wagon AWD
+2001,Suzuki,Esteem,Esteem
+2001,Suzuki,Esteem,Esteem Wagon
+2001,Suzuki,Grand Vitara,Grand Vitara
+2001,Suzuki,Grand Vitara,Grand Vitara 4WD
+2001,Suzuki,Grand Vitara,Grand Vitara XL7
+2001,Suzuki,Grand Vitara,Grand Vitara XL7 4WD
+2001,Suzuki,Swift,Swift
+2001,Suzuki,Vitara,Vitara 2Door
+2001,Suzuki,Vitara,Vitara 2Door 4WD
+2001,Suzuki,Vitara,Vitara 4Door
+2001,Suzuki,Vitara,Vitara 4Door 4WD
+2001,Toyota,4Runner,4Runner 2WD
+2001,Toyota,4Runner,4Runner 4WD
+2001,Toyota,Avalon,Avalon
+2001,Toyota,Camry,Camry
+2001,Toyota,Camry,Camry CNG
+2001,Toyota,Camry,Camry Solara
+2001,Toyota,Camry,Camry Solara Convertible
+2001,Toyota,Celica,Celica
+2001,Toyota,Corolla,Corolla
+2001,Toyota,Echo,Echo
+2001,Toyota,Highlander,Highlander 2WD
+2001,Toyota,Highlander,Highlander 4WD
+2001,Toyota,Land Cruiser,Land Cruiser Wagon 4WD
+2001,Toyota,MR2,MR2
+2001,Toyota,Prius,Prius
+2001,Toyota,RAV4,RAV4 2WD
+2001,Toyota,RAV4,RAV4 4WD
+2001,Toyota,RAV4,RAV4 EV
+2001,Toyota,Sequoia,Sequoia 2WD
+2001,Toyota,Sequoia,Sequoia 4WD
+2001,Toyota,Sienna,Sienna 2WD
+2001,Toyota,Tacoma,Tacoma 2WD
+2001,Toyota,Tacoma,Tacoma 4WD
+2001,Toyota,Tundra,Tundra 2WD
+2001,Toyota,Tundra,Tundra 4WD
+2001,Volkswagen,Beetle,New Beetle
+2001,Volkswagen,Cabrio,Cabrio
+2001,Volkswagen,Eurovan,Eurovan
+2001,Volkswagen,Eurovan,Eurovan Camper
+2001,Volkswagen,Golf/GTI,Golf
+2001,Volkswagen,Golf/GTI,GTI
+2001,Volkswagen,Jetta,Jetta
+2001,Volkswagen,Jetta,Jetta Wagon
+2001,Volkswagen,Passat,Passat
+2001,Volkswagen,Passat,Passat 4motion
+2001,Volkswagen,Passat,Passat Wagon
+2001,Volkswagen,Passat,Passat Wagon 4motion
+2001,Volvo,C70,C70 Convertible
+2001,Volvo,C70,C70 Coupe
+2001,Volvo,S40,S40 FWD
+2001,Volvo,S60,S60
+2001,Volvo,S80,S80/S80 Executive
+2001,Volvo,V40,V40
+2001,Volvo,V70,V70 AWD
+2001,Volvo,V70,V70 FWD
+2001,Volvo,V70 XC,V70 XC AWD

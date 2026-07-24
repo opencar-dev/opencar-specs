@@ -1,0 +1,680 @@
+year,make,model,trim
+2011,Acura,MDX,MDX 4WD
+2011,Acura,RDX,RDX 2WD
+2011,Acura,RDX,RDX 4WD
+2011,Acura,RL,RL
+2011,Acura,TL,TL 2WD
+2011,Acura,TL,TL 4WD
+2011,Acura,TSX,TSX
+2011,Acura,TSX,TSX Wagon
+2011,Acura,ZDX,ZDX 4WD
+2011,Aston Martin,DB9,DB9
+2011,Aston Martin,DBS,DBS
+2011,Aston Martin,Rapide,Rapide
+2011,Aston Martin,Vantage,V12 Vantage
+2011,Aston Martin,Vantage,V8 Vantage
+2011,Aston Martin,Vantage,V8 Vantage S
+2011,Audi,A3,A3
+2011,Audi,A3,A3 quattro
+2011,Audi,A4,A4
+2011,Audi,A4,A4 Avant quattro
+2011,Audi,A4,A4 quattro
+2011,Audi,A5,A5 Cabriolet
+2011,Audi,A5,A5 Cabriolet quattro
+2011,Audi,A5,A5 quattro
+2011,Audi,A6,A6
+2011,Audi,A6,A6 Avant quattro
+2011,Audi,A6,A6 quattro
+2011,Audi,A8,A8
+2011,Audi,A8,A8 L
+2011,Audi,Q5,Q5
+2011,Audi,Q7,Q7
+2011,Audi,R8,R8
+2011,Audi,R8 Spyder,R8 Spyder
+2011,Audi,S4,S4
+2011,Audi,S5,S5
+2011,Audi,S5,S5 Cabriolet
+2011,Audi,S6,S6
+2011,Audi,TT Coupe,TT Coupe quattro
+2011,Audi,TT Roadster,TT Roadster quattro
+2011,Bentley,Continental,Continental GTC
+2011,Bentley,Continental Flying Spur,Continental Flying Spur
+2011,Bentley,Continental Supersports,Continental Supersports
+2011,Bentley,Continental Supersports Convertible,Continental Supersports Convertible
+2011,Bentley,Mulsanne,Mulsanne
+2011,BMW,1 Series,128ci Convertible
+2011,BMW,1 Series,128i
+2011,BMW,1 Series,135i
+2011,BMW,1 Series,135i Convertible
+2011,BMW,1 Series,M1 Coupe
+2011,BMW,3 Series,328ci
+2011,BMW,3 Series,328ci Convertible
+2011,BMW,3 Series,328ci xDrive
+2011,BMW,3 Series,328i
+2011,BMW,3 Series,328i Sports Wagon
+2011,BMW,3 Series,328i xDrive
+2011,BMW,3 Series,328i xDrive Sports Wagon
+2011,BMW,3 Series,335ci
+2011,BMW,3 Series,335ci Convertible
+2011,BMW,3 Series,335ci xDrive
+2011,BMW,3 Series,335d
+2011,BMW,3 Series,335i
+2011,BMW,3 Series,335i xDrive
+2011,BMW,3 Series,335is Convertible
+2011,BMW,3 Series,335is Coupe
+2011,BMW,5 Series,528i
+2011,BMW,5 Series,535i
+2011,BMW,5 Series,535i Gran Turismo
+2011,BMW,5 Series,535i xDrive
+2011,BMW,5 Series,535i xDrive Gran Turismo
+2011,BMW,5 Series,550i
+2011,BMW,5 Series,550i Gran Turismo
+2011,BMW,5 Series,550i xDrive
+2011,BMW,5 Series,550i xDrive Gran Turismo
+2011,BMW,7 Series,740i
+2011,BMW,7 Series,740Li
+2011,BMW,7 Series,750i
+2011,BMW,7 Series,750i xDrive
+2011,BMW,7 Series,750Li
+2011,BMW,7 Series,750Li xDrive
+2011,BMW,7 Series,760Li
+2011,BMW,7 Series,ActiveHybrid 7i
+2011,BMW,7 Series,ActiveHybrid 7Li
+2011,BMW,7 Series,Alpina B7 LWB
+2011,BMW,7 Series,Alpina B7 LWB xDrive
+2011,BMW,7 Series,Alpina B7 SWB
+2011,BMW,7 Series,Alpina B7 SWB xDrive
+2011,BMW,Active E,Active E
+2011,BMW,ActiveHybrid X6,ActiveHybrid X6
+2011,BMW,M,M3 Convertible
+2011,BMW,M,M3 Coupe
+2011,BMW,M,M3 Sedan
+2011,BMW,X3,X3 xDrive28i
+2011,BMW,X3,X3 xDrive35i
+2011,BMW,X5,X5 xDrive35d
+2011,BMW,X5,X5 xDrive35i
+2011,BMW,X5,X5 xDrive50i
+2011,BMW,X5,X5 xDriveM
+2011,BMW,X6,X6 xDrive35i
+2011,BMW,X6,X6 xDrive50i
+2011,BMW,X6,X6 xDriveM
+2011,BMW,Z4,Z4 sDrive30i
+2011,BMW,Z4,Z4 sDrive35i
+2011,BMW,Z4,Z4 sDrive35is
+2011,Bugatti,Veyron,Veyron
+2011,Buick,Enclave,Enclave AWD
+2011,Buick,Enclave,Enclave FWD
+2011,Buick,LaCrosse,LaCrosse
+2011,Buick,LaCrosse,LaCrosse AWD
+2011,Buick,Lucerne,Lucerne
+2011,Buick,Regal,Regal
+2011,Cadillac,CTS,CTS
+2011,Cadillac,CTS,CTS AWD
+2011,Cadillac,CTS,CTS Wagon
+2011,Cadillac,CTS,CTS Wagon AWD
+2011,Cadillac,DTS,DTS
+2011,Cadillac,Escalade,Escalade 2WD
+2011,Cadillac,Escalade,Escalade AWD
+2011,Cadillac,Escalade,Escalade ESV 2WD
+2011,Cadillac,Escalade,Escalade ESV AWD
+2011,Cadillac,Escalade,Escalade Ext AWD
+2011,Cadillac,Escalade,Escalade Hybrid 2WD
+2011,Cadillac,Escalade,Escalade Hybrid 4WD
+2011,Cadillac,Funeral Coach/Hearse,Funeral Coach / Hearse
+2011,Cadillac,Limousine,Limousine
+2011,Cadillac,SRX,SRX 2WD
+2011,Cadillac,SRX,SRX AWD
+2011,Cadillac,STS,STS
+2011,Cadillac,STS,STS AWD
+2011,Chevrolet,Avalanche,Avalanche 1500 2WD
+2011,Chevrolet,Avalanche,Avalanche 1500 4WD
+2011,Chevrolet,Aveo,Aveo
+2011,Chevrolet,Aveo,Aveo 5
+2011,Chevrolet,Camaro,Camaro
+2011,Chevrolet,Colorado,Colorado 2WD
+2011,Chevrolet,Colorado,Colorado 4WD
+2011,Chevrolet,Colorado,Colorado Cab Chassis inc 2WD
+2011,Chevrolet,Colorado,Colorado Cab Chassis inc 4WD
+2011,Chevrolet,Colorado,Colorado Crew Cab 2WD
+2011,Chevrolet,Colorado,Colorado Crew Cab 4WD
+2011,Chevrolet,Corvette,Corvette
+2011,Chevrolet,Cruze,Cruze
+2011,Chevrolet,Cruze,Cruze Eco
+2011,Chevrolet,Equinox,Equinox AWD
+2011,Chevrolet,Equinox,Equinox FWD
+2011,Chevrolet,Express Cargo,Express 1500 2WD Cargo
+2011,Chevrolet,Express Cargo,Express 1500 2WD Conversion Cargo
+2011,Chevrolet,Express Cargo,Express 1500 AWD Cargo
+2011,Chevrolet,Express Cargo,Express 1500 AWD Conversion Cargo
+2011,Chevrolet,Express Cargo,Express 2500 2WD Cargo
+2011,Chevrolet,Express Cargo,Express 2500 2WD Conversion Cargo
+2011,Chevrolet,Express Cargo,Express 3500 2WD Cargo
+2011,Chevrolet,Express Passenger,Express 1500 2WD Passenger
+2011,Chevrolet,Express Passenger,Express 1500 AWD Passenger
+2011,Chevrolet,Express Passenger,Express 2500 2WD Passenger
+2011,Chevrolet,Express Passenger,Express 3500 2WD Passenger
+2011,Chevrolet,HHR,HHR FWD
+2011,Chevrolet,HHR,HHR Panel FWD
+2011,Chevrolet,Impala,Impala
+2011,Chevrolet,Malibu,Malibu
+2011,Chevrolet,Silverado,Silverado 15 Hybrid 2WD
+2011,Chevrolet,Silverado,Silverado 15 Hybrid 4WD
+2011,Chevrolet,Silverado,Silverado C15 2WD
+2011,Chevrolet,Silverado,Silverado C15 XFE 2WD
+2011,Chevrolet,Silverado,Silverado K15 4WD
+2011,Chevrolet,Suburban,Suburban 1500 2WD
+2011,Chevrolet,Suburban,Suburban 1500 4WD
+2011,Chevrolet,Suburban,Suburban 2500 2WD
+2011,Chevrolet,Suburban,Suburban 2500 4WD
+2011,Chevrolet,Tahoe,Tahoe 1500 2WD
+2011,Chevrolet,Tahoe,Tahoe 1500 4WD
+2011,Chevrolet,Tahoe,Tahoe Hybrid 2WD
+2011,Chevrolet,Tahoe,Tahoe Hybrid 4WD
+2011,Chevrolet,Traverse,Traverse AWD
+2011,Chevrolet,Traverse,Traverse FWD
+2011,Chevrolet,Volt,Volt
+2011,Chrysler,200,200
+2011,Chrysler,200,200 Convertible
+2011,Chrysler,300,300
+2011,Chrysler,300,300 AWD
+2011,Chrysler,Town and Country,Town and Country
+2011,Dodge,Avenger,Avenger
+2011,Dodge,Caliber,Caliber
+2011,Dodge,Challenger,Challenger
+2011,Dodge,Challenger,Challenger SRT8
+2011,Dodge,Charger,Charger
+2011,Dodge,Charger,Charger AWD
+2011,Dodge,Dakota Pickup,Dakota Pickup 2WD
+2011,Dodge,Dakota Pickup,Dakota Pickup 4WD
+2011,Dodge,Durango,Durango 2WD
+2011,Dodge,Durango,Durango 4WD
+2011,Dodge,Grand Caravan,Grand Caravan
+2011,Dodge,Journey,Journey AWD
+2011,Dodge,Journey,Journey FWD
+2011,Dodge,Nitro,Nitro 2WD
+2011,Dodge,Nitro,Nitro 4WD
+2011,Dodge,Ram 1500 Pickup,Ram 1500 Pickup 2WD
+2011,Dodge,Ram 1500 Pickup,Ram 1500 Pickup 4WD
+2011,Ferrari,458 Italia,458 Italia
+2011,Ferrari,599 GTB Fiorano,599 GTB Fiorano
+2011,Ferrari,599 GTO,599 GTO
+2011,Ferrari,599 SA Aperta,599 SA Aperta
+2011,Ferrari,612 Scaglietti,612 Scaglietti
+2011,Ferrari,California,California
+2011,Ford,Crown Victoria,Crown Victoria FFV
+2011,Ford,E150 Van,E150 Van FFV
+2011,Ford,E150 Wagon,E150 Wagon FFV
+2011,Ford,E250 Van,E250 Van FFV
+2011,Ford,E350 Van,E350 Van
+2011,Ford,E350 Van,E350 Van FFV
+2011,Ford,E350 Wagon,E350 Wagon
+2011,Ford,E350 Wagon,E350 Wagon FFV
+2011,Ford,Edge,Edge AWD
+2011,Ford,Edge,Edge FWD
+2011,Ford,Escape,Escape 4WD
+2011,Ford,Escape,Escape 4WD FFV
+2011,Ford,Escape,Escape FWD
+2011,Ford,Escape,Escape FWD FFV
+2011,Ford,Escape,Escape Hybrid 4WD
+2011,Ford,Escape,Escape Hybrid FWD
+2011,Ford,Expedition,Expedition 2WD FFV
+2011,Ford,Expedition,Expedition 4WD FFV
+2011,Ford,Expedition,Expedition Limo. 2WD FFV
+2011,Ford,Explorer,Explorer 4WD
+2011,Ford,Explorer,Explorer FWD
+2011,Ford,F150,F150 Pickup 2WD
+2011,Ford,F150,F150 Pickup 2WD FFV
+2011,Ford,F150,F150 Pickup 4WD
+2011,Ford,F150,F150 Pickup 4WD FFV
+2011,Ford,F150,F150 Raptor Pickup 4WD
+2011,Ford,Fiesta,Fiesta
+2011,Ford,Fiesta,Fiesta SFE
+2011,Ford,Flex,Flex AWD
+2011,Ford,Flex,Flex FWD
+2011,Ford,Focus,Focus FWD
+2011,Ford,Fusion,Fusion AWD
+2011,Ford,Fusion,Fusion AWD FFV
+2011,Ford,Fusion,Fusion FWD
+2011,Ford,Fusion,Fusion FWD FFV
+2011,Ford,Fusion,Fusion Hybrid FWD
+2011,Ford,Fusion,Fusion S FWD
+2011,Ford,Mustang,Mustang
+2011,Ford,Mustang,Mustang Convertible
+2011,Ford,Ranger,Ranger 2WD
+2011,Ford,Ranger,Ranger 4WD
+2011,Ford,Taurus,Taurus AWD
+2011,Ford,Taurus,Taurus FWD
+2011,Ford,Transit Connect,Transit Connect
+2011,GMC,Acadia,Acadia AWD
+2011,GMC,Acadia,Acadia FWD
+2011,GMC,Canyon,Canyon 2WD
+2011,GMC,Canyon,Canyon 4WD
+2011,GMC,Canyon,Canyon Cab Chassis Inc 2WD
+2011,GMC,Canyon,Canyon Cab Chassis Inc 4WD
+2011,GMC,Canyon,Canyon Crew Cab 2WD
+2011,GMC,Canyon,Canyon Crew Cab 4WD
+2011,GMC,Savana Cargo,Savana 1500  AWD (cargo)
+2011,GMC,Savana Cargo,Savana 1500  AWD Conversion (cargo)
+2011,GMC,Savana Cargo,Savana 1500 2WD (cargo)
+2011,GMC,Savana Cargo,Savana 1500 2WD Conversion (cargo)
+2011,GMC,Savana Cargo,Savana 2500 2WD (cargo)
+2011,GMC,Savana Cargo,Savana 2500 2WD Conversion (cargo)
+2011,GMC,Savana Cargo,Savana 3500 2WD (cargo)
+2011,GMC,Savana Passenger,Savana 1500 2WD (Passenger)
+2011,GMC,Savana Passenger,Savana 1500 AWD (Passenger)
+2011,GMC,Savana Passenger,Savana 2500 2WD (Passenger)
+2011,GMC,Savana Passenger,Savana 3500 2WD (Passenger)
+2011,GMC,Sierra,Sierra 15 Hybrid 2WD
+2011,GMC,Sierra,Sierra 15 Hybrid 4WD
+2011,GMC,Sierra,Sierra C15 2WD
+2011,GMC,Sierra,Sierra C15 XFE 2WD
+2011,GMC,Sierra,Sierra K15 4WD
+2011,GMC,Sierra,Sierra K15 AWD
+2011,GMC,Terrain,Terrain AWD
+2011,GMC,Terrain,Terrain FWD
+2011,GMC,Yukon,Yukon 1500 2WD
+2011,GMC,Yukon,Yukon 1500 4WD
+2011,GMC,Yukon,Yukon 1500 Hybrid 2WD
+2011,GMC,Yukon,Yukon 1500 Hybrid 4WD
+2011,GMC,Yukon,Yukon Denali 1500 AWD
+2011,GMC,Yukon,Yukon Denali 1500 Hybrid 4WD
+2011,GMC,Yukon,Yukon XL 1500 2WD
+2011,GMC,Yukon,Yukon XL 1500 4WD
+2011,GMC,Yukon,Yukon XL 1500 AWD
+2011,GMC,Yukon,Yukon XL 2500 2WD
+2011,GMC,Yukon,Yukon XL 2500 4WD
+2011,Honda,Accord,Accord
+2011,Honda,Accord,Accord Coupe
+2011,Honda,Civic,Civic
+2011,Honda,Civic,Civic CNG
+2011,Honda,Civic,Civic Hybrid
+2011,Honda,CR-V,CR-V 2WD
+2011,Honda,CR-V,CR-V 4WD
+2011,Honda,CR-Z,CR-Z
+2011,Honda,Crosstour,Accord Crosstour 2WD
+2011,Honda,Crosstour,Accord Crosstour 4WD
+2011,Honda,Element,Element 2WD
+2011,Honda,Element,Element 4WD
+2011,Honda,Fit,Fit
+2011,Honda,Insight,Insight
+2011,Honda,Odyssey,Odyssey
+2011,Honda,Pilot,Pilot 2WD
+2011,Honda,Pilot,Pilot 4WD
+2011,Honda,Ridgeline,Ridgeline Truck 4WD
+2011,Hyundai,Accent,Accent
+2011,Hyundai,Accent,Accent Blue
+2011,Hyundai,Azera,Azera
+2011,Hyundai,Elantra,Elantra
+2011,Hyundai,Elantra,Elantra Touring
+2011,Hyundai,Entourage,Entourage
+2011,Hyundai,Equus,Equus
+2011,Hyundai,Genesis,Genesis
+2011,Hyundai,Genesis,Genesis Coupe
+2011,Hyundai,Santa Fe,Santa Fe 2WD
+2011,Hyundai,Santa Fe,Santa Fe 4WD
+2011,Hyundai,Sonata,Sonata
+2011,Hyundai,Sonata,Sonata Hybrid
+2011,Hyundai,Tucson,Tucson 2WD
+2011,Hyundai,Tucson,Tucson 4WD
+2011,Hyundai,Veracruz,Veracruz 2WD
+2011,Hyundai,Veracruz,Veracruz 4WD
+2011,Infiniti,EX35,EX35
+2011,Infiniti,EX35,EX35 AWD
+2011,Infiniti,FX35,FX35 AWD
+2011,Infiniti,FX35,FX35 RWD
+2011,Infiniti,FX50,FX50 AWD
+2011,Infiniti,G25,G25
+2011,Infiniti,G25,G25x
+2011,Infiniti,G37,G37 Convertible
+2011,Infiniti,G37,G37 Coupe
+2011,Infiniti,G37,G37x Coupe
+2011,Infiniti,M37,M37
+2011,Infiniti,M37,M37x
+2011,Infiniti,M56,M56
+2011,Infiniti,M56,M56x
+2011,Infiniti,QX56,QX56 2WD
+2011,Infiniti,QX56,QX56 4WD
+2011,Jaguar,XF,XF
+2011,Jaguar,XJ,XJ
+2011,Jaguar,XJ,XJ LWB
+2011,Jaguar,XK,XK
+2011,Jaguar,XK,XK Convertible
+2011,Jeep,Compass,Compass 2WD
+2011,Jeep,Compass,Compass 4WD
+2011,Jeep,Grand Cherokee,Grand Cherokee 2WD
+2011,Jeep,Grand Cherokee,Grand Cherokee 4WD
+2011,Jeep,Liberty,Liberty 2WD
+2011,Jeep,Liberty,Liberty 4WD
+2011,Jeep,Patriot,Patriot 2WD
+2011,Jeep,Patriot,Patriot 4WD
+2011,Jeep,Wrangler,Wrangler 4WD
+2011,Kia,Borrego,Borrego 2WD
+2011,Kia,Borrego,Borrego 4WD
+2011,Kia,Forte,Forte
+2011,Kia,Forte,Forte Eco
+2011,Kia,Forte,Forte Koup
+2011,Kia,Optima,Optima
+2011,Kia,Optima,Optima Hybrid
+2011,Kia,Rio,Rio
+2011,Kia,Rondo,Rondo
+2011,Kia,Sedona,Sedona
+2011,Kia,Sorento,Sorento 2WD
+2011,Kia,Sorento,Sorento 4WD
+2011,Kia,Soul,Soul
+2011,Kia,Sportage,Sportage 2WD
+2011,Kia,Sportage,Sportage 4WD
+2011,Lamborghini,Gallardo,Gallardo Coupe
+2011,Lamborghini,Gallardo,Gallardo Spyder
+2011,Land Rover,LR2,LR2
+2011,Land Rover,LR4,LR4
+2011,Land Rover,Range Rover,Range Rover
+2011,Land Rover,Range Rover,Range Rover Sport
+2011,Lexus,CT,CT 200h
+2011,Lexus,ES,ES 350
+2011,Lexus,GS,GS 350
+2011,Lexus,GS,GS 350 AWD
+2011,Lexus,GS,GS 450h
+2011,Lexus,GS,GS 460
+2011,Lexus,GX,GX 460
+2011,Lexus,HS,HS 250h
+2011,Lexus,IS,IS 250 AWD
+2011,Lexus,IS,IS 250/IS 250C
+2011,Lexus,IS,IS 350 AWD
+2011,Lexus,IS,IS 350/IS 350C
+2011,Lexus,IS F,IS F
+2011,Lexus,LS,LS 460
+2011,Lexus,LS,LS 460 AWD
+2011,Lexus,LS,LS 460 L
+2011,Lexus,LS,LS 460 L AWD
+2011,Lexus,LS,LS 600h L
+2011,Lexus,LX,LX 570
+2011,Lexus,RX,RX 350 2WD
+2011,Lexus,RX,RX 350 AWD
+2011,Lexus,RX,RX 450h
+2011,Lexus,RX,RX 450h AWD
+2011,Lincoln,MKS,MKS AWD
+2011,Lincoln,MKS,MKS FWD
+2011,Lincoln,MKT,MKT AWD
+2011,Lincoln,MKT,MKT FWD
+2011,Lincoln,MKT,MKT Hearse AWD
+2011,Lincoln,MKX,MKX AWD
+2011,Lincoln,MKX,MKX FWD
+2011,Lincoln,MKZ,MKZ AWD
+2011,Lincoln,MKZ,MKZ FWD
+2011,Lincoln,MKZ,MKZ Hybrid FWD
+2011,Lincoln,Navigator,Navigator 2WD FFV
+2011,Lincoln,Navigator,Navigator 4WD FFV
+2011,Lincoln,Navigator,Navigator Limo. 2WD FFV
+2011,Lincoln,Town Car,Town Car FFV
+2011,Lotus,Elise/Exige,Elise/Exige
+2011,Lotus,Evora,Evora
+2011,Mahindra,TR40,TR40
+2011,Maserati,GranTurismo,GranTurismo
+2011,Maserati,GranTurismo,GranTurismo Convertible
+2011,Maserati,Quattroporte,Quattroporte
+2011,Maybach,57,57
+2011,Maybach,57,57S
+2011,Maybach,62,62
+2011,Maybach,62,62S
+2011,Mazda,2,2
+2011,Mazda,3,3
+2011,Mazda,6,6
+2011,Mazda,CX-7,CX-7 2WD
+2011,Mazda,CX-7,CX-7 4WD
+2011,Mazda,CX-9,CX-9 2WD
+2011,Mazda,CX-9,CX-9 4WD
+2011,Mazda,MX-5,MX-5
+2011,Mazda,RX-8,RX-8
+2011,Mazda,Speed 3,Speed 3
+2011,Mazda,Tribute,Tribute 4WD
+2011,Mazda,Tribute,Tribute 4WD FFV
+2011,Mazda,Tribute,Tribute FWD
+2011,Mazda,Tribute,Tribute FWD FFV
+2011,Mazda,Tribute,Tribute Hybrid 2WD
+2011,Mazda,Tribute,Tribute Hybrid 4WD
+2011,Mercedes-Benz,C-Class,C300
+2011,Mercedes-Benz,C-Class,C300 4matic
+2011,Mercedes-Benz,C-Class,C350
+2011,Mercedes-Benz,C-Class,C63 AMG
+2011,Mercedes-Benz,CL-Class,CL550 4matic
+2011,Mercedes-Benz,CL-Class,CL600
+2011,Mercedes-Benz,CL-Class,CL63 AMG
+2011,Mercedes-Benz,CL-Class,CL65 AMG
+2011,Mercedes-Benz,CLS-Class,CLS550
+2011,Mercedes-Benz,CLS-Class,CLS63 AMG
+2011,Mercedes-Benz,E-Class,E350
+2011,Mercedes-Benz,E-Class,E350 4matic
+2011,Mercedes-Benz,E-Class,E350 4matic (wagon)
+2011,Mercedes-Benz,E-Class,E350 Convertible
+2011,Mercedes-Benz,E-Class,E350 Coupe
+2011,Mercedes-Benz,E-Class,E550
+2011,Mercedes-Benz,E-Class,E550 4matic
+2011,Mercedes-Benz,E-Class,E550 Convertible
+2011,Mercedes-Benz,E-Class,E550 Coupe
+2011,Mercedes-Benz,E-Class,E63 AMG
+2011,Mercedes-Benz,G-Class,G55 AMG
+2011,Mercedes-Benz,G-Class,G550
+2011,Mercedes-Benz,GL-Class,GL450 4matic
+2011,Mercedes-Benz,GL-Class,GL550 4matic
+2011,Mercedes-Benz,GLK-Class,GLK350
+2011,Mercedes-Benz,GLK-Class,GLK350 4matic
+2011,Mercedes-Benz,ML-Class,ML350
+2011,Mercedes-Benz,ML-Class,ML350 4matic
+2011,Mercedes-Benz,ML-Class,ML450 Hybrid 4matic
+2011,Mercedes-Benz,ML-Class,ML550 4matic
+2011,Mercedes-Benz,ML-Class,ML63 AMG
+2011,Mercedes-Benz,R-Class,R350 4matic
+2011,Mercedes-Benz,S-Class,S400 Hybrid
+2011,Mercedes-Benz,S-Class,S550
+2011,Mercedes-Benz,S-Class,S550 4matic
+2011,Mercedes-Benz,S-Class,S600
+2011,Mercedes-Benz,S-Class,S63 AMG
+2011,Mercedes-Benz,S-Class,S65 AMG
+2011,Mercedes-Benz,SL-Class,SL550
+2011,Mercedes-Benz,SL-Class,SL63 AMG
+2011,Mercedes-Benz,SL-Class,SL65 AMG
+2011,Mercedes-Benz,SLK-Class,SLK300
+2011,Mercedes-Benz,SLK-Class,SLK350
+2011,Mercedes-Benz,SLS AMG,SLS AMG
+2011,Mercury,Grand Marquis,Grand Marquis FFV
+2011,Mercury,Mariner,Mariner 4WD
+2011,Mercury,Mariner,Mariner 4WD FFV
+2011,Mercury,Mariner,Mariner FWD
+2011,Mercury,Mariner,Mariner FWD FFV
+2011,Mercury,Mariner,Mariner Hybrid 4WD
+2011,Mercury,Mariner,Mariner Hybrid FWD
+2011,Mercury,Milan,Milan AWD FFV
+2011,Mercury,Milan,Milan FWD
+2011,Mercury,Milan,Milan FWD FFV
+2011,Mercury,Milan,Milan Hybrid FWD
+2011,Mercury,Milan,Milan S FWD
+2011,MINI,Clubman,Clubman
+2011,MINI,Clubman,Cooper S Clubman
+2011,MINI,Clubman,John Cooper Works Clubman
+2011,MINI,Cooper,Cooper
+2011,MINI,Cooper,Cooper Convertible
+2011,MINI,Cooper,Cooper S
+2011,MINI,Cooper,Cooper S Convertible
+2011,MINI,Countryman,Cooper Countryman
+2011,MINI,Countryman,Cooper S Countryman
+2011,MINI,Countryman,Cooper S Countryman All4
+2011,MINI,John Cooper Works,John Cooper Works
+2011,MINI,John Cooper Works,John Cooper Works Convertible
+2011,Mitsubishi,Eclipse,Eclipse
+2011,Mitsubishi,Eclipse,Eclipse Spyder
+2011,Mitsubishi,Endeavor,Endeavor 2WD
+2011,Mitsubishi,Endeavor,Endeavor AWD
+2011,Mitsubishi,Galant,Galant
+2011,Mitsubishi,Lancer,Lancer
+2011,Mitsubishi,Lancer,Lancer Evolution
+2011,Mitsubishi,Lancer,Lancer Sportback
+2011,Mitsubishi,Outlander,Outlander 2WD
+2011,Mitsubishi,Outlander,Outlander 4WD
+2011,Mitsubishi,Outlander,Outlander Sport 2WD
+2011,Mitsubishi,Outlander,Outlander Sport 4WD
+2011,Nissan,370Z,370Z
+2011,Nissan,370Z,370Z Roadster
+2011,Nissan,Altima,Altima
+2011,Nissan,Altima,Altima Coupe
+2011,Nissan,Altima,Altima Hybrid
+2011,Nissan,Armada,Armada 2WD
+2011,Nissan,Armada,Armada 2WD FFV
+2011,Nissan,Armada,Armada 4WD
+2011,Nissan,Armada,Armada 4WD FFV
+2011,Nissan,Cube,Cube
+2011,Nissan,Frontier,Frontier 2WD
+2011,Nissan,Frontier,Frontier 4WD
+2011,Nissan,GT-R,GT-R
+2011,Nissan,Juke,Juke
+2011,Nissan,Juke,Juke AWD
+2011,Nissan,Leaf,Leaf
+2011,Nissan,Maxima,Maxima
+2011,Nissan,Murano,Murano AWD
+2011,Nissan,Murano,Murano CrossCabriolet
+2011,Nissan,Murano,Murano FWD
+2011,Nissan,Pathfinder,Pathfinder 2WD
+2011,Nissan,Pathfinder,Pathfinder 4WD
+2011,Nissan,Quest,Quest
+2011,Nissan,Rogue,Rogue AWD
+2011,Nissan,Rogue,Rogue FWD
+2011,Nissan,Sentra,Sentra
+2011,Nissan,Titan,Titan 2WD
+2011,Nissan,Titan,Titan 2WD FFV
+2011,Nissan,Titan,Titan 4WD
+2011,Nissan,Titan,Titan 4WD FFV
+2011,Nissan,Versa,Versa
+2011,Nissan,Xterra,Xterra 2WD
+2011,Nissan,Xterra,Xterra 4WD
+2011,Porsche,911,911 Carrera
+2011,Porsche,911,911 Carrera 4
+2011,Porsche,911,911 Carrera 4 Cabriolet
+2011,Porsche,911,911 Carrera 4 Targa
+2011,Porsche,911,911 Carrera 4S
+2011,Porsche,911,911 Carrera 4S Cabriolet
+2011,Porsche,911,911 Carrera 4S Targa
+2011,Porsche,911,911 Carrera Cabriolet
+2011,Porsche,911,911 Carrera S
+2011,Porsche,911,911 Carrera S Cabriolet
+2011,Porsche,911,911 GT2 RS
+2011,Porsche,911,911 GT3
+2011,Porsche,911,911 GT3 RS
+2011,Porsche,911,911 GTS
+2011,Porsche,911,911 GTS Cabriolet
+2011,Porsche,911,911 Speedster
+2011,Porsche,911,911 Turbo Cabriolet
+2011,Porsche,911,911 Turbo Coupe
+2011,Porsche,911,911 Turbo S Cabriolet
+2011,Porsche,911,911 Turbo S Coupe
+2011,Porsche,Boxster,Boxster
+2011,Porsche,Boxster,Boxster S
+2011,Porsche,Boxster,Boxster Spyder
+2011,Porsche,Cayenne,Cayenne
+2011,Porsche,Cayenne,Cayenne S
+2011,Porsche,Cayenne,Cayenne S Hybrid
+2011,Porsche,Cayenne,Cayenne Turbo
+2011,Porsche,Cayman,Cayman
+2011,Porsche,Cayman,Cayman S
+2011,Porsche,Panamera,Panamera
+2011,Porsche,Panamera,Panamera 4
+2011,Porsche,Panamera,Panamera 4S
+2011,Porsche,Panamera,Panamera S
+2011,Porsche,Panamera,Panamera Turbo
+2011,Rolls-Royce,Ghost,Ghost
+2011,Rolls-Royce,Phantom,Phantom
+2011,Rolls-Royce,Phantom,Phantom Coupe
+2011,Rolls-Royce,Phantom,Phantom Drophead Coupe
+2011,Rolls-Royce,Phantom,Phantom EWB
+2011,Roush Performance,Mustang,Stage 3 Mustang
+2011,Saab,9-3,9-3 Convertible
+2011,Saab,9-3,9-3 Sedan AWD
+2011,Saab,9-3,9-3 Sport Sedan
+2011,Saab,9-3,9-3 SportCombi
+2011,Saab,9-3,9-3X SportCombi AWD
+2011,Saab,9-4,9-4X AWD
+2011,Saab,9-4,9-4X FWD
+2011,Saab,9-5,9-5 Sedan
+2011,Saab,9-5,9-5 Sedan AWD
+2011,Scion,iQ,iQ
+2011,Scion,tC,tC
+2011,Scion,xB,xB
+2011,Scion,xD,xD
+2011,smart,fortwo,fortwo cabriolet
+2011,smart,fortwo,fortwo coupe
+2011,smart,fortwo,fortwo electric drive cabriolet
+2011,smart,fortwo,fortwo electric drive coupe
+2011,Spyker,C8,C8 Aileron
+2011,Subaru,Forester,Forester AWD
+2011,Subaru,Impreza/Outback Sport,Impreza AWD
+2011,Subaru,Impreza/Outback Sport,Impreza Wagon/Outback Sport AWD
+2011,Subaru,Legacy/Outback,Legacy AWD
+2011,Subaru,Legacy/Outback,Outback Wagon AWD
+2011,Subaru,Tribeca,Tribeca AWD
+2011,Suzuki,Equator,Equator 2WD
+2011,Suzuki,Equator,Equator 4WD
+2011,Suzuki,Grand Vitara,Grand Vitara
+2011,Suzuki,Grand Vitara,Grand Vitara 4WD
+2011,Suzuki,Kizashi,Kizashi
+2011,Suzuki,Kizashi,Kizashi AWD
+2011,Suzuki,Kizashi,Kizashi S
+2011,Suzuki,Kizashi,Kizashi S AWD
+2011,Suzuki,Swift,Swift x
+2011,Suzuki,SX4,SX4
+2011,Suzuki,SX4,SX4 AWD
+2011,Suzuki,SX4,SX4 Sedan
+2011,Suzuki,SX4,SX4 Sport/Anniversary Edition
+2011,Toyota,4Runner,4Runner 2WD
+2011,Toyota,4Runner,4Runner 4WD
+2011,Toyota,Avalon,Avalon
+2011,Toyota,Camry,Camry
+2011,Toyota,Camry,Camry Hybrid
+2011,Toyota,Corolla,Corolla
+2011,Toyota,FJ Cruiser,FJ Cruiser 2WD
+2011,Toyota,FJ Cruiser,FJ Cruiser 4WD
+2011,Toyota,Highlander,Highlander 2WD
+2011,Toyota,Highlander,Highlander 4WD
+2011,Toyota,Highlander,Highlander Hybrid 4WD
+2011,Toyota,Land Cruiser,Land Cruiser Wagon 4WD
+2011,Toyota,Matrix,Matrix
+2011,Toyota,Prius,Prius
+2011,Toyota,RAV4,RAV4 2WD
+2011,Toyota,RAV4,RAV4 4WD
+2011,Toyota,Sequoia,Sequoia 2WD
+2011,Toyota,Sequoia,Sequoia 4WD
+2011,Toyota,Sequoia,Sequoia 4WD FFV
+2011,Toyota,Sienna,Sienna 2WD
+2011,Toyota,Sienna,Sienna AWD
+2011,Toyota,Tacoma,Tacoma 2WD
+2011,Toyota,Tacoma,Tacoma 4WD
+2011,Toyota,Tundra,Tundra 2WD
+2011,Toyota,Tundra,Tundra 4WD
+2011,Toyota,Tundra,Tundra 4WD FFV
+2011,Toyota,Venza,Venza
+2011,Toyota,Venza,Venza AWD
+2011,Toyota,Yaris,Yaris
+2011,Volkswagen,CC,CC
+2011,Volkswagen,CC,CC 4motion
+2011,Volkswagen,Eos,Eos
+2011,Volkswagen,Golf/GTI,Golf
+2011,Volkswagen,Golf/GTI,GTI
+2011,Volkswagen,Jetta,Jetta
+2011,Volkswagen,Jetta,Jetta SportWagen
+2011,Volkswagen,Routan,Routan
+2011,Volkswagen,Tiguan,Tiguan
+2011,Volkswagen,Tiguan,Tiguan 4motion
+2011,Volkswagen,Touareg,Touareg
+2011,Volkswagen,Touareg,Touareg Hybrid
+2011,Volvo,C30,C30 FWD
+2011,Volvo,C70,C70 FWD
+2011,Volvo,S40,S40 FWD
+2011,Volvo,S60,S60 AWD
+2011,Volvo,S80,S80 AWD
+2011,Volvo,S80,S80 FWD
+2011,Volvo,V50,V50 FWD
+2011,Volvo,XC60,XC60 AWD
+2011,Volvo,XC60,XC60 FWD
+2011,Volvo,XC70,XC70 AWD
+2011,Volvo,XC70,XC70 FWD
+2011,Volvo,XC90,XC90 AWD
+2011,Volvo,XC90,XC90 FWD
+2011,VPG,MV-1,MV-1
+2011,VPG,MV-1,MV-1 CNG

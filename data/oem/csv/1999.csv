@@ -1,0 +1,372 @@
+year,make,model,trim
+1999,Acura,CL,2.3CL/3.0CL
+1999,Acura,Integra,Integra
+1999,Acura,NSX,NSX
+1999,Acura,RL,3.5RL
+1999,Acura,SLX,SLX
+1999,Acura,TL,3.2TL
+1999,Audi,A4,A4
+1999,Audi,A4,A4 Avant quattro
+1999,Audi,A4,A4 quattro
+1999,Audi,A6,A6
+1999,Audi,A6,A6 Avant quattro
+1999,Audi,A6,A6 quattro
+1999,Audi,A8,A8
+1999,Audi,A8,A8 quattro
+1999,Bentley,Arnage,Arnage
+1999,Bentley,Azure,Azure
+1999,Bentley,Brooklands,Brooklands R Limo
+1999,Bentley,Continental,Continental R
+1999,Bentley,Continental,Continental SC
+1999,Bentley,Continental,Continental T
+1999,Bentley,Turbo RT,Turbo RT
+1999,BMW,3 Series,318ti
+1999,BMW,3 Series,323i
+1999,BMW,3 Series,323i Convertible
+1999,BMW,3 Series,323is
+1999,BMW,3 Series,328i
+1999,BMW,3 Series,328i Convertible
+1999,BMW,3 Series,328is
+1999,BMW,5 Series,528i
+1999,BMW,5 Series,528i Touring
+1999,BMW,5 Series,540i
+1999,BMW,5 Series,540i Touring
+1999,BMW,7 Series,740i
+1999,BMW,7 Series,740il
+1999,BMW,7 Series,750il
+1999,BMW,M,M Coupe
+1999,BMW,M,M Roadster
+1999,BMW,M,M3
+1999,BMW,M,M3 Convertible
+1999,BMW,Z3,Z3 Coupe
+1999,BMW,Z3,Z3 Roadster
+1999,Buick,Century,Century
+1999,Buick,LeSabre,LeSabre
+1999,Buick,Park Avenue,Park Avenue
+1999,Buick,Regal,Regal
+1999,Buick,Riviera,Riviera
+1999,Cadillac,Catera,Catera
+1999,Cadillac,DeVille,DeVille
+1999,Cadillac,Eldorado,Eldorado
+1999,Cadillac,Escalade,Escalade 4WD
+1999,Cadillac,Funeral Coach/Hearse,Funeral Coach/Hearse
+1999,Cadillac,Limousine,Limousine
+1999,Cadillac,Seville,Seville
+1999,Chevrolet,Astro Cargo,Astro 2WD (cargo)
+1999,Chevrolet,Astro Cargo,Astro AWD (cargo)
+1999,Chevrolet,Astro Passenger,Astro 2WD (passenger)
+1999,Chevrolet,Astro Passenger,Astro AWD (passenger)
+1999,Chevrolet,Blazer,Blazer 2WD
+1999,Chevrolet,Blazer,Blazer 4WD
+1999,Chevrolet,C1500 Pickup,C1500 Pickup 2WD
+1999,Chevrolet,Camaro,Camaro
+1999,Chevrolet,Cavalier,Cavalier
+1999,Chevrolet,Corvette,Corvette
+1999,Chevrolet,Express Passenger,Express 1500/2500 2WD
+1999,Chevrolet,K1500 Pickup,K1500 Pickup 4WD
+1999,Chevrolet,Lumina/Monte Carlo,Lumina/Monte Carlo
+1999,Chevrolet,Malibu,Malibu
+1999,Chevrolet,Metro,Metro
+1999,Chevrolet,Prizm,Prizm
+1999,Chevrolet,S10 Pickup,S10 Pickup 2WD
+1999,Chevrolet,S10 Pickup,S10 Pickup 4WD
+1999,Chevrolet,Silverado,Silverado 1500 2WD
+1999,Chevrolet,Silverado,Silverado 1500 4WD
+1999,Chevrolet,Silverado,Silverado 2500 2WD
+1999,Chevrolet,Suburban,Suburban 1500 2WD
+1999,Chevrolet,Tahoe,Tahoe 1500 2WD
+1999,Chevrolet,Tahoe,Tahoe 1500 4WD
+1999,Chevrolet,Tracker,Tracker 2WD Convertible
+1999,Chevrolet,Tracker,Tracker 2WD Hardtop
+1999,Chevrolet,Tracker,Tracker 4WD Convertible
+1999,Chevrolet,Tracker,Tracker 4WD Hardtop
+1999,Chevrolet,Van 1500/2500,Van 1500/2500 2WD
+1999,Chevrolet,Venture,Venture FWD
+1999,Chrysler,300,300 M
+1999,Chrysler,Cirrus,Cirrus
+1999,Chrysler,Concorde,Concorde
+1999,Chrysler,LHS,LHS
+1999,Chrysler,Sebring,Sebring
+1999,Chrysler,Sebring,Sebring Convertible
+1999,Chrysler,Town and Country,Town and Country 2WD
+1999,Chrysler,Town and Country,Town and Country AWD
+1999,Daewoo,Lanos,Lanos
+1999,Daewoo,Leganza,Leganza
+1999,Daewoo,Nubira,Nubira
+1999,Daewoo,Nubira,Nubira Station Wagon
+1999,Dodge,Avenger,Avenger
+1999,Dodge,B1500 Van,B1500 Van 2WD
+1999,Dodge,B1500 Wagon,B1500 Wagon 2WD
+1999,Dodge,B2500 Van,B2500 Van 2WD
+1999,Dodge,B2500 Wagon,B2500 Wagon 2WD
+1999,Dodge,Caravan/Grand Caravan,Caravan/Grand Caravan 2WD
+1999,Dodge,Caravan/Grand Caravan,Caravan/Grand Caravan AWD
+1999,Dodge,Dakota Pickup,Dakota Pickup 2WD
+1999,Dodge,Dakota Pickup,Dakota Pickup 4WD
+1999,Dodge,Durango,Durango 2WD
+1999,Dodge,Durango,Durango 4WD
+1999,Dodge,Intrepid,Intrepid
+1999,Dodge,Neon,Neon
+1999,Dodge,Ram 1500 Pickup,Ram 1500 Pickup 2WD
+1999,Dodge,Ram 1500 Pickup,Ram 1500 Pickup 4WD
+1999,Dodge,Stratus,Stratus
+1999,Dodge,Viper,Viper Convertible
+1999,Dodge,Viper,Viper Coupe
+1999,Ferrari,360 Modena/Modena F1,360 Modena/Modena F1
+1999,Ferrari,456 MGT/MGA,456 MGT/MGA
+1999,Ferrari,550 Maranello,550 Maranello
+1999,Ferrari,F355/355 F1,F355/355 F1
+1999,Ford,Contour,Contour
+1999,Ford,Crown Victoria,Crown Victoria
+1999,Ford,Crown Victoria,Crown Victoria CNG
+1999,Ford,Crown Victoria,Crown Victoria Police
+1999,Ford,E150 Club Wagon,E150 Club Wagon
+1999,Ford,E150 Econoline,E150 Econoline 2WD
+1999,Ford,E250 Econoline,E250 Econoline 2WD
+1999,Ford,E250 Econoline,E250 Econoline 2WD CNG
+1999,Ford,Escort,Escort
+1999,Ford,Escort,Escort Wagon
+1999,Ford,Escort,Escort ZX2
+1999,Ford,Expedition,Expedition 2WD
+1999,Ford,Expedition,Expedition 4WD
+1999,Ford,Explorer,Explorer 2WD
+1999,Ford,Explorer,Explorer 4WD
+1999,Ford,F150,F150 Pickup 2WD
+1999,Ford,F150,F150 Pickup 4WD
+1999,Ford,F250,F250 Pickup 2WD
+1999,Ford,F250,F250 Pickup 2WD CNG
+1999,Ford,F250,F250 Pickup 4WD
+1999,Ford,Mustang,Mustang
+1999,Ford,Ranger,Ranger 2WD FFV
+1999,Ford,Ranger,Ranger 4WD FFV
+1999,Ford,Ranger,Ranger Pickup 2WD
+1999,Ford,Ranger,Ranger Pickup 4WD
+1999,Ford,Taurus,Taurus
+1999,Ford,Taurus,Taurus SHO
+1999,Ford,Taurus,Taurus Wagon
+1999,Ford,Windstar,Windstar FWD Van
+1999,Ford,Windstar,Windstar FWD Wagon
+1999,GMC,EV1,EV1
+1999,GMC,Jimmy,Jimmy 2WD
+1999,GMC,Jimmy,Jimmy 4WD
+1999,GMC,Safari Cargo,Safari 2WD (cargo)
+1999,GMC,Safari Cargo,Safari AWD (cargo)
+1999,GMC,Safari Passenger,Safari 2WD (passenger)
+1999,GMC,Safari Passenger,Safari AWD (passenger)
+1999,GMC,Savana Cargo,Savana 1500/2500 2WD (cargo)
+1999,GMC,Savana Passenger,Savana 1500/2500 2WD (passenger)
+1999,GMC,Sierra,Sierra 1500 2WD
+1999,GMC,Sierra,Sierra 1500 4WD
+1999,GMC,Sierra,Sierra 2500 2WD
+1999,GMC,Sonoma,Sonoma 2WD
+1999,GMC,Sonoma,Sonoma 4WD
+1999,GMC,Suburban,Suburban 1500 2WD
+1999,GMC,Yukon,Yukon 1500 2WD
+1999,GMC,Yukon,Yukon 1500 4WD
+1999,Honda,Accord,Accord
+1999,Honda,Civic,Civic
+1999,Honda,Civic,Civic HX
+1999,Honda,CR-V,CR-V 2WD
+1999,Honda,CR-V,CR-V 4WD
+1999,Honda,EV Plus,EV Plus
+1999,Honda,Odyssey,Odyssey
+1999,Honda,Passport,Passport 2WD
+1999,Honda,Passport,Passport 4WD
+1999,Honda,Prelude,Prelude
+1999,Hyundai,Accent,Accent
+1999,Hyundai,Elantra,Elantra
+1999,Hyundai,Elantra,Elantra Wagon
+1999,Hyundai,Sonata,Sonata
+1999,Hyundai,Tiburon,Tiburon
+1999,Infiniti,G20,G20
+1999,Infiniti,I30,I30
+1999,Infiniti,Q45,Q45
+1999,Infiniti,QX4,QX4 4WD
+1999,Isuzu,Amigo,Amigo 2WD
+1999,Isuzu,Amigo,Amigo 4WD
+1999,Isuzu,Hombre Pickup,Hombre Pickup 2WD
+1999,Isuzu,Hombre Pickup,Hombre Pickup 4WD
+1999,Isuzu,Oasis,Oasis
+1999,Isuzu,Rodeo,Rodeo 2WD
+1999,Isuzu,Rodeo,Rodeo 4WD
+1999,Isuzu,Trooper,Trooper
+1999,Isuzu,Vehicross,Vehicross
+1999,Jaguar,Vanden Plas,Vanden Plas
+1999,Jaguar,Vanden Plas,Vanden Plas S.C.
+1999,Jaguar,XJ,XJ8
+1999,Jaguar,XJ,XJ8L
+1999,Jaguar,XJR,XJR
+1999,Jaguar,XK8,XK8
+1999,Jaguar,XK8,XK8 Convertible
+1999,Jeep,Cherokee,Cherokee 2WD
+1999,Jeep,Cherokee,Cherokee 4WD
+1999,Jeep,Grand Cherokee,Grand Cherokee 2WD
+1999,Jeep,Grand Cherokee,Grand Cherokee 4WD
+1999,Jeep,Wrangler,Wrangler 4WD
+1999,Kia,Sephia,Sephia
+1999,Kia,Sportage,Sportage 2WD
+1999,Kia,Sportage,Sportage 4WD
+1999,Lamborghini,Diablo,DB132/144 Diablo
+1999,Land Rover,Discovery,Discovery
+1999,Land Rover,Discovery,Discovery Series II
+1999,Land Rover,Range Rover,Range Rover
+1999,Lexus,ES,ES 300
+1999,Lexus,GS,GS 300/GS 400
+1999,Lexus,LS,LS 400
+1999,Lexus,LX,LX 470
+1999,Lexus,RX,RX 300
+1999,Lexus,RX,RX 300 4WD
+1999,Lexus,SC,SC
+1999,Lincoln,Continental,Continental
+1999,Lincoln,Navigator,Navigator 2WD
+1999,Lincoln,Navigator,Navigator 4WD
+1999,Lincoln,Town Car,Town Car
+1999,Lotus,Esprit,Esprit V8
+1999,Mazda,626,626
+1999,Mazda,B Pickup,B2500
+1999,Mazda,B Pickup,B3000 FFV 2WD
+1999,Mazda,B Pickup,B3000 FFV 4WD
+1999,Mazda,B Pickup,B4000
+1999,Mazda,Millenia,Millenia
+1999,Mazda,MX-5 Miata,MX-5 Miata
+1999,Mazda,Protege,Protege
+1999,Mercedes-Benz,C-Class,C230 Kompressor
+1999,Mercedes-Benz,C-Class,C280
+1999,Mercedes-Benz,C-Class,C43 AMG
+1999,Mercedes-Benz,CL-Class,CL500
+1999,Mercedes-Benz,CL-Class,CL600
+1999,Mercedes-Benz,CLK-Class,CLK320
+1999,Mercedes-Benz,CLK-Class,CLK320 Cabriolet
+1999,Mercedes-Benz,CLK-Class,CLK430
+1999,Mercedes-Benz,E-Class,E300 Turbodiesel
+1999,Mercedes-Benz,E-Class,E320 Sedan
+1999,Mercedes-Benz,E-Class,E320 Sedan 4Matic
+1999,Mercedes-Benz,E-Class,E320 Wagon
+1999,Mercedes-Benz,E-Class,E320 Wagon 4Matic
+1999,Mercedes-Benz,E-Class,E430
+1999,Mercedes-Benz,E-Class,E55 AMG
+1999,Mercedes-Benz,ML-Class,ML320
+1999,Mercedes-Benz,ML-Class,ML430
+1999,Mercedes-Benz,S-Class,S320
+1999,Mercedes-Benz,S-Class,S420
+1999,Mercedes-Benz,S-Class,S500
+1999,Mercedes-Benz,S-Class,S600
+1999,Mercedes-Benz,SL-Class,SL500
+1999,Mercedes-Benz,SL-Class,SL600
+1999,Mercedes-Benz,SLK-Class,SLK230 Kompressor
+1999,Mercury,Cougar,Cougar
+1999,Mercury,Grand Marquis,Grand Marquis
+1999,Mercury,Mountaineer,Mountaineer 2WD
+1999,Mercury,Mountaineer,Mountaineer 4WD
+1999,Mercury,Mystique,Mystique
+1999,Mercury,Sable,Sable
+1999,Mercury,Sable,Sable Wagon
+1999,Mercury,Tracer,Tracer
+1999,Mercury,Tracer,Tracer Wagon
+1999,Mercury,Villager,Villager FWD Wagon
+1999,Mitsubishi,3000 GT,3000 GT
+1999,Mitsubishi,Diamante,Diamante
+1999,Mitsubishi,Eclipse,Eclipse
+1999,Mitsubishi,Eclipse,Eclipse Convertible
+1999,Mitsubishi,Galant,Galant
+1999,Mitsubishi,Mirage,Mirage
+1999,Mitsubishi,Montero,Montero
+1999,Mitsubishi,Montero Sport,Montero Sport 2WD
+1999,Mitsubishi,Montero Sport,Montero Sport 4WD
+1999,Mitsubishi,Nativa,Nativa 2WD
+1999,Mitsubishi,Nativa,Nativa 4WD
+1999,Nissan,Altima,Altima
+1999,Nissan,Frontier,Frontier 2WD
+1999,Nissan,Frontier,Frontier 4WD
+1999,Nissan,Frontier,Frontier V6 4WD
+1999,Nissan,Maxima,Maxima
+1999,Nissan,Pathfinder,Pathfinder 2WD
+1999,Nissan,Pathfinder,Pathfinder 4WD
+1999,Nissan,Quest,Quest
+1999,Nissan,Sentra/200SX,Sentra/200SX
+1999,Oldsmobile,Alero,Alero
+1999,Oldsmobile,Aurora,Aurora
+1999,Oldsmobile,Bravada,Bravada AWD
+1999,Oldsmobile,Cutlass,Cutlass
+1999,Oldsmobile,Eighty-Eight/Regency,Eighty-Eight/Regency
+1999,Oldsmobile,Intrigue,Intrigue
+1999,Oldsmobile,Silhouette,Silhouette 2WD
+1999,Plymouth,Breeze,Breeze
+1999,Plymouth,Neon,Neon
+1999,Plymouth,Prowler,Prowler
+1999,Plymouth,Voyager/Grand Voyager,Voyager/Grand Voyager 2WD
+1999,Pontiac,Bonneville,Bonneville
+1999,Pontiac,Firebird/Trans Am/Formula,Firebird/Trans Am
+1999,Pontiac,Grand Am,Grand Am
+1999,Pontiac,Grand Prix,Grand Prix
+1999,Pontiac,Sunfire,Sunfire
+1999,Pontiac,Trans Sport/Montana,Trans Sport/Montana 2WD
+1999,Porsche,911,911 Carrera
+1999,Porsche,Boxster,Boxster
+1999,Quantum Technologies,Chevrolet Cavalier,Chevrolet Cavalier
+1999,Rolls-Royce,Silver Seraph,Silver Seraph
+1999,Rolls-Royce,Silver Spur,Silver Spur
+1999,Rolls-Royce,Silver Spur Park Ward,Silver Spur Park Ward
+1999,Saab,9-3,9-3
+1999,Saab,9-3,9-3 Convertible
+1999,Saab,9-3,9-3 Viggen
+1999,Saab,9-5,9-5
+1999,Saab,9-5,9-5 Wagon
+1999,Saturn,SC,SC
+1999,Saturn,SL,SL
+1999,Saturn,SW,SW
+1999,Subaru,Forester,Forester AWD
+1999,Subaru,Impreza/Outback Sport,Impreza AWD
+1999,Subaru,Impreza/Outback Sport,Impreza Wagon AWD
+1999,Subaru,Legacy/Outback,Legacy AWD
+1999,Subaru,Legacy/Outback,Legacy Wagon AWD
+1999,Suzuki,Esteem,Esteem
+1999,Suzuki,Esteem,Esteem Wagon
+1999,Suzuki,Grand Vitara,Grand Vitara 4Door 2WD
+1999,Suzuki,Grand Vitara,Grand Vitara 4Door 4WD
+1999,Suzuki,SW,SW
+1999,Suzuki,Vitara,Vitara 2Door 2WD
+1999,Suzuki,Vitara,Vitara 2Door 4WD
+1999,Suzuki,Vitara,Vitara 4Door 2WD
+1999,Suzuki,Vitara,Vitara 4Door 4WD
+1999,Toyota,4Runner,4Runner 2WD
+1999,Toyota,4Runner,4Runner 4WD
+1999,Toyota,Avalon,Avalon
+1999,Toyota,Camry,Camry
+1999,Toyota,Camry,Camry CNG
+1999,Toyota,Camry,Camry Solara
+1999,Toyota,Celica,Celica
+1999,Toyota,Celica,Celica Convertible
+1999,Toyota,Corolla,Corolla
+1999,Toyota,Land Cruiser,Land Cruiser Wagon 4WD
+1999,Toyota,Paseo,Paseo
+1999,Toyota,Paseo,Paseo Convertible
+1999,Toyota,RAV4,RAV4 2WD
+1999,Toyota,RAV4,RAV4 4WD
+1999,Toyota,RAV4,RAV4 Soft Top 2WD
+1999,Toyota,RAV4,RAV4 Soft Top 4WD
+1999,Toyota,Sienna,Sienna 2WD
+1999,Toyota,Tacoma,Tacoma 2WD
+1999,Toyota,Tacoma,Tacoma 4WD
+1999,Toyota,Tercel,Tercel
+1999,Volkswagen,Beetle,New Beetle
+1999,Volkswagen,Cabrio,Cabrio
+1999,Volkswagen,Eurovan,Eurovan
+1999,Volkswagen,Eurovan,Eurovan Camper
+1999,Volkswagen,Golf/GTI,Golf
+1999,Volkswagen,Golf/GTI,GTI
+1999,Volkswagen,Golf/GTI,New Golf
+1999,Volkswagen,Golf/GTI,New GTI
+1999,Volkswagen,Jetta,Jetta
+1999,Volkswagen,Jetta,New Jetta
+1999,Volkswagen,Passat,Passat
+1999,Volkswagen,Passat,Passat Syncro
+1999,Volkswagen,Passat,Passat Wagon
+1999,Volkswagen,Passat,Passat Wagon Syncro
+1999,Volvo,C70,C70
+1999,Volvo,C70,C70 Convertible
+1999,Volvo,S70,S70
+1999,Volvo,S70,S70 AWD
+1999,Volvo,S80,S80
+1999,Volvo,V70,V70 AWD
+1999,Volvo,V70,V70 FWD

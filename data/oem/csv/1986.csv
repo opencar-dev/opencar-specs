@@ -1,0 +1,354 @@
+year,make,model,trim
+1986,Acura,Integra,Integra
+1986,Acura,Legend,Legend
+1986,Alfa Romeo,GTV,GTV
+1986,Alfa Romeo,Spider,Spider
+1986,American Motors Corporation,Eagle,Eagle
+1986,Audi,4000,4000 CS quattro
+1986,Audi,4000,4000 S
+1986,Audi,5000,5000 CS quattro
+1986,Audi,5000,5000 CS quattro Wagon
+1986,Audi,5000,5000 S
+1986,Audi,5000,5000S Wagon
+1986,Audi,Coupe GT,Coupe GT
+1986,Autokraft Limited,A.C.Mkiv,A.C.Mkiv
+1986,Bertone,X1/9,X1/9
+1986,Bitter Gmbh and Co. Kg,Bitter SC,Bitter SC
+1986,BMW,3 Series,3 Series
+1986,BMW,5 Series,5 Series
+1986,BMW,6 Series,6 Series
+1986,BMW,7 Series,7 Series
+1986,Buick,Century,Century
+1986,Buick,Century Wagon,Century Wagon
+1986,Buick,Electra/Park Avenue,Electra/Park Avenue
+1986,Buick,LeSabre,LeSabre
+1986,Buick,LeSabre/Electra Wagon,LeSabre/Electra Wagon
+1986,Buick,Regal,Regal
+1986,Buick,Riviera,Riviera
+1986,Buick,Skyhawk,Skyhawk
+1986,Buick,Skyhawk,Skyhawk Wagon
+1986,Buick,Somerset/Skylark,Somerset/Skylark
+1986,Cadillac,Cimarron,Cimarron
+1986,Cadillac,Eldorado,Eldorado
+1986,Cadillac,Fleetwood Brougham,Fleetwood Brougham
+1986,Cadillac,Fleetwood/DeVille,Fleetwood/DeVille
+1986,Cadillac,Limousine,Limousine
+1986,Cadillac,Seville,Seville
+1986,Chevrolet,Astro Cargo,Astro 2WD (cargo)
+1986,Chevrolet,Astro Passenger,Astro 2WD (passenger)
+1986,Chevrolet,Blazer,K10 Blazer 4WD
+1986,Chevrolet,Blazer,S10 Blazer 2WD
+1986,Chevrolet,Blazer,T10 (S10) Blazer 4WD
+1986,Chevrolet,C10 Pickup,C10 Pickup 2WD
+1986,Chevrolet,C20 Pickup,C20 Pickup 2WD
+1986,Chevrolet,Camaro,Camaro
+1986,Chevrolet,Caprice,Caprice
+1986,Chevrolet,Caprice,Caprice Wagon
+1986,Chevrolet,Cavalier,Cavalier
+1986,Chevrolet,Cavalier,Cavalier Convertible
+1986,Chevrolet,Cavalier,Cavalier Wagon
+1986,Chevrolet,Celebrity,Celebrity
+1986,Chevrolet,Celebrity,Celebrity Wagon
+1986,Chevrolet,Chevette,Chevette CS
+1986,Chevrolet,Corvette,Corvette
+1986,Chevrolet,Corvette,Corvette Convertible
+1986,Chevrolet,El Camino Pickup,El Camino Pickup 2WD
+1986,Chevrolet,G10/20 Van,G10/20 Sport Van 2WD
+1986,Chevrolet,G10/20 Van,G10/20 Van 2WD
+1986,Chevrolet,G30 Van,G30 Van 2WD
+1986,Chevrolet,K10 Pickup,K10 Pickup 4WD
+1986,Chevrolet,K20 Pickup,K20 Pickup 4WD
+1986,Chevrolet,Monte Carlo,Monte Carlo
+1986,Chevrolet,Nova,Nova
+1986,Chevrolet,S10 Cab Chassis,S10 Cab Chassis 2WD
+1986,Chevrolet,S10 Pickup,S10 Pickup 2WD
+1986,Chevrolet,Spectrum,Spectrum
+1986,Chevrolet,Sport Van,G30 Sport Van 2WD
+1986,Chevrolet,Sprint,Sprint
+1986,Chevrolet,Sprint,Sprint ER
+1986,Chevrolet,Sprint,Sprint Plus
+1986,Chevrolet,Suburban,Suburban C10 2WD
+1986,Chevrolet,Suburban,Suburban K10 4WD
+1986,Chevrolet,T10 (S10) Pickup,T10 (S10) Pickup 4WD
+1986,Chrysler,Laser/Daytona,Laser/Daytona
+1986,Chrysler,LeBaron,LeBaron
+1986,Chrysler,LeBaron,LeBaron Convertible
+1986,Chrysler,LeBaron,LeBaron GTS
+1986,Chrysler,Limousine,Limousine
+1986,Chrysler,New Yorker,New Yorker
+1986,Chrysler,Newport/Fifth Avenue,Newport/Fifth Avenue
+1986,Chrysler,Town and Country,Town and Country Wagon
+1986,Dodge,600,600
+1986,Dodge,600,600 Convertible
+1986,Dodge,Aries,Aries
+1986,Dodge,Aries,Aries Wagon
+1986,Dodge,B150/B250 Van,B150/B250 Van 2WD
+1986,Dodge,B150/B250 Wagon,B150/B250 Wagon 2WD
+1986,Dodge,B350 Van,B350 Van 2WD
+1986,Dodge,B350 Wagon,B350 Wagon 2WD
+1986,Dodge,Caravan/Ram Van,Caravan/Ram Van 2WD
+1986,Dodge,Charger,Charger
+1986,Dodge,Colt,Colt
+1986,Dodge,Colt,Colt Vista
+1986,Dodge,Colt,Colt Vista 4WD
+1986,Dodge,Conquest,Conquest
+1986,Dodge,D100/D150 Pickup,D100/D150 Pickup 2WD
+1986,Dodge,D250 Cab Chassis,D250 Cab Chassis 2WD
+1986,Dodge,D250 Pickup,D250 Pickup 2WD
+1986,Dodge,Daytona,Daytona
+1986,Dodge,Diplomat,Diplomat
+1986,Dodge,GLH-S,GLH-S
+1986,Dodge,Lancer,Lancer
+1986,Dodge,Omni,Omni
+1986,Dodge,Power Ram 50 Pickup,Power Ram50 4WD
+1986,Dodge,Ram 50 Pickup,Ram 50 Pickup 2WD
+1986,Dodge,Ramcharger,AD100/AD150 Ramcharger 2WD
+1986,Dodge,Ramcharger,AW100/AW150 Ramcharger 4WD
+1986,Dodge,W100/W150 Pickup,W100/W150 Pickup 4WD
+1986,Dodge,W250 Pickup,W250 Pickup 4WD
+1986,Ferrari,328 GTS/GTB,328 GTS/GTB
+1986,Ferrari,Mondial/Cabriolet,Mondial/Cabriolet
+1986,Ferrari,Testarossa,Testarossa
+1986,Ford,Aerostar Van,Aerostar Van
+1986,Ford,Aerostar Wagon,Aerostar Wagon
+1986,Ford,Bronco,Bronco 4WD
+1986,Ford,Bronco II,Bronco II 2WD
+1986,Ford,Bronco II,Bronco II 4WD
+1986,Ford,Courier,Courier Pickup 2WD
+1986,Ford,E150 Club Wagon,E150 Club Wagon
+1986,Ford,E150 Econoline,E150 Econoline 2WD
+1986,Ford,E250 Econoline,E250 Econoline 2WD
+1986,Ford,Escort,Escort
+1986,Ford,Escort,Escort FS
+1986,Ford,Escort,Escort Wagon
+1986,Ford,EXP,EXP
+1986,Ford,F150,F150 Pickup 2WD
+1986,Ford,F150,F150 Pickup 4WD
+1986,Ford,F250,F250 Pickup 2WD
+1986,Ford,F250,F250 Pickup 4WD
+1986,Ford,Laser,Laser
+1986,Ford,LTD,LTD
+1986,Ford,LTD,LTD Wagon
+1986,Ford,LTD Crown Victoria,LTD Crown Victoria
+1986,Ford,LTD Crown Victoria,LTD Crown Victoria Wagon
+1986,Ford,Mustang,Mustang
+1986,Ford,Ranger,Ranger Pickup 2WD
+1986,Ford,Ranger,Ranger Pickup 4WD
+1986,Ford,Ranger,Ranger Pickup Cab Chassis
+1986,Ford,Taurus,Taurus
+1986,Ford,Taurus,Taurus Wagon
+1986,Ford,Tempo,Tempo
+1986,Ford,Thunderbird,Thunderbird
+1986,GMC,Caballero Pickup,Caballero Pickup 2WD
+1986,GMC,Jimmy,K15 Jimmy 4WD
+1986,GMC,Jimmy,S15 Jimmy 2WD
+1986,GMC,Jimmy,T15 (S15) Jimmy 4WD
+1986,GMC,Pickup,C15 Pickup 2WD
+1986,GMC,Pickup,C25 Pickup 2WD
+1986,GMC,Pickup,K15 Pickup 4WD
+1986,GMC,Pickup,K25 Pickup 4WD
+1986,GMC,Pickup,T15 (S15) Pickup 4WD
+1986,GMC,Rally,G15/25 Rally 2WD
+1986,GMC,Rally,G35 Rally 2WD
+1986,GMC,S15 Cab Chassis,S15 Cab Chassis 2WD
+1986,GMC,S15 Pickup,S15 Pickup 2WD
+1986,GMC,Safari,Safari 2WD (cargo)
+1986,GMC,Safari,Safari 2WD (passenger)
+1986,GMC,Suburban,C15 Suburban 2WD
+1986,GMC,Suburban,K15 Suburban 4WD
+1986,GMC,Vandura,G15/25 Vandura 2WD
+1986,GMC,Vandura,G35 Vandura 2WD
+1986,Honda,Accord,Accord
+1986,Honda,Civic,Civic
+1986,Honda,Civic,Civic CRX
+1986,Honda,Civic,Civic CRX HF
+1986,Honda,Civic,Civic Wagon
+1986,Honda,Civic,Civic Wagon 4WD
+1986,Honda,Prelude,Prelude
+1986,Hyundai,Pony Excel,Pony Excel
+1986,Isuzu,I-Mark,I-Mark
+1986,Isuzu,Impulse,Impulse
+1986,Isuzu,Pickup,Pickup 2WD
+1986,Isuzu,Pickup,Pickup 4WD
+1986,Isuzu,Trooper,Trooper
+1986,Jaguar,XJ,XJ6
+1986,Jaguar,XJS,XJS
+1986,Jeep,Cherokee/Wagoneer,Cherokee/Wagoneer 2WD
+1986,Jeep,Cherokee/Wagoneer,Cherokee/Wagoneer 4WD
+1986,Jeep,CJ,CJ7
+1986,Jeep,Comanche,Comanche 2WD
+1986,Jeep,Comanche,Comanche 4WD
+1986,Jeep,Grand Wagoneer,Grand Wagoneer
+1986,Jeep,J-10 Pickup,J-10 Pickup Truck
+1986,Jeep,J-20 Pickup,J-20 Pickup Truck
+1986,Jeep,Scrambler,Scrambler
+1986,Lambda Control Systems,300E,300E
+1986,Lamborghini,Countach,Countach
+1986,Lincoln,Continental,Continental
+1986,Lincoln,Mark VII,Mark VII
+1986,Lincoln,Town Car,Town Car
+1986,London Coach Co Inc,London Taxi,London Taxi
+1986,Maserati,Biturbo,Biturbo
+1986,Maserati,Biturbo,Biturbo 425
+1986,Maserati,Biturbo Spyder,Biturbo Spyder
+1986,Maserati,Quattroporte,Quattroporte
+1986,Mazda,323,323
+1986,Mazda,626,626
+1986,Mazda,B Pickup,B2000
+1986,Mazda,GLC,GLC Wagon
+1986,Mazda,RX-7,RX-7
+1986,Mercedes-Benz,190,190
+1986,Mercedes-Benz,300,300E
+1986,Mercedes-Benz,300,300SDL
+1986,Mercedes-Benz,420,420SEL
+1986,Mercedes-Benz,560,560SEC
+1986,Mercedes-Benz,560,560SEL
+1986,Mercedes-Benz,560,560SL
+1986,Mercury,Capri,Capri
+1986,Mercury,Cougar,Cougar
+1986,Mercury,Grand Marquis,Grand Marquis
+1986,Mercury,Grand Marquis,Grand Marquis Wagon
+1986,Mercury,Lynx,Lynx
+1986,Mercury,Lynx,Lynx Wagon
+1986,Mercury,Marquis,Marquis
+1986,Mercury,Marquis,Marquis Wagon
+1986,Mercury,Sable,Sable
+1986,Mercury,Sable,Sable Wagon
+1986,Mercury,Topaz,Topaz
+1986,Merkur,XR4Ti,XR4Ti
+1986,Mitsubishi,Cordia,Cordia
+1986,Mitsubishi,Galant,Galant
+1986,Mitsubishi,Mirage,Mirage
+1986,Mitsubishi,Montero,Montero
+1986,Mitsubishi,Space Wagon,Space Wagon
+1986,Mitsubishi,Starion,Starion
+1986,Mitsubishi,Tredia,Tredia
+1986,Mitsubishi,Truck,Truck 2WD
+1986,Mitsubishi,Truck,Truck 4WD
+1986,Nissan,200SX,200SX
+1986,Nissan,300ZX,300ZX
+1986,Nissan,300ZX,300ZX 2x2
+1986,Nissan,Maxima,Maxima
+1986,Nissan,Maxima,Maxima Wagon
+1986,Nissan,Pulsar NX,Pulsar NX
+1986,Nissan,Sentra,Sentra
+1986,Nissan,Sentra,Sentra Wagon
+1986,Nissan,Stanza,Stanza
+1986,Nissan,Stanza,Stanza Wagon 2WD
+1986,Nissan,Stanza,Stanza Wagon 4WD
+1986,Nissan,Truck,Truck 2WD
+1986,Nissan,Truck,Truck 2WD (new Version)
+1986,Nissan,Truck,Truck 4WD
+1986,Nissan,Truck,Truck 4WD (new Version)
+1986,Nissan,Truck,Truck Cab Chassis 2WD
+1986,Oldsmobile,Calais,Calais
+1986,Oldsmobile,Custom Cruiser,Custom Cruiser
+1986,Oldsmobile,Cutlass Ciera,Cutlass Ciera
+1986,Oldsmobile,Cutlass Cruiser,Cutlass Cruiser
+1986,Oldsmobile,Cutlass Supreme,Cutlass Supreme
+1986,Oldsmobile,Delta 88 Royale,Delta 88 Royale
+1986,Oldsmobile,Firenza,Firenza
+1986,Oldsmobile,Firenza,Firenza Cruiser
+1986,Oldsmobile,Ninety-Eight Regency,Ninety-Eight Regency
+1986,Oldsmobile,Toronado,Toronado
+1986,Panther Car Company Limited,Kallista,Kallista
+1986,Peugeot,505,505 Sedan
+1986,Peugeot,505,505 Station Wagon
+1986,Plymouth,Caravelle,Caravelle
+1986,Plymouth,Colt,Colt
+1986,Plymouth,Colt,Colt Vista
+1986,Plymouth,Colt,Colt Vista 4WD
+1986,Plymouth,Conquest,Conquest
+1986,Plymouth,Gran Fury,Gran Fury
+1986,Plymouth,Horizon,Horizon
+1986,Plymouth,Reliant,Reliant
+1986,Plymouth,Reliant,Reliant Wagon
+1986,Plymouth,Turismo,Turismo
+1986,Plymouth,Voyager,Voyager 2WD
+1986,Pontiac,1000,1000
+1986,Pontiac,6000,6000
+1986,Pontiac,6000,6000 Wagon
+1986,Pontiac,Bonneville,Bonneville
+1986,Pontiac,Fiero,Fiero
+1986,Pontiac,Firebird/Trans Am/Formula,Firebird
+1986,Pontiac,Firefly,Firefly
+1986,Pontiac,Firefly,Firefly FE
+1986,Pontiac,Grand Am,Grand Am
+1986,Pontiac,Grand Prix,Grand Prix
+1986,Pontiac,Parisienne,Parisienne
+1986,Pontiac,Parisienne,Parisienne Wagon
+1986,Pontiac,Sunbird,Sunbird
+1986,Pontiac,Sunbird,Sunbird Convertible
+1986,Pontiac,Sunbird,Sunbird Wagon
+1986,Pontiac,Sunburst,Sunburst
+1986,Porsche,911,911
+1986,Porsche,928,928 S
+1986,Porsche,944,944
+1986,Renault,18i/Wagon/Sportwagon,18i Sportwagon
+1986,Renault,Alliance/Encore,Alliance Convertible
+1986,Renault,Alliance/Encore,Alliance/Encore
+1986,Renault,Fuego,Fuego
+1986,Rolls-Royce,Camargue,Camargue
+1986,Rolls-Royce,Corniche/Continental,Corniche II/Continental
+1986,Rolls-Royce,Silver Spirit/Spur/Mulsanne,Silver Spirit/Spur/Mulsanne
+1986,Rolls-Royce,Silver Spur Limousine,Silver Spur Limousine
+1986,Saab,900,900
+1986,Saab,9000,9000
+1986,Subaru,Brat,Brat 4WD
+1986,Subaru,Hatchback,Hatchback
+1986,Subaru,Hatchback,Hatchback 4WD
+1986,Subaru,Sedan,3 Door 4WD Turbo
+1986,Subaru,Sedan,Sedan/3 Door
+1986,Subaru,Sedan,Sedan/3 Door 4WD
+1986,Subaru,Wagon,Wagon
+1986,Subaru,Wagon,Wagon 4WD
+1986,Subaru,XT,XT
+1986,Subaru,XT,XT 4WD
+1986,Subaru,XT,XT-DL
+1986,Suzuki,Samurai,Samurai
+1986,Suzuki,Samurai,Samurai Convertible
+1986,Texas Coach Company,500SE,500SE
+1986,Texas Coach Company,500SEC,500 SEC
+1986,Texas Coach Company,500SEL,500SEL
+1986,Texas Coach Company,500SL,500SL
+1986,Toyota,4Runner,4Runner 4WD
+1986,Toyota,Cab Chassis,Cab/Chassis
+1986,Toyota,Camry,Camry
+1986,Toyota,Celica,Celica
+1986,Toyota,Celica,Celica Supra
+1986,Toyota,Corolla,Corolla
+1986,Toyota,Corolla,Corolla Sport
+1986,Toyota,Cressida,Cressida
+1986,Toyota,Cressida,Cressida Wagon
+1986,Toyota,Land Cruiser,Land Cruiser Wagon 4WD
+1986,Toyota,MR2,MR2
+1986,Toyota,Supra,Supra
+1986,Toyota,Tercel,Tercel
+1986,Toyota,Tercel,Tercel Wagon 2WD
+1986,Toyota,Tercel,Tercel Wagon 4WD
+1986,Toyota,Truck/T100,1-Ton Truck 2WD
+1986,Toyota,Truck/T100,Truck 2WD
+1986,Toyota,Truck/T100,Truck 4WD
+1986,Toyota,Van,Cargo Van 2WD
+1986,Toyota,Van,Van 2WD
+1986,TVR Engineering Ltd,TVR 280i/350i Convertible,TVR 280i/350i Convertible
+1986,TVR Engineering Ltd,TVR 280i/350i Coupe,TVR 280i/350i Coupe
+1986,Vixen Motor Company,21 TD,21 TD
+1986,Volga Associated Automobile,Niva,Niva
+1986,Volkswagen,Cabriolet,Cabriolet
+1986,Volkswagen,Golf/GTI,Golf
+1986,Volkswagen,Golf/GTI,GTI
+1986,Volkswagen,Jetta,Jetta
+1986,Volkswagen,Jetta,Jetta GLI
+1986,Volkswagen,Quantum,Quantum
+1986,Volkswagen,Quantum,Quantum Syncro Wagon
+1986,Volkswagen,Quantum,Quantum Wagon
+1986,Volkswagen,Scirocco,Scirocco
+1986,Volkswagen,Scirocco,Scirocco 16v
+1986,Volkswagen,Vanagon,Vanagon Syncro 4WD
+1986,Volkswagen,Vanagon,Vanagon/Camper 2WD
+1986,Volvo,240,240 DL/240 GL
+1986,Volvo,240,240 DL/240 GL Wagon
+1986,Volvo,740/760,740/760
+1986,Volvo,740/760,740/760 Wagon
+1986,Yugo,Gy/yugo GVX,Gy/yugo GVX

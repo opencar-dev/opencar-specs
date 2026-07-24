@@ -1,0 +1,561 @@
+year,make,model,trim
+2006,Acura,MDX,MDX 4WD
+2006,Acura,RL,RL
+2006,Acura,RSX,RSX
+2006,Acura,TL,TL
+2006,Acura,TSX,TSX
+2006,Aston Martin,DB9,DB9 Coupe
+2006,Aston Martin,DB9,DB9 Coupe Manual
+2006,Aston Martin,DB9,DB9 Volante
+2006,Aston Martin,DB9,DB9 Volante Manual
+2006,Aston Martin,Vanquish,V12 Vanquish S
+2006,Aston Martin,Vantage,V8 Vantage
+2006,Audi,A3,A3
+2006,Audi,A3,A3 quattro
+2006,Audi,A4,A4
+2006,Audi,A4,A4 Avant quattro
+2006,Audi,A4,A4 Cabriolet
+2006,Audi,A4,A4 Cabriolet quattro
+2006,Audi,A4,A4 quattro
+2006,Audi,A6,A6
+2006,Audi,A6,A6 Avant quattro
+2006,Audi,A6,A6 quattro
+2006,Audi,A8,A8
+2006,Audi,A8,A8 L
+2006,Audi,S4,S4
+2006,Audi,S4,S4 Avant
+2006,Audi,S4,S4 Cabriolet
+2006,Audi,TT Coupe,TT Coupe
+2006,Audi,TT Coupe,TT Coupe quattro
+2006,Audi,TT Roadster,TT Roadster
+2006,Audi,TT Roadster,TT Roadster quattro
+2006,Bentley,Arnage,Arnage
+2006,Bentley,Arnage,Arnage LWB
+2006,Bentley,Continental,Continental GT
+2006,Bentley,Continental Flying Spur,Continental Flying Spur
+2006,BMW,3 Series,325ci
+2006,BMW,3 Series,325ci Convertible
+2006,BMW,3 Series,325i
+2006,BMW,3 Series,325xi
+2006,BMW,3 Series,325xi Sport Wagon
+2006,BMW,3 Series,330ci
+2006,BMW,3 Series,330ci Convertible
+2006,BMW,3 Series,330i
+2006,BMW,3 Series,330xi
+2006,BMW,5 Series,525i
+2006,BMW,5 Series,525xi
+2006,BMW,5 Series,530i
+2006,BMW,5 Series,530xi
+2006,BMW,5 Series,530xi Sport Wagon
+2006,BMW,5 Series,550i
+2006,BMW,6 Series,650ci
+2006,BMW,6 Series,650ci Convertible
+2006,BMW,7 Series,750i
+2006,BMW,7 Series,750li
+2006,BMW,7 Series,760i
+2006,BMW,7 Series,760li
+2006,BMW,M,M3
+2006,BMW,M,M3 Convertible
+2006,BMW,M,M5
+2006,BMW,M,M6
+2006,BMW,X3,X3
+2006,BMW,X5,X5
+2006,BMW,X5,X5 4.8is
+2006,BMW,Z4,Z4 3.0i
+2006,BMW,Z4,Z4 3.0si
+2006,BMW,Z4,Z4 3.0si Coupe
+2006,BMW,Z4,Z4 M Coupe
+2006,BMW,Z4,Z4 M Roadster
+2006,Bugatti,Veyron,Veyron
+2006,Buick,Lacrosse/Allure,Lacrosse/Allure
+2006,Buick,Lucerne,Lucerne
+2006,Buick,Rainier,Rainier 2WD
+2006,Buick,Rainier,Rainier AWD
+2006,Buick,Rendezvous,Rendezvous AWD
+2006,Buick,Rendezvous,Rendezvous FWD
+2006,Buick,Terraza,Terraza AWD
+2006,Buick,Terraza,Terraza FWD
+2006,Cadillac,Armored DTS,Armored DTS
+2006,Cadillac,CTS,CTS
+2006,Cadillac,CTS,CTS-V
+2006,Cadillac,DTS,DTS
+2006,Cadillac,Escalade,Escalade 2WD
+2006,Cadillac,Escalade,Escalade AWD
+2006,Cadillac,Escalade,Escalade ESV AWD
+2006,Cadillac,Escalade,Escalade Ext AWD
+2006,Cadillac,Funeral Coach/Hearse,Funeral Coach / Hearse
+2006,Cadillac,Limousine,Limousine
+2006,Cadillac,SRX,SRX 2WD
+2006,Cadillac,SRX,SRX AWD
+2006,Cadillac,STS,STS
+2006,Cadillac,STS,STS AWD
+2006,Cadillac,STS-V,STS-V
+2006,Cadillac,XLR,XLR
+2006,Cadillac,XLR-V,XLR-V
+2006,Chevrolet,Avalanche,Avalanche 1500 2WD
+2006,Chevrolet,Avalanche,Avalanche 1500 4WD
+2006,Chevrolet,Aveo,Aveo 5
+2006,Chevrolet,Cobalt,Cobalt
+2006,Chevrolet,Colorado,Colorado 2WD
+2006,Chevrolet,Colorado,Colorado 4WD
+2006,Chevrolet,Colorado,Colorado Cab Chassis inc 2WD
+2006,Chevrolet,Colorado,Colorado Crew Cab 2WD
+2006,Chevrolet,Colorado,Colorado Crew Cab 4WD
+2006,Chevrolet,Corvette,Corvette
+2006,Chevrolet,Epica,Epica
+2006,Chevrolet,Equinox,Equinox AWD
+2006,Chevrolet,Equinox,Equinox FWD
+2006,Chevrolet,Express Passenger,Express 1500 AWD
+2006,Chevrolet,Express Passenger,Express 1500/2500 2WD
+2006,Chevrolet,HHR,HHR FWD
+2006,Chevrolet,Impala,Impala
+2006,Chevrolet,Malibu,Malibu
+2006,Chevrolet,Malibu,Malibu Maxx
+2006,Chevrolet,Monte Carlo,Monte Carlo
+2006,Chevrolet,Optra,Optra
+2006,Chevrolet,Optra,Optra 5
+2006,Chevrolet,Optra,Optra Wagon
+2006,Chevrolet,Silverado,Silverado 15 Hybrid 2WD
+2006,Chevrolet,Silverado,Silverado 15 Hybrid 4WD
+2006,Chevrolet,Silverado,Silverado 1500 2WD
+2006,Chevrolet,Silverado,Silverado 1500 4WD
+2006,Chevrolet,SSR Pickup,SSR Pickup 2WD
+2006,Chevrolet,Suburban,Suburban 1500 2WD
+2006,Chevrolet,Suburban,Suburban 1500 4WD
+2006,Chevrolet,Suburban,Suburban 1500 AWD
+2006,Chevrolet,Tahoe,Tahoe 1500 2WD
+2006,Chevrolet,Tahoe,Tahoe 1500 4WD
+2006,Chevrolet,TrailBlazer,TrailBlazer 2WD
+2006,Chevrolet,TrailBlazer,TrailBlazer 4WD
+2006,Chevrolet,TrailBlazer,TrailBlazer AWD
+2006,Chevrolet,TrailBlazer,TrailBlazer Ext 2WD
+2006,Chevrolet,TrailBlazer,TrailBlazer Ext 4WD
+2006,Chevrolet,Uplander,Uplander AWD
+2006,Chevrolet,Uplander,Uplander FWD
+2006,Chevrolet,Van 15/25 Conversion,Van 15/25 2WD Conversion
+2006,Chevrolet,Van 1500,Van 1500 AWD Conversion
+2006,Chevrolet,Van 1500/2500,Van 1500/2500 2WD
+2006,Chevrolet,Van 1500/2500,Van 1500/2500 AWD
+2006,Chrysler,300,300
+2006,Chrysler,300,300C AWD
+2006,Chrysler,300 SRT8,300C/SRT-8
+2006,Chrysler,Crossfire,Crossfire Coupe
+2006,Chrysler,Crossfire,Crossfire Roadster
+2006,Chrysler,Pacifica,Pacifica 2WD
+2006,Chrysler,Pacifica,Pacifica AWD
+2006,Chrysler,PT Cruiser,PT Cruiser
+2006,Chrysler,PT Cruiser,PT Cruiser Convertible
+2006,Chrysler,Sebring,Sebring 4 Door
+2006,Chrysler,Sebring,Sebring Convertible
+2006,Chrysler,Town and Country,Town and Country 2WD
+2006,Dodge,Caravan/Grand Caravan,Caravan/Grand Caravan 2WD
+2006,Dodge,Charger,Charger
+2006,Dodge,Dakota Pickup,Dakota Pickup 2WD
+2006,Dodge,Dakota Pickup,Dakota Pickup 4WD
+2006,Dodge,Durango,Durango 2WD
+2006,Dodge,Durango,Durango 4WD
+2006,Dodge,Magnum,Magnum
+2006,Dodge,Magnum,Magnum AWD
+2006,Dodge,Ram 1500 Pickup,Ram 1500 Pickup 2WD
+2006,Dodge,Ram 1500 Pickup,Ram 1500 Pickup 4WD
+2006,Dodge,Stratus,Stratus 4 Door
+2006,Dodge,Viper,Viper Convertible
+2006,Ferrari,612 Scaglietti,612 Scaglietti
+2006,Ferrari,F141,F141
+2006,Ferrari,F430,F430
+2006,Ford,Crown Victoria,Crown Victoria
+2006,Ford,Crown Victoria,Crown Victoria Police
+2006,Ford,E150 Club Wagon,E150 Club Wagon
+2006,Ford,E150 Econoline,E150 Econoline 2WD
+2006,Ford,Escape,Escape 4WD
+2006,Ford,Escape,Escape FWD
+2006,Ford,Escape,Escape Hybrid 4WD
+2006,Ford,Escape,Escape Hybrid FWD
+2006,Ford,Expedition,Expedition 2WD
+2006,Ford,Expedition,Expedition 4WD
+2006,Ford,Explorer,Explorer 2WD
+2006,Ford,Explorer,Explorer 4WD
+2006,Ford,F150,F150 Pickup 2WD
+2006,Ford,F150,F150 Pickup 2WD FFV
+2006,Ford,F150,F150 Pickup 4WD
+2006,Ford,F150,F150 Pickup 4WD FFV
+2006,Ford,Five Hundred,Five Hundred AWD
+2006,Ford,Five Hundred,Five Hundred FWD
+2006,Ford,Focus,Focus
+2006,Ford,Focus,Focus Station Wagon
+2006,Ford,Freestar,Freestar Cargo Van FWD
+2006,Ford,Freestar,Freestar Wagon FWD
+2006,Ford,Freestyle,Freestyle AWD
+2006,Ford,Freestyle,Freestyle FWD
+2006,Ford,Fusion,Fusion
+2006,Ford,GT,GT 2WD
+2006,Ford,Mustang,Mustang
+2006,Ford,Ranger,Ranger Pickup 2WD
+2006,Ford,Ranger,Ranger Pickup 4WD
+2006,Ford,Taurus,Taurus
+2006,GMC,Canyon,Canyon 2WD
+2006,GMC,Canyon,Canyon 4WD
+2006,GMC,Canyon,Canyon Cab Chassis Inc 2WD
+2006,GMC,Canyon,Canyon Crew Cab 2WD
+2006,GMC,Canyon,Canyon Crew Cab 4WD
+2006,GMC,Envoy,Envoy 2WD
+2006,GMC,Envoy,Envoy 4WD
+2006,GMC,Envoy,Envoy XL 2WD
+2006,GMC,Envoy,Envoy XL 4WD
+2006,GMC,Envoy,Envoy XUV 2WD
+2006,GMC,Envoy,Envoy XUV 4WD
+2006,GMC,Savana Cargo,Savana 15/25 2WD Conversion (cargo)
+2006,GMC,Savana Cargo,Savana 1500  AWD Conversion (cargo)
+2006,GMC,Savana Cargo,Savana 1500/2500 2WD (cargo)
+2006,GMC,Savana Cargo,Savana 1500/2500 AWD (cargo)
+2006,GMC,Savana Passenger,Savana 1500 AWD (Passenger)
+2006,GMC,Savana Passenger,Savana 1500/2500 2WD (Passenger)
+2006,GMC,Sierra,Sierra 15 Hybrid 2WD
+2006,GMC,Sierra,Sierra 15 Hybrid 4WD
+2006,GMC,Sierra,Sierra 1500 2WD
+2006,GMC,Sierra,Sierra 1500 4WD
+2006,GMC,Sierra,Sierra 1500 AWD
+2006,GMC,Yukon,Yukon 1500 2WD
+2006,GMC,Yukon,Yukon 1500 4WD
+2006,GMC,Yukon,Yukon 1500 AWD
+2006,GMC,Yukon,Yukon XL 1500 2WD
+2006,GMC,Yukon,Yukon XL 1500 4WD
+2006,GMC,Yukon,Yukon XL 1500 AWD
+2006,Honda,Accord,Accord
+2006,Honda,Accord,Accord Hybrid
+2006,Honda,Civic,Civic
+2006,Honda,Civic,Civic CNG
+2006,Honda,Civic,Civic Hybrid
+2006,Honda,CR-V,CR-V 2WD
+2006,Honda,CR-V,CR-V 4WD
+2006,Honda,Element,Element 2WD
+2006,Honda,Element,Element 4WD
+2006,Honda,Insight,Insight
+2006,Honda,Odyssey,Odyssey
+2006,Honda,Pilot,Pilot 2WD
+2006,Honda,Pilot,Pilot 4WD
+2006,Honda,Ridgeline,Ridgeline Truck 4WD
+2006,Honda,S2000,S2000
+2006,Hummer,H3,H3 4WD
+2006,Hyundai,Accent,Accent
+2006,Hyundai,Azera,Azera
+2006,Hyundai,Elantra,Elantra
+2006,Hyundai,Santa Fe,Santa Fe 2WD
+2006,Hyundai,Santa Fe,Santa Fe 4WD
+2006,Hyundai,Sonata,Sonata
+2006,Hyundai,Tiburon,Tiburon
+2006,Hyundai,Tucson,Tucson 2WD
+2006,Hyundai,Tucson,Tucson 4WD
+2006,Infiniti,FX35,FX35 AWD
+2006,Infiniti,FX35,FX35 RWD
+2006,Infiniti,FX45,FX45 AWD
+2006,Infiniti,G35,G35
+2006,Infiniti,M35,M35
+2006,Infiniti,M45,M45
+2006,Infiniti,Q45,Q45
+2006,Infiniti,Q45,Q45 Sport
+2006,Infiniti,QX56,QX56 2WD
+2006,Infiniti,QX56,QX56 4WD
+2006,Isuzu,Ascender,Ascender 5-passenger 2WD
+2006,Isuzu,Ascender,Ascender 5-passenger 4WD
+2006,Isuzu,Ascender,Ascender 7-passenger 2WD
+2006,Isuzu,Ascender,Ascender 7-passenger 4WD
+2006,Isuzu,i-280 Extended Cab,i-280 Extended Cab 2WD
+2006,Isuzu,i-350 Crew Cab,i-350 Crew Cab 4WD
+2006,Jaguar,S-type,S-Type 3.0 Litre
+2006,Jaguar,S-type,S-Type 4.2 Litre
+2006,Jaguar,S-type,S-Type R
+2006,Jaguar,Super V8,Super V8
+2006,Jaguar,Vdp,Vdp Lwb
+2006,Jaguar,X-Type,X-Type
+2006,Jaguar,X-Type,X-Type Sport Brake
+2006,Jaguar,XJ,XJ8
+2006,Jaguar,XJ,XJ8L
+2006,Jaguar,XJR,XJR
+2006,Jaguar,XK8,XK8
+2006,Jaguar,XK8,XK8 Convertible
+2006,Jaguar,XKR,XKR
+2006,Jaguar,XKR,XKR Convertible
+2006,Jeep,Commander,Commander 2WD
+2006,Jeep,Commander,Commander 4WD
+2006,Jeep,Grand Cherokee,Grand Cherokee 2WD
+2006,Jeep,Grand Cherokee,Grand Cherokee 4WD
+2006,Jeep,Liberty/Cherokee,Liberty/Cherokee 2WD
+2006,Jeep,Liberty/Cherokee,Liberty/Cherokee 4WD
+2006,Jeep,Wrangler/TJ,Wrangler/TJ 4WD
+2006,Kia,Amanti,Amanti
+2006,Kia,Optima,Optima
+2006,Kia,Optima,Optima (2006 New Model)
+2006,Kia,Rio,Rio
+2006,Kia,Sedona,Sedona
+2006,Kia,Sorento,Sorento 2WD
+2006,Kia,Sorento,Sorento 4WD
+2006,Kia,Spectra,Spectra
+2006,Kia,Sportage,Sportage 2WD
+2006,Kia,Sportage,Sportage 4WD
+2006,Lamborghini,Gallardo,L-140/715 Gallardo
+2006,Lamborghini,Murcielago,L-147/148 Murcielago
+2006,Land Rover,LR3,LR3
+2006,Land Rover,Range Rover,Range Rover
+2006,Land Rover,Range Rover,Range Rover Sport
+2006,Lexus,ES,ES 330
+2006,Lexus,GS,GS 300 4WD
+2006,Lexus,GS,GS 300/GS 430
+2006,Lexus,GX,GX 470
+2006,Lexus,IS,IS 250
+2006,Lexus,IS,IS 250 AWD
+2006,Lexus,IS,IS 350
+2006,Lexus,LS,LS 430
+2006,Lexus,LX,LX 470
+2006,Lexus,RX,RX 330 2WD
+2006,Lexus,RX,RX 330 4WD
+2006,Lexus,RX,RX 400h 2WD
+2006,Lexus,RX,RX 400h 4WD
+2006,Lexus,SC,SC 430
+2006,Lincoln,LS,LS
+2006,Lincoln,Mark LT,Mark LT
+2006,Lincoln,Navigator,Navigator 2WD
+2006,Lincoln,Town Car,Town Car
+2006,Lincoln,Zephyr,Zephyr
+2006,Lotus,Elise/Exige,Elise/Exige
+2006,Maserati,Coupe Cambiocorsa/GT/G-Sport,Coupe Cambiocorsa/GT/G-Sport
+2006,Maserati,Quattroporte,Quattroporte
+2006,Maybach,57,57
+2006,Maybach,57,57S
+2006,Maybach,62,62
+2006,Mazda,3,3
+2006,Mazda,5,5
+2006,Mazda,6,6
+2006,Mazda,6,6 Sport Wagon
+2006,Mazda,B Pickup,B2300 2WD
+2006,Mazda,B Pickup,B3000
+2006,Mazda,B Pickup,B4000 2WD
+2006,Mazda,B Pickup,B4000 4WD
+2006,Mazda,MPV,MPV
+2006,Mazda,MX-5,MX-5
+2006,Mazda,RX-8,RX-8
+2006,Mazda,Tribute,Tribute 2WD
+2006,Mazda,Tribute,Tribute 4WD
+2006,Mazda,Tribute,Tribute Hybrid 4WD
+2006,Mercedes-Benz,C-Class,C230
+2006,Mercedes-Benz,C-Class,C280
+2006,Mercedes-Benz,C-Class,C280 4matic
+2006,Mercedes-Benz,C-Class,C350
+2006,Mercedes-Benz,C-Class,C350 4matic
+2006,Mercedes-Benz,C-Class,C55 AMG
+2006,Mercedes-Benz,CL-Class,CL500
+2006,Mercedes-Benz,CL-Class,CL55 AMG
+2006,Mercedes-Benz,CL-Class,CL600
+2006,Mercedes-Benz,CL-Class,CL65 AMG
+2006,Mercedes-Benz,CLK-Class,CLK350
+2006,Mercedes-Benz,CLK-Class,CLK350 (Cabriolet)
+2006,Mercedes-Benz,CLK-Class,CLK500
+2006,Mercedes-Benz,CLK-Class,CLK500 (Cabriolet)
+2006,Mercedes-Benz,CLK-Class,CLK55 AMG (Cabriolet)
+2006,Mercedes-Benz,CLS-Class,CLS500
+2006,Mercedes-Benz,CLS-Class,CLS55 AMG
+2006,Mercedes-Benz,E-Class,E320 Cdi
+2006,Mercedes-Benz,E-Class,E350
+2006,Mercedes-Benz,E-Class,E350 (wagon)
+2006,Mercedes-Benz,E-Class,E350 4matic
+2006,Mercedes-Benz,E-Class,E350 4matic (wagon)
+2006,Mercedes-Benz,E-Class,E500
+2006,Mercedes-Benz,E-Class,E500 4matic
+2006,Mercedes-Benz,E-Class,E500 4matic (wagon)
+2006,Mercedes-Benz,E-Class,E55 AMG
+2006,Mercedes-Benz,E-Class,E55 AMG (wagon)
+2006,Mercedes-Benz,G-Class,G500
+2006,Mercedes-Benz,G-Class,G55 AMG
+2006,Mercedes-Benz,ML-Class,ML350
+2006,Mercedes-Benz,ML-Class,ML500
+2006,Mercedes-Benz,R-Class,R350
+2006,Mercedes-Benz,R-Class,R500
+2006,Mercedes-Benz,S-Class,S350
+2006,Mercedes-Benz,S-Class,S430
+2006,Mercedes-Benz,S-Class,S430 4matic
+2006,Mercedes-Benz,S-Class,S500
+2006,Mercedes-Benz,S-Class,S500 4matic
+2006,Mercedes-Benz,S-Class,S55 AMG
+2006,Mercedes-Benz,S-Class,S600
+2006,Mercedes-Benz,S-Class,S65 AMG
+2006,Mercedes-Benz,SL-Class,SL500
+2006,Mercedes-Benz,SL-Class,SL55 AMG
+2006,Mercedes-Benz,SL-Class,SL600
+2006,Mercedes-Benz,SL-Class,SL65 AMG
+2006,Mercedes-Benz,SLK-Class,SLK280
+2006,Mercedes-Benz,SLK-Class,SLK350
+2006,Mercedes-Benz,SLK-Class,SLK55 AMG
+2006,Mercedes-Benz,SLR,SLR
+2006,Mercury,Grand Marquis,Grand Marquis
+2006,Mercury,Mariner,Mariner 4WD
+2006,Mercury,Mariner,Mariner FWD
+2006,Mercury,Mariner,Mariner Hybrid 4WD
+2006,Mercury,Milan,Milan
+2006,Mercury,Montego,Montego AWD
+2006,Mercury,Montego,Montego FWD
+2006,Mercury,Monterey,Monterey Wagon FWD
+2006,Mercury,Mountaineer,Mountaineer 2WD
+2006,Mercury,Mountaineer,Mountaineer 4WD
+2006,MINI,Cooper,Cooper
+2006,MINI,Cooper,Cooper Convertible
+2006,MINI,Cooper,Cooper S
+2006,MINI,Cooper,Cooper S Convertible
+2006,MINI,Cooper,Cooper S JCWorks GP Kit
+2006,Mitsubishi,Eclipse,Eclipse
+2006,Mitsubishi,Endeavor,Endeavor 2WD
+2006,Mitsubishi,Endeavor,Endeavor 4WD
+2006,Mitsubishi,Galant,Galant
+2006,Mitsubishi,Lancer,Lancer
+2006,Mitsubishi,Lancer,Lancer Evolution
+2006,Mitsubishi,Lancer,Lancer Sportback
+2006,Mitsubishi,Montero,Montero
+2006,Mitsubishi,Outlander,Outlander 2WD
+2006,Mitsubishi,Outlander,Outlander 4WD
+2006,Mitsubishi,Raider Pickup,Raider Pickup 2WD
+2006,Mitsubishi,Raider Pickup,Raider Pickup 4WD
+2006,Nissan,350z,350z
+2006,Nissan,350z,350z Roadster
+2006,Nissan,Altima,Altima
+2006,Nissan,Armada,Armada 2WD
+2006,Nissan,Armada,Armada 4WD
+2006,Nissan,Frontier,Frontier 2WD
+2006,Nissan,Frontier,Frontier V6 2WD
+2006,Nissan,Frontier,Frontier V6 4WD
+2006,Nissan,Maxima,Maxima
+2006,Nissan,Murano,Murano AWD
+2006,Nissan,Murano,Murano FWD
+2006,Nissan,Pathfinder,Pathfinder 2WD
+2006,Nissan,Pathfinder,Pathfinder 4WD
+2006,Nissan,Quest,Quest
+2006,Nissan,Sentra,Sentra
+2006,Nissan,Titan,Titan 2WD
+2006,Nissan,Titan,Titan 4WD
+2006,Nissan,Xterra,Xterra 2WD
+2006,Nissan,Xterra,Xterra 4WD
+2006,Pontiac,G6,G6
+2006,Pontiac,G6,G6 GT/GTP Convertible
+2006,Pontiac,Grand Prix,Grand Prix
+2006,Pontiac,GTO,GTO
+2006,Pontiac,Montana,Montana SV6 AWD
+2006,Pontiac,Montana,Montana SV6 FWD
+2006,Pontiac,Solstice,Solstice
+2006,Pontiac,Torrent,Torrent AWD
+2006,Pontiac,Torrent,Torrent FWD
+2006,Pontiac,Vibe,Vibe
+2006,Pontiac,Vibe,Vibe AWD
+2006,Pontiac,Wave,Wave 5
+2006,Porsche,Boxster,Boxster
+2006,Porsche,Boxster,Boxster S
+2006,Porsche,Carrera 2 Cabriolet,Carrera 2 Cabriolet
+2006,Porsche,Carrera 2 Coupe,Carrera 2 Coupe
+2006,Porsche,Carrera 2 S Cabriolet,Carrera 2 S Cabriolet
+2006,Porsche,Carrera 2 S Coupe,Carrera 2 S Coupe
+2006,Porsche,Carrera 4 Cabriolet,Carrera 4 Cabriolet
+2006,Porsche,Carrera 4 Coupe,Carrera 4 Coupe
+2006,Porsche,Carrera 4 S Cabriolet,Carrera 4 S Cabriolet
+2006,Porsche,Carrera 4 S Coupe,Carrera 4 S Coupe
+2006,Porsche,Cayenne,Cayenne
+2006,Porsche,Cayenne,Cayenne S
+2006,Porsche,Cayenne,Cayenne Turbo
+2006,Porsche,Cayman,Cayman S
+2006,Rolls-Royce,Phantom,Phantom
+2006,Roush Performance,F150,Boss F150 Super Cab 2WD
+2006,Roush Performance,F150,Stage 3 F-150 2WD
+2006,Roush Performance,F150,Stage 3 F-150 4WD
+2006,Roush Performance,F150,Stage 3 F-150 Supercab 2WD
+2006,Roush Performance,F150,Stage 3 F-150 Supercab 4WD
+2006,Roush Performance,F150,Stage 3 F-150 Supercrew 2WD
+2006,Roush Performance,F150,Stage 3 F-150 Supercrew 4WD
+2006,Roush Performance,Mustang,Stage 3 Mustang
+2006,Saab,9-2,9-2x Wagon AWD
+2006,Saab,9-3,9-3 Convertible
+2006,Saab,9-3,9-3 Sport Sedan
+2006,Saab,9-3,9-3 SportCombi
+2006,Saab,9-5,9-5
+2006,Saab,9-5,9-5 SportCombi
+2006,Saab,9-7,9-7X AWD
+2006,Saturn,Ion,Ion
+2006,Saturn,Relay,Relay AWD
+2006,Saturn,Relay,Relay FWD
+2006,Saturn,Vue,Vue AWD
+2006,Saturn,Vue,Vue FWD
+2006,Scion,tC,tC
+2006,Scion,xA,xA
+2006,Scion,xB,xB
+2006,Spyker,C8,C8 Laviolette
+2006,Spyker,C8,C8 Spyder
+2006,Spyker,C8,C8 Spyder Wide Body
+2006,Subaru,Baja,Baja AWD
+2006,Subaru,Forester,Forester AWD
+2006,Subaru,Impreza/Outback Sport,Impreza AWD
+2006,Subaru,Impreza/Outback Sport,Impreza Wagon/Outback SPT AWD
+2006,Subaru,Legacy/Outback,Legacy AWD
+2006,Subaru,Legacy/Outback,Legacy Wagon AWD
+2006,Subaru,Legacy/Outback,Outback AWD
+2006,Subaru,Legacy/Outback,Outback Wagon AWD
+2006,Subaru,Tribeca,B9 Tribeca AWD
+2006,Suzuki,Aerio,Aerio
+2006,Suzuki,Aerio,Aerio AWD
+2006,Suzuki,Aerio,Aerio SX
+2006,Suzuki,Aerio,Aerio SX AWD
+2006,Suzuki,Forenza,Forenza
+2006,Suzuki,Forenza,Forenza Wagon
+2006,Suzuki,Grand Vitara,Grand Vitara
+2006,Suzuki,Grand Vitara,Grand Vitara AWD
+2006,Suzuki,Grand Vitara,Grand Vitara XL7
+2006,Suzuki,Grand Vitara,Grand Vitara XL7 4WD
+2006,Suzuki,Reno,Reno
+2006,Suzuki,Swift,Swift x
+2006,Suzuki,Verona,Verona
+2006,Toyota,4Runner,4Runner 2WD
+2006,Toyota,4Runner,4Runner 4WD
+2006,Toyota,Avalon,Avalon
+2006,Toyota,Camry,Camry
+2006,Toyota,Camry,Camry Solara
+2006,Toyota,Camry,Camry Solara Convertible
+2006,Toyota,Corolla,Corolla
+2006,Toyota,Highlander,Highlander 2WD
+2006,Toyota,Highlander,Highlander 4WD
+2006,Toyota,Highlander,Highlander Hybrid 2WD
+2006,Toyota,Highlander,Highlander Hybrid 4WD
+2006,Toyota,Land Cruiser,Land Cruiser Wagon 4WD
+2006,Toyota,Matrix,Matrix
+2006,Toyota,Matrix,Matrix AWD
+2006,Toyota,Prius,Prius
+2006,Toyota,RAV4,RAV4 2WD
+2006,Toyota,RAV4,RAV4 4WD
+2006,Toyota,Sequoia,Sequoia 2WD
+2006,Toyota,Sequoia,Sequoia 4WD
+2006,Toyota,Sienna,Sienna 2WD
+2006,Toyota,Sienna,Sienna 4WD
+2006,Toyota,Tacoma,Tacoma 2WD
+2006,Toyota,Tacoma,Tacoma 4WD
+2006,Toyota,Tundra,Tundra 2WD
+2006,Toyota,Tundra,Tundra 4WD
+2006,Volkswagen,Beetle,New Beetle
+2006,Volkswagen,Beetle,New Beetle Convertible
+2006,Volkswagen,Golf/GTI,Golf
+2006,Volkswagen,Golf/GTI,GTI
+2006,Volkswagen,Jetta,Jetta
+2006,Volkswagen,Passat,Passat
+2006,Volkswagen,Passat,Passat 4motion
+2006,Volkswagen,Phaeton,Phaeton
+2006,Volkswagen,Rabbit,Rabbit
+2006,Volkswagen,Touareg,Touareg
+2006,Volvo,C70,C70 Convertible
+2006,Volvo,C70,New C70 Convertible
+2006,Volvo,S40,S40 AWD
+2006,Volvo,S40,S40 FWD
+2006,Volvo,S60,S60 AWD
+2006,Volvo,S60,S60 FWD
+2006,Volvo,S60,S60 R AWD
+2006,Volvo,S80,S80 AWD
+2006,Volvo,S80,S80 FWD
+2006,Volvo,V50,V50 AWD
+2006,Volvo,V50,V50 FWD
+2006,Volvo,V70,V70 AWD
+2006,Volvo,V70,V70 FWD
+2006,Volvo,V70,V70 R AWD
+2006,Volvo,XC70,XC70 AWD
+2006,Volvo,XC90,XC90 AWD
+2006,Volvo,XC90,XC90 FWD

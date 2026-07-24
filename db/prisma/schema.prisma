@@ -1,0 +1,23 @@
+// OC-OEM 0.0.1 — OEM Vehicle Identity
+// Spec: ../specifications/OC-OEM.md
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:../../data/oem.db"
+}
+
+/// Maps to the OC-OEM `vehicle` object (year, make, model, trim).
+model Oem {
+  id    Int    @id @default(autoincrement())
+  year  Int
+  make  String
+  model String
+  trim  String
+
+  @@map("oem")
+  @@unique([year, make, model, trim])
+}

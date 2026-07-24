@@ -1,0 +1,554 @@
+year,make,model,trim
+2004,Acura,MDX,MDX 4WD
+2004,Acura,NSX,NSX
+2004,Acura,RL,3.5RL
+2004,Acura,RSX,RSX
+2004,Acura,TL,TL
+2004,Acura,TSX,TSX
+2004,Aston Martin,Vanquish,V12 Vanquish
+2004,Audi,A4,A4
+2004,Audi,A4,A4 Avant quattro
+2004,Audi,A4,A4 Cabriolet
+2004,Audi,A4,A4 Cabriolet quattro
+2004,Audi,A4,A4 quattro
+2004,Audi,A6,A6
+2004,Audi,A6,A6 Avant quattro
+2004,Audi,A6,A6 quattro
+2004,Audi,A8,A8 L
+2004,Audi,Allroad,Allroad quattro
+2004,Audi,S4,S4
+2004,Audi,S4,S4 Avant
+2004,Audi,S4,S4 Cabriolet
+2004,Audi,TT Coupe,TT Coupe
+2004,Audi,TT Coupe,TT Coupe quattro
+2004,Audi,TT Roadster,TT Roadster
+2004,Audi,TT Roadster,TT Roadster quattro
+2004,Bentley,Arnage,Arnage
+2004,Bentley,Arnage,Arnage LWB
+2004,Bentley,Continental,Continental GT
+2004,BMW,3 Series,325ci
+2004,BMW,3 Series,325ci Convertible
+2004,BMW,3 Series,325i
+2004,BMW,3 Series,325i Sport Wagon
+2004,BMW,3 Series,325xi
+2004,BMW,3 Series,325xi Sport Wagon
+2004,BMW,3 Series,330ci
+2004,BMW,3 Series,330ci Convertible
+2004,BMW,3 Series,330i
+2004,BMW,3 Series,330xi
+2004,BMW,5 Series,525i
+2004,BMW,5 Series,530i
+2004,BMW,5 Series,545i
+2004,BMW,6 Series,645ci
+2004,BMW,6 Series,645ci Convertible
+2004,BMW,7 Series,745i
+2004,BMW,7 Series,745li
+2004,BMW,7 Series,760i
+2004,BMW,7 Series,760li
+2004,BMW,M,M3
+2004,BMW,M,M3 Convertible
+2004,BMW,X3,X3
+2004,BMW,X5,X5
+2004,BMW,X5,X5 4.8IS
+2004,BMW,Z4,Z4 Roadster
+2004,Buick,Century,Century
+2004,Buick,LeSabre,LeSabre
+2004,Buick,Park Avenue,Park Avenue
+2004,Buick,Rainier,Rainier 2WD
+2004,Buick,Rainier,Rainier AWD
+2004,Buick,Regal,Regal
+2004,Buick,Rendezvous,Rendezvous AWD
+2004,Buick,Rendezvous,Rendezvous FWD
+2004,Cadillac,Armored Deville,Armored Deville
+2004,Cadillac,CTS,CTS
+2004,Cadillac,CTS,CTS-V
+2004,Cadillac,DeVille,DeVille
+2004,Cadillac,Escalade,Escalade 2WD
+2004,Cadillac,Escalade,Escalade AWD
+2004,Cadillac,Escalade,Escalade ESV AWD
+2004,Cadillac,Escalade,Escalade Ext AWD
+2004,Cadillac,Funeral Coach/Hearse,Funeral Coach / Hearse
+2004,Cadillac,Limousine,Limousine
+2004,Cadillac,Seville,Seville
+2004,Cadillac,SRX,SRX 2WD
+2004,Cadillac,SRX,SRX AWD
+2004,Cadillac,XLR,XLR
+2004,Chevrolet,Astro Cargo,Astro 2WD (cargo)
+2004,Chevrolet,Astro Cargo,Astro 2WD (cargo) Conversion
+2004,Chevrolet,Astro Cargo,Astro AWD (cargo)
+2004,Chevrolet,Astro Cargo,Astro AWD (cargo) Conversion
+2004,Chevrolet,Astro Passenger,Astro 2WD (passenger)
+2004,Chevrolet,Astro Passenger,Astro AWD (passenger)
+2004,Chevrolet,Avalanche,Avalanche 1500 2WD
+2004,Chevrolet,Avalanche,Avalanche 1500 4WD
+2004,Chevrolet,Avalanche,Avalanche 1500 AWD
+2004,Chevrolet,Aveo,Aveo
+2004,Chevrolet,Blazer,Blazer 2WD
+2004,Chevrolet,Blazer,Blazer 4WD
+2004,Chevrolet,Cavalier,Cavalier
+2004,Chevrolet,Cavalier,Cavalier Dual-fuel
+2004,Chevrolet,Classic,Classic
+2004,Chevrolet,Colorado,Colorado 2WD
+2004,Chevrolet,Colorado,Colorado 4WD
+2004,Chevrolet,Colorado,Colorado Crew Cab 2WD
+2004,Chevrolet,Colorado,Colorado Crew Cab 4WD
+2004,Chevrolet,Corvette,Corvette
+2004,Chevrolet,Epica,Epica
+2004,Chevrolet,Express Cargo,Express Cargo (Bi-fuel)
+2004,Chevrolet,Express Cargo,Express Cargo (dedicated CNG)
+2004,Chevrolet,Express Passenger,Express 1500 AWD
+2004,Chevrolet,Express Passenger,Express 1500/2500 2WD
+2004,Chevrolet,Express Passenger,Express Passenger (Bi-fuel)
+2004,Chevrolet,Express Passenger,Express Passenger (dedicated CNG)
+2004,Chevrolet,Impala,Impala
+2004,Chevrolet,Impala,Impala Police
+2004,Chevrolet,Malibu,Malibu
+2004,Chevrolet,Malibu,Malibu Maxx
+2004,Chevrolet,Monte Carlo,Monte Carlo
+2004,Chevrolet,Optra,Optra
+2004,Chevrolet,S10 Pickup,S10 Pickup 4WD
+2004,Chevrolet,Silverado,Silverado 15 Hybrid 2WD
+2004,Chevrolet,Silverado,Silverado 15 Hybrid 4WD
+2004,Chevrolet,Silverado,Silverado 1500 2WD
+2004,Chevrolet,Silverado,Silverado 1500 4WD
+2004,Chevrolet,Silverado,Silverado 1500 AWD
+2004,Chevrolet,Silverado,Silverado 2500 HD 2WD CNG
+2004,Chevrolet,SSR Pickup,SSR Pickup 2WD
+2004,Chevrolet,Suburban,Suburban 1500 2WD
+2004,Chevrolet,Suburban,Suburban 1500 4WD
+2004,Chevrolet,Suburban,Suburban 1500 AWD
+2004,Chevrolet,Tahoe,Tahoe 1500 2WD
+2004,Chevrolet,Tahoe,Tahoe 1500 4WD
+2004,Chevrolet,Tahoe,Tahoe 1500 AWD
+2004,Chevrolet,Tracker,Tracker 2WD Hardtop
+2004,Chevrolet,Tracker,Tracker 4WD Hardtop
+2004,Chevrolet,Tracker,Tracker LT 2WD
+2004,Chevrolet,Tracker,Tracker LT 4WD
+2004,Chevrolet,Tracker,Tracker ZR2 4WD
+2004,Chevrolet,TrailBlazer,TrailBlazer 2WD
+2004,Chevrolet,TrailBlazer,TrailBlazer 4WD
+2004,Chevrolet,TrailBlazer,TrailBlazer Ext 2WD
+2004,Chevrolet,TrailBlazer,TrailBlazer Ext 4WD
+2004,Chevrolet,Van 15/25 Conversion,Van 15/25 2WD Conversion
+2004,Chevrolet,Van 1500,Van 1500 AWD Conversion
+2004,Chevrolet,Van 1500/2500,Van 1500/2500 2WD
+2004,Chevrolet,Van 1500/2500,Van 1500/2500 AWD
+2004,Chevrolet,Venture,Venture AWD
+2004,Chevrolet,Venture,Venture FWD
+2004,Chrysler,300,300 M
+2004,Chrysler,Concorde/LHS,Concorde/LHS
+2004,Chrysler,Crossfire,Crossfire
+2004,Chrysler,Pacifica,Pacifica 2WD
+2004,Chrysler,Pacifica,Pacifica AWD
+2004,Chrysler,PT Cruiser,PT Cruiser
+2004,Chrysler,Sebring,Sebring
+2004,Chrysler,Sebring,Sebring 4 Door
+2004,Chrysler,Sebring,Sebring Convertible
+2004,Chrysler,Town and Country/Voyager/Grand Voyager,Town and Country/Voyager/Grand Voy. 2WD
+2004,Chrysler,Town and Country/Voyager/Grand Voyager,Town and Country/Voyager/Grand Voy. AWD
+2004,Daewoo,Kalos,Kalos
+2004,Daewoo,Lacetti,Lacetti
+2004,Daewoo,Magnus,Magnus
+2004,Dodge,Caravan/Grand Caravan,Caravan/Grand Caravan 2WD
+2004,Dodge,Caravan/Grand Caravan,Caravan/Grand Caravan AWD
+2004,Dodge,Dakota Pickup,Dakota Pickup 2WD
+2004,Dodge,Dakota Pickup,Dakota Pickup 4WD
+2004,Dodge,Durango,Durango 2WD
+2004,Dodge,Durango,Durango 4WD
+2004,Dodge,Intrepid,Intrepid
+2004,Dodge,Neon/SRT-4/SX 2.0,Neon/SRT-4/SX 2.0
+2004,Dodge,Ram 1500 Pickup,Ram 1500 Pickup 2WD
+2004,Dodge,Ram 1500 Pickup,Ram 1500 Pickup 4WD
+2004,Dodge,Stratus,Stratus
+2004,Dodge,Stratus,Stratus 4 Door
+2004,Dodge,Viper,Viper Convertible
+2004,Ferrari,360 Modena/Spider/Challenge,360 Modena/Spider/Challenge
+2004,Ferrari,575 M Maranello,575 M Maranello
+2004,Ford,Crown Victoria,Crown Victoria
+2004,Ford,Crown Victoria,Crown Victoria CNG
+2004,Ford,Crown Victoria,Crown Victoria Police
+2004,Ford,E150 Club Wagon,E150 Club Wagon
+2004,Ford,E150 Econoline,E150 Econoline 2WD
+2004,Ford,E250 Econoline,E250 Econoline 2WD
+2004,Ford,Escape,Escape 2WD
+2004,Ford,Escape,Escape 4WD
+2004,Ford,Expedition,Expedition 2WD
+2004,Ford,Expedition,Expedition 4WD
+2004,Ford,Explorer,Explorer 2WD
+2004,Ford,Explorer,Explorer 2WD FFV
+2004,Ford,Explorer,Explorer 4WD
+2004,Ford,Explorer,Explorer 4WD FFV
+2004,Ford,Explorer,Explorer Sport Trac 2WD FFV
+2004,Ford,Explorer,Explorer Sport Trac 4WD FFV
+2004,Ford,F150,F150 CNG
+2004,Ford,F150,F150 Dual-fuel 2WD (CNG)
+2004,Ford,F150,F150 Dual-fuel 2WD (LPG)
+2004,Ford,F150,F150 Dual-fuel 4WD (CNG)
+2004,Ford,F150,F150 Dual-fuel 4WD (LPG)
+2004,Ford,F150,F150 Pickup 2WD
+2004,Ford,F150,F150 Pickup 4WD
+2004,Ford,Focus,Focus
+2004,Ford,Focus,Focus Station Wagon
+2004,Ford,Freestar,Freestar Cargo Van FWD
+2004,Ford,Freestar,Freestar Wagon FWD
+2004,Ford,Mustang,Mustang
+2004,Ford,Ranger,Ranger Pickup 2WD
+2004,Ford,Ranger,Ranger Pickup 4WD
+2004,Ford,Taurus,Taurus
+2004,Ford,Taurus,Taurus Wagon
+2004,Ford,Thunderbird,Thunderbird
+2004,GMC,Canyon,Canyon 2WD
+2004,GMC,Canyon,Canyon 4WD
+2004,GMC,Canyon,Canyon Crew Cab 2WD
+2004,GMC,Canyon,Canyon Crew Cab 4WD
+2004,GMC,Envoy,Envoy 2WD
+2004,GMC,Envoy,Envoy 4WD
+2004,GMC,Envoy,Envoy XL 2WD
+2004,GMC,Envoy,Envoy XL 4WD
+2004,GMC,Jimmy,Jimmy 2WD
+2004,GMC,Jimmy,Jimmy 4WD
+2004,GMC,Safari Cargo,Safari 2WD (cargo)
+2004,GMC,Safari Cargo,Safari 2WD Conversion (cargo)
+2004,GMC,Safari Cargo,Safari AWD (cargo)
+2004,GMC,Safari Cargo,Safari AWD Conversion (cargo)
+2004,GMC,Safari Passenger,Safari 2WD (Passenger)
+2004,GMC,Safari Passenger,Safari AWD (Passenger)
+2004,GMC,Savana Cargo,Savana (cargo) (Bi-fuel)
+2004,GMC,Savana Cargo,Savana 15/25 2WD Conversion (cargo)
+2004,GMC,Savana Cargo,Savana 15/25 AWD Conversion (cargo)
+2004,GMC,Savana Cargo,Savana 1500/2500 2WD (cargo)
+2004,GMC,Savana Cargo,Savana 1500/2500 AWD (cargo)
+2004,GMC,Savana Cargo,Savana Cargo (dedicated CNG)
+2004,GMC,Savana Passenger,Savana 1500 AWD (Passenger)
+2004,GMC,Savana Passenger,Savana 1500/2500 2WD (Passenger)
+2004,GMC,Savana Passenger,Savana Passenger (Bi-fuel)
+2004,GMC,Savana Passenger,Savana Passenger (dedicated CNG)
+2004,GMC,Sierra,Sierra 15 Hybrid 2WD
+2004,GMC,Sierra,Sierra 15 Hybrid 4WD
+2004,GMC,Sierra,Sierra 1500 2WD
+2004,GMC,Sierra,Sierra 1500 4WD
+2004,GMC,Sierra,Sierra 1500 AWD
+2004,GMC,Sonoma,Sonoma 4WD
+2004,GMC,Yukon,Yukon 1500 2WD
+2004,GMC,Yukon,Yukon 1500 4WD
+2004,GMC,Yukon,Yukon 1500 AWD
+2004,GMC,Yukon,Yukon XL 1500 2WD
+2004,GMC,Yukon,Yukon XL 1500 4WD
+2004,GMC,Yukon,Yukon XL 1500 AWD
+2004,Honda,Accord,Accord
+2004,Honda,Civic,Civic
+2004,Honda,Civic,Civic CNG
+2004,Honda,Civic,Civic Hybrid
+2004,Honda,CR-V,CR-V 2WD
+2004,Honda,CR-V,CR-V 4WD
+2004,Honda,Element,Element 2WD
+2004,Honda,Element,Element 4WD
+2004,Honda,Insight,Insight
+2004,Honda,Odyssey,Odyssey
+2004,Honda,Pilot,Pilot 4WD
+2004,Honda,S2000,S2000
+2004,Hyundai,Accent/Brio,Accent/Brio
+2004,Hyundai,Elantra,Elantra
+2004,Hyundai,Elantra,Elantra Hatchback
+2004,Hyundai,Santa Fe,Santa Fe 2WD
+2004,Hyundai,Santa Fe,Santa Fe 4WD
+2004,Hyundai,Sonata,Sonata
+2004,Hyundai,Tiburon,Tiburon
+2004,Hyundai,XG,XG350
+2004,Infiniti,FX35,FX35 AWD
+2004,Infiniti,FX35,FX35 RWD
+2004,Infiniti,FX45,FX45 AWD
+2004,Infiniti,G35,G35
+2004,Infiniti,I35,I35
+2004,Infiniti,M45,M45
+2004,Infiniti,Q45,Q45
+2004,Infiniti,QX56,QX56 2WD
+2004,Infiniti,QX56,QX56 4WD
+2004,Isuzu,Ascender,Ascender 2WD
+2004,Isuzu,Ascender,Ascender 4WD
+2004,Isuzu,Ascender,Ascender 5-passenger 2WD
+2004,Isuzu,Ascender,Ascender 5-passenger 4WD
+2004,Isuzu,Axiom,Axiom 2WD
+2004,Isuzu,Axiom,Axiom 4WD
+2004,Isuzu,Rodeo,Rodeo 2WD
+2004,Isuzu,Rodeo,Rodeo 4WD
+2004,Jaguar,S-type,S-Type 3.0 Litre
+2004,Jaguar,S-type,S-Type 4.2 Litre
+2004,Jaguar,S-type,S-Type R
+2004,Jaguar,Vdp,Vdp 4.2 Litre
+2004,Jaguar,X-Type,X-Type
+2004,Jaguar,XJ,XJ8 4.2 Litre
+2004,Jaguar,XJR,XJR 4.2 Litre
+2004,Jaguar,XK8,XK8
+2004,Jaguar,XK8,XK8 Convertible
+2004,Jaguar,XKR,XKR
+2004,Jaguar,XKR,XKR Convertible
+2004,Jeep,Grand Cherokee,Grand Cherokee 2WD
+2004,Jeep,Grand Cherokee,Grand Cherokee 4WD
+2004,Jeep,Liberty/Cherokee,Liberty/Cherokee 2WD
+2004,Jeep,Liberty/Cherokee,Liberty/Cherokee 4WD
+2004,Jeep,Wrangler/TJ,Wrangler/TJ 4WD
+2004,Kia,Amanti,Amanti
+2004,Kia,Optima,Optima
+2004,Kia,Rio,Rio
+2004,Kia,Sedona,Sedona
+2004,Kia,Sorento,Sorento 2WD
+2004,Kia,Sorento,Sorento 4WD
+2004,Kia,Spectra,Spectra 1.8L
+2004,Kia,Spectra,Spectra 2.0L
+2004,Lamborghini,Gallardo,L-140/141 Gallardo
+2004,Lamborghini,Murcielago,L-147/148 Murcielago
+2004,Land Rover,Discovery,Discovery Series II
+2004,Land Rover,Freelander,Freelander
+2004,Land Rover,Range Rover,Range Rover
+2004,Lexus,ES,ES 330
+2004,Lexus,GS,GS 300/GS 430
+2004,Lexus,GX,GX 470
+2004,Lexus,IS,IS 300
+2004,Lexus,LS,LS 430
+2004,Lexus,LX,LX 470
+2004,Lexus,RX,RX 330 2WD
+2004,Lexus,RX,RX 330 4WD
+2004,Lexus,SC,SC 430
+2004,Lincoln,Aviator,Aviator 2WD
+2004,Lincoln,Aviator,Aviator 4WD
+2004,Lincoln,LS,LS
+2004,Lincoln,Navigator,Navigator 2WD
+2004,Lincoln,Town Car,Town Car
+2004,Lotus,Esprit,Esprit V8
+2004,Maserati,Coupe Cambiocorsa/Coupe GT,Coupe Cambiocorsa/Coupe GT
+2004,Maserati,Spyder,Spider Cambiocorsa/Spider GT
+2004,Maybach,57,57
+2004,Maybach,62,62
+2004,Mazda,3,3
+2004,Mazda,6,6
+2004,Mazda,6,6 Sport Wagon
+2004,Mazda,B Pickup,B2300 2WD
+2004,Mazda,B Pickup,B3000
+2004,Mazda,B Pickup,B4000 2WD
+2004,Mazda,B Pickup,B4000 4WD
+2004,Mazda,MPV,MPV
+2004,Mazda,MX-5 Miata,MX-5 Miata
+2004,Mazda,RX-8,RX-8
+2004,Mazda,Tribute,Tribute 2WD
+2004,Mazda,Tribute,Tribute 4WD
+2004,Mercedes-Benz,C-Class,C230 Kompressor
+2004,Mercedes-Benz,C-Class,C230 Kompressor Sports Coupe
+2004,Mercedes-Benz,C-Class,C240
+2004,Mercedes-Benz,C-Class,C240 (Wagon)
+2004,Mercedes-Benz,C-Class,C240 4matic
+2004,Mercedes-Benz,C-Class,C240 4matic (Wagon)
+2004,Mercedes-Benz,C-Class,C240 FFV
+2004,Mercedes-Benz,C-Class,C240 FFV (Wagon)
+2004,Mercedes-Benz,C-Class,C32 AMG
+2004,Mercedes-Benz,C-Class,C320
+2004,Mercedes-Benz,C-Class,C320 4matic (Wagon)
+2004,Mercedes-Benz,C-Class,C320 4matic Sedan
+2004,Mercedes-Benz,C-Class,C320 FFV
+2004,Mercedes-Benz,C-Class,C320 FFV (Wagon)
+2004,Mercedes-Benz,C-Class,C320 Sports Coupe
+2004,Mercedes-Benz,C-Class,C320 Sports Coupe FFV
+2004,Mercedes-Benz,CL-Class,CL500
+2004,Mercedes-Benz,CL-Class,CL55 AMG
+2004,Mercedes-Benz,CL-Class,CL600
+2004,Mercedes-Benz,CLK-Class,CLK320
+2004,Mercedes-Benz,CLK-Class,CLK320 (Cabriolet)
+2004,Mercedes-Benz,CLK-Class,CLK500
+2004,Mercedes-Benz,CLK-Class,CLK500 (Cabriolet)
+2004,Mercedes-Benz,CLK-Class,CLK55 AMG
+2004,Mercedes-Benz,CLK-Class,CLK55 AMG (Cabriolet)
+2004,Mercedes-Benz,E-Class,E320
+2004,Mercedes-Benz,E-Class,E320 (Wagon)
+2004,Mercedes-Benz,E-Class,E320 4matic
+2004,Mercedes-Benz,E-Class,E320 4matic (Wagon)
+2004,Mercedes-Benz,E-Class,E500
+2004,Mercedes-Benz,E-Class,E500 (Wagon)
+2004,Mercedes-Benz,E-Class,E500 4matic
+2004,Mercedes-Benz,E-Class,E500 4matic (Wagon)
+2004,Mercedes-Benz,E-Class,E55 AMG
+2004,Mercedes-Benz,G-Class,G500
+2004,Mercedes-Benz,G-Class,G55 AMG
+2004,Mercedes-Benz,ML-Class,ML350
+2004,Mercedes-Benz,ML-Class,ML500
+2004,Mercedes-Benz,S-Class,S430
+2004,Mercedes-Benz,S-Class,S430 4matic
+2004,Mercedes-Benz,S-Class,S500
+2004,Mercedes-Benz,S-Class,S500 4matic
+2004,Mercedes-Benz,S-Class,S55 AMG
+2004,Mercedes-Benz,S-Class,S600
+2004,Mercedes-Benz,SL-Class,SL500
+2004,Mercedes-Benz,SL-Class,SL55 AMG
+2004,Mercedes-Benz,SL-Class,SL600
+2004,Mercedes-Benz,SLK-Class,SLK230
+2004,Mercedes-Benz,SLK-Class,SLK32 AMG
+2004,Mercedes-Benz,SLK-Class,SLK320
+2004,Mercury,Grand Marquis,Grand Marquis
+2004,Mercury,Marauder,Marauder
+2004,Mercury,Monterey,Monterey Wagon FWD
+2004,Mercury,Mountaineer,Mountaineer 2WD
+2004,Mercury,Mountaineer,Mountaineer 2WD FFV
+2004,Mercury,Mountaineer,Mountaineer 4WD
+2004,Mercury,Mountaineer,Mountaineer 4WD FFV
+2004,Mercury,Sable,Sable
+2004,Mercury,Sable,Sable Wagon
+2004,MINI,Cooper,Cooper
+2004,MINI,Cooper,Cooper S
+2004,Mitsubishi,Diamante,Diamante Sedan
+2004,Mitsubishi,Eclipse,Eclipse
+2004,Mitsubishi,Eclipse,Eclipse Spyder
+2004,Mitsubishi,Endeavor,Endeavor
+2004,Mitsubishi,Galant,Galant
+2004,Mitsubishi,Lancer,Lancer
+2004,Mitsubishi,Lancer,Lancer Evolution
+2004,Mitsubishi,Lancer,Lancer Sportback
+2004,Mitsubishi,Montero,Montero
+2004,Mitsubishi,Montero Sport,Montero Sport 2WD
+2004,Mitsubishi,Montero Sport,Montero Sport 4WD
+2004,Mitsubishi,Nativa,Nativa 2WD(Puerto Rico Only)
+2004,Mitsubishi,Outlander,Outlander 2WD
+2004,Mitsubishi,Outlander,Outlander 4WD
+2004,Nissan,350z,350z
+2004,Nissan,350z,350z Roadster
+2004,Nissan,Altima,Altima
+2004,Nissan,Frontier,Frontier 2WD
+2004,Nissan,Frontier,Frontier V6 2WD
+2004,Nissan,Frontier,Frontier V6 4WD
+2004,Nissan,Maxima,Maxima
+2004,Nissan,Murano,Murano 2WD
+2004,Nissan,Murano,Murano AWD
+2004,Nissan,Pathfinder,Pathfinder 2WD
+2004,Nissan,Pathfinder,Pathfinder 4WD
+2004,Nissan,Pathfinder,Pathfinder Armada 2WD
+2004,Nissan,Pathfinder,Pathfinder Armada 4WD
+2004,Nissan,Quest,Quest
+2004,Nissan,Sentra,Sentra
+2004,Nissan,Titan,Titan 2WD
+2004,Nissan,Titan,Titan 4WD
+2004,Nissan,Xterra,Xterra 2WD
+2004,Nissan,Xterra,Xterra V6 2WD
+2004,Nissan,Xterra,Xterra V6 4WD
+2004,Oldsmobile,Alero,Alero
+2004,Oldsmobile,Bravada,Bravada 2WD
+2004,Oldsmobile,Bravada,Bravada AWD
+2004,Oldsmobile,Silhouette,Silhouette 2WD
+2004,Oldsmobile,Silhouette,Silhouette AWD
+2004,Pontiac,Aztek,Aztek AWD
+2004,Pontiac,Aztek,Aztek FWD
+2004,Pontiac,Bonneville,Bonneville
+2004,Pontiac,Grand Am,Grand Am
+2004,Pontiac,Grand Prix,Grand Prix
+2004,Pontiac,GTO,GTO
+2004,Pontiac,Montana,Montana AWD
+2004,Pontiac,Montana,Montana FWD
+2004,Pontiac,Sunfire,Sunfire
+2004,Pontiac,Vibe,Vibe
+2004,Pontiac,Vibe,Vibe AWD
+2004,Porsche,Boxster,Boxster
+2004,Porsche,Boxster,Boxster S
+2004,Porsche,Carrera 2 911 GT3,Carrera 2 911 GT3
+2004,Porsche,Carrera 2 Cabriolet,Carrera 2 Cabriolet
+2004,Porsche,Carrera 2 Cabriolet Kit,Carrera 2 Cabriolet Kit
+2004,Porsche,Carrera 2 Coupe,Carrera 2 Coupe
+2004,Porsche,Carrera 2 Coupe Kit,Carrera 2 Coupe Kit
+2004,Porsche,Carrera 4 Cabriolet,Carrera 4 Cabriolet
+2004,Porsche,Carrera 4 Cabriolet Kit,Carrera 4 Cabriolet Kit
+2004,Porsche,Carrera 4 S Cabriolet,Carrera 4 S Cabriolet
+2004,Porsche,Carrera 4 S Cabriolet Kit,Carrera 4 S Cabriolet Kit
+2004,Porsche,Carrera 4 S Coupe,Carrera 4 S Coupe
+2004,Porsche,Carrera 4 S Kit,Carrera 4 S Kit
+2004,Porsche,Carrera GT,Carrera GT
+2004,Porsche,Cayenne,Cayenne
+2004,Porsche,Cayenne,Cayenne S
+2004,Porsche,Cayenne,Cayenne Turbo
+2004,Porsche,Targa,Targa
+2004,Porsche,Targa,Targa Kit
+2004,Porsche,Turbo 2 911 Gt2,Turbo 2 911 Gt2
+2004,Porsche,Turbo 4 911,Turbo 4 911
+2004,Porsche,Turbo 4 911 Cab,Turbo 4 911 Cab
+2004,Porsche,Turbo 4 911 Cab Kit,Turbo 4 911 Cab Kit
+2004,Porsche,Turbo 4 911 Kit,Turbo 4 911 Kit
+2004,Rolls-Royce,Phantom,Phantom
+2004,Roush Performance,Mustang,Stage 3 Mustang
+2004,Saab,9-3,9-3 Convertible
+2004,Saab,9-3,9-3 Sport Sedan
+2004,Saab,9-5,9-5
+2004,Saab,9-5,9-5 Wagon
+2004,Saturn,Ion,Ion
+2004,Saturn,L300,L300
+2004,Saturn,LW,LW300
+2004,Saturn,Vue,Vue AWD
+2004,Saturn,Vue,Vue FWD
+2004,Scion,xA,xA
+2004,Scion,xB,xB
+2004,Subaru,Baja,Baja AWD
+2004,Subaru,Forester,Forester AWD
+2004,Subaru,Impreza/Outback Sport,Impreza AWD
+2004,Subaru,Impreza/Outback Sport,Impreza Wagon/Outback SPT AWD
+2004,Subaru,Legacy/Outback,Legacy/Outback AWD
+2004,Subaru,Legacy/Outback,Legacy/Outback Wagon AWD
+2004,Suzuki,Aerio,Aerio
+2004,Suzuki,Aerio,Aerio AWD
+2004,Suzuki,Aerio,Aerio SX
+2004,Suzuki,Aerio,Aerio SX AWD
+2004,Suzuki,Forenza,Forenza
+2004,Suzuki,Grand Vitara,Grand Vitara
+2004,Suzuki,Grand Vitara,Grand Vitara 4WD
+2004,Suzuki,Grand Vitara,Grand Vitara XL7
+2004,Suzuki,Grand Vitara,Grand Vitara XL7 4WD
+2004,Suzuki,Swift,Swift
+2004,Suzuki,Verona,Verona
+2004,Suzuki,Vitara,Vitara 4 Door
+2004,Suzuki,Vitara,Vitara 4 Door 4WD
+2004,Toyota,4Runner,4Runner 2WD
+2004,Toyota,4Runner,4Runner 4WD
+2004,Toyota,Avalon,Avalon
+2004,Toyota,Camry,Camry
+2004,Toyota,Camry,Camry Solara
+2004,Toyota,Camry,Camry Solara Convertible
+2004,Toyota,Celica,Celica
+2004,Toyota,Corolla,Corolla
+2004,Toyota,Echo,Echo
+2004,Toyota,Highlander,Highlander 2WD
+2004,Toyota,Highlander,Highlander 4WD
+2004,Toyota,Land Cruiser,Land Cruiser Wagon 4WD
+2004,Toyota,Matrix,Matrix
+2004,Toyota,Matrix,Matrix AWD
+2004,Toyota,MR2,MR2
+2004,Toyota,Prius,Prius
+2004,Toyota,RAV4,RAV4 2WD
+2004,Toyota,RAV4,RAV4 4WD
+2004,Toyota,Sequoia,Sequoia 2WD
+2004,Toyota,Sequoia,Sequoia 4WD
+2004,Toyota,Sienna,Sienna 2WD
+2004,Toyota,Sienna,Sienna 4WD
+2004,Toyota,Tacoma,Tacoma 2WD
+2004,Toyota,Tacoma,Tacoma 4WD
+2004,Toyota,Tundra,Tundra 2WD
+2004,Toyota,Tundra,Tundra 4WD
+2004,Volkswagen,Beetle,New Beetle
+2004,Volkswagen,Beetle,New Beetle Convertible
+2004,Volkswagen,Golf/GTI,Golf
+2004,Volkswagen,Golf/GTI,GTI
+2004,Volkswagen,Jetta,Jetta
+2004,Volkswagen,Jetta,Jetta Wagon
+2004,Volkswagen,Passat,Passat
+2004,Volkswagen,Passat,Passat 4motion
+2004,Volkswagen,Passat,Passat Wagon
+2004,Volkswagen,Passat,Passat Wagon 4motion
+2004,Volkswagen,Phaeton,Phaeton
+2004,Volkswagen,R32,R32
+2004,Volkswagen,Touareg,Touareg
+2004,Volvo,C70,C70 Convertible
+2004,Volvo,S40,S40 FWD
+2004,Volvo,S60,S60 AWD
+2004,Volvo,S60,S60 FWD
+2004,Volvo,S60,S60 R AWD
+2004,Volvo,S80,S80 AWD
+2004,Volvo,S80,S80/S80 Premier
+2004,Volvo,V40,V40
+2004,Volvo,V70,V70 AWD
+2004,Volvo,V70,V70 FWD
+2004,Volvo,V70,V70 R AWD
+2004,Volvo,XC70,XC70 AWD
+2004,Volvo,XC90,XC90 AWD
+2004,Volvo,XC90,XC90 FWD

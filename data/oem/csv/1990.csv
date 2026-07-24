@@ -1,0 +1,392 @@
+year,make,model,trim
+1990,Acura,Integra,Integra
+1990,Acura,Legend,Legend
+1990,Alfa Romeo,Spider,Spider
+1990,Audi,100,100
+1990,Audi,100,100 quattro
+1990,Audi,200,200
+1990,Audi,200,200 quattro
+1990,Audi,200,200 quattro Wagon
+1990,Audi,80/90,80
+1990,Audi,80/90,80 quattro
+1990,Audi,80/90,90
+1990,Audi,80/90,90 quattro 20v
+1990,Audi,Coupe quattro,Coupe quattro
+1990,Audi,V8,V8
+1990,BMW,3 Series,325i Convertible
+1990,BMW,3 Series,325i/325is
+1990,BMW,3 Series,325ix
+1990,BMW,5 Series,525i
+1990,BMW,5 Series,535i
+1990,BMW,7 Series,735i
+1990,BMW,7 Series,735il
+1990,BMW,7 Series,750il
+1990,BMW,M,M3
+1990,Buick,Century,Century
+1990,Buick,Century Wagon,Century Wagon
+1990,Buick,Coachbuilder Wagon,Coachbuilder Wagon
+1990,Buick,Electra/Park Avenue,Electra/Park Avenue
+1990,Buick,Estate Wagon,Estate Wagon
+1990,Buick,LeSabre,LeSabre
+1990,Buick,Reatta,Reatta
+1990,Buick,Regal,Regal
+1990,Buick,Riviera,Riviera
+1990,Buick,Skylark,Skylark
+1990,Cadillac,Allante,Allante
+1990,Cadillac,Brougham,Brougham
+1990,Cadillac,Commercial Chassis,Commercial Chassis
+1990,Cadillac,Eldorado,Eldorado
+1990,Cadillac,Fleetwood/DeVille,Fleetwood/DeVille
+1990,Cadillac,Seville,Seville
+1990,Chevrolet,Astro Cargo,Astro 2WD (cargo)
+1990,Chevrolet,Astro Cargo,Astro AWD (cargo)
+1990,Chevrolet,Astro Passenger,Astro 2WD (passenger)
+1990,Chevrolet,Astro Passenger,Astro AWD (passenger)
+1990,Chevrolet,Beretta,Beretta
+1990,Chevrolet,Blazer,Blazer V1500 4WD
+1990,Chevrolet,Blazer,S10 Blazer 2WD
+1990,Chevrolet,Blazer,S10 Blazer 4WD
+1990,Chevrolet,C1500 Pickup,C1500 Pickup 2WD
+1990,Chevrolet,C2500 Pickup,C2500 Pickup 2WD
+1990,Chevrolet,Camaro,Camaro
+1990,Chevrolet,Caprice,Caprice
+1990,Chevrolet,Caprice,Caprice Wagon
+1990,Chevrolet,Cavalier,Cavalier
+1990,Chevrolet,Cavalier,Cavalier Wagon
+1990,Chevrolet,Celebrity,Celebrity Wagon
+1990,Chevrolet,Corsica,Corsica
+1990,Chevrolet,Corvette,Corvette
+1990,Chevrolet,Corvette,Twin-Turbo Corvette
+1990,Chevrolet,G10/20 Van,G10/20 Sport Van 2WD
+1990,Chevrolet,G10/20 Van,G10/20 Van 2WD
+1990,Chevrolet,G30 Van,G30 Van 2WD
+1990,Chevrolet,K1500 Pickup,K1500 Pickup 4WD
+1990,Chevrolet,K2500 Pickup,K2500 Pickup 4WD
+1990,Chevrolet,Lumina,Lumina
+1990,Chevrolet,Lumina/APV Minivan,Lumina/APV Minivan 2WD
+1990,Chevrolet,S10 Cab Chassis,S10 Cab Chassis 2WD
+1990,Chevrolet,S10 Pickup,S10 Pickup 2WD
+1990,Chevrolet,S10 Pickup,S10 Pickup 4WD
+1990,Chevrolet,Sport Van,G30 Sport Van 2WD
+1990,Chevrolet,Sprint,Sprint
+1990,Chevrolet,Sprint,Turbo Sprint
+1990,Chevrolet,Suburban,R1500 Suburban 2WD
+1990,Chevrolet,Suburban,Suburban V1500 4WD
+1990,Chrysler,LeBaron,LeBaron
+1990,Chrysler,LeBaron,LeBaron Convertible
+1990,Chrysler,LeBaron,LeBaron Landau
+1990,Chrysler,New Yorker,New Yorker
+1990,Chrysler,New Yorker Fifth Avenue/Imperial,New Yorker Fifth Avenue/Imperial
+1990,Chrysler,TC,TC By Convertible
+1990,Chrysler,Town and Country,Town and Country 2WD
+1990,Consulier Industries Inc,Consulier GTP,Consulier GTP
+1990,Daihatsu,Charade,Charade
+1990,Daihatsu,Rocky,Rocky 4WD
+1990,Dodge,B150/B250 Van,B150/B250 Van 2WD
+1990,Dodge,B150/B250 Wagon,B150/B250 Wagon 2WD
+1990,Dodge,B350 Van,B350 Van 2WD
+1990,Dodge,B350 Wagon,B350 Wagon 2WD
+1990,Dodge,Caravan/Grand Caravan/Ram Van,Caravan/Grand Caravan/Ram Van 2WD
+1990,Dodge,Colt,Colt
+1990,Dodge,Colt,Colt Vista
+1990,Dodge,Colt,Colt Vista 4WD
+1990,Dodge,Colt,Colt Wagon
+1990,Dodge,Colt,Colt Wagon 4WD
+1990,Dodge,D100/D150 Pickup,D100/D150 Pickup 2WD
+1990,Dodge,D250 Cab Chassis,D250 Cab Chassis 2WD
+1990,Dodge,D250 Pickup,D250 Pickup 2WD
+1990,Dodge,Dakota Cab Chassis,Dakota Cab Chassis 2WD
+1990,Dodge,Dakota Pickup,Dakota Pickup 2WD
+1990,Dodge,Dakota Pickup,Dakota Pickup 4WD
+1990,Dodge,Daytona,Daytona
+1990,Dodge,Dynasty,Dynasty
+1990,Dodge,Monaco,Monaco
+1990,Dodge,Omni,Omni
+1990,Dodge,Power Ram 50 Pickup,Power Ram 50 4WD
+1990,Dodge,Raider,Raider 4WD
+1990,Dodge,Ram 50 Pickup,Ram 50 Pickup 2WD
+1990,Dodge,Ramcharger,AD100/AD150 Ramcharger 2WD
+1990,Dodge,Ramcharger,AW100/AW150 Ramcharger 4WD
+1990,Dodge,Shadow,Shadow
+1990,Dodge,Spirit,Spirit
+1990,Dodge,W100/W150 Pickup,W100/W150 Pickup 4WD
+1990,Dodge,W250 Pickup,W250 Pickup 4WD
+1990,Eagle,Premier,Premier
+1990,Eagle,Summit,Summit
+1990,Eagle,Talon,Talon
+1990,Evans Automobiles,Series 1,Series 1
+1990,Ferrari,348 TB/TS,348 TB/TS
+1990,Ferrari,F 40,F 40
+1990,Ferrari,Mondial T/Cabriolet,Mondial T/Cabriolet
+1990,Ferrari,Testarossa,Testarossa
+1990,Ford,Aerostar Van,Aerostar Van
+1990,Ford,Aerostar Van,Aerostar Van AWD
+1990,Ford,Aerostar Wagon,Aerostar Wagon
+1990,Ford,Aerostar Wagon,Aerostar Wagon AWD
+1990,Ford,Bronco,Bronco 4WD
+1990,Ford,Bronco II,Bronco II 2WD
+1990,Ford,Bronco II,Bronco II 4WD
+1990,Ford,E150 Club Wagon,E150 Club Wagon
+1990,Ford,E150 Econoline,E150 Econoline 2WD
+1990,Ford,E250 Econoline,E250 Econoline 2WD
+1990,Ford,Escort,Escort
+1990,Ford,Escort,Escort Wagon
+1990,Ford,F150,F150 Pickup 2WD
+1990,Ford,F150,F150 Pickup 4WD
+1990,Ford,F250,F250 Pickup 2WD
+1990,Ford,F250,F250 Pickup 4WD
+1990,Ford,Festiva,Festiva
+1990,Ford,LTD Crown Victoria,LTD Crown Victoria
+1990,Ford,LTD Crown Victoria,LTD Crown Victoria Wagon
+1990,Ford,Mustang,Mustang
+1990,Ford,Probe,Probe
+1990,Ford,Ranger,Ranger Pickup 2WD
+1990,Ford,Ranger,Ranger Pickup 4WD
+1990,Ford,Taurus,Taurus
+1990,Ford,Taurus,Taurus SHO
+1990,Ford,Taurus,Taurus Wagon
+1990,Ford,Taurus,Taurus Wagon V6 A/C
+1990,Ford,Tempo,Tempo
+1990,Ford,Tempo,Tempo AWD
+1990,Ford,Thunderbird,Thunderbird
+1990,Geo,Metro,Metro
+1990,Geo,Metro,Metro LSI
+1990,Geo,Metro,Metro LSI Convertible
+1990,Geo,Metro,Metro XFI
+1990,Geo,Prizm,Prizm
+1990,Geo,Storm,Storm
+1990,Geo,Tracker,Tracker 4WD
+1990,Geo,Tracker,Tracker Convertible 4WD
+1990,GMC,C2500 Sierra,C2500 Sierra 2WD
+1990,GMC,Jimmy,Jimmy V1500 4WD
+1990,GMC,Jimmy,S15 Jimmy 2WD
+1990,GMC,Jimmy,S15 Jimmy 4WD
+1990,GMC,K2500 Sierra,K2500 Sierra 4WD
+1990,GMC,Rally,G15/25 Rally 2WD
+1990,GMC,Rally,G35 Rally 2WD
+1990,GMC,S15 Pickup,S15 Pickup 2WD
+1990,GMC,S15 Pickup,S15 Pickup 4WD
+1990,GMC,Safari,Safari 2WD (cargo)
+1990,GMC,Safari,Safari AWD (cargo)
+1990,GMC,Safari,Safari AWD (passenger)
+1990,GMC,Safari Passenger,Safari 2WD (passenger)
+1990,GMC,Sierra,Sierra 1500 2WD
+1990,GMC,Sierra,Sierra 1500 4WD
+1990,GMC,Suburban,R1500 Suburban 2WD
+1990,GMC,Suburban,Suburban V1500 4WD
+1990,GMC,Vandura,G15/25 Vandura 2WD
+1990,GMC,Vandura,G35 Vandura 2WD
+1990,Honda,Accord,Accord
+1990,Honda,Civic,Civic
+1990,Honda,Civic,Civic CRX
+1990,Honda,Civic,Civic CRX HF
+1990,Honda,Civic,Civic Wagon
+1990,Honda,Civic,Civic Wagon 4WD
+1990,Honda,Prelude,Prelude
+1990,Hyundai,Excel,Excel
+1990,Hyundai,Sonata,Sonata
+1990,Infiniti,M30,M30
+1990,Infiniti,Q45,Q45
+1990,Isuzu,Amigo,Amigo 2WD
+1990,Isuzu,Amigo,Amigo 4WD
+1990,Isuzu,Impulse,Impulse
+1990,Isuzu,Pickup,Pickup 2WD
+1990,Isuzu,Pickup,Pickup 2WD 1-Ton
+1990,Isuzu,Pickup,Pickup 4WD
+1990,Isuzu,Stylus,Stylus
+1990,Isuzu,Trooper,Trooper
+1990,Jaguar,XJ,XJ6
+1990,Jaguar,XJS,XJS Convertible
+1990,Jaguar,XJS,XJS Coupe
+1990,Jeep,Cherokee,Cherokee 2WD
+1990,Jeep,Cherokee,Cherokee 4WD
+1990,Jeep,Comanche Pickup,Comanche Pickup 2WD
+1990,Jeep,Comanche Pickup,Comanche Pickup 4WD
+1990,Jeep,Grand Wagoneer,Grand Wagoneer 4WD
+1990,Jeep,Wagoneer,Wagoneer 4WD
+1990,Jeep,Wrangler,Wrangler 4WD
+1990,Laforza Automobile Inc,Laforza,Laforza
+1990,Lamborghini,Countach,Countach
+1990,Lamborghini,Diablo,DB132/Diablo
+1990,Land Rover,Range Rover,Range Rover
+1990,Lexus,ES,ES 250
+1990,Lexus,LS,LS 400
+1990,Lincoln,Continental,Continental
+1990,Lincoln,Mark VII,Mark VII
+1990,Lincoln,Town Car,Town Car
+1990,Lotus,Esprit,Esprit Turbo
+1990,Maserati,222E,222E
+1990,Maserati,228,228
+1990,Maserati,430,430
+1990,Maserati,Karif,Karif
+1990,Maserati,Spyder,Spyder
+1990,Mazda,323 Protege,323/323 Protege
+1990,Mazda,626/MX-6,626/MX-6
+1990,Mazda,929,929
+1990,Mazda,B Pickup,B2200/B2600i
+1990,Mazda,B Pickup,B2600i 4x4
+1990,Mazda,MPV,MPV
+1990,Mazda,MPV,MPV 4x4
+1990,Mazda,MX-5 Miata,MX-5 Miata
+1990,Mazda,RX-7,RX-7
+1990,Mercedes-Benz,190,190E 2.6
+1990,Mercedes-Benz,300,300CE
+1990,Mercedes-Benz,300,300D 2.5 Turbo
+1990,Mercedes-Benz,300,300E
+1990,Mercedes-Benz,300,300E 2.6
+1990,Mercedes-Benz,300,300E 4Matic
+1990,Mercedes-Benz,300,300SE
+1990,Mercedes-Benz,300,300SEL
+1990,Mercedes-Benz,300,300SL
+1990,Mercedes-Benz,300,300TE
+1990,Mercedes-Benz,300,300TE 4Matic
+1990,Mercedes-Benz,350,350SDL Turbo
+1990,Mercedes-Benz,420,420SE
+1990,Mercedes-Benz,420,420SEL
+1990,Mercedes-Benz,500,500SL
+1990,Mercedes-Benz,560,560SEC
+1990,Mercedes-Benz,560,560SEL
+1990,Mercury,Cougar,Cougar
+1990,Mercury,Grand Marquis,Grand Marquis
+1990,Mercury,Grand Marquis,Grand Marquis Wagon
+1990,Mercury,Sable,Sable
+1990,Mercury,Sable,Sable Wagon
+1990,Mercury,Sable,Sable Wagon V6 A/C
+1990,Mercury,Topaz,Topaz
+1990,Mercury,Topaz,Topaz AWD
+1990,Mitsubishi,Eclipse,Eclipse
+1990,Mitsubishi,Galant,Galant
+1990,Mitsubishi,Mirage,Mirage
+1990,Mitsubishi,Mirage,Mirage Wagon
+1990,Mitsubishi,Montero,Montero
+1990,Mitsubishi,Precis,Precis
+1990,Mitsubishi,Sigma,Sigma
+1990,Mitsubishi,Space Wagon,Space Wagon
+1990,Mitsubishi,Truck,Truck 2WD
+1990,Mitsubishi,Truck,Truck 4WD
+1990,Mitsubishi,Van,Van
+1990,Mitsubishi,Wagon,Wagon
+1990,Nissan,240SX,240SX
+1990,Nissan,300ZX,300ZX
+1990,Nissan,300ZX,300ZX 2x2
+1990,Nissan,Axxess,Axxess
+1990,Nissan,Axxess,Axxess AWD
+1990,Nissan,Hardbody,Hardbody 2WD
+1990,Nissan,Hardbody,Hardbody 4WD
+1990,Nissan,Maxima,Maxima
+1990,Nissan,Pathfinder,Pathfinder 2WD
+1990,Nissan,Pathfinder,Pathfinder 4WD
+1990,Nissan,Pulsar NX,Pulsar NX
+1990,Nissan,Sentra,Sentra
+1990,Nissan,Sentra,Sentra Coupe
+1990,Nissan,Sentra,Sentra Wagon
+1990,Nissan,Stanza,Stanza
+1990,Nissan,Van,Van (passenger)
+1990,Oldsmobile,Custom Cruiser,Custom Cruiser
+1990,Oldsmobile,Cutlass Calais,Cutlass Calais
+1990,Oldsmobile,Cutlass Ciera,Cutlass Ciera
+1990,Oldsmobile,Cutlass Cruiser,Cutlass Cruiser
+1990,Oldsmobile,Cutlass Supreme,Cutlass Supreme
+1990,Oldsmobile,Eighty-Eight,Eighty-Eight
+1990,Oldsmobile,Ninety-Eight/Touring,Ninety-Eight/Touring
+1990,Oldsmobile,Silhouette,Silhouette 2WD
+1990,Oldsmobile,Trofeo/Toronado,Trofeo/Toronado
+1990,Peugeot,405,405 Sedan
+1990,Peugeot,405,405 Station Wagon
+1990,Peugeot,505,505 Station Wagon
+1990,Plymouth,Acclaim,Acclaim
+1990,Plymouth,Colt,Colt
+1990,Plymouth,Colt,Colt Vista
+1990,Plymouth,Colt,Colt Vista 4WD
+1990,Plymouth,Colt,Colt Wagon
+1990,Plymouth,Colt,Colt Wagon 4WD
+1990,Plymouth,Horizon,Horizon
+1990,Plymouth,Laser,Laser
+1990,Plymouth,Sundance,Sundance
+1990,Plymouth,Voyager/Grand Voyager,Voyager/Grand Voyager 2WD
+1990,Pontiac,6000,6000
+1990,Pontiac,6000,6000 Wagon
+1990,Pontiac,Bonneville,Bonneville
+1990,Pontiac,Firebird/Trans Am/Formula,Firebird/Trans Am
+1990,Pontiac,Firefly,Firefly
+1990,Pontiac,Firefly,Turbo Firefly
+1990,Pontiac,Grand Am,Grand Am
+1990,Pontiac,Grand Prix,Grand Prix
+1990,Pontiac,Grand Prix,Grand Prix Ste Turbo
+1990,Pontiac,Grand Prix,Grand Prix Turbo
+1990,Pontiac,Lemans,Lemans
+1990,Pontiac,Sunbird,Sunbird
+1990,Pontiac,Sunbird,Sunbird Convertible
+1990,Pontiac,Trans Sport/Montana,Trans Sport 2WD
+1990,Porsche,911,911 Carrera 4/2
+1990,Porsche,928,928 S4
+1990,Porsche,944,944 S2
+1990,Rolls-Royce,Corniche/Continental,Continental
+1990,Rolls-Royce,Corniche/Continental,Corniche III
+1990,Rolls-Royce,Eight/Mulsan/Mulsanne,Eight/Mulsan
+1990,Rolls-Royce,Silver Spirit II/Silver Spur,Silver Spirit II/Silver Spur
+1990,Saab,900,900
+1990,Saab,900,900 Convertible
+1990,Saab,9000,9000
+1990,Saleen,SSC,SSC
+1990,Sterling,827,827
+1990,Subaru,Justy,Justy
+1990,Subaru,Justy,Justy 4WD
+1990,Subaru,Legacy/Outback,Legacy
+1990,Subaru,Legacy/Outback,Legacy 4WD
+1990,Subaru,Legacy/Outback,Legacy Wagon
+1990,Subaru,Legacy/Outback,Legacy Wagon 4WD
+1990,Subaru,Loyale,Loyale
+1990,Subaru,Loyale,Loyale 4WD
+1990,Subaru,Loyale,Loyale 4WD Turbo
+1990,Subaru,Loyale,Loyale Wagon
+1990,Subaru,Loyale,Loyale Wagon 4WD
+1990,Subaru,Loyale,Loyale Wagon 4WD Turbo
+1990,Subaru,XT,XT
+1990,Subaru,XT,XT 4WD
+1990,Suzuki,Samurai,Samurai Hardtop
+1990,Suzuki,Samurai,Samurai Soft-top 4WD
+1990,Suzuki,Sidekick,Sidekick 2WD
+1990,Suzuki,Sidekick,Sidekick Hardtop 4WD
+1990,Suzuki,Sidekick,Sidekick Soft-top 4WD
+1990,Suzuki,Swift,Swift
+1990,Suzuki,Swift,Swift GT
+1990,Toyota,4Runner,4Runner 2WD
+1990,Toyota,4Runner,4Runner 4WD
+1990,Toyota,Cab Chassis,Cab/Chassis 2WD
+1990,Toyota,Camry,Camry
+1990,Toyota,Camry,Camry Wagon
+1990,Toyota,Celica,Celica
+1990,Toyota,Celica,Celica Convertible
+1990,Toyota,Corolla,Corolla
+1990,Toyota,Corolla,Corolla All-Trac Wagon
+1990,Toyota,Corolla,Corolla Wagon
+1990,Toyota,Cressida,Cressida
+1990,Toyota,Land Cruiser,Land Cruiser Wagon 4WD
+1990,Toyota,Supra,Supra
+1990,Toyota,Tercel,Tercel
+1990,Toyota,Truck/T100,1-Ton Truck 2WD
+1990,Toyota,Truck/T100,Truck 2WD
+1990,Toyota,Truck/T100,Truck 4WD
+1990,Volkswagen,Cabriolet,Cabriolet
+1990,Volkswagen,Corrado,Corrado
+1990,Volkswagen,Fox,Fox
+1990,Volkswagen,Fox,Fox Wagon
+1990,Volkswagen,Golf/GTI,Golf/GTI
+1990,Volkswagen,Golf/GTI,GTI 16v
+1990,Volkswagen,Jetta,Jetta
+1990,Volkswagen,Jetta,Jetta GLI 16v
+1990,Volkswagen,Passat,Passat
+1990,Volkswagen,Passat,Passat Wagon
+1990,Volkswagen,Vanagon,Vanagon Syncro 4WD
+1990,Volkswagen,Vanagon,Vanagon/Camper 2WD
+1990,Volvo,240,240
+1990,Volvo,240,240 Wagon
+1990,Volvo,740/760,740
+1990,Volvo,740/760,740 16-Valve
+1990,Volvo,740/760,740 16-Valve Wagon
+1990,Volvo,740/760,740 Wagon
+1990,Volvo,740/760,760
+1990,Volvo,740/760,760 Wagon
+1990,Volvo,780,780
+1990,Yugo,GV Plus/GV/Cabrio,GV Plus/GV/Cabrio

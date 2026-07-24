@@ -1,0 +1,798 @@
+year,make,model,trim
+2015,Acura,ILX,ILX
+2015,Acura,MDX,MDX 2WD
+2015,Acura,MDX,MDX 4WD
+2015,Acura,RDX,RDX 2WD
+2015,Acura,RDX,RDX 4WD
+2015,Acura,RLX,RLX
+2015,Acura,TLX,TLX
+2015,Acura,TLX,TLX AWD
+2015,Alfa Romeo,4C,4C
+2015,Aston Martin,DB9,DB9
+2015,Aston Martin,Rapide,Rapide S
+2015,Aston Martin,Vanquish,Vanquish
+2015,Aston Martin,Vantage,V12 Vantage S
+2015,Aston Martin,Vantage,V8 Vantage
+2015,Aston Martin,Vantage,V8 Vantage S
+2015,Aston Martin,Vantage,Vantage GT
+2015,Audi,A3,A3
+2015,Audi,A3,A3 Cabriolet
+2015,Audi,A3,A3 Cabriolet quattro
+2015,Audi,A3,A3 quattro
+2015,Audi,A4,A4
+2015,Audi,A4,A4 quattro
+2015,Audi,A5,A5 Cabriolet quattro
+2015,Audi,A5,A5 quattro
+2015,Audi,A6,A6
+2015,Audi,A6,A6 quattro
+2015,Audi,A7,A7 quattro
+2015,Audi,A8,A8
+2015,Audi,A8,A8 L
+2015,Audi,Allroad,allroad quattro
+2015,Audi,Q3,Q3
+2015,Audi,Q3,Q3 quattro
+2015,Audi,Q5,Q5
+2015,Audi,Q5,Q5 Hybrid
+2015,Audi,Q7,Q7
+2015,Audi,R8,R8
+2015,Audi,R8 Spyder,R8 Spyder
+2015,Audi,RS 5,RS 5
+2015,Audi,RS 5,RS 5 Cabriolet
+2015,Audi,RS 7,RS 7
+2015,Audi,S3,S3
+2015,Audi,S4,S4
+2015,Audi,S5,S5
+2015,Audi,S5,S5 Cabriolet
+2015,Audi,S6,S6
+2015,Audi,S7,S7
+2015,Audi,S8,S8
+2015,Audi,SQ5,SQ5
+2015,Audi,TT Coupe,TT Coupe quattro
+2015,Audi,TT Roadster,TT Roadster quattro
+2015,Bentley,Continental,Continental GT
+2015,Bentley,Continental,Continental GT3-R
+2015,Bentley,Continental GT Convertible,Continental GT Convertible
+2015,Bentley,Flying Spur,Flying Spur
+2015,Bentley,Mulsanne,Mulsanne
+2015,BMW,2 Series,228i
+2015,BMW,2 Series,228i Convertible
+2015,BMW,2 Series,228i xDrive
+2015,BMW,2 Series,228i xDrive Convertible
+2015,BMW,2 Series,M235i
+2015,BMW,2 Series,M235i xDrive
+2015,BMW,3 Series,320i
+2015,BMW,3 Series,320i xDrive
+2015,BMW,3 Series,328d
+2015,BMW,3 Series,328d xDrive
+2015,BMW,3 Series,328d xDrive Sports Wagon
+2015,BMW,3 Series,328i
+2015,BMW,3 Series,328i xDrive
+2015,BMW,3 Series,328i xDrive Gran Turismo
+2015,BMW,3 Series,328i xDrive Sports Wagon
+2015,BMW,3 Series,335i
+2015,BMW,3 Series,335i xDrive
+2015,BMW,3 Series,335i xDrive Gran Turismo
+2015,BMW,3 Series,ActiveHybrid 3
+2015,BMW,4 Series,428i Convertible
+2015,BMW,4 Series,428i Coupe
+2015,BMW,4 Series,428i Gran Coupe
+2015,BMW,4 Series,428i xDrive Convertible
+2015,BMW,4 Series,428i xDrive Coupe
+2015,BMW,4 Series,428i xDrive Gran Coupe
+2015,BMW,4 Series,435i Convertible
+2015,BMW,4 Series,435i Coupe
+2015,BMW,4 Series,435i Gran Coupe
+2015,BMW,4 Series,435i xDrive Convertible
+2015,BMW,4 Series,435i xDrive Coupe
+2015,BMW,4 Series,435i xDrive Gran Coupe
+2015,BMW,5 Series,528i
+2015,BMW,5 Series,528i xDrive
+2015,BMW,5 Series,535d
+2015,BMW,5 Series,535d xDrive
+2015,BMW,5 Series,535i
+2015,BMW,5 Series,535i Gran Turismo
+2015,BMW,5 Series,535i xDrive
+2015,BMW,5 Series,535i xDrive Gran Turismo
+2015,BMW,5 Series,550i
+2015,BMW,5 Series,550i Gran Turismo
+2015,BMW,5 Series,550i xDrive
+2015,BMW,5 Series,550i xDrive Gran Turismo
+2015,BMW,5 Series,ActiveHybrid 5
+2015,BMW,6 Series,640i Convertible
+2015,BMW,6 Series,640i Coupe
+2015,BMW,6 Series,640i Gran Coupe
+2015,BMW,6 Series,640i xDrive Convertible
+2015,BMW,6 Series,640i xDrive Coupe
+2015,BMW,6 Series,640i xDrive Gran Coupe
+2015,BMW,6 Series,650i Convertible
+2015,BMW,6 Series,650i Coupe
+2015,BMW,6 Series,650i Gran Coupe
+2015,BMW,6 Series,650i xDrive Convertible
+2015,BMW,6 Series,650i xDrive Coupe
+2015,BMW,6 Series,650i xDrive Gran Coupe
+2015,BMW,6 Series,Alpina B6 Gran Coupe xDrive
+2015,BMW,7 Series,740i
+2015,BMW,7 Series,740Ld xDrive
+2015,BMW,7 Series,740Li
+2015,BMW,7 Series,740Li xDrive
+2015,BMW,7 Series,750i
+2015,BMW,7 Series,750i xDrive
+2015,BMW,7 Series,750Li
+2015,BMW,7 Series,750Li xDrive
+2015,BMW,7 Series,760Li
+2015,BMW,7 Series,ActiveHybrid 7L
+2015,BMW,7 Series,Alpina B7 LWB
+2015,BMW,7 Series,Alpina B7 LWB xDrive
+2015,BMW,7 Series,Alpina B7 SWB
+2015,BMW,7 Series,Alpina B7 SWB xDrive
+2015,BMW,i3,i3 BEV
+2015,BMW,i3,i3 REX
+2015,BMW,i8,i8
+2015,BMW,M,M235i Convertible
+2015,BMW,M,M3
+2015,BMW,M,M4 Convertible
+2015,BMW,M,M4 Coupe
+2015,BMW,M,M5
+2015,BMW,M,M6 Convertible
+2015,BMW,M,M6 Coupe
+2015,BMW,M,M6 Gran Coupe
+2015,BMW,M,X5 M
+2015,BMW,M,X6 M
+2015,BMW,X1,X1 sDrive28i
+2015,BMW,X1,X1 xDrive28i
+2015,BMW,X1,X1 xDrive35i
+2015,BMW,X3,X3 sDrive28i
+2015,BMW,X3,X3 xDrive28d
+2015,BMW,X3,X3 xDrive28i
+2015,BMW,X3,X3 xDrive35i
+2015,BMW,X4,X4 xDrive28i
+2015,BMW,X4,X4 xDrive35i
+2015,BMW,X5,X5 sDrive35i
+2015,BMW,X5,X5 xDrive35d
+2015,BMW,X5,X5 xDrive35i
+2015,BMW,X5,X5 xDrive50i
+2015,BMW,X6,X6 sDrive35i
+2015,BMW,X6,X6 xDrive35i
+2015,BMW,X6,X6 xDrive50i
+2015,BMW,Z4,Z4 sDrive28i
+2015,BMW,Z4,Z4 sDrive35i
+2015,BMW,Z4,Z4 sDrive35is
+2015,Bugatti,Veyron,Veyron
+2015,Buick,Enclave,Enclave AWD
+2015,Buick,Enclave,Enclave FWD
+2015,Buick,Encore,Encore
+2015,Buick,Encore,Encore AWD
+2015,Buick,LaCrosse,LaCrosse
+2015,Buick,LaCrosse,LaCrosse AWD
+2015,Buick,LaCrosse,LaCrosse eAssist
+2015,Buick,Regal,Regal
+2015,Buick,Regal,Regal AWD
+2015,Buick,Regal,Regal eAssist
+2015,Buick,Verano,Verano
+2015,Cadillac,ATS,ATS
+2015,Cadillac,ATS,ATS AWD
+2015,Cadillac,CTS,CTS
+2015,Cadillac,CTS,CTS Sedan
+2015,Cadillac,CTS,CTS Sedan AWD
+2015,Cadillac,ELR,ELR
+2015,Cadillac,Escalade,Escalade 2WD
+2015,Cadillac,Escalade,Escalade 4WD
+2015,Cadillac,Escalade,Escalade ESV 2WD
+2015,Cadillac,Escalade,Escalade ESV 4WD
+2015,Cadillac,SRX,SRX
+2015,Cadillac,SRX,SRX AWD
+2015,Cadillac,XTS,XTS
+2015,Cadillac,XTS,XTS AWD
+2015,Cadillac,XTS Hearse,XTS Hearse
+2015,Cadillac,XTS Limo,XTS Limo
+2015,Chevrolet,Camaro,Camaro
+2015,Chevrolet,Captiva,Captiva FWD
+2015,Chevrolet,City Express Cargo Van,City Express Cargo Van
+2015,Chevrolet,Colorado,Colorado 2WD
+2015,Chevrolet,Colorado,Colorado 4WD
+2015,Chevrolet,Colorado,Colorado Cab Chassis 2WD
+2015,Chevrolet,Corvette,Corvette
+2015,Chevrolet,Cruze,Cruze
+2015,Chevrolet,Cruze,Cruze Eco
+2015,Chevrolet,Equinox,Equinox AWD
+2015,Chevrolet,Equinox,Equinox FWD
+2015,Chevrolet,Express Cargo,Express 2500 2WD Conversion Cargo
+2015,Chevrolet,Express Passenger,Express 2500 2WD Passenger
+2015,Chevrolet,Express Passenger,Express 3500 2WD Passenger
+2015,Chevrolet,Impala,Impala
+2015,Chevrolet,Impala,Impala Bi-Fuel  (CNG)
+2015,Chevrolet,Impala,Impala Limited
+2015,Chevrolet,Malibu,Malibu
+2015,Chevrolet,Silverado,Silverado C15 2WD
+2015,Chevrolet,Silverado,Silverado C15 Cab Chassis 2WD
+2015,Chevrolet,Silverado,Silverado K15 4WD
+2015,Chevrolet,Silverado,Silverado K15 Cab Chassis 4WD
+2015,Chevrolet,Sonic,Sonic
+2015,Chevrolet,Sonic,Sonic 5
+2015,Chevrolet,Sonic,Sonic 5 RS
+2015,Chevrolet,Sonic,Sonic RS
+2015,Chevrolet,Spark,Spark
+2015,Chevrolet,Spark,Spark EV
+2015,Chevrolet,SS,SS
+2015,Chevrolet,Suburban,Suburban C1500 2WD
+2015,Chevrolet,Suburban,Suburban K1500 4WD
+2015,Chevrolet,Tahoe,Tahoe C1500 2WD
+2015,Chevrolet,Tahoe,Tahoe K1500 4WD
+2015,Chevrolet,Traverse,Traverse AWD
+2015,Chevrolet,Traverse,Traverse FWD
+2015,Chevrolet,Trax,Trax
+2015,Chevrolet,Trax,Trax AWD
+2015,Chevrolet,Volt,Volt
+2015,Chrysler,200,200
+2015,Chrysler,200,200 AWD
+2015,Chrysler,300,300
+2015,Chrysler,300,300 AWD
+2015,Chrysler,Town and Country,Town and Country
+2015,Dodge,Challenger,Challenger
+2015,Dodge,Challenger,Challenger SRT8
+2015,Dodge,Charger,Charger
+2015,Dodge,Charger,Charger AWD
+2015,Dodge,Charger,Charger SRT8
+2015,Dodge,Dart,Dart
+2015,Dodge,Dart,Dart Aero
+2015,Dodge,Dart,Dart GT
+2015,Dodge,Durango,Durango AWD
+2015,Dodge,Durango,Durango RWD
+2015,Dodge,Grand Caravan,Grand Caravan
+2015,Dodge,Journey,Journey AWD
+2015,Dodge,Journey,Journey FWD
+2015,Dodge,Viper,Viper SRT
+2015,Ferrari,458 Italia,458 Italia
+2015,Ferrari,458 Speciale,458 Speciale
+2015,Ferrari,458 Speciale,458 Speciale Spider
+2015,Ferrari,458 Spider,458 Spider
+2015,Ferrari,California T,California T
+2015,Ferrari,F12,F12
+2015,Ferrari,FF,FF
+2015,Fiat,500,500
+2015,Fiat,500,500 Abarth
+2015,Fiat,500 L,500 L
+2015,Fiat,500e,500e
+2015,Ford,C-MAX,C-MAX Energi Plug-in Hybrid
+2015,Ford,C-MAX,C-MAX Hybrid FWD
+2015,Ford,Edge,Edge AWD
+2015,Ford,Edge,Edge FWD
+2015,Ford,Escape,Escape AWD
+2015,Ford,Escape,Escape FWD
+2015,Ford,Expedition,Expedition 2WD
+2015,Ford,Expedition,Expedition 4WD
+2015,Ford,Expedition,Expedition EL 2WD
+2015,Ford,Expedition,Expedition EL 4WD
+2015,Ford,Explorer,Explorer 2WD FFV
+2015,Ford,Explorer,Explorer AWD
+2015,Ford,Explorer,Explorer AWD FFV
+2015,Ford,Explorer,Explorer FWD
+2015,Ford,F150,F150 Pickup 2WD
+2015,Ford,F150,F150 Pickup 2WD FFV
+2015,Ford,F150,F150 Pickup 4WD
+2015,Ford,F150,F150 Pickup 4WD FFV
+2015,Ford,Fiesta,Fiesta FWD
+2015,Ford,Fiesta,Fiesta SFE FWD
+2015,Ford,Fiesta,Fiesta ST FWD
+2015,Ford,Flex,Flex AWD
+2015,Ford,Flex,Flex FWD
+2015,Ford,Focus,Focus Electric
+2015,Ford,Focus,Focus FWD
+2015,Ford,Focus,Focus FWD FFV
+2015,Ford,Focus,Focus SFE FWD
+2015,Ford,Fusion,Fusion AWD
+2015,Ford,Fusion,Fusion Energi Plug-in Hybrid
+2015,Ford,Fusion,Fusion FWD
+2015,Ford,Fusion,Fusion Hybrid FWD
+2015,Ford,Mustang,Mustang
+2015,Ford,Mustang,Mustang Convertible
+2015,Ford,Taurus,Taurus AWD
+2015,Ford,Taurus,Taurus AWD FFV
+2015,Ford,Taurus,Taurus FWD
+2015,Ford,Taurus,Taurus FWD FFV
+2015,Ford,Transit Connect,Transit Connect Van 2WD
+2015,Ford,Transit Connect,Transit Connect Wagon FWD
+2015,Ford,Transit Connect,Transit Connect Wagon LWB FWD
+2015,Ford,Transit T150 Wagon,Transit T150 Wagon
+2015,Ford,Transit T150 Wagon,Transit T150 Wagon FFV
+2015,GMC,Acadia,Acadia AWD
+2015,GMC,Acadia,Acadia FWD
+2015,GMC,Canyon,Canyon 2WD
+2015,GMC,Canyon,Canyon 4WD
+2015,GMC,Canyon,Canyon Cab Chassis 2WD
+2015,GMC,Savana Cargo,Savana 2500 2WD Conversion (cargo)
+2015,GMC,Savana Passenger,Savana 2500 2WD (Passenger)
+2015,GMC,Savana Passenger,Savana 3500 2WD (Passenger)
+2015,GMC,Sierra,Sierra C15 2WD
+2015,GMC,Sierra,Sierra C15 Cab Chassis 2WD
+2015,GMC,Sierra,Sierra K15 4WD
+2015,GMC,Sierra,Sierra K15 Cab Chassis 4WD
+2015,GMC,Terrain,Terrain AWD
+2015,GMC,Terrain,Terrain FWD
+2015,GMC,Yukon,Yukon C1500 2WD
+2015,GMC,Yukon,Yukon C1500 XL 2WD
+2015,GMC,Yukon,Yukon K1500 4WD
+2015,GMC,Yukon,Yukon K1500 XL 4WD
+2015,Honda,Accord,Accord
+2015,Honda,Accord,Accord Hybrid
+2015,Honda,Civic,Civic
+2015,Honda,Civic,Civic HF
+2015,Honda,Civic,Civic Hybrid
+2015,Honda,Civic,Civic Natural Gas
+2015,Honda,CR-V,CR-V 2WD
+2015,Honda,CR-V,CR-V 4WD
+2015,Honda,CR-Z,CR-Z
+2015,Honda,Crosstour,Crosstour 2WD
+2015,Honda,Crosstour,Crosstour 4WD
+2015,Honda,Fit,Fit
+2015,Honda,Odyssey,Odyssey
+2015,Honda,Pilot,Pilot 2WD
+2015,Honda,Pilot,Pilot 4WD
+2015,Hyundai,Accent,Accent
+2015,Hyundai,Azera,Azera
+2015,Hyundai,Azera,Azera Limited
+2015,Hyundai,Elantra,Elantra
+2015,Hyundai,Elantra,Elantra Coupe
+2015,Hyundai,Elantra,Elantra GT
+2015,Hyundai,Elantra,Elantra Limited
+2015,Hyundai,Equus,Equus
+2015,Hyundai,Genesis,Genesis AWD
+2015,Hyundai,Genesis,Genesis Coupe
+2015,Hyundai,Genesis,Genesis RWD
+2015,Hyundai,Santa Fe,Santa Fe AWD
+2015,Hyundai,Santa Fe,Santa Fe FWD
+2015,Hyundai,Santa Fe,Santa Fe Sport AWD
+2015,Hyundai,Santa Fe,Santa Fe Sport FWD
+2015,Hyundai,Santa Fe,Santa Fe Sport Ultimate FWD
+2015,Hyundai,Santa Fe,Santa Fe Ultimate AWD
+2015,Hyundai,Santa Fe,Santa Fe Ultimate FWD
+2015,Hyundai,Sonata,Sonata
+2015,Hyundai,Sonata,Sonata Hybrid
+2015,Hyundai,Sonata,Sonata Hybrid Limited
+2015,Hyundai,Sonata,Sonata Limited
+2015,Hyundai,Sonata,Sonata Sport Limited
+2015,Hyundai,Tucson,Tucson 2WD
+2015,Hyundai,Tucson,Tucson AWD
+2015,Hyundai,Tucson,Tucson Fuel Cell
+2015,Hyundai,Veloster,Veloster
+2015,Infiniti,Q40,Q40
+2015,Infiniti,Q40,Q40 AWD
+2015,Infiniti,Q50,Q50
+2015,Infiniti,Q50,Q50 AWD
+2015,Infiniti,Q50,Q50 Hybrid
+2015,Infiniti,Q50,Q50 Hybrid AWD
+2015,Infiniti,Q50,Q50a
+2015,Infiniti,Q50,Q50a AWD
+2015,Infiniti,Q50,Q50S Hybrid
+2015,Infiniti,Q50,Q50S Hybrid AWD
+2015,Infiniti,Q60,Q60
+2015,Infiniti,Q60,Q60 AWD
+2015,Infiniti,Q60,Q60 Convertible
+2015,Infiniti,Q70,Q70
+2015,Infiniti,Q70,Q70 AWD
+2015,Infiniti,Q70,Q70 Hybrid
+2015,Infiniti,QX50,QX50
+2015,Infiniti,QX50,QX50 AWD
+2015,Infiniti,QX60,QX60 AWD
+2015,Infiniti,QX60,QX60 FWD
+2015,Infiniti,QX60,QX60 Hybrid AWD
+2015,Infiniti,QX60,QX60 Hybrid FWD
+2015,Infiniti,QX70,QX70 AWD
+2015,Infiniti,QX70,QX70 RWD
+2015,Infiniti,QX80,QX80 2WD
+2015,Infiniti,QX80,QX80 4WD
+2015,Infiniti,QX80,QX80 4WD (over 6000 lbs curb weight)
+2015,Jaguar,F-Type,F-Type Convertible
+2015,Jaguar,F-Type,F-Type Coupe
+2015,Jaguar,F-Type,F-Type R Coupe
+2015,Jaguar,F-Type,F-Type S Convertible
+2015,Jaguar,F-Type,F-Type S Coupe
+2015,Jaguar,F-Type,F-Type V8 S Convertible
+2015,Jaguar,XF,XF
+2015,Jaguar,XF,XF AWD
+2015,Jaguar,XF,XF FFV
+2015,Jaguar,XJ,XJ
+2015,Jaguar,XJ,XJ AWD
+2015,Jaguar,XJ,XJ FFV
+2015,Jaguar,XJL,XJL
+2015,Jaguar,XJL,XJL AWD
+2015,Jaguar,XJL,XJL FFV
+2015,Jaguar,XK,XK
+2015,Jaguar,XK,XK Convertible
+2015,Jeep,Cherokee,Cherokee 4WD
+2015,Jeep,Cherokee,Cherokee 4WD Active Drive II
+2015,Jeep,Cherokee,Cherokee FWD
+2015,Jeep,Cherokee,Cherokee Trailhawk 4WD
+2015,Jeep,Compass,Compass 4WD
+2015,Jeep,Compass,Compass FWD
+2015,Jeep,Grand Cherokee,Grand Cherokee 2WD
+2015,Jeep,Grand Cherokee,Grand Cherokee 4WD
+2015,Jeep,Grand Cherokee,Grand Cherokee SRT8 4WD
+2015,Jeep,Patriot,Patriot 4WD
+2015,Jeep,Patriot,Patriot FWD
+2015,Jeep,Renegade,Renegade 2WD
+2015,Jeep,Renegade,Renegade 4WD
+2015,Jeep,Wrangler,Wrangler 4WD
+2015,Jeep,Wrangler,Wrangler Unlimited 4WD
+2015,Kia,Cadenza,Cadenza
+2015,Kia,Forte,Forte
+2015,Kia,Forte,Forte 5
+2015,Kia,Forte,Forte Koup
+2015,Kia,K900,K900
+2015,Kia,Optima,Optima
+2015,Kia,Optima,Optima Hybrid
+2015,Kia,Optima,Optima Hybrid EX
+2015,Kia,Rio,Rio
+2015,Kia,Rio,Rio Eco
+2015,Kia,Sedona,Sedona
+2015,Kia,Sedona,Sedona SX
+2015,Kia,Sedona,Sedona SXL
+2015,Kia,Sorento,Sorento AWD
+2015,Kia,Sorento,Sorento FWD
+2015,Kia,Soul,Soul
+2015,Kia,Soul,Soul ECO dynamics
+2015,Kia,Soul,Soul Electric
+2015,Kia,Sportage,Sportage AWD
+2015,Kia,Sportage,Sportage FWD
+2015,Kia,Sportage,Sportage SX AWD
+2015,Kia,Sportage,Sportage SX FWD
+2015,Lamborghini,Aventador,Aventador Coupe
+2015,Lamborghini,Aventador,Aventador Roadster
+2015,Lamborghini,Huracan,Huracan
+2015,Lamborghini,Veneno,Veneno Roadster
+2015,Land Rover,Discovery,Discovery Sport
+2015,Land Rover,LR2,LR2
+2015,Land Rover,LR4,LR4
+2015,Land Rover,Range Rover,Range Rover
+2015,Land Rover,Range Rover,Range Rover Evoque
+2015,Land Rover,Range Rover,Range Rover FFV
+2015,Land Rover,Range Rover,Range Rover L FFV
+2015,Land Rover,Range Rover,Range Rover LWB
+2015,Land Rover,Range Rover,Range Rover Sport
+2015,Land Rover,Range Rover,Range Rover Sport FFV
+2015,Lexus,CT,CT 200h
+2015,Lexus,ES,ES 300h
+2015,Lexus,ES,ES 350
+2015,Lexus,GS,GS 350
+2015,Lexus,GS,GS 350 AWD
+2015,Lexus,GS,GS 450h
+2015,Lexus,GX,GX 460
+2015,Lexus,IS,IS 250
+2015,Lexus,IS,IS 250 AWD
+2015,Lexus,IS,IS 250 C
+2015,Lexus,IS,IS 350
+2015,Lexus,IS,IS 350 AWD
+2015,Lexus,IS,IS 350 C
+2015,Lexus,LS,LS 460
+2015,Lexus,LS,LS 460 AWD
+2015,Lexus,LS,LS 460 L
+2015,Lexus,LS,LS 460 L AWD
+2015,Lexus,LS,LS 600h L
+2015,Lexus,LX,LX 570
+2015,Lexus,NX,NX 200t
+2015,Lexus,NX,NX 200t AWD
+2015,Lexus,NX,NX 200t AWD F Sport
+2015,Lexus,NX,NX 300h
+2015,Lexus,NX,NX 300h AWD
+2015,Lexus,RC,RC 350
+2015,Lexus,RC,RC 350 AWD
+2015,Lexus,RC F,RC F
+2015,Lexus,RX,RX 350
+2015,Lexus,RX,RX 350 AWD
+2015,Lexus,RX,RX 450h
+2015,Lexus,RX,RX 450h AWD
+2015,Lincoln,MKC,MKC AWD
+2015,Lincoln,MKC,MKC FWD
+2015,Lincoln,MKS,MKS AWD
+2015,Lincoln,MKS,MKS FWD
+2015,Lincoln,MKT,MKT AWD
+2015,Lincoln,MKT,MKT FWD
+2015,Lincoln,MKT,MKT Livery AWD
+2015,Lincoln,MKT,MKT Livery FWD
+2015,Lincoln,MKX,MKX AWD
+2015,Lincoln,MKX,MKX FWD
+2015,Lincoln,MKZ,MKZ AWD
+2015,Lincoln,MKZ,MKZ FWD
+2015,Lincoln,MKZ,MKZ Hybrid FWD
+2015,Lincoln,Navigator,Navigator 2WD
+2015,Lincoln,Navigator,Navigator 4WD
+2015,Lincoln,Navigator,Navigator L 2WD
+2015,Lincoln,Navigator,Navigator L 4WD
+2015,Maserati,Ghibli,Ghibli V6
+2015,Maserati,Ghibli,Ghibli V6 SQ4
+2015,Maserati,GranTurismo,GranTurismo
+2015,Maserati,GranTurismo,GranTurismo Convertible
+2015,Maserati,Quattroporte,Quattroporte GTS
+2015,Maserati,Quattroporte,Quattroporte SQ4 V6
+2015,Mazda,3,3 4-Door
+2015,Mazda,3,3 5-Door
+2015,Mazda,5,5
+2015,Mazda,6,6
+2015,Mazda,CX-5,CX-5 2WD
+2015,Mazda,CX-5,CX-5 4WD
+2015,Mazda,CX-9,CX-9 2WD
+2015,Mazda,CX-9,CX-9 4WD
+2015,Mazda,MX-5,MX-5
+2015,McLaren Automotive,650S Coupe,650S Coupe
+2015,McLaren Automotive,650S Spider,650S Spider
+2015,McLaren Automotive,P1,P1
+2015,Mercedes-Benz,B-Class Electric Drive,B-Class Electric Drive
+2015,Mercedes-Benz,C-Class,AMG C63
+2015,Mercedes-Benz,C-Class,AMG C63 S
+2015,Mercedes-Benz,C-Class,C250 Coupe
+2015,Mercedes-Benz,C-Class,C300
+2015,Mercedes-Benz,C-Class,C300 4matic
+2015,Mercedes-Benz,C-Class,C350 4matic Coupe
+2015,Mercedes-Benz,C-Class,C350 Coupe
+2015,Mercedes-Benz,C-Class,C400 4matic
+2015,Mercedes-Benz,C-Class,C63 AMG Coupe
+2015,Mercedes-Benz,CLA-Class,CLA250
+2015,Mercedes-Benz,CLA-Class,CLA250 4matic
+2015,Mercedes-Benz,CLA-Class,CLA45 AMG 4matic
+2015,Mercedes-Benz,CLS-Class,CLS400
+2015,Mercedes-Benz,CLS-Class,CLS400 4matic
+2015,Mercedes-Benz,CLS-Class,CLS550
+2015,Mercedes-Benz,CLS-Class,CLS550 4matic
+2015,Mercedes-Benz,CLS-Class,CLS63 AMG S 4matic
+2015,Mercedes-Benz,E-Class,E350
+2015,Mercedes-Benz,E-Class,E350 4matic
+2015,Mercedes-Benz,E-Class,E350 4matic (wagon)
+2015,Mercedes-Benz,E-Class,E350 Convertible
+2015,Mercedes-Benz,E-Class,E350 Coupe
+2015,Mercedes-Benz,E-Class,E400
+2015,Mercedes-Benz,E-Class,E400 4matic
+2015,Mercedes-Benz,E-Class,E400 4matic (station wagon)
+2015,Mercedes-Benz,E-Class,E400 4matic Coupe
+2015,Mercedes-Benz,E-Class,E400 Convertible
+2015,Mercedes-Benz,E-Class,E400 Coupe
+2015,Mercedes-Benz,E-Class,E400 Hybrid
+2015,Mercedes-Benz,E-Class,E550 Convertible
+2015,Mercedes-Benz,E-Class,E550 Coupe
+2015,Mercedes-Benz,E-Class,E63 AMG 4matic
+2015,Mercedes-Benz,E-Class,E63 AMG S 4matic
+2015,Mercedes-Benz,E-Class,E63 AMG S 4matic (wagon)
+2015,Mercedes-Benz,G-Class,G550
+2015,Mercedes-Benz,G-Class,G63 AMG
+2015,Mercedes-Benz,GL-Class,GL450 4matic
+2015,Mercedes-Benz,GL-Class,GL550 4matic
+2015,Mercedes-Benz,GL-Class,GL63 AMG
+2015,Mercedes-Benz,GLA-Class,GLA250
+2015,Mercedes-Benz,GLA-Class,GLA250 4matic
+2015,Mercedes-Benz,GLA-Class,GLA45 AMG 4matic
+2015,Mercedes-Benz,GLK-Class,GLK250 Bluetec 4matic
+2015,Mercedes-Benz,GLK-Class,GLK350
+2015,Mercedes-Benz,GLK-Class,GLK350 4matic
+2015,Mercedes-Benz,ML-Class,ML250 Bluetec 4matic
+2015,Mercedes-Benz,ML-Class,ML350
+2015,Mercedes-Benz,ML-Class,ML350 4matic
+2015,Mercedes-Benz,ML-Class,ML400 4matic
+2015,Mercedes-Benz,ML-Class,ML63 AMG
+2015,Mercedes-Benz,S-Class,S550
+2015,Mercedes-Benz,S-Class,S550 4matic
+2015,Mercedes-Benz,S-Class,S550 4matic Coupe
+2015,Mercedes-Benz,S-Class,S550e
+2015,Mercedes-Benz,S-Class,S600
+2015,Mercedes-Benz,S-Class,S63 AMG 4matic
+2015,Mercedes-Benz,S-Class,S63 AMG 4matic Coupe
+2015,Mercedes-Benz,S-Class,S65 AMG
+2015,Mercedes-Benz,S-Class,S65 AMG Coupe
+2015,Mercedes-Benz,SL-Class,SL400
+2015,Mercedes-Benz,SL-Class,SL550
+2015,Mercedes-Benz,SL-Class,SL63 AMG
+2015,Mercedes-Benz,SL-Class,SL65 AMG
+2015,Mercedes-Benz,SLK-Class,SLK250
+2015,Mercedes-Benz,SLK-Class,SLK350
+2015,Mercedes-Benz,SLK-Class,SLK55 AMG
+2015,Mercedes-Benz,SLS AMG,SLS AMG GT Coupe
+2015,Mercedes-Benz,SLS AMG,SLS AMG GT Roadster
+2015,MINI,Cooper,Cooper (3-doors)
+2015,MINI,Cooper,Cooper (5-doors)
+2015,MINI,Cooper,Cooper Convertible
+2015,MINI,Cooper,Cooper Coupe
+2015,MINI,Cooper,Cooper S (3-doors)
+2015,MINI,Cooper,Cooper S (5-doors)
+2015,MINI,Cooper,Cooper S Convertible
+2015,MINI,Cooper,Cooper S Coupe
+2015,MINI,Countryman,Cooper Countryman
+2015,MINI,Countryman,Cooper S Countryman
+2015,MINI,Countryman,Cooper S Countryman All4
+2015,MINI,Countryman,JCW Countryman All4
+2015,MINI,John Cooper Works,John Cooper Works Convertible
+2015,MINI,John Cooper Works,John Cooper Works Coupe
+2015,MINI,John Cooper Works,John Cooper Works Hardtop
+2015,MINI,Paceman,Cooper Paceman
+2015,MINI,Paceman,Cooper S Paceman
+2015,MINI,Paceman,Cooper S Paceman All4
+2015,MINI,Paceman,JCW Paceman All4
+2015,MINI,Roadster,Cooper Roadster
+2015,MINI,Roadster,Cooper S Roadster
+2015,MINI,Roadster,John Cooper Works Roadster
+2015,Mitsubishi,Lancer,Lancer
+2015,Mitsubishi,Lancer,Lancer AWD
+2015,Mitsubishi,Lancer,Lancer Evolution
+2015,Mitsubishi,Mirage,Mirage
+2015,Mitsubishi,Outlander,Outlander 2WD
+2015,Mitsubishi,Outlander,Outlander 4WD
+2015,Mitsubishi,Outlander,Outlander Sport 2WD
+2015,Mitsubishi,Outlander,Outlander Sport 4WD
+2015,Mobility Ventures LLC,MV-1,MV-1
+2015,Nissan,370Z,370Z
+2015,Nissan,370Z,370Z Roadster
+2015,Nissan,Altima,Altima
+2015,Nissan,Armada,Armada 2WD
+2015,Nissan,Armada,Armada 4WD
+2015,Nissan,Frontier,Frontier 2WD
+2015,Nissan,Frontier,Frontier 4WD
+2015,Nissan,GT-R,GT-R
+2015,Nissan,Juke,Juke
+2015,Nissan,Juke,Juke AWD
+2015,Nissan,Juke,Juke Nismo RS
+2015,Nissan,Juke,Juke Nismo RS AWD
+2015,Nissan,Leaf,Leaf
+2015,Nissan,Murano,Murano AWD
+2015,Nissan,Murano,Murano FWD
+2015,Nissan,NV200 Cargo Van,NV200 Cargo Van
+2015,Nissan,NV200 NYC Taxi,NV200 NYC Taxi
+2015,Nissan,Pathfinder,Pathfinder 2WD
+2015,Nissan,Pathfinder,Pathfinder 4WD
+2015,Nissan,Pathfinder,Pathfinder 4WD Platinum
+2015,Nissan,Pathfinder,Pathfinder Hybrid 2WD
+2015,Nissan,Pathfinder,Pathfinder Hybrid 4WD
+2015,Nissan,Quest,Quest
+2015,Nissan,Rogue,Rogue AWD
+2015,Nissan,Rogue,Rogue FWD
+2015,Nissan,Rogue,Rogue Select AWD
+2015,Nissan,Rogue,Rogue Select FWD
+2015,Nissan,Sentra,Sentra
+2015,Nissan,Sentra,Sentra FE
+2015,Nissan,Titan,Titan 2WD
+2015,Nissan,Titan,Titan 4WD
+2015,Nissan,Versa,Versa
+2015,Nissan,Xterra,Xterra 2WD
+2015,Nissan,Xterra,Xterra 4WD
+2015,Porsche,911,911 Carrera
+2015,Porsche,911,911 Carrera 4
+2015,Porsche,911,911 Carrera 4 Cabriolet
+2015,Porsche,911,911 Carrera 4 GTS
+2015,Porsche,911,911 Carrera 4 GTS Cabriolet
+2015,Porsche,911,911 Carrera 4S
+2015,Porsche,911,911 Carrera 4S Cabriolet
+2015,Porsche,911,911 Carrera Cabriolet
+2015,Porsche,911,911 Carrera GTS
+2015,Porsche,911,911 Carrera GTS Cabriolet
+2015,Porsche,911,911 Carrera S
+2015,Porsche,911,911 Carrera S Cabriolet
+2015,Porsche,911,911 GT3
+2015,Porsche,911,911 Targa 4
+2015,Porsche,911,911 Targa 4S
+2015,Porsche,911,911 Turbo
+2015,Porsche,911,911 Turbo S
+2015,Porsche,918 Spyder,918 Spyder
+2015,Porsche,Boxster,Boxster
+2015,Porsche,Boxster,Boxster GTS
+2015,Porsche,Boxster,Boxster S
+2015,Porsche,Cayenne,Cayenne Diesel
+2015,Porsche,Cayenne,Cayenne S
+2015,Porsche,Cayenne,Cayenne S e-Hybrid
+2015,Porsche,Cayenne,Cayenne Turbo
+2015,Porsche,Cayman,Cayman
+2015,Porsche,Cayman,Cayman GTS
+2015,Porsche,Cayman,Cayman S
+2015,Porsche,Macan,Macan S
+2015,Porsche,Macan,Macan Turbo
+2015,Porsche,Panamera,Panamera
+2015,Porsche,Panamera,Panamera 4
+2015,Porsche,Panamera,Panamera 4S
+2015,Porsche,Panamera,Panamera 4S Executive
+2015,Porsche,Panamera,Panamera GTS
+2015,Porsche,Panamera,Panamera S
+2015,Porsche,Panamera,Panamera S E-Hybrid
+2015,Porsche,Panamera,Panamera Turbo
+2015,Porsche,Panamera,Panamera Turbo Executive
+2015,Porsche,Panamera,Panamera Turbo S
+2015,Porsche,Panamera,Panamera Turbo S Executive
+2015,Ram,1500,1500 2WD
+2015,Ram,1500,1500 4WD
+2015,Ram,1500,1500 HFE 2WD
+2015,Ram,C/V,C/V Tradesman
+2015,Ram,Promaster City,Promaster City
+2015,Rolls-Royce,Ghost,Ghost
+2015,Rolls-Royce,Ghost,Ghost EWB
+2015,Rolls-Royce,Phantom,Phantom
+2015,Rolls-Royce,Phantom,Phantom Coupe
+2015,Rolls-Royce,Phantom,Phantom Drophead Coupe
+2015,Rolls-Royce,Phantom,Phantom EWB
+2015,Rolls-Royce,Wraith,Wraith
+2015,Roush Performance,Mustang,Stage 3 Mustang
+2015,Scion,FR-S,FR-S
+2015,Scion,iQ,iQ
+2015,Scion,tC,tC
+2015,Scion,xB,xB
+2015,smart,fortwo,fortwo cabriolet
+2015,smart,fortwo,fortwo coupe
+2015,smart,fortwo,fortwo electric drive convertible
+2015,smart,fortwo,fortwo electric drive coupe
+2015,Subaru,BRZ,BRZ
+2015,Subaru,Crosstrek,XV Crosstrek AWD
+2015,Subaru,Crosstrek,XV Crosstrek Hybrid AWD
+2015,Subaru,Forester,Forester AWD
+2015,Subaru,Impreza/Outback Sport,Impreza AWD
+2015,Subaru,Impreza/Outback Sport,Impreza Sport AWD
+2015,Subaru,Impreza/Outback Sport,Impreza Wagon AWD
+2015,Subaru,Legacy/Outback,Legacy AWD
+2015,Subaru,Legacy/Outback,Outback AWD
+2015,Subaru,WRX,WRX
+2015,Tesla,Model S,Model S (60 kW-hr battery pack)
+2015,Tesla,Model S,Model S (85 kW-hr battery pack)
+2015,Tesla,Model S,Model S (90 kW-hr battery pack)
+2015,Tesla,Model S,Model S AWD - 70D
+2015,Tesla,Model S,Model S AWD - 85D
+2015,Tesla,Model S,Model S AWD - 90D
+2015,Tesla,Model S,Model S AWD - P85D
+2015,Tesla,Model S,Model S AWD - P90D
+2015,Toyota,4Runner,4Runner 2WD
+2015,Toyota,4Runner,4Runner 4WD
+2015,Toyota,Avalon,Avalon
+2015,Toyota,Avalon,Avalon Hybrid
+2015,Toyota,Camry,Camry
+2015,Toyota,Camry,Camry Hybrid LE
+2015,Toyota,Camry,Camry Hybrid XLE/SE
+2015,Toyota,Corolla,Corolla
+2015,Toyota,Corolla,Corolla LE Eco
+2015,Toyota,Highlander,Highlander 2WD
+2015,Toyota,Highlander,Highlander AWD
+2015,Toyota,Highlander,Highlander Hybrid AWD
+2015,Toyota,Highlander,Highlander Hybrid AWD LE Plus
+2015,Toyota,Land Cruiser,Land Cruiser Wagon 4WD
+2015,Toyota,Prius,Prius
+2015,Toyota,Prius,Prius Plug-in Hybrid
+2015,Toyota,Prius c,Prius c
+2015,Toyota,Prius v,Prius v
+2015,Toyota,RAV4,RAV4
+2015,Toyota,RAV4,RAV4 AWD
+2015,Toyota,RAV4,RAV4 LE/XLE
+2015,Toyota,RAV4,RAV4 Limited AWD
+2015,Toyota,Sequoia,Sequoia 2WD
+2015,Toyota,Sequoia,Sequoia 4WD
+2015,Toyota,Sequoia,Sequoia 4WD FFV
+2015,Toyota,Sienna,Sienna 2WD
+2015,Toyota,Sienna,Sienna AWD
+2015,Toyota,Tacoma,Tacoma 2WD
+2015,Toyota,Tacoma,Tacoma 4WD
+2015,Toyota,Tundra,Tundra 2WD
+2015,Toyota,Tundra,Tundra 4WD
+2015,Toyota,Tundra,Tundra 4WD FFV
+2015,Toyota,Venza,Venza
+2015,Toyota,Venza,Venza 4WD
+2015,Toyota,Yaris,Yaris
+2015,Volkswagen,Beetle,Beetle
+2015,Volkswagen,Beetle,Beetle Convertible
+2015,Volkswagen,CC,CC
+2015,Volkswagen,CC,CC 4motion
+2015,Volkswagen,Eos,Eos
+2015,Volkswagen,Golf/GTI,e-Golf
+2015,Volkswagen,Golf/GTI,Golf
+2015,Volkswagen,Golf/GTI,Golf R
+2015,Volkswagen,Golf/GTI,Golf SportWagen
+2015,Volkswagen,Golf/GTI,GTI
+2015,Volkswagen,Jetta,Jetta
+2015,Volkswagen,Jetta,Jetta Hybrid
+2015,Volkswagen,Passat,Passat
+2015,Volkswagen,Tiguan,Tiguan
+2015,Volkswagen,Tiguan,Tiguan 4motion
+2015,Volkswagen,Touareg,Touareg
+2015,Volkswagen,Touareg,Touareg Hybrid
+2015,Volvo,S60,S60 AWD
+2015,Volvo,S60,S60 FWD
+2015,Volvo,S60,S60 PoleStar AWD
+2015,Volvo,S80,S80 AWD
+2015,Volvo,S80,S80 FWD
+2015,Volvo,V60,V60 AWD
+2015,Volvo,V60,V60 CC AWD
+2015,Volvo,V60,V60 CC FWD
+2015,Volvo,V60,V60 FWD
+2015,Volvo,V60,V60 PoleStar AWD
+2015,Volvo,XC60,XC60 AWD
+2015,Volvo,XC60,XC60 FWD
+2015,Volvo,XC70,XC70 AWD
+2015,Volvo,XC70,XC70 FWD

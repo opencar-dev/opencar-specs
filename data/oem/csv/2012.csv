@@ -1,0 +1,684 @@
+year,make,model,trim
+2012,Acura,MDX,MDX 4WD
+2012,Acura,RDX,RDX 2WD
+2012,Acura,RDX,RDX 4WD
+2012,Acura,RL,RL
+2012,Acura,TL,TL 2WD
+2012,Acura,TL,TL 4WD
+2012,Acura,TSX,TSX
+2012,Acura,TSX,TSX Wagon
+2012,Acura,ZDX,ZDX 4WD
+2012,Aston Martin,DB9,DB9
+2012,Aston Martin,DBS,DBS
+2012,Aston Martin,Rapide,Rapide
+2012,Aston Martin,Vantage,V12 Vantage
+2012,Aston Martin,Vantage,V8 Vantage
+2012,Aston Martin,Vantage,V8 Vantage S
+2012,Aston Martin,Virage,Virage
+2012,Audi,A3,A3
+2012,Audi,A3,A3 quattro
+2012,Audi,A4,A4
+2012,Audi,A4,A4 Avant quattro
+2012,Audi,A4,A4 quattro
+2012,Audi,A5,A5 Cabriolet
+2012,Audi,A5,A5 Cabriolet quattro
+2012,Audi,A5,A5 quattro
+2012,Audi,A6,A6
+2012,Audi,A6,A6 quattro
+2012,Audi,A7,A7 quattro
+2012,Audi,A8,A8
+2012,Audi,A8,A8 L
+2012,Audi,Q5,Q5
+2012,Audi,Q7,Q7
+2012,Audi,R8,R8
+2012,Audi,R8 Spyder,R8 Spyder
+2012,Audi,S4,S4
+2012,Audi,S5,S5
+2012,Audi,S5,S5 Cabriolet
+2012,Audi,TT Coupe,TT Coupe quattro
+2012,Audi,TT Coupe,TT RS Coupe
+2012,Audi,TT Roadster,TT Roadster quattro
+2012,Azure Dynamics,Transit Connect Electric Van/Wagon,Transit Connect Electric Van/Wagon
+2012,Bentley,Continental,Continental GT
+2012,Bentley,Continental,Continental GTC
+2012,Bentley,Continental Flying Spur,Continental Flying Spur
+2012,Bentley,Continental Supersports,Continental Supersports
+2012,Bentley,Continental Supersports Convertible,Continental Supersports Convertible
+2012,Bentley,Mulsanne,Mulsanne
+2012,BMW,1 Series,128ci Convertible
+2012,BMW,1 Series,128i
+2012,BMW,1 Series,135i
+2012,BMW,1 Series,135i Convertible
+2012,BMW,3 Series,328ci Convertible
+2012,BMW,3 Series,328i
+2012,BMW,3 Series,328i Coupe
+2012,BMW,3 Series,328i Coupe xDrive
+2012,BMW,3 Series,328i Sport Wagon
+2012,BMW,3 Series,328i xDrive Sport Wagon
+2012,BMW,3 Series,335ci Convertible
+2012,BMW,3 Series,335i
+2012,BMW,3 Series,335i Coupe
+2012,BMW,3 Series,335i Coupe xDrive
+2012,BMW,3 Series,335is Convertible
+2012,BMW,3 Series,335is Coupe
+2012,BMW,5 Series,528i
+2012,BMW,5 Series,528i xDrive
+2012,BMW,5 Series,535i
+2012,BMW,5 Series,535i Gran Turismo
+2012,BMW,5 Series,535i xDrive
+2012,BMW,5 Series,535i xDrive Gran Turismo
+2012,BMW,5 Series,550i
+2012,BMW,5 Series,550i Gran Turismo
+2012,BMW,5 Series,550i xDrive
+2012,BMW,5 Series,550i xDrive Gran Turismo
+2012,BMW,5 Series,ActiveHybrid 5
+2012,BMW,6 Series,640i Convertible
+2012,BMW,6 Series,640i Coupe
+2012,BMW,6 Series,650i Convertible
+2012,BMW,6 Series,650i Convertible xDrive
+2012,BMW,6 Series,650i Coupe
+2012,BMW,6 Series,650i Coupe xDrive
+2012,BMW,7 Series,740i
+2012,BMW,7 Series,740Li
+2012,BMW,7 Series,750i
+2012,BMW,7 Series,750i xDrive
+2012,BMW,7 Series,750Li
+2012,BMW,7 Series,750Li xDrive
+2012,BMW,7 Series,760Li
+2012,BMW,7 Series,ActiveHybrid 7
+2012,BMW,7 Series,ActiveHybrid 7L
+2012,BMW,7 Series,Alpina B7 LWB
+2012,BMW,7 Series,Alpina B7 LWB xDrive
+2012,BMW,7 Series,Alpina B7 SWB
+2012,BMW,7 Series,Alpina B7 SWB xDrive
+2012,BMW,M,M3 Convertible
+2012,BMW,M,M3 Coupe
+2012,BMW,M,M6 Convertible
+2012,BMW,X3,X3 xDrive28i
+2012,BMW,X3,X3 xDrive35i
+2012,BMW,X5,X5 xDrive35d
+2012,BMW,X5,X5 xDrive35i
+2012,BMW,X5,X5 xDrive50i
+2012,BMW,X5,X5 xDriveM
+2012,BMW,X6,X6 xDrive35i
+2012,BMW,X6,X6 xDrive50i
+2012,BMW,X6,X6 xDriveM
+2012,BMW,Z4,Z4 sDrive28i
+2012,BMW,Z4,Z4 sDrive35i
+2012,BMW,Z4,Z4 sDrive35is
+2012,Bugatti,Veyron,Veyron
+2012,Buick,Enclave,Enclave AWD
+2012,Buick,Enclave,Enclave FWD
+2012,Buick,LaCrosse,LaCrosse
+2012,Buick,LaCrosse,LaCrosse AWD
+2012,Buick,LaCrosse,LaCrosse eAssist
+2012,Buick,Regal,Regal
+2012,Buick,Regal,Regal eAssist
+2012,Buick,Verano,Verano
+2012,BYD,e6,e6
+2012,Cadillac,CTS,CTS
+2012,Cadillac,CTS,CTS AWD
+2012,Cadillac,CTS,CTS Wagon
+2012,Cadillac,CTS,CTS Wagon AWD
+2012,Cadillac,Escalade,Escalade 2WD
+2012,Cadillac,Escalade,Escalade AWD
+2012,Cadillac,Escalade,Escalade ESV 2WD
+2012,Cadillac,Escalade,Escalade ESV AWD
+2012,Cadillac,Escalade,Escalade Ext AWD
+2012,Cadillac,Escalade,Escalade Hybrid 2WD
+2012,Cadillac,Escalade,Escalade Hybrid 4WD
+2012,Cadillac,SRX,SRX 2WD
+2012,Cadillac,SRX,SRX AWD
+2012,Chevrolet,Avalanche,Avalanche 1500 2WD
+2012,Chevrolet,Avalanche,Avalanche 1500 4WD
+2012,Chevrolet,Camaro,Camaro
+2012,Chevrolet,Captiva,Captiva AWD
+2012,Chevrolet,Captiva,Captiva FWD
+2012,Chevrolet,Colorado,Colorado 2WD
+2012,Chevrolet,Colorado,Colorado 4WD
+2012,Chevrolet,Colorado,Colorado Cab Chassis inc 2WD
+2012,Chevrolet,Colorado,Colorado Cab Chassis inc 4WD
+2012,Chevrolet,Colorado,Colorado Crew Cab 2WD
+2012,Chevrolet,Colorado,Colorado Crew Cab 4WD
+2012,Chevrolet,Corvette,Corvette
+2012,Chevrolet,Cruze,Cruze
+2012,Chevrolet,Cruze,Cruze Eco
+2012,Chevrolet,Equinox,Equinox AWD
+2012,Chevrolet,Equinox,Equinox FWD
+2012,Chevrolet,Express Cargo,Express 1500 2WD Cargo
+2012,Chevrolet,Express Cargo,Express 1500 2WD Conversion Cargo
+2012,Chevrolet,Express Cargo,Express 1500 AWD Cargo
+2012,Chevrolet,Express Cargo,Express 1500 AWD Conversion Cargo
+2012,Chevrolet,Express Cargo,Express 2500 2WD Cargo
+2012,Chevrolet,Express Cargo,Express 2500 2WD Conversion Cargo
+2012,Chevrolet,Express Cargo,Express 3500 2WD Cargo
+2012,Chevrolet,Express Passenger,Express 1500 2WD Passenger
+2012,Chevrolet,Express Passenger,Express 1500 AWD Passenger
+2012,Chevrolet,Express Passenger,Express 2500 2WD Passenger
+2012,Chevrolet,Express Passenger,Express 3500 2WD Passenger
+2012,Chevrolet,Impala,Impala
+2012,Chevrolet,Malibu,Malibu
+2012,Chevrolet,Silverado,Silverado 15 Hybrid 2WD
+2012,Chevrolet,Silverado,Silverado 15 Hybrid 4WD
+2012,Chevrolet,Silverado,Silverado C15 2WD
+2012,Chevrolet,Silverado,Silverado C15 XFE 2WD
+2012,Chevrolet,Silverado,Silverado K15 4WD
+2012,Chevrolet,Sonic,Sonic
+2012,Chevrolet,Sonic,Sonic 5
+2012,Chevrolet,Suburban,Suburban 1500 2WD
+2012,Chevrolet,Suburban,Suburban 1500 4WD
+2012,Chevrolet,Suburban,Suburban 2500 2WD
+2012,Chevrolet,Suburban,Suburban 2500 4WD
+2012,Chevrolet,Tahoe,Tahoe 1500 2WD
+2012,Chevrolet,Tahoe,Tahoe 1500 4WD
+2012,Chevrolet,Tahoe,Tahoe Hybrid 2WD
+2012,Chevrolet,Tahoe,Tahoe Hybrid 4WD
+2012,Chevrolet,Traverse,Traverse AWD
+2012,Chevrolet,Traverse,Traverse FWD
+2012,Chevrolet,Volt,Volt
+2012,Chrysler,200,200
+2012,Chrysler,200,200 Convertible
+2012,Chrysler,300,300
+2012,Chrysler,300,300 AWD
+2012,Chrysler,300 SRT8,300 SRT8
+2012,Chrysler,Town and Country,Town and Country
+2012,CODA Automotive,CODA,CODA
+2012,Dodge,Avenger,Avenger
+2012,Dodge,Caliber,Caliber
+2012,Dodge,Challenger,Challenger
+2012,Dodge,Challenger,Challenger SRT8
+2012,Dodge,Charger,Charger
+2012,Dodge,Charger,Charger AWD
+2012,Dodge,Charger,Charger SRT8
+2012,Dodge,Durango,Durango 2WD
+2012,Dodge,Durango,Durango 4WD
+2012,Dodge,Grand Caravan,Grand Caravan
+2012,Dodge,Journey,Journey AWD
+2012,Dodge,Journey,Journey FWD
+2012,Dodge,Ram 1500 Pickup,Ram 1500 Pickup 2WD
+2012,Dodge,Ram 1500 Pickup,Ram 1500 Pickup 4WD
+2012,Ferrari,458 Italia,458 Italia Coupe
+2012,Ferrari,458 Italia,458 Italia Spider
+2012,Ferrari,California,California
+2012,Ferrari,FF,FF
+2012,Fiat,500,500
+2012,Fiat,500,500 Abarth
+2012,Fiat,500,500 Cabrio
+2012,Fisker,Karma,Karma
+2012,Ford,E150 Van,E150 Van FFV
+2012,Ford,E150 Wagon,E150 Wagon FFV
+2012,Ford,E250 Van,E250 Van FFV
+2012,Ford,E350 Van,E350 Van
+2012,Ford,E350 Van,E350 Van FFV
+2012,Ford,E350 Wagon,E350 Wagon
+2012,Ford,E350 Wagon,E350 Wagon FFV
+2012,Ford,Edge,Edge AWD
+2012,Ford,Edge,Edge FWD
+2012,Ford,Escape,Escape AWD
+2012,Ford,Escape,Escape AWD FFV
+2012,Ford,Escape,Escape FWD
+2012,Ford,Escape,Escape FWD FFV
+2012,Ford,Escape,Escape Hybrid AWD
+2012,Ford,Escape,Escape Hybrid FWD
+2012,Ford,Expedition,Expedition 2WD FFV
+2012,Ford,Expedition,Expedition 4WD FFV
+2012,Ford,Explorer,Explorer AWD
+2012,Ford,Explorer,Explorer FWD
+2012,Ford,F150,F150 Pickup 2WD
+2012,Ford,F150,F150 Pickup 2WD FFV
+2012,Ford,F150,F150 Pickup 4WD
+2012,Ford,F150,F150 Pickup 4WD FFV
+2012,Ford,F150,F150 Raptor Pickup 4WD
+2012,Ford,Fiesta,Fiesta FWD
+2012,Ford,Fiesta,Fiesta SFE FWD
+2012,Ford,Flex,Flex AWD
+2012,Ford,Flex,Flex FWD
+2012,Ford,Focus,Focus Electric
+2012,Ford,Focus,Focus FWD
+2012,Ford,Focus,Focus FWD FFV
+2012,Ford,Focus,Focus SFE FWD
+2012,Ford,Focus,Focus SFE FWD FFV
+2012,Ford,Fusion,Fusion AWD
+2012,Ford,Fusion,Fusion AWD FFV
+2012,Ford,Fusion,Fusion FWD
+2012,Ford,Fusion,Fusion FWD FFV
+2012,Ford,Fusion,Fusion Hybrid FWD
+2012,Ford,Fusion,Fusion S FWD
+2012,Ford,Mustang,Mustang
+2012,Ford,Mustang,Mustang Convertible
+2012,Ford,Taurus,Taurus AWD
+2012,Ford,Taurus,Taurus FWD
+2012,Ford,Transit Connect,Transit Connect Van
+2012,Ford,Transit Connect,Transit Connect Wagon FWD
+2012,GMC,Acadia,Acadia AWD
+2012,GMC,Acadia,Acadia FWD
+2012,GMC,Canyon,Canyon 2WD
+2012,GMC,Canyon,Canyon 4WD
+2012,GMC,Canyon,Canyon Cab Chassis Inc 2WD
+2012,GMC,Canyon,Canyon Cab Chassis Inc 4WD
+2012,GMC,Canyon,Canyon Crew Cab 2WD
+2012,GMC,Canyon,Canyon Crew Cab 4WD
+2012,GMC,Savana Cargo,Savana 1500  AWD (cargo)
+2012,GMC,Savana Cargo,Savana 1500  AWD Conversion (cargo)
+2012,GMC,Savana Cargo,Savana 1500 2WD (cargo)
+2012,GMC,Savana Cargo,Savana 1500 2WD Conversion (cargo)
+2012,GMC,Savana Cargo,Savana 2500 2WD (cargo)
+2012,GMC,Savana Cargo,Savana 2500 2WD Conversion (cargo)
+2012,GMC,Savana Cargo,Savana 3500 2WD (cargo)
+2012,GMC,Savana Passenger,Savana 1500 2WD (Passenger)
+2012,GMC,Savana Passenger,Savana 1500 AWD (Passenger)
+2012,GMC,Savana Passenger,Savana 2500 2WD (Passenger)
+2012,GMC,Savana Passenger,Savana 3500 2WD (Passenger)
+2012,GMC,Sierra,Sierra 15 Hybrid 2WD
+2012,GMC,Sierra,Sierra 15 Hybrid 4WD
+2012,GMC,Sierra,Sierra C15 2WD
+2012,GMC,Sierra,Sierra C15 XFE 2WD
+2012,GMC,Sierra,Sierra K15 4WD
+2012,GMC,Sierra,Sierra K15 AWD
+2012,GMC,Terrain,Terrain AWD
+2012,GMC,Terrain,Terrain FWD
+2012,GMC,Yukon,Yukon 1500 2WD
+2012,GMC,Yukon,Yukon 1500 4WD
+2012,GMC,Yukon,Yukon 1500 Hybrid 2WD
+2012,GMC,Yukon,Yukon 1500 Hybrid 4WD
+2012,GMC,Yukon,Yukon Denali 1500 AWD
+2012,GMC,Yukon,Yukon Denali 1500 Hybrid 4WD
+2012,GMC,Yukon,Yukon XL 1500 2WD
+2012,GMC,Yukon,Yukon XL 1500 4WD
+2012,GMC,Yukon,Yukon XL 1500 AWD
+2012,GMC,Yukon,Yukon XL 2500 2WD
+2012,GMC,Yukon,Yukon XL 2500 4WD
+2012,Honda,Accord,Accord
+2012,Honda,Accord,Accord Coupe
+2012,Honda,Civic,Civic
+2012,Honda,Civic,Civic HF
+2012,Honda,Civic,Civic Hybrid
+2012,Honda,Civic,Civic Natural Gas
+2012,Honda,CR-V,CR-V 2WD
+2012,Honda,CR-V,CR-V 4WD
+2012,Honda,CR-Z,CR-Z
+2012,Honda,Crosstour,Crosstour 2WD
+2012,Honda,Crosstour,Crosstour 4WD
+2012,Honda,Fit,Fit
+2012,Honda,Insight,Insight
+2012,Honda,Odyssey,Odyssey
+2012,Honda,Pilot,Pilot 2WD
+2012,Honda,Pilot,Pilot 4WD
+2012,Honda,Ridgeline,Ridgeline Truck 4WD
+2012,Hyundai,Accent,Accent
+2012,Hyundai,Azera,Azera
+2012,Hyundai,Elantra,Elantra
+2012,Hyundai,Elantra,Elantra Touring
+2012,Hyundai,Equus,Equus
+2012,Hyundai,Genesis,Genesis
+2012,Hyundai,Genesis,Genesis Coupe
+2012,Hyundai,Genesis,Genesis R-Spec
+2012,Hyundai,Santa Fe,Santa Fe 2WD
+2012,Hyundai,Santa Fe,Santa Fe 4WD
+2012,Hyundai,Sonata,Sonata
+2012,Hyundai,Sonata,Sonata Hybrid
+2012,Hyundai,Tucson,Tucson 2WD
+2012,Hyundai,Tucson,Tucson 4WD
+2012,Hyundai,Veloster,Veloster
+2012,Hyundai,Veracruz,Veracruz 2WD
+2012,Hyundai,Veracruz,Veracruz 4WD
+2012,Infiniti,EX35,EX35
+2012,Infiniti,EX35,EX35 AWD
+2012,Infiniti,FX35,FX35 AWD
+2012,Infiniti,FX35,FX35 RWD
+2012,Infiniti,FX50,FX50 AWD
+2012,Infiniti,G25,G25
+2012,Infiniti,G25,G25x
+2012,Infiniti,G37,G37
+2012,Infiniti,G37,G37 Convertible
+2012,Infiniti,G37,G37 Coupe
+2012,Infiniti,G37,G37x
+2012,Infiniti,G37,G37x Coupe
+2012,Infiniti,M35,M35h
+2012,Infiniti,M37,M37
+2012,Infiniti,M37,M37x
+2012,Infiniti,M56,M56
+2012,Infiniti,M56,M56x
+2012,Infiniti,QX56,QX56 2WD
+2012,Infiniti,QX56,QX56 4WD
+2012,Jaguar,XF,XF
+2012,Jaguar,XJ,XJ
+2012,Jaguar,XJ,XJ LWB
+2012,Jaguar,XK,XK
+2012,Jaguar,XK,XK Convertible
+2012,Jeep,Compass,Compass 2WD
+2012,Jeep,Compass,Compass 4WD
+2012,Jeep,Grand Cherokee,Grand Cherokee 2WD
+2012,Jeep,Grand Cherokee,Grand Cherokee 4WD
+2012,Jeep,Grand Cherokee,Grand Cherokee SRT8 4WD
+2012,Jeep,Liberty,Liberty 2WD
+2012,Jeep,Liberty,Liberty 4WD
+2012,Jeep,Patriot,Patriot 2WD
+2012,Jeep,Patriot,Patriot 4WD
+2012,Jeep,Wrangler,Wrangler 4WD
+2012,Jeep,Wrangler,Wrangler Unlimited 4WD
+2012,Kia,Forte,Forte
+2012,Kia,Forte,Forte Eco
+2012,Kia,Forte,Forte Koup
+2012,Kia,Optima,Optima
+2012,Kia,Optima,Optima Hybrid
+2012,Kia,Rio,Rio
+2012,Kia,Rondo,Rondo
+2012,Kia,Sedona,Sedona
+2012,Kia,Sorento,Sorento 2WD
+2012,Kia,Sorento,Sorento 4WD
+2012,Kia,Soul,Soul
+2012,Kia,Soul,Soul Eco
+2012,Kia,Sportage,Sportage 2WD
+2012,Kia,Sportage,Sportage 4WD
+2012,Lamborghini,Aventador,Aventador Coupe
+2012,Lamborghini,Gallardo,Gallardo Coupe
+2012,Lamborghini,Gallardo,Gallardo Spyder
+2012,Land Rover,LR2,LR2
+2012,Land Rover,LR4,LR4
+2012,Land Rover,Range Rover,Range Rover
+2012,Land Rover,Range Rover,Range Rover Evoque
+2012,Land Rover,Range Rover,Range Rover Sport
+2012,Lexus,CT,CT 200h
+2012,Lexus,ES,ES 350
+2012,Lexus,GX,GX 460
+2012,Lexus,HS,HS 250h
+2012,Lexus,IS,IS 250 AWD
+2012,Lexus,IS,IS 250/IS 250C
+2012,Lexus,IS,IS 350 AWD
+2012,Lexus,IS,IS 350/IS 350C
+2012,Lexus,IS F,IS F
+2012,Lexus,LFA,LFA
+2012,Lexus,LS,LS 460
+2012,Lexus,LS,LS 460 AWD
+2012,Lexus,LS,LS 460 L
+2012,Lexus,LS,LS 460 L AWD
+2012,Lexus,LS,LS 600h L
+2012,Lexus,RX,RX 350
+2012,Lexus,RX,RX 350 AWD
+2012,Lexus,RX,RX 450h
+2012,Lexus,RX,RX 450h AWD
+2012,Lincoln,MKS,MKS AWD
+2012,Lincoln,MKS,MKS FWD
+2012,Lincoln,MKT,MKT AWD
+2012,Lincoln,MKT,MKT FWD
+2012,Lincoln,MKX,MKX AWD
+2012,Lincoln,MKX,MKX FWD
+2012,Lincoln,MKZ,MKZ AWD
+2012,Lincoln,MKZ,MKZ FWD
+2012,Lincoln,MKZ,MKZ Hybrid FWD
+2012,Lincoln,Navigator,Navigator 2WD FFV
+2012,Lincoln,Navigator,Navigator 4WD FFV
+2012,Lotus,Evora,Evora
+2012,Maserati,GranTurismo,GranTurismo
+2012,Maserati,GranTurismo,GranTurismo Convertible
+2012,Maserati,Quattroporte,Quattroporte
+2012,Maybach,57,57
+2012,Maybach,57,57S
+2012,Maybach,62,62
+2012,Maybach,62,62S
+2012,Maybach,Landaulet,Landaulet
+2012,Mazda,2,2
+2012,Mazda,3,3
+2012,Mazda,3,3 DI 4-Door
+2012,Mazda,3,3 DI 5-Door
+2012,Mazda,5,5
+2012,Mazda,6,6
+2012,Mazda,CX-7,CX-7 2WD
+2012,Mazda,CX-7,CX-7 4WD
+2012,Mazda,CX-9,CX-9 2WD
+2012,Mazda,CX-9,CX-9 4WD
+2012,Mazda,MX-5,MX-5
+2012,Mazda,Speed 3,Speed 3
+2012,McLaren Automotive,MP4-12C Coupe,MP4-12C Coupe
+2012,Mercedes-Benz,C-Class,C250
+2012,Mercedes-Benz,C-Class,C250 Coupe
+2012,Mercedes-Benz,C-Class,C300 4matic
+2012,Mercedes-Benz,C-Class,C350
+2012,Mercedes-Benz,C-Class,C350 4matic Coupe
+2012,Mercedes-Benz,C-Class,C350 Coupe
+2012,Mercedes-Benz,C-Class,C63 AMG
+2012,Mercedes-Benz,C-Class,C63 AMG Black Series Coupe
+2012,Mercedes-Benz,C-Class,C63 AMG Coupe
+2012,Mercedes-Benz,CL-Class,CL550 4matic
+2012,Mercedes-Benz,CL-Class,CL600
+2012,Mercedes-Benz,CL-Class,CL63 AMG
+2012,Mercedes-Benz,CL-Class,CL65 AMG
+2012,Mercedes-Benz,CLS-Class,CLS550
+2012,Mercedes-Benz,CLS-Class,CLS550 4matic
+2012,Mercedes-Benz,CLS-Class,CLS63 AMG
+2012,Mercedes-Benz,E-Class,E350
+2012,Mercedes-Benz,E-Class,E350 4matic
+2012,Mercedes-Benz,E-Class,E350 4matic (wagon)
+2012,Mercedes-Benz,E-Class,E350 4matic Coupe
+2012,Mercedes-Benz,E-Class,E350 Convertible
+2012,Mercedes-Benz,E-Class,E350 Coupe
+2012,Mercedes-Benz,E-Class,E550 4matic
+2012,Mercedes-Benz,E-Class,E550 Convertible
+2012,Mercedes-Benz,E-Class,E550 Coupe
+2012,Mercedes-Benz,E-Class,E63 AMG
+2012,Mercedes-Benz,E-Class,E63 AMG (wagon)
+2012,Mercedes-Benz,G-Class,G550
+2012,Mercedes-Benz,GL-Class,GL450 4matic
+2012,Mercedes-Benz,GL-Class,GL550 4matic
+2012,Mercedes-Benz,GLK-Class,GLK350
+2012,Mercedes-Benz,GLK-Class,GLK350 4matic
+2012,Mercedes-Benz,ML-Class,ML350 4matic
+2012,Mercedes-Benz,ML-Class,ML550 4matic
+2012,Mercedes-Benz,ML-Class,ML63 AMG
+2012,Mercedes-Benz,R-Class,R350 4matic
+2012,Mercedes-Benz,S-Class,S400 Hybrid
+2012,Mercedes-Benz,S-Class,S550
+2012,Mercedes-Benz,S-Class,S550 4matic
+2012,Mercedes-Benz,S-Class,S600
+2012,Mercedes-Benz,S-Class,S63 AMG
+2012,Mercedes-Benz,S-Class,S65 AMG
+2012,Mercedes-Benz,SL-Class,SL550
+2012,Mercedes-Benz,SL-Class,SL63 AMG
+2012,Mercedes-Benz,SLK-Class,SLK250
+2012,Mercedes-Benz,SLK-Class,SLK350
+2012,Mercedes-Benz,SLK-Class,SLK55 AMG
+2012,Mercedes-Benz,SLS AMG,SLS AMG
+2012,Mercedes-Benz,SLS AMG,SLS AMG Roadster
+2012,MINI,Clubman,Cooper Clubman
+2012,MINI,Clubman,Cooper S Clubman
+2012,MINI,Clubman,John Cooper Works Clubman
+2012,MINI,Cooper,Cooper
+2012,MINI,Cooper,Cooper Convertible
+2012,MINI,Cooper,Cooper Coupe
+2012,MINI,Cooper,Cooper S
+2012,MINI,Cooper,Cooper S Convertible
+2012,MINI,Cooper,Cooper S Coupe
+2012,MINI,Countryman,Cooper Countryman
+2012,MINI,Countryman,Cooper S Countryman
+2012,MINI,Countryman,Cooper S Countryman All4
+2012,MINI,John Cooper Works,John Cooper Works
+2012,MINI,John Cooper Works,John Cooper Works Convertible
+2012,MINI,John Cooper Works,John Cooper Works Coupe
+2012,MINI,Roadster,Cooper Roadster
+2012,MINI,Roadster,Cooper S Roadster
+2012,MINI,Roadster,John Cooper Works Roadster
+2012,Mitsubishi,Eclipse,Eclipse
+2012,Mitsubishi,Eclipse,Eclipse Spyder
+2012,Mitsubishi,Galant,Galant
+2012,Mitsubishi,i-MiEV,i-MiEV
+2012,Mitsubishi,Lancer,Lancer
+2012,Mitsubishi,Lancer,Lancer AWD
+2012,Mitsubishi,Lancer,Lancer Evolution
+2012,Mitsubishi,Lancer,Lancer Sportback
+2012,Mitsubishi,Outlander,Outlander 2WD
+2012,Mitsubishi,Outlander,Outlander 4WD
+2012,Mitsubishi,Outlander,Outlander Sport 2WD
+2012,Mitsubishi,Outlander,Outlander Sport 4WD
+2012,Nissan,370Z,370Z
+2012,Nissan,370Z,370Z Roadster
+2012,Nissan,Altima,Altima
+2012,Nissan,Altima,Altima Coupe
+2012,Nissan,Armada,Armada 2WD
+2012,Nissan,Armada,Armada 4WD
+2012,Nissan,Cube,Cube
+2012,Nissan,Frontier,Frontier 2WD
+2012,Nissan,Frontier,Frontier 4WD
+2012,Nissan,GT-R,GT-R
+2012,Nissan,Juke,Juke
+2012,Nissan,Juke,Juke AWD
+2012,Nissan,Leaf,Leaf
+2012,Nissan,Maxima,Maxima
+2012,Nissan,Murano,Murano AWD
+2012,Nissan,Murano,Murano CrossCabriolet
+2012,Nissan,Murano,Murano FWD
+2012,Nissan,Pathfinder,Pathfinder 2WD
+2012,Nissan,Pathfinder,Pathfinder 4WD
+2012,Nissan,Quest,Quest
+2012,Nissan,Rogue,Rogue AWD
+2012,Nissan,Rogue,Rogue FWD
+2012,Nissan,Sentra,Sentra
+2012,Nissan,Titan,Titan 2WD
+2012,Nissan,Titan,Titan 4WD
+2012,Nissan,Versa,Versa
+2012,Nissan,Xterra,Xterra 2WD
+2012,Nissan,Xterra,Xterra 4WD
+2012,Porsche,911,911 C4 GTS
+2012,Porsche,911,911 C4 GTS Cabriolet
+2012,Porsche,911,911 Carrera
+2012,Porsche,911,911 Carrera 4
+2012,Porsche,911,911 Carrera 4 Cabriolet
+2012,Porsche,911,911 Carrera 4 Targa
+2012,Porsche,911,911 Carrera 4S
+2012,Porsche,911,911 Carrera 4S Cabriolet
+2012,Porsche,911,911 Carrera 4S Targa
+2012,Porsche,911,911 Carrera Cabriolet
+2012,Porsche,911,911 Carrera S
+2012,Porsche,911,911 Carrera S Cabriolet
+2012,Porsche,911,911 GTS
+2012,Porsche,911,911 GTS Cabriolet
+2012,Porsche,911,911 Speedster
+2012,Porsche,911,911 Turbo Cabriolet
+2012,Porsche,911,911 Turbo Coupe
+2012,Porsche,911,911 Turbo S Cabriolet
+2012,Porsche,911,911 Turbo S Coupe
+2012,Porsche,Boxster,Boxster
+2012,Porsche,Boxster,Boxster S
+2012,Porsche,Boxster,Boxster Spyder
+2012,Porsche,Cayenne,Cayenne
+2012,Porsche,Cayenne,Cayenne S
+2012,Porsche,Cayenne,Cayenne S Hybrid
+2012,Porsche,Cayenne,Cayenne Turbo
+2012,Porsche,Cayman,Cayman
+2012,Porsche,Cayman,Cayman R
+2012,Porsche,Cayman,Cayman S
+2012,Porsche,New 911 Carrera,New 911 Carrera
+2012,Porsche,New 911 Carrera,New 911 Carrera Cabriolet
+2012,Porsche,New 911 Carrera,New 911 Carrera S
+2012,Porsche,New 911 Carrera,New 911 Carrera S Cabriolet
+2012,Porsche,Panamera,Panamera
+2012,Porsche,Panamera,Panamera 4
+2012,Porsche,Panamera,Panamera 4S
+2012,Porsche,Panamera,Panamera S
+2012,Porsche,Panamera,Panamera S Hybrid
+2012,Porsche,Panamera,Panamera Turbo
+2012,Porsche,Panamera,Panamera Turbo S
+2012,Ram,C/V,C/V Cargo Van
+2012,Rolls-Royce,Ghost,Ghost
+2012,Rolls-Royce,Ghost,Ghost EWB
+2012,Rolls-Royce,Phantom,Phantom
+2012,Rolls-Royce,Phantom,Phantom Coupe
+2012,Rolls-Royce,Phantom,Phantom Drophead Coupe
+2012,Rolls-Royce,Phantom,Phantom EWB
+2012,Roush Performance,Mustang,Stage 3 Mustang
+2012,Saab,9-3,9-3 Convertible
+2012,Saab,9-3,9-3 Sedan AWD
+2012,Saab,9-3,9-3 Sport Sedan
+2012,Saab,9-3,9-3 SportCombi
+2012,Saab,9-3,9-3X SportCombi AWD
+2012,Saab,9-4,9-4X AWD
+2012,Saab,9-4,9-4X FWD
+2012,Saab,9-5,9-5 Sedan
+2012,Saab,9-5,9-5 Sedan AWD
+2012,Scion,iQ,iQ
+2012,Scion,tC,tC
+2012,Scion,xB,xB
+2012,Scion,xD,xD
+2012,smart,fortwo,fortwo cabriolet
+2012,smart,fortwo,fortwo coupe
+2012,Subaru,Forester,Forester AWD
+2012,Subaru,Impreza/Outback Sport,Impreza AWD
+2012,Subaru,Impreza/Outback Sport,Impreza Wagon/Outback Sport AWD
+2012,Subaru,Legacy/Outback,Legacy AWD
+2012,Subaru,Legacy/Outback,Outback Wagon AWD
+2012,Subaru,Tribeca,Tribeca AWD
+2012,Suzuki,Equator,Equator 2WD
+2012,Suzuki,Equator,Equator 4WD
+2012,Suzuki,Grand Vitara,Grand Vitara
+2012,Suzuki,Grand Vitara,Grand Vitara 4WD
+2012,Suzuki,Kizashi,Kizashi
+2012,Suzuki,Kizashi,Kizashi AWD
+2012,Suzuki,Kizashi,Kizashi S
+2012,Suzuki,Kizashi,Kizashi S AWD
+2012,Suzuki,SX4,SX4
+2012,Suzuki,SX4,SX4 AWD
+2012,Suzuki,SX4,SX4 Sedan
+2012,Suzuki,SX4,SX4 Sport
+2012,Tesla,Model S,Model S
+2012,Toyota,4Runner,4Runner 2WD
+2012,Toyota,4Runner,4Runner 4WD
+2012,Toyota,Avalon,Avalon
+2012,Toyota,Camry,Camry
+2012,Toyota,Camry,Camry Hybrid LE
+2012,Toyota,Camry,Camry Hybrid XLE
+2012,Toyota,Corolla,Corolla
+2012,Toyota,FJ Cruiser,FJ Cruiser 2WD
+2012,Toyota,FJ Cruiser,FJ Cruiser 4WD
+2012,Toyota,Highlander,Highlander 2WD
+2012,Toyota,Highlander,Highlander 4WD
+2012,Toyota,Highlander,Highlander Hybrid 4WD
+2012,Toyota,Matrix,Matrix
+2012,Toyota,Prius,Prius
+2012,Toyota,Prius,Prius Plug-in Hybrid
+2012,Toyota,Prius c,Prius c
+2012,Toyota,Prius v,Prius v
+2012,Toyota,RAV4,RAV4 2WD
+2012,Toyota,RAV4,RAV4 4WD
+2012,Toyota,RAV4,RAV4 EV
+2012,Toyota,Sequoia,Sequoia 2WD
+2012,Toyota,Sequoia,Sequoia 4WD
+2012,Toyota,Sequoia,Sequoia 4WD FFV
+2012,Toyota,Sienna,Sienna 2WD
+2012,Toyota,Sienna,Sienna AWD
+2012,Toyota,Tacoma,Tacoma 2WD
+2012,Toyota,Tacoma,Tacoma 4WD
+2012,Toyota,Tundra,Tundra 2WD
+2012,Toyota,Tundra,Tundra 4WD
+2012,Toyota,Tundra,Tundra 4WD FFV
+2012,Toyota,Venza,Venza
+2012,Toyota,Venza,Venza AWD
+2012,Toyota,Yaris,Yaris
+2012,Volkswagen,Beetle,Beetle
+2012,Volkswagen,CC,CC
+2012,Volkswagen,CC,CC 4motion
+2012,Volkswagen,Eos,Eos
+2012,Volkswagen,Golf/GTI,Golf
+2012,Volkswagen,Golf/GTI,Golf R
+2012,Volkswagen,Golf/GTI,GTI
+2012,Volkswagen,Jetta,Jetta
+2012,Volkswagen,Jetta,Jetta SportWagen
+2012,Volkswagen,Passat,Passat
+2012,Volkswagen,Routan,Routan
+2012,Volkswagen,Tiguan,Tiguan
+2012,Volkswagen,Tiguan,Tiguan 4motion
+2012,Volkswagen,Touareg,Touareg
+2012,Volkswagen,Touareg,Touareg Hybrid
+2012,Volvo,C30,C30 FWD
+2012,Volvo,C70,C70 FWD
+2012,Volvo,S60,S60 AWD
+2012,Volvo,S60,S60 FWD
+2012,Volvo,S80,S80 AWD
+2012,Volvo,S80,S80 FWD
+2012,Volvo,XC60,XC60 AWD
+2012,Volvo,XC60,XC60 FWD
+2012,Volvo,XC70,XC70 AWD
+2012,Volvo,XC70,XC70 FWD
+2012,Volvo,XC90,XC90 AWD
+2012,Volvo,XC90,XC90 FWD
+2012,VPG,MV-1,MV-1
+2012,VPG,MV-1,MV-1 CNG

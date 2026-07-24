@@ -1,0 +1,919 @@
+year,make,model,trim
+2021,Acura,ILX,ILX
+2021,Acura,NSX,NSX Hybrid
+2021,Acura,RDX,RDX AWD
+2021,Acura,RDX,RDX AWD A-SPEC
+2021,Acura,RDX,RDX FWD
+2021,Acura,RDX,RDX FWD A-SPEC
+2021,Acura,TLX,TLX AWD
+2021,Acura,TLX,TLX AWD A-SPEC
+2021,Acura,TLX,TLX FWD
+2021,Acura,TLX,TLX FWD A-SPEC
+2021,Acura,TLX,TLX Type-S
+2021,Acura,TLX,TLX Type-S Perf Tire
+2021,Alfa Romeo,Giulia,Giulia
+2021,Alfa Romeo,Giulia,Giulia AWD
+2021,Alfa Romeo,Stelvio,Stelvio
+2021,Alfa Romeo,Stelvio,Stelvio AWD
+2021,Aston Martin,DB11,DB11 V12
+2021,Aston Martin,DB11,DB11 V8
+2021,Aston Martin,DBS,DBS
+2021,Aston Martin,DBX V8,DBX V8
+2021,Aston Martin,Vantage,Vantage V8
+2021,Aston Martin,Vantage Manual,Vantage Manual
+2021,Audi,A4,A4 allroad quattro
+2021,Audi,A4,A4 quattro
+2021,Audi,A4,A4 S line quattro
+2021,Audi,A5,A5 Cabriolet quattro
+2021,Audi,A5,A5 quattro
+2021,Audi,A5,A5 Sportback quattro
+2021,Audi,A5,A5 Sportback S line quattro
+2021,Audi,A6,A6 Allroad
+2021,Audi,A6,A6 quattro
+2021,Audi,A7,A7 quattro
+2021,Audi,A8,A8 L
+2021,Audi,e-tron,e-tron
+2021,Audi,e-tron,e-tron Sportback
+2021,Audi,Q3,Q3 quattro
+2021,Audi,Q3,Q3 S-line quattro
+2021,Audi,Q5,Q5
+2021,Audi,Q5,Q5 Sportback
+2021,Audi,Q7,Q7
+2021,Audi,Q8,Q8
+2021,Audi,R8,R8
+2021,Audi,R8,R8 2WD
+2021,Audi,R8,R8 Spyder
+2021,Audi,R8,R8 Spyder 2WD
+2021,Audi,RS,RS 5
+2021,Audi,RS,RS 5 Sportback
+2021,Audi,RS,RS 6 Avant
+2021,Audi,RS,RS 7
+2021,Audi,RS Q8,RS Q8
+2021,Audi,S4,S4
+2021,Audi,S5,S5
+2021,Audi,S5,S5 Cabriolet
+2021,Audi,S5,S5 Sportback
+2021,Audi,S6,S6
+2021,Audi,S7,S7
+2021,Audi,S8,S8
+2021,Audi,SQ5,SQ5
+2021,Audi,SQ5,SQ5 Sportback
+2021,Audi,SQ7,SQ7
+2021,Audi,SQ8,SQ8
+2021,Audi,TT,TT Coupe quattro
+2021,Audi,TT,TT Roadster quattro
+2021,Audi,TT,TT RS
+2021,Audi,TTS,TTS Coupe
+2021,Bentley,Bentayga,Bentayga
+2021,Bentley,Continental,Continental GT
+2021,Bentley,Continental,Continental GT Convertible
+2021,Bentley,Flying Spur,Flying Spur
+2021,BMW,2 Series,228i Gran Coupe
+2021,BMW,2 Series,228i xDrive Gran Coupe
+2021,BMW,2 Series,230i Convertible
+2021,BMW,2 Series,230i Coupe
+2021,BMW,2 Series,230i xDrive Convertible
+2021,BMW,2 Series,230i xDrive Coupe
+2021,BMW,3 Series,330e
+2021,BMW,3 Series,330e xDrive
+2021,BMW,3 Series,330i
+2021,BMW,3 Series,330i xDrive
+2021,BMW,4 Series,430i Convertible
+2021,BMW,4 Series,430i Coupe
+2021,BMW,4 Series,430i xDrive Coupe
+2021,BMW,4 Series,M440i Convertible
+2021,BMW,5 Series,530e
+2021,BMW,5 Series,530e xDrive
+2021,BMW,5 Series,530i
+2021,BMW,5 Series,530i xDrive
+2021,BMW,5 Series,540i
+2021,BMW,5 Series,540i xDrive
+2021,BMW,7 Series,740i
+2021,BMW,7 Series,740i xDrive
+2021,BMW,7 Series,745e xDrive
+2021,BMW,7 Series,750i xDrive
+2021,BMW,7 Series,Alpina B7
+2021,BMW,8 Series,840i Convertible
+2021,BMW,8 Series,840i Coupe
+2021,BMW,8 Series,840i Gran Coupe
+2021,BMW,8 Series,840i xDrive Convertible
+2021,BMW,8 Series,840i xDrive Coupe
+2021,BMW,8 Series,840i xDrive Gran Coupe
+2021,BMW,8 Series,M850i xDrive Coupe
+2021,BMW,i3,i3
+2021,BMW,i3,i3 with Range Extender
+2021,BMW,i3,i3s
+2021,BMW,i3,i3s with Range Extender
+2021,BMW,M,M2 Competition Coupe
+2021,BMW,M,M235i xDrive Gran Coupe
+2021,BMW,M,M240i Convertible
+2021,BMW,M,M240i Coupe
+2021,BMW,M,M240i xDrive Convertible
+2021,BMW,M,M240i xDrive Coupe
+2021,BMW,M,M3
+2021,BMW,M,M3 Competition
+2021,BMW,M,M340i
+2021,BMW,M,M340i xDrive
+2021,BMW,M,M4 Competition Coupe
+2021,BMW,M,M4 Coupe
+2021,BMW,M,M440i xDrive Coupe
+2021,BMW,M,M5
+2021,BMW,M,M5 Competition
+2021,BMW,M,M550i xDrive
+2021,BMW,M,M760i xDrive
+2021,BMW,M,M8 Competition Convertible
+2021,BMW,M,M8 Competition Gran Coupe
+2021,BMW,M,M8 Convertible
+2021,BMW,M,M8 Gran Coupe
+2021,BMW,M,M850i xDrive Convertible
+2021,BMW,M,M850i xDrive Gran Coupe
+2021,BMW,X1,X1 sDrive28i
+2021,BMW,X1,X1 xDrive28i
+2021,BMW,X2,X2 M35i
+2021,BMW,X2,X2 sDrive28i
+2021,BMW,X2,X2 xDrive28i
+2021,BMW,X3,X3 M
+2021,BMW,X3,X3 M Competition
+2021,BMW,X3,X3 M40i
+2021,BMW,X3,X3 sDrive30i
+2021,BMW,X3,X3 xDrive30e
+2021,BMW,X3,X3 xDrive30i
+2021,BMW,X4,X4 M
+2021,BMW,X4,X4 M Competition
+2021,BMW,X4,X4 M40i
+2021,BMW,X4,X4 xDrive30i
+2021,BMW,X5,X5 M
+2021,BMW,X5,X5 M Competition
+2021,BMW,X5,X5 M50i
+2021,BMW,X5,X5 sDrive40i
+2021,BMW,X5,X5 xDrive40i
+2021,BMW,X5,X5 xDrive45e
+2021,BMW,X6,X6 M
+2021,BMW,X6,X6 M Competition
+2021,BMW,X6,X6 M50i
+2021,BMW,X6,X6 sDrive40i
+2021,BMW,X6,X6 xDrive40i
+2021,BMW,X7,Alpina XB7
+2021,BMW,X7,X7 M50i
+2021,BMW,X7,X7 xDrive40i
+2021,BMW,Z4,Z4 M40i
+2021,BMW,Z4,Z4 sDrive30i
+2021,Bugatti,Chiron,Chiron
+2021,Bugatti,Chiron,Chiron Pur Sport
+2021,Buick,Enclave,Enclave AWD
+2021,Buick,Enclave,Enclave FWD
+2021,Buick,Encore,Encore AWD
+2021,Buick,Encore,Encore FWD
+2021,Buick,Encore,Encore GX AWD
+2021,Buick,Encore,Encore GX FWD
+2021,Buick,Envision,Envision AWD
+2021,Buick,Envision,Envision FWD
+2021,Cadillac,CT4,CT4
+2021,Cadillac,CT4,CT4 AWD
+2021,Cadillac,CT4,CT4 V
+2021,Cadillac,CT4,CT4 V AWD
+2021,Cadillac,CT5,CT5
+2021,Cadillac,CT5,CT5 AWD
+2021,Cadillac,CT5,CT5 V
+2021,Cadillac,CT5,CT5 V AWD
+2021,Cadillac,Escalade,Escalade 2WD
+2021,Cadillac,Escalade,Escalade 4WD
+2021,Cadillac,XT4,XT4 AWD
+2021,Cadillac,XT4,XT4 FWD
+2021,Cadillac,XT5,XT5 AWD
+2021,Cadillac,XT5,XT5 FWD
+2021,Cadillac,XT5,XT5 Hearse AWD
+2021,Cadillac,XT5,XT5 Hearse FWD
+2021,Cadillac,XT5,XT5 Limo AWD
+2021,Cadillac,XT5,XT5 Limo FWD
+2021,Cadillac,XT6,XT6 AWD
+2021,Cadillac,XT6,XT6 FWD
+2021,Chevrolet,Blazer,Blazer AWD
+2021,Chevrolet,Blazer,Blazer FWD
+2021,Chevrolet,Bolt EV,Bolt EV
+2021,Chevrolet,Camaro,Camaro
+2021,Chevrolet,Colorado,Colorado 2WD
+2021,Chevrolet,Colorado,Colorado 4WD
+2021,Chevrolet,Colorado,Colorado ZR2 4WD
+2021,Chevrolet,Corvette,Corvette
+2021,Chevrolet,Equinox,Equinox AWD
+2021,Chevrolet,Equinox,Equinox FWD
+2021,Chevrolet,Malibu,Malibu
+2021,Chevrolet,Silverado,Silverado 2WD
+2021,Chevrolet,Silverado,Silverado 4WD
+2021,Chevrolet,Silverado,Silverado 4WD TrailBoss
+2021,Chevrolet,Silverado,Silverado Cab Chassis 2WD
+2021,Chevrolet,Silverado,Silverado Cab Chassis 4WD
+2021,Chevrolet,Spark,Spark
+2021,Chevrolet,Spark,Spark ACTIV
+2021,Chevrolet,Suburban,Suburban 2WD
+2021,Chevrolet,Suburban,Suburban 4WD
+2021,Chevrolet,Tahoe,Tahoe 2WD
+2021,Chevrolet,Tahoe,Tahoe 4WD
+2021,Chevrolet,Trailblazer,Trailblazer AWD
+2021,Chevrolet,Trailblazer,Trailblazer FWD
+2021,Chevrolet,Traverse,Traverse AWD
+2021,Chevrolet,Traverse,Traverse FWD
+2021,Chevrolet,Trax,Trax AWD
+2021,Chevrolet,Trax,Trax FWD
+2021,Chrysler,300,300
+2021,Chrysler,300,300 AWD
+2021,Chrysler,Pacifica,Pacifica
+2021,Chrysler,Pacifica,Pacifica AWD
+2021,Chrysler,Pacifica,Pacifica Hybrid
+2021,Chrysler,Voyager,Voyager
+2021,Dodge,Challenger,Challenger
+2021,Dodge,Challenger,Challenger AWD
+2021,Dodge,Challenger,Challenger SRT
+2021,Dodge,Challenger,Challenger SRT Widebody
+2021,Dodge,Challenger,Challenger Widebody
+2021,Dodge,Charger,Charger
+2021,Dodge,Charger,Charger AWD
+2021,Dodge,Charger,Charger SRT Widebody
+2021,Dodge,Charger,Charger Widebody
+2021,Dodge,Durango,Durango AWD
+2021,Dodge,Durango,Durango RWD
+2021,Dodge,Durango,Durango SRT AWD
+2021,Ferrari,812 GTS,812 GTS
+2021,Ferrari,812 Superfast,812 Superfast
+2021,Ferrari,F8 Spider,F8 Spider
+2021,Ferrari,F8 Tributo,F8 Tributo
+2021,Ferrari,Portofino,Portofino
+2021,Ferrari,Portofino,Portofino M
+2021,Ferrari,Roma,Roma
+2021,Ferrari,SF90 Stradale Coupe,SF90 Stradale Coupe
+2021,Fiat,500,500X AWD
+2021,Ford,Bronco,Bronco 4WD
+2021,Ford,Bronco,Bronco Badlands 4WD
+2021,Ford,Bronco,Bronco Black Diamond 4WD
+2021,Ford,Bronco,Bronco Sasquatch 4WD
+2021,Ford,Bronco Sport,Bronco Sport 4WD
+2021,Ford,EcoSport,EcoSport AWD
+2021,Ford,EcoSport,EcoSport FWD
+2021,Ford,Edge,Edge AWD
+2021,Ford,Edge,Edge FWD
+2021,Ford,Escape,Escape AWD
+2021,Ford,Escape,Escape AWD HEV
+2021,Ford,Escape,Escape FWD
+2021,Ford,Escape,Escape FWD HEV
+2021,Ford,Escape,Escape FWD PHEV
+2021,Ford,Expedition,Expedition 2WD
+2021,Ford,Expedition,Expedition 4WD
+2021,Ford,Expedition,Expedition MAX 2WD
+2021,Ford,Expedition,Expedition MAX 4WD
+2021,Ford,Explorer,Explorer AWD
+2021,Ford,Explorer,Explorer FFV AWD
+2021,Ford,Explorer,Explorer HEV AWD
+2021,Ford,Explorer,Explorer HEV RWD
+2021,Ford,Explorer,Explorer RWD
+2021,Ford,Explorer,Explorer Timberline AWD
+2021,Ford,F150,F150 Pickup 2WD
+2021,Ford,F150,F150 Pickup 2WD FFV
+2021,Ford,F150,F150 Pickup 2WD HEV
+2021,Ford,F150,F150 Pickup 4WD
+2021,Ford,F150,F150 Pickup 4WD FFV
+2021,Ford,F150,F150 Pickup 4WD HEV
+2021,Ford,F150,F150 Pickup Tremor 4WD
+2021,Ford,F150,F150 RAPTOR 37 4WD
+2021,Ford,F150,F150 RAPTOR 4WD
+2021,Ford,GT,GT
+2021,Ford,Mustang,Mustang
+2021,Ford,Mustang,Mustang Convertible
+2021,Ford,Mustang,Mustang HO Convertible
+2021,Ford,Mustang,Mustang HO Coupe
+2021,Ford,Mustang,Mustang Mach 1
+2021,Ford,Mustang,Shelby GT500 Mustang
+2021,Ford,Mustang Mach-E,Mustang Mach-E AWD
+2021,Ford,Mustang Mach-E,Mustang Mach-E AWD Extended
+2021,Ford,Mustang Mach-E,Mustang Mach-E GT
+2021,Ford,Mustang Mach-E,Mustang Mach-E GT Performance
+2021,Ford,Mustang Mach-E,Mustang Mach-E RWD
+2021,Ford,Mustang Mach-E,Mustang Mach-E RWD California Route 1
+2021,Ford,Mustang Mach-E,Mustang Mach-E RWD Extended
+2021,Ford,Ranger,Ranger 2WD
+2021,Ford,Ranger,Ranger 2WD Incomplete
+2021,Ford,Ranger,Ranger 4WD
+2021,Ford,Ranger,Ranger Tremor 4WD
+2021,Ford,Transit Connect,Transit Connect USPS
+2021,Ford,Transit Connect,Transit Connect Van FFV
+2021,Ford,Transit Connect,Transit Connect Van FWD
+2021,Ford,Transit Connect,Transit Connect Wagon LWB FFV
+2021,Ford,Transit Connect,Transit Connect Wagon LWB FWD
+2021,Ford,Transit T150 Wagon,Transit T150 Wagon 2WD FFV
+2021,Ford,Transit T150 Wagon,Transit T150 Wagon 4WD FFV
+2021,Genesis,G70,G70 AWD
+2021,Genesis,G70,G70 RWD
+2021,Genesis,G80,G80 AWD
+2021,Genesis,G80,G80 RWD
+2021,Genesis,G90,G90 AWD
+2021,Genesis,G90,G90 RWD
+2021,Genesis,GV80,GV80 AWD
+2021,Genesis,GV80,GV80 RWD
+2021,GMC,Acadia,Acadia AWD
+2021,GMC,Acadia,Acadia FWD
+2021,GMC,Canyon,Canyon 2WD
+2021,GMC,Canyon,Canyon 4WD
+2021,GMC,Sierra,Sierra 2WD
+2021,GMC,Sierra,Sierra 4WD
+2021,GMC,Sierra,Sierra 4WD AT4
+2021,GMC,Sierra,Sierra Cab Chassis 2WD
+2021,GMC,Sierra,Sierra Cab Chassis 4WD
+2021,GMC,Terrain,Terrain AWD
+2021,GMC,Terrain,Terrain FWD
+2021,GMC,Yukon,Yukon 2WD
+2021,GMC,Yukon,Yukon 4WD
+2021,GMC,Yukon,Yukon XL 2WD
+2021,GMC,Yukon,Yukon XL 4WD
+2021,Honda,Accord,Accord
+2021,Honda,Accord,Accord Hybrid
+2021,Honda,Accord,Accord Hybrid Sport/Touring
+2021,Honda,Accord,Accord Sport/Touring
+2021,Honda,Civic,Civic 4Dr
+2021,Honda,Civic,Civic 5Dr
+2021,Honda,Clarity,Clarity FCV
+2021,Honda,Clarity,Clarity Plug-in Hybrid
+2021,Honda,CR-V,CR-V AWD
+2021,Honda,CR-V,CR-V FWD
+2021,Honda,CR-V,CR-V Hybrid AWD
+2021,Honda,HR-V,HR-V AWD
+2021,Honda,HR-V,HR-V FWD
+2021,Honda,Insight,Insight
+2021,Honda,Insight,Insight Touring
+2021,Honda,Odyssey,Odyssey
+2021,Honda,Passport,Passport AWD
+2021,Honda,Passport,Passport FWD
+2021,Honda,Pilot,Pilot AWD
+2021,Honda,Pilot,Pilot FWD
+2021,Honda,Ridgeline,Ridgeline AWD
+2021,Hyundai,Accent,Accent
+2021,Hyundai,Elantra,Elantra
+2021,Hyundai,Elantra,Elantra Hybrid
+2021,Hyundai,Elantra,Elantra Hybrid Blue
+2021,Hyundai,Ioniq,Ioniq
+2021,Hyundai,Ioniq,Ioniq Blue
+2021,Hyundai,Ioniq,Ioniq Electric
+2021,Hyundai,Ioniq,Ioniq Plug-in Hybrid
+2021,Hyundai,Kona,Kona AWD
+2021,Hyundai,Kona,Kona Electric
+2021,Hyundai,Kona,Kona FWD
+2021,Hyundai,Nexo,Nexo
+2021,Hyundai,Nexo,Nexo Blue
+2021,Hyundai,Palisade,Palisade AWD
+2021,Hyundai,Palisade,Palisade FWD
+2021,Hyundai,Santa Fe,Santa Fe AWD
+2021,Hyundai,Santa Fe,Santa Fe FWD
+2021,Hyundai,Santa Fe,Santa Fe Hybrid
+2021,Hyundai,Santa Fe,Santa Fe Hybrid Blue
+2021,Hyundai,Sonata,Sonata
+2021,Hyundai,Sonata,Sonata Hybrid
+2021,Hyundai,Sonata,Sonata Hybrid Blue
+2021,Hyundai,Tucson,Tucson AWD
+2021,Hyundai,Tucson,Tucson FWD
+2021,Hyundai,Veloster,Veloster
+2021,Hyundai,Veloster,Veloster N
+2021,Hyundai,Venue,Venue
+2021,Infiniti,Q50,Q50
+2021,Infiniti,Q50,Q50 AWD
+2021,Infiniti,Q50,Q50 Red Sport
+2021,Infiniti,Q50,Q50 Red Sport  AWD
+2021,Infiniti,Q60,Q60
+2021,Infiniti,Q60,Q60 AWD
+2021,Infiniti,Q60,Q60 Red Sport
+2021,Infiniti,Q60,Q60 Red Sport AWD
+2021,Infiniti,QX50,QX50
+2021,Infiniti,QX50,QX50 AWD
+2021,Infiniti,QX80,QX80 2WD
+2021,Infiniti,QX80,QX80 4WD
+2021,Jaguar,E-Pace,E-Pace
+2021,Jaguar,E-Pace,E-Pace MHEV
+2021,Jaguar,F-Pace,F-Pace
+2021,Jaguar,F-Pace,F-Pace P340 MHEV
+2021,Jaguar,F-Pace,F-Pace P400 MHEV
+2021,Jaguar,F-Pace,F-Pace SVR
+2021,Jaguar,F-Type,F-Type Convertible
+2021,Jaguar,F-Type,F-Type Coupe
+2021,Jaguar,F-Type,F-Type R AWD Convertible
+2021,Jaguar,F-Type,F-Type R AWD Coupe
+2021,Jaguar,F-Type,F-Type S AWD Convertible
+2021,Jaguar,F-Type,F-Type S AWD Coupe
+2021,Jaguar,F-Type,F-Type S Convertible
+2021,Jaguar,F-Type,F-Type S Coupe
+2021,Jaguar,I-Pace,I-Pace EV400
+2021,Jaguar,XE,XE P250
+2021,Jaguar,XE,XE P250 AWD
+2021,Jaguar,XE,XE P300 AWD
+2021,Jaguar,XF,XF P250
+2021,Jaguar,XF,XF P250 AWD
+2021,Jaguar,XF,XF P300 AWD
+2021,Jeep,Cherokee,Cherokee 4WD
+2021,Jeep,Cherokee,Cherokee 4WD Active Drive II
+2021,Jeep,Cherokee,Cherokee FWD
+2021,Jeep,Cherokee,Cherokee Trailhawk 4WD
+2021,Jeep,Compass,Compass 4WD
+2021,Jeep,Compass,Compass FWD
+2021,Jeep,Gladiator,Gladiator 4WD
+2021,Jeep,Gladiator,Gladiator EcoDiesel 4WD
+2021,Jeep,Gladiator,Gladiator Rubicon EcoDiesel 4WD
+2021,Jeep,Grand Cherokee,Grand Cherokee 2WD
+2021,Jeep,Grand Cherokee,Grand Cherokee 4WD
+2021,Jeep,Grand Cherokee,Grand Cherokee L 2WD
+2021,Jeep,Grand Cherokee,Grand Cherokee L 4WD
+2021,Jeep,Grand Cherokee,Grand Cherokee SRT 4WD
+2021,Jeep,Grand Cherokee,Grand Cherokee Trackhawk 4WD
+2021,Jeep,Renegade,Renegade 2WD
+2021,Jeep,Renegade,Renegade 4WD
+2021,Jeep,Renegade,Renegade Trailhawk 4WD
+2021,Jeep,Wrangler,Wrangler 2dr 4WD
+2021,Jeep,Wrangler,Wrangler 4dr 4WD
+2021,Jeep,Wrangler,Wrangler 4dr 4xe
+2021,Jeep,Wrangler,Wrangler 4dr EcoDiesel 4WD
+2021,Jeep,Wrangler,Wrangler Rubic 4dr EcoDiesel 4WD
+2021,Kandi,K27,K27
+2021,Karma,GS-6,GS-6 (21-inch wheels)
+2021,Karma,GS-6,GS-6 (22-inch wheels)
+2021,Kia,Forte,Forte
+2021,Kia,Forte,Forte FE
+2021,Kia,K5,K5
+2021,Kia,K5,K5 AWD
+2021,Kia,Niro,Niro
+2021,Kia,Niro,Niro Electric
+2021,Kia,Niro,Niro FE
+2021,Kia,Niro,Niro Plug-in Hybrid
+2021,Kia,Niro,Niro Touring
+2021,Kia,Rio,Rio
+2021,Kia,Sedona,Sedona
+2021,Kia,Seltos,Seltos AWD
+2021,Kia,Seltos,Seltos FWD
+2021,Kia,Sorento,Sorento AWD
+2021,Kia,Sorento,Sorento FWD
+2021,Kia,Sorento,Sorento Hybrid
+2021,Kia,Soul,Soul
+2021,Kia,Soul,Soul Eco dynamics
+2021,Kia,Sportage,Sportage AWD
+2021,Kia,Sportage,Sportage FWD
+2021,Kia,Stinger,Stinger AWD
+2021,Kia,Stinger,Stinger RWD
+2021,Kia,Telluride,Telluride AWD
+2021,Kia,Telluride,Telluride FWD
+2021,Lamborghini,Aventador,Aventador Coupe
+2021,Lamborghini,Aventador,Aventador Roadster
+2021,Lamborghini,Aventador,Aventador Sian Coupe
+2021,Lamborghini,Aventador,Aventador Sian Roadster
+2021,Lamborghini,Huracan,Huracan
+2021,Lamborghini,Huracan,Huracan 2WD
+2021,Lamborghini,Huracan,Huracan Spyder
+2021,Lamborghini,Huracan,Huracan Spyder 2WD
+2021,Lamborghini,Urus,Urus
+2021,Land Rover,Defender,Defender 110
+2021,Land Rover,Defender,Defender 110 MHEV
+2021,Land Rover,Defender,Defender 90
+2021,Land Rover,Defender,Defender 90 MHEV
+2021,Land Rover,Discovery,Discovery
+2021,Land Rover,Discovery,Discovery MHEV
+2021,Land Rover,Discovery Sport,Discovery Sport
+2021,Land Rover,Evoque,Evoque
+2021,Land Rover,Range Rover,Range Rover
+2021,Land Rover,Range Rover,Range Rover LWB
+2021,Land Rover,Range Rover,Range Rover LWB SVA
+2021,Land Rover,Range Rover,Range Rover MHEV
+2021,Land Rover,Range Rover,Range Rover PHEV
+2021,Land Rover,Range Rover,Range Rover Sport
+2021,Land Rover,Range Rover,Range Rover Sport MHEV
+2021,Land Rover,Range Rover,Range Rover Sport PHEV
+2021,Land Rover,Range Rover,Range Rover Sport SVR
+2021,Land Rover,Range Rover,Range Rover SVA
+2021,Land Rover,Range Rover,Range Rover Velar
+2021,Land Rover,Range Rover,Range Rover Velar P340 MHEV
+2021,Land Rover,Range Rover,Range Rover Velar P400 MHEV
+2021,Lexus,ES,ES 250 AWD
+2021,Lexus,ES,ES 300h
+2021,Lexus,ES,ES 350
+2021,Lexus,ES,ES 350 F Sport
+2021,Lexus,GX,GX 460
+2021,Lexus,IS,IS 300
+2021,Lexus,IS,IS 300 AWD
+2021,Lexus,IS,IS 350
+2021,Lexus,IS,IS 350 AWD
+2021,Lexus,LC,LC 500
+2021,Lexus,LC,LC 500 Convertible
+2021,Lexus,LC,LC 500h
+2021,Lexus,LS,LS 500
+2021,Lexus,LS,LS 500 AWD
+2021,Lexus,LS,LS 500h
+2021,Lexus,LS,LS 500h AWD
+2021,Lexus,LX,LX 570
+2021,Lexus,NX,NX 300
+2021,Lexus,NX,NX 300 AWD
+2021,Lexus,NX,NX 300 AWD F Sport
+2021,Lexus,NX,NX 300h AWD
+2021,Lexus,RC,RC 300
+2021,Lexus,RC,RC 300 AWD
+2021,Lexus,RC,RC 350
+2021,Lexus,RC,RC 350 AWD
+2021,Lexus,RC,RC F
+2021,Lexus,RX,RX 350
+2021,Lexus,RX,RX 350 AWD
+2021,Lexus,RX,RX 350 L
+2021,Lexus,RX,RX 350 L AWD
+2021,Lexus,RX,RX 450h AWD
+2021,Lexus,RX,RX 450h L AWD
+2021,Lexus,UX,UX 200
+2021,Lexus,UX,UX 250h
+2021,Lexus,UX,UX 250h AWD
+2021,Lincoln,Aviator,Aviator AWD
+2021,Lincoln,Aviator,Aviator PHEV AWD
+2021,Lincoln,Aviator,Aviator RWD
+2021,Lincoln,Corsair,Corsair AWD
+2021,Lincoln,Corsair,Corsair AWD PHEV
+2021,Lincoln,Corsair,Corsair FWD
+2021,Lincoln,Nautilus,Nautilus AWD
+2021,Lincoln,Nautilus,Nautilus FWD
+2021,Lincoln,Navigator,Navigator 2WD
+2021,Lincoln,Navigator,Navigator 4WD
+2021,Lincoln,Navigator,Navigator L 2WD
+2021,Lotus,Evora,Evora GT
+2021,Maserati,Ghibli,Ghibli
+2021,Maserati,Ghibli,Ghibli S
+2021,Maserati,Ghibli,Ghibli SQ4
+2021,Maserati,Ghibli,Ghibli Trofeo
+2021,Maserati,Levante,Levante
+2021,Maserati,Levante,Levante GTS
+2021,Maserati,Levante,Levante S
+2021,Maserati,Levante,Levante Trofeo
+2021,Maserati,Quattroporte,Quattroporte S
+2021,Maserati,Quattroporte,Quattroporte SQ4
+2021,Maserati,Quattroporte,Quattroporte Trofeo
+2021,Mazda,2,2
+2021,Mazda,3,3 4-Door 2WD
+2021,Mazda,3,3 4-Door 4WD
+2021,Mazda,3,3 5-Door 2WD
+2021,Mazda,3,3 5-Door 4WD
+2021,Mazda,6,6
+2021,Mazda,CX-3,CX-3 2WD
+2021,Mazda,CX-3,CX-3 4WD
+2021,Mazda,CX-30,CX-30 2WD
+2021,Mazda,CX-30,CX-30 4WD
+2021,Mazda,CX-5,CX-5 2WD
+2021,Mazda,CX-5,CX-5 4WD
+2021,Mazda,CX-9,CX-9 2WD
+2021,Mazda,CX-9,CX-9 4WD
+2021,Mazda,MX-5,MX-5
+2021,McLaren Automotive,720S Coupe,720S Coupe
+2021,McLaren Automotive,720S Coupe,720S Coupe LM
+2021,McLaren Automotive,720S Spider,720S Spider
+2021,McLaren Automotive,765LT Coupe,765LT Coupe
+2021,McLaren Automotive,Elva,Elva
+2021,McLaren Automotive,GT,GT
+2021,Mercedes-Benz,A-Class,A220
+2021,Mercedes-Benz,A-Class,A220 4matic
+2021,Mercedes-Benz,A-Class,AMG A35 4matic
+2021,Mercedes-Benz,AMG GT,AMG GT 43 4matic Plus
+2021,Mercedes-Benz,AMG GT,AMG GT 53 4matic Plus
+2021,Mercedes-Benz,AMG GT,AMG GT 63 4matic Plus
+2021,Mercedes-Benz,AMG GT,AMG GT 63 S 4matic Plus
+2021,Mercedes-Benz,AMG GT,AMG GT Black Series
+2021,Mercedes-Benz,AMG GT,AMG GT C Coupe
+2021,Mercedes-Benz,AMG GT,AMG GT C Roadster
+2021,Mercedes-Benz,AMG GT,AMG GT Coupe
+2021,Mercedes-Benz,AMG GT,AMG GT R Coupe
+2021,Mercedes-Benz,AMG GT,AMG GT Roadster
+2021,Mercedes-Benz,C-Class,AMG C43 4matic
+2021,Mercedes-Benz,C-Class,AMG C43 4matic Convertible
+2021,Mercedes-Benz,C-Class,AMG C43 4matic Coupe
+2021,Mercedes-Benz,C-Class,AMG C63
+2021,Mercedes-Benz,C-Class,AMG C63 Convertible
+2021,Mercedes-Benz,C-Class,AMG C63 Coupe
+2021,Mercedes-Benz,C-Class,AMG C63 S
+2021,Mercedes-Benz,C-Class,AMG C63 S Convertible
+2021,Mercedes-Benz,C-Class,AMG C63 S Coupe
+2021,Mercedes-Benz,C-Class,C300
+2021,Mercedes-Benz,C-Class,C300 4matic
+2021,Mercedes-Benz,C-Class,C300 4matic Convertible
+2021,Mercedes-Benz,C-Class,C300 4matic Coupe
+2021,Mercedes-Benz,C-Class,C300 Convertible
+2021,Mercedes-Benz,C-Class,C300 Coupe
+2021,Mercedes-Benz,CLA-Class,AMG CLA35 4matic
+2021,Mercedes-Benz,CLA-Class,AMG CLA45 4matic
+2021,Mercedes-Benz,CLA-Class,CLA250
+2021,Mercedes-Benz,CLA-Class,CLA250 4matic
+2021,Mercedes-Benz,CLS-Class,AMG CLS53 4matic Plus
+2021,Mercedes-Benz,CLS-Class,CLS450
+2021,Mercedes-Benz,CLS-Class,CLS450 4matic
+2021,Mercedes-Benz,E-Class,AMG E53 4matic Plus
+2021,Mercedes-Benz,E-Class,AMG E53 4matic Plus Convertible
+2021,Mercedes-Benz,E-Class,AMG E53 4matic Plus Coupe
+2021,Mercedes-Benz,E-Class,AMG E63 S 4matic Plus
+2021,Mercedes-Benz,E-Class,AMG E63 S 4matic Plus (SW)
+2021,Mercedes-Benz,E-Class,E350
+2021,Mercedes-Benz,E-Class,E350 4matic
+2021,Mercedes-Benz,E-Class,E450 4matic
+2021,Mercedes-Benz,E-Class,E450 4matic All-Terrain (wagon)
+2021,Mercedes-Benz,E-Class,E450 4matic Convertible
+2021,Mercedes-Benz,E-Class,E450 4matic Coupe
+2021,Mercedes-Benz,E-Class,E450 Convertible
+2021,Mercedes-Benz,E-Class,E450 Coupe
+2021,Mercedes-Benz,G-Class,AMG G63
+2021,Mercedes-Benz,G-Class,G550
+2021,Mercedes-Benz,GLA-Class,AMG GLA35 4matic
+2021,Mercedes-Benz,GLA-Class,AMG GLA45 4matic
+2021,Mercedes-Benz,GLA-Class,GLA250
+2021,Mercedes-Benz,GLA-Class,GLA250 4matic
+2021,Mercedes-Benz,GLB-Class,AMG GLB35 4matic
+2021,Mercedes-Benz,GLB-Class,GLB250
+2021,Mercedes-Benz,GLB-Class,GLB250 4matic
+2021,Mercedes-Benz,GLC-Class,AMG GLC43 4matic
+2021,Mercedes-Benz,GLC-Class,AMG GLC43 4matic Coupe
+2021,Mercedes-Benz,GLC-Class,AMG GLC63 4matic Plus
+2021,Mercedes-Benz,GLC-Class,AMG GLC63 4matic Plus Coupe
+2021,Mercedes-Benz,GLC-Class,AMG GLC63 S 4matic Plus Coupe
+2021,Mercedes-Benz,GLC-Class,GLC300
+2021,Mercedes-Benz,GLC-Class,GLC300 4matic
+2021,Mercedes-Benz,GLC-Class,GLC300 4matic Coupe
+2021,Mercedes-Benz,GLE-Class,AMG GLE53 4matic Plus
+2021,Mercedes-Benz,GLE-Class,AMG GLE53 4matic Plus Coupe
+2021,Mercedes-Benz,GLE-Class,AMG GLE63 S 4matic Plus
+2021,Mercedes-Benz,GLE-Class,AMG GLE63 S 4matic Plus Coupe
+2021,Mercedes-Benz,GLE-Class,GLE350
+2021,Mercedes-Benz,GLE-Class,GLE350 4matic
+2021,Mercedes-Benz,GLE-Class,GLE450 4matic
+2021,Mercedes-Benz,GLE-Class,GLE580 4matic
+2021,Mercedes-Benz,GLS-Class,AMG GLS63 4matic Plus
+2021,Mercedes-Benz,GLS-Class,GLS450 4matic
+2021,Mercedes-Benz,GLS-Class,GLS580 4matic
+2021,Mercedes-Benz,GLS-Class,GLS600 4matic Maybach
+2021,Mercedes-Benz,Metris Cargo,"Metris (Cargo Van, LWB)"
+2021,Mercedes-Benz,Metris Cargo,Metris (Cargo Van)
+2021,Mercedes-Benz,Metris Passenger,Metris (Passenger Van)
+2021,Mercedes-Benz,S-Class,AMG S63 4matic Plus Convertible
+2021,Mercedes-Benz,S-Class,AMG S63 4matic Plus Coupe
+2021,Mercedes-Benz,S-Class,S500 4matic
+2021,Mercedes-Benz,S-Class,S560 4matic Coupe
+2021,Mercedes-Benz,S-Class,S560 Convertible
+2021,Mercedes-Benz,S-Class,S580 4matic
+2021,Mercedes-Benz,S-Class,S580 4matic Maybach
+2021,MINI,Clubman,Cooper S Clubman
+2021,MINI,Clubman,Cooper S Clubman All4
+2021,MINI,Cooper,Cooper Convertible
+2021,MINI,Cooper,Cooper Hardtop 2 door
+2021,MINI,Cooper,Cooper Hardtop 4 door
+2021,MINI,Cooper,Cooper S Convertible
+2021,MINI,Cooper,Cooper S Hardtop 2 door
+2021,MINI,Cooper,Cooper S Hardtop 4 door
+2021,MINI,Cooper,Cooper SE Hardtop 2 door
+2021,MINI,Countryman,Cooper Countryman
+2021,MINI,Countryman,Cooper Countryman All4
+2021,MINI,Countryman,Cooper S Countryman
+2021,MINI,Countryman,Cooper S Countryman All4
+2021,MINI,Countryman,Cooper SE Countryman All4
+2021,MINI,John Cooper Works,JCW Countryman All4
+2021,MINI,John Cooper Works,John Cooper Works Clubman All4
+2021,MINI,John Cooper Works,John Cooper Works Convertible
+2021,MINI,John Cooper Works,John Cooper Works GP
+2021,MINI,John Cooper Works,John Cooper Works Hardtop
+2021,Mitsubishi,Mirage,Mirage
+2021,Mitsubishi,Mirage,Mirage G4
+2021,Mitsubishi,Outlander,Outlander PHEV
+2021,Mitsubishi,Outlander,Outlander Sport 2WD
+2021,Mitsubishi,Outlander,Outlander Sport 4WD
+2021,Nissan,370Z,370Z
+2021,Nissan,Altima,Altima
+2021,Nissan,Altima,Altima AWD
+2021,Nissan,Altima,Altima AWD SR/Platinum
+2021,Nissan,Altima,Altima SR
+2021,Nissan,Altima,Altima SR/Platinum
+2021,Nissan,Altima,Altima SV/SL
+2021,Nissan,Armada,Armada 2WD
+2021,Nissan,Armada,Armada 4WD
+2021,Nissan,Frontier,Frontier 2WD
+2021,Nissan,Frontier,Frontier 4WD
+2021,Nissan,GT-R,GT-R
+2021,Nissan,Kicks,Kicks
+2021,Nissan,Leaf,Leaf (40 kW-hr battery pack)
+2021,Nissan,Leaf,Leaf (62 kW-hr battery pack)
+2021,Nissan,Leaf,Leaf SV/SL (62 kW-hr battery pack)
+2021,Nissan,Maxima,Maxima
+2021,Nissan,Murano,Murano AWD
+2021,Nissan,Murano,Murano FWD
+2021,Nissan,NV200 Cargo Van,NV200 Cargo Van
+2021,Nissan,Rogue,Rogue AWD
+2021,Nissan,Rogue,Rogue AWD  SV/SL/Platinum
+2021,Nissan,Rogue,Rogue AWD SL/Platinum
+2021,Nissan,Rogue,Rogue FWD
+2021,Nissan,Rogue,Rogue FWD  SV/SL/Platinum
+2021,Nissan,Rogue,Rogue FWD SL/Platinum
+2021,Nissan,Rogue Sport,Rogue Sport
+2021,Nissan,Rogue Sport,Rogue Sport AWD
+2021,Nissan,Sentra,Sentra
+2021,Nissan,Sentra,Sentra SR
+2021,Nissan,Titan,Titan 2WD
+2021,Nissan,Titan,Titan 4WD
+2021,Nissan,Titan,Titan 4WD PRO-4X
+2021,Nissan,Versa,Versa
+2021,Polestar,1,1
+2021,Polestar,2,2
+2021,Porsche,718,718 Boxster
+2021,Porsche,718,718 Boxster GTS
+2021,Porsche,718,718 Boxster S
+2021,Porsche,718,718 Boxster T
+2021,Porsche,718,718 Cayman
+2021,Porsche,718,718 Cayman GT4
+2021,Porsche,718,718 Cayman GTS
+2021,Porsche,718,718 Cayman S
+2021,Porsche,718,718 Cayman T
+2021,Porsche,718,718 Spyder
+2021,Porsche,911,911 Carrera
+2021,Porsche,911,911 Carrera 4
+2021,Porsche,911,911 Carrera 4 Cabriolet
+2021,Porsche,911,911 Carrera 4S
+2021,Porsche,911,911 Carrera 4S Cabriolet
+2021,Porsche,911,911 Carrera Cabriolet
+2021,Porsche,911,911 Carrera S
+2021,Porsche,911,911 Carrera S Cabriolet
+2021,Porsche,911,911 Targa 4
+2021,Porsche,911,911 Targa 4S
+2021,Porsche,911,911 Turbo
+2021,Porsche,911,911 Turbo Cabriolet
+2021,Porsche,911,911 Turbo S
+2021,Porsche,911,911 Turbo S Cabriolet
+2021,Porsche,Cayenne,Cayenne
+2021,Porsche,Cayenne,Cayenne Coupe
+2021,Porsche,Cayenne,Cayenne e-Hybrid
+2021,Porsche,Cayenne,Cayenne e-Hybrid Coupe
+2021,Porsche,Cayenne,Cayenne GTS
+2021,Porsche,Cayenne,Cayenne GTS Coupe
+2021,Porsche,Cayenne,Cayenne S
+2021,Porsche,Cayenne,Cayenne S Coupe
+2021,Porsche,Cayenne,Cayenne Turbo
+2021,Porsche,Cayenne,Cayenne Turbo Coupe
+2021,Porsche,Cayenne,Cayenne Turbo S e-Hybrid
+2021,Porsche,Cayenne,Cayenne Turbo S e-Hybrid Coupe
+2021,Porsche,Macan,Macan
+2021,Porsche,Macan,Macan GTS
+2021,Porsche,Macan,Macan S
+2021,Porsche,Macan,Macan Turbo
+2021,Porsche,Panamera,Panamera
+2021,Porsche,Panamera,Panamera 4
+2021,Porsche,Panamera,Panamera 4 e-Hybrid
+2021,Porsche,Panamera,Panamera 4 e-Hybrid Executive
+2021,Porsche,Panamera,Panamera 4 e-Hybrid ST
+2021,Porsche,Panamera,Panamera 4 Executive
+2021,Porsche,Panamera,Panamera 4 ST
+2021,Porsche,Panamera,Panamera 4S
+2021,Porsche,Panamera,Panamera 4S e-Hybrid
+2021,Porsche,Panamera,Panamera 4S e-Hybrid Executive
+2021,Porsche,Panamera,Panamera 4S e-Hybrid ST
+2021,Porsche,Panamera,Panamera 4S Executive
+2021,Porsche,Panamera,Panamera 4S ST
+2021,Porsche,Panamera,Panamera GTS
+2021,Porsche,Panamera,Panamera GTS ST
+2021,Porsche,Panamera,Panamera Turbo S
+2021,Porsche,Panamera,Panamera Turbo S e-Hybrid
+2021,Porsche,Panamera,Panamera Turbo S e-Hybrid Executive
+2021,Porsche,Panamera,Panamera Turbo S e-Hybrid ST
+2021,Porsche,Panamera,Panamera Turbo S Executive
+2021,Porsche,Panamera,Panamera Turbo S ST
+2021,Porsche,Taycan,Taycan 4 Cross Turismo
+2021,Porsche,Taycan,Taycan 4S Cross Turismo
+2021,Porsche,Taycan,Taycan 4S Perf Battery
+2021,Porsche,Taycan,Taycan 4S Perf Battery Plus
+2021,Porsche,Taycan,Taycan Perf Battery
+2021,Porsche,Taycan,Taycan Perf Battery Plus
+2021,Porsche,Taycan,Taycan Turbo
+2021,Porsche,Taycan,Taycan Turbo Cross Turismo
+2021,Porsche,Taycan,Taycan Turbo S
+2021,Porsche,Taycan,Taycan Turbo S Cross Turismo
+2021,Ram,1500,1500 2WD
+2021,Ram,1500,1500 4WD
+2021,Ram,1500,1500 Classic 2WD
+2021,Ram,1500,1500 Classic 4WD
+2021,Ram,1500,1500 HFE 2WD
+2021,Ram,1500,1500 TRX 4WD
+2021,Ram,Promaster City,Promaster City
+2021,Rolls-Royce,Cullinan,Cullinan
+2021,Rolls-Royce,Cullinan,Cullinan Black Badge
+2021,Rolls-Royce,Dawn,Dawn
+2021,Rolls-Royce,Dawn,Dawn Black Badge
+2021,Rolls-Royce,Ghost,Ghost
+2021,Rolls-Royce,Ghost,Ghost EWB
+2021,Rolls-Royce,Phantom,Phantom
+2021,Rolls-Royce,Phantom,Phantom EWB
+2021,Rolls-Royce,Wraith,Wraith
+2021,Rolls-Royce,Wraith,Wraith Black Badge
+2021,Roush Performance,Mustang,Mustang
+2021,Subaru,Ascent,Ascent
+2021,Subaru,Ascent,Ascent Limited/Touring
+2021,Subaru,Crosstrek,Crosstrek AWD
+2021,Subaru,Crosstrek,Crosstrek Hybrid AWD
+2021,Subaru,Forester,Forester AWD
+2021,Subaru,Impreza,Impreza 4-Door
+2021,Subaru,Impreza,Impreza 5-Door
+2021,Subaru,Impreza,Impreza Sport 4-Door
+2021,Subaru,Impreza,Impreza Sport 5-Door
+2021,Subaru,Legacy,Legacy AWD
+2021,Subaru,Outback,Outback AWD
+2021,Subaru,WRX,WRX
+2021,Tesla,Model 3,Model 3 Long Range AWD
+2021,Tesla,Model 3,Model 3 Performance AWD
+2021,Tesla,Model 3,Model 3 Standard Range Plus RWD
+2021,Tesla,Model S,Model S Long Range
+2021,Tesla,Model S,Model S Performance (19in Wheels)
+2021,Tesla,Model S,Model S Performance (21in Wheels)
+2021,Tesla,Model S,Model S Plaid (21inch wheels)
+2021,Tesla,Model X,Model X Long Range Plus
+2021,Tesla,Model X,Model X Performance (20in Wheels)
+2021,Tesla,Model X,Model X Performance (22in Wheels)
+2021,Tesla,Model Y,Model Y Long Range AWD
+2021,Tesla,Model Y,Model Y Performance AWD
+2021,Tesla,Model Y,Model Y Standard Range RWD
+2021,Toyota,4Runner,4Runner 2WD
+2021,Toyota,4Runner,4Runner 4WD
+2021,Toyota,Avalon,Avalon
+2021,Toyota,Avalon,Avalon AWD
+2021,Toyota,Avalon,Avalon Hybrid
+2021,Toyota,Avalon,Avalon Hybrid XLE
+2021,Toyota,Avalon,Avalon TRD
+2021,Toyota,Avalon,Avalon XLE
+2021,Toyota,C-HR,C-HR
+2021,Toyota,Camry,Camry
+2021,Toyota,Camry,Camry AWD LE/SE
+2021,Toyota,Camry,Camry AWD XLE/XSE
+2021,Toyota,Camry,Camry Hybrid LE
+2021,Toyota,Camry,Camry Hybrid SE/XLE/XSE
+2021,Toyota,Camry,Camry LE/SE
+2021,Toyota,Camry,Camry TRD
+2021,Toyota,Camry,Camry XLE/XSE
+2021,Toyota,Camry,Camry XSE
+2021,Toyota,Corolla,Corolla
+2021,Toyota,Corolla,Corolla APEX
+2021,Toyota,Corolla,Corolla Hatchback
+2021,Toyota,Corolla,Corolla Hatchback XSE
+2021,Toyota,Corolla,Corolla Hybrid
+2021,Toyota,Corolla,Corolla XLE
+2021,Toyota,Corolla,Corolla XSE
+2021,Toyota,GR Supra,GR Supra
+2021,Toyota,Highlander,Highlander
+2021,Toyota,Highlander,Highlander AWD
+2021,Toyota,Highlander,Highlander Hybrid
+2021,Toyota,Highlander,Highlander Hybrid AWD
+2021,Toyota,Highlander,Highlander Hybrid AWD LTD/PLAT
+2021,Toyota,Land Cruiser,Land Cruiser Wagon 4WD
+2021,Toyota,Mirai,Mirai Limited
+2021,Toyota,Mirai,Mirai XLE
+2021,Toyota,Prius,Prius
+2021,Toyota,Prius,Prius AWD
+2021,Toyota,Prius,Prius Eco
+2021,Toyota,Prius Prime,Prius Prime
+2021,Toyota,RAV4,RAV4
+2021,Toyota,RAV4,RAV4 AWD
+2021,Toyota,RAV4,RAV4 AWD LE
+2021,Toyota,RAV4,RAV4 AWD TRD OFFROAD
+2021,Toyota,RAV4,RAV4 Hybrid  AWD
+2021,Toyota,RAV4 Prime,RAV4 Prime 4WD
+2021,Toyota,Sequoia,Sequoia 2WD
+2021,Toyota,Sequoia,Sequoia 4WD
+2021,Toyota,Sienna,Sienna Hybrid 2WD
+2021,Toyota,Sienna,Sienna Hybrid AWD
+2021,Toyota,Tacoma,Tacoma 2WD
+2021,Toyota,Tacoma,Tacoma 4WD
+2021,Toyota,Tacoma,Tacoma 4WD D-CAB MT TRD-ORP/PRO
+2021,Toyota,Tundra,Tundra 2WD
+2021,Toyota,Tundra,Tundra 4WD
+2021,Toyota,Venza,Venza AWD
+2021,Volkswagen,Arteon,Arteon
+2021,Volkswagen,Arteon,Arteon 4motion
+2021,Volkswagen,Atlas,Atlas
+2021,Volkswagen,Atlas,Atlas 4motion
+2021,Volkswagen,Atlas,Atlas Cross Sport
+2021,Volkswagen,Atlas,Atlas Cross Sport 4motion
+2021,Volkswagen,Golf/GTI,Golf
+2021,Volkswagen,Golf/GTI,GTI
+2021,Volkswagen,ID.4,ID.4 1st
+2021,Volkswagen,ID.4,ID.4 AWD Pro
+2021,Volkswagen,ID.4,ID.4 AWD Pro S
+2021,Volkswagen,ID.4,ID.4 Pro
+2021,Volkswagen,ID.4,ID.4 Pro S
+2021,Volkswagen,Jetta,Jetta
+2021,Volkswagen,Jetta,Jetta GLI
+2021,Volkswagen,Passat,Passat
+2021,Volkswagen,Tiguan,Tiguan
+2021,Volkswagen,Tiguan,Tiguan 4motion
+2021,Volvo,S60,S60 AWD
+2021,Volvo,S60,S60 AWD PHEV
+2021,Volvo,S60,S60 FWD
+2021,Volvo,S90,S90 AWD
+2021,Volvo,S90,S90 AWD PHEV
+2021,Volvo,V60,V60 AWD PHEV
+2021,Volvo,V60,V60 CC AWD
+2021,Volvo,V60,V60 FWD
+2021,Volvo,V90,V90 AWD
+2021,Volvo,V90,V90 CC AWD
+2021,Volvo,V90,V90 FWD
+2021,Volvo,XC40,XC40 AWD
+2021,Volvo,XC40,XC40 AWD BEV
+2021,Volvo,XC40,XC40 FWD
+2021,Volvo,XC60,XC60 AWD
+2021,Volvo,XC60,XC60 AWD PHEV
+2021,Volvo,XC60,XC60 FWD
+2021,Volvo,XC90,XC90 AWD
+2021,Volvo,XC90,XC90 AWD PHEV
+2021,Volvo,XC90,XC90 FWD

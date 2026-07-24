@@ -1,0 +1,1020 @@
+year,make,model,trim
+2023,Acura,Integra,Integra
+2023,Acura,Integra,Integra A-Spec
+2023,Acura,MDX,MDX AWD
+2023,Acura,MDX,MDX AWD Type-S
+2023,Acura,MDX,MDX FWD
+2023,Acura,RDX,RDX AWD
+2023,Acura,RDX,RDX AWD A-SPEC
+2023,Acura,RDX,RDX FWD
+2023,Acura,RDX,RDX FWD A-SPEC
+2023,Acura,TLX,TLX AWD
+2023,Acura,TLX,TLX AWD A-SPEC
+2023,Acura,TLX,TLX FWD
+2023,Acura,TLX,TLX FWD A-SPEC
+2023,Acura,TLX,TLX Type-S
+2023,Acura,TLX,TLX Type-S Perf Tire
+2023,Alfa Romeo,Giulia,Giulia
+2023,Alfa Romeo,Giulia,Giulia AWD
+2023,Alfa Romeo,Stelvio,Stelvio
+2023,Alfa Romeo,Stelvio,Stelvio AWD
+2023,Aston Martin,DB11,DB11 V12
+2023,Aston Martin,DB11,DB11 V8
+2023,Aston Martin,DBS,DBS
+2023,Aston Martin,DBX 707,DBX 707
+2023,Aston Martin,DBX V8,DBX V8
+2023,Aston Martin,Vantage,Vantage V12
+2023,Aston Martin,Vantage,Vantage V8
+2023,Audi,A3,A3
+2023,Audi,A3,A3 quattro
+2023,Audi,A4,A4 allroad quattro
+2023,Audi,A4,A4 quattro
+2023,Audi,A4,A4 S-Line quattro
+2023,Audi,A5,A5 Cabriolet quattro
+2023,Audi,A5,A5 Coupe quattro
+2023,Audi,A5,A5 Sportback quattro
+2023,Audi,A5,A5 Sportback S-Line quattro
+2023,Audi,A6,A6 Allroad
+2023,Audi,A6,A6 quattro
+2023,Audi,A7,A7
+2023,Audi,A8,A8 L
+2023,Audi,e-tron,e-tron quattro
+2023,Audi,e-tron,e-tron Sportback quattro
+2023,Audi,e-tron GT,e-tron GT
+2023,Audi,e-tron S,e-tron S (20 inch wheels)
+2023,Audi,e-tron S,e-tron S (21/22 inch wheels)
+2023,Audi,e-tron S,e-tron S Sportback (20 inch wheels)
+2023,Audi,e-tron S,e-tron S Sportback (21/22 inch wheels)
+2023,Audi,Q3,Q3
+2023,Audi,Q3,Q3 S-Line
+2023,Audi,Q4 e-tron,Q4 e-tron
+2023,Audi,Q4 e-tron,Q4 e-tron quattro
+2023,Audi,Q4 e-tron,Q4 e-tron Sportback
+2023,Audi,Q5,Q5 quattro
+2023,Audi,Q5,Q5 S-Line quattro
+2023,Audi,Q5,Q5 Sportback S-line quattro
+2023,Audi,Q5,Q5 TFSI e quattro
+2023,Audi,Q7,Q7
+2023,Audi,Q8,Q8
+2023,Audi,R8,R8 Coupe quattro
+2023,Audi,R8,R8 Coupe RWD
+2023,Audi,R8,R8 GT RWD
+2023,Audi,R8,R8 Spyder quattro
+2023,Audi,R8,R8 Spyder RWD
+2023,Audi,RS,RS 5 Coupe
+2023,Audi,RS,RS 5 Sportback
+2023,Audi,RS,RS 6 Avant
+2023,Audi,RS,RS 7
+2023,Audi,RS,RS3
+2023,Audi,RS e-tron GT,RS e-tron GT
+2023,Audi,RS Q8,RS Q8
+2023,Audi,S3,S3
+2023,Audi,S4,S4
+2023,Audi,S5,S5 Cabriolet
+2023,Audi,S5,S5 Coupe
+2023,Audi,S5,S5 Sportback
+2023,Audi,S6,S6
+2023,Audi,S7,S7
+2023,Audi,S8,S8
+2023,Audi,SQ5,SQ5
+2023,Audi,SQ5,SQ5 Sportback
+2023,Audi,SQ7,SQ7
+2023,Audi,SQ8,SQ8
+2023,Audi,TT,TT Coupe
+2023,Audi,TT,TT Roadster
+2023,Audi,TTS Coupe,TTS Coupe
+2023,Bentley,Bentayga,Bentayga
+2023,Bentley,Bentayga,Bentayga EWB
+2023,Bentley,Bentayga,Bentayga Hybrid
+2023,Bentley,Bentayga,Bentayga Speed
+2023,Bentley,Continental,Continental GT
+2023,Bentley,Continental,Continental GT Convertible
+2023,Bentley,Continental,Continental GT Convertible Speed
+2023,Bentley,Continental,Continental GT Speed
+2023,Bentley,Flying Spur,Flying Spur
+2023,Bentley,Flying Spur,Flying Spur Hybrid
+2023,BMW,2 Series,228i Gran Coupe
+2023,BMW,2 Series,228i xDrive Gran Coupe
+2023,BMW,2 Series,230i Coupe
+2023,BMW,2 Series,230i xDrive Coupe
+2023,BMW,2 Series,M235i xDrive Gran Coupe
+2023,BMW,2 Series,M240i Coupe
+2023,BMW,2 Series,M240i xDrive Coupe
+2023,BMW,3 Series,330e Sedan
+2023,BMW,3 Series,330e xDrive Sedan
+2023,BMW,3 Series,330i Sedan
+2023,BMW,3 Series,330i xDrive Sedan
+2023,BMW,3 Series,M340i Sedan
+2023,BMW,3 Series,M340i xDrive Sedan
+2023,BMW,4 Series,430i Convertible
+2023,BMW,4 Series,430i Coupe
+2023,BMW,4 Series,430i Gran Coupe
+2023,BMW,4 Series,430i xDrive Convertible
+2023,BMW,4 Series,430i xDrive Coupe
+2023,BMW,4 Series,430i xDrive Gran Coupe
+2023,BMW,4 Series,M440i Convertible
+2023,BMW,4 Series,M440i Coupe
+2023,BMW,4 Series,M440i Gran Coupe
+2023,BMW,4 Series,M440i xDrive Convertible
+2023,BMW,4 Series,M440i xDrive Coupe
+2023,BMW,4 Series,M440i xDrive Gran Coupe
+2023,BMW,5 Series,530e Sedan
+2023,BMW,5 Series,530e xDrive Sedan
+2023,BMW,5 Series,530i Sedan
+2023,BMW,5 Series,530i xDrive Sedan
+2023,BMW,5 Series,540i Sedan
+2023,BMW,5 Series,540i xDrive Sedan
+2023,BMW,5 Series,M550i xDrive Sedan
+2023,BMW,7 Series,740i Sedan
+2023,BMW,7 Series,760i xDrive Sedan
+2023,BMW,8 Series,840i Convertible
+2023,BMW,8 Series,840i Coupe
+2023,BMW,8 Series,840i Gran Coupe
+2023,BMW,8 Series,840i xDrive Convertible
+2023,BMW,8 Series,840i xDrive Coupe
+2023,BMW,8 Series,840i xDrive Gran Coupe
+2023,BMW,8 Series,Alpina B8 Gran Coupe
+2023,BMW,8 Series,M850i xDrive Convertible
+2023,BMW,8 Series,M850i xDrive Coupe
+2023,BMW,8 Series,M850i xDrive Gran Coupe
+2023,BMW,i4,i4 eDrive35 Gran Coupe (18 inch Wheels)
+2023,BMW,i4,i4 eDrive35 Gran Coupe (19 inch Wheels)
+2023,BMW,i4,i4 eDrive40 Gran Coupe (18 inch wheels)
+2023,BMW,i4,i4 eDrive40 Gran Coupe (19 inch Wheels)
+2023,BMW,i4,i4 M50 Gran Coupe (19 inch wheels)
+2023,BMW,i4,i4 M50 Gran Coupe (20 inch wheels)
+2023,BMW,i7,i7 xDrive60 Sedan (19 inch wheels)
+2023,BMW,i7,i7 xDrive60 Sedan (20 inch wheels)
+2023,BMW,i7,i7 xDrive60 Sedan (21 inch wheels)
+2023,BMW,iX,iX M60 (21 inch wheels)
+2023,BMW,iX,iX M60 (22 inch wheels)
+2023,BMW,iX,iX xDrive50 (20 inch wheels)
+2023,BMW,iX,iX xDrive50 (21 inch wheels)
+2023,BMW,iX,iX xDrive50 (22 inch wheels)
+2023,BMW,M,M2 Coupe
+2023,BMW,M,M3 Competition M xDrive Sedan
+2023,BMW,M,M3 Competition Sedan
+2023,BMW,M,M3 Sedan
+2023,BMW,M,M4 Competition Coupe
+2023,BMW,M,M4 Competition M xDrive Convertible
+2023,BMW,M,M4 Competition M xDrive Coupe
+2023,BMW,M,M4 Coupe
+2023,BMW,M,M4 CSL Coupe
+2023,BMW,M,M5 Competition Sedan
+2023,BMW,M,M5 Sedan
+2023,BMW,M,M8 Competition Convertible
+2023,BMW,M,M8 Competition Coupe
+2023,BMW,M,M8 Competition Gran Coupe
+2023,BMW,X1,X1 xDrive28i
+2023,BMW,X2,X2 M35i
+2023,BMW,X2,X2 sDrive28i
+2023,BMW,X2,X2 xDrive28i
+2023,BMW,X3,X3 M
+2023,BMW,X3,X3 M Competition
+2023,BMW,X3,X3 M40i
+2023,BMW,X3,X3 sDrive30i
+2023,BMW,X3,X3 xDrive30i
+2023,BMW,X4,X4 M
+2023,BMW,X4,X4 M Competition
+2023,BMW,X4,X4 M40i
+2023,BMW,X4,X4 xDrive30i
+2023,BMW,X5,X5 M
+2023,BMW,X5,X5 M Competition
+2023,BMW,X5,X5 M50i
+2023,BMW,X5,X5 sDrive40i
+2023,BMW,X5,X5 xDrive40i
+2023,BMW,X5,X5 xDrive45e
+2023,BMW,X6,X6 M
+2023,BMW,X6,X6 M Competition
+2023,BMW,X6,X6 M50i
+2023,BMW,X6,X6 xDrive40i
+2023,BMW,X7,Alpina XB7
+2023,BMW,X7,X7 M60i xDrive
+2023,BMW,X7,X7 xDrive40i
+2023,BMW,XM,XM
+2023,BMW,Z4,Z4 M40i
+2023,BMW,Z4,Z4 sDrive30i
+2023,Bugatti,Chiron,Chiron
+2023,Bugatti,Chiron,Chiron Pur Sport
+2023,Bugatti,Chiron,Chiron Super Sport
+2023,Buick,Enclave,Enclave AWD
+2023,Buick,Enclave,Enclave FWD
+2023,Buick,Encore,Encore GX AWD
+2023,Buick,Encore,Encore GX FWD
+2023,Buick,Envision,Envision AWD
+2023,Buick,Envision,Envision FWD
+2023,Cadillac,CT4,CT4
+2023,Cadillac,CT4,CT4 AWD
+2023,Cadillac,CT4,CT4 V
+2023,Cadillac,CT4,CT4 V AWD
+2023,Cadillac,CT5,CT5
+2023,Cadillac,CT5,CT5 AWD
+2023,Cadillac,CT5,CT5 V
+2023,Cadillac,CT5,CT5 V AWD
+2023,Cadillac,Escalade,Escalade 2WD
+2023,Cadillac,Escalade,Escalade 4WD
+2023,Cadillac,Escalade,Escalade V 4WD
+2023,Cadillac,LYRIQ,LYRIQ
+2023,Cadillac,LYRIQ,LYRIQ AWD
+2023,Cadillac,XT4,XT4 AWD
+2023,Cadillac,XT4,XT4 FWD
+2023,Cadillac,XT5,XT5 AWD
+2023,Cadillac,XT5,XT5 FWD
+2023,Cadillac,XT5,XT5 Hearse AWD
+2023,Cadillac,XT5,XT5 Hearse FWD
+2023,Cadillac,XT5,XT5 Limo AWD
+2023,Cadillac,XT5,XT5 Limo FWD
+2023,Cadillac,XT6,XT6 AWD
+2023,Cadillac,XT6,XT6 FWD
+2023,Chevrolet,Blazer,Blazer AWD
+2023,Chevrolet,Blazer,Blazer FWD
+2023,Chevrolet,Bolt EUV,Bolt EUV
+2023,Chevrolet,Bolt EV,Bolt EV
+2023,Chevrolet,Camaro,Camaro
+2023,Chevrolet,Colorado,Colorado 2WD
+2023,Chevrolet,Colorado,Colorado 4WD
+2023,Chevrolet,Colorado,Colorado Mud Terrain Tires 4WD
+2023,Chevrolet,Colorado,Colorado ZR2 4WD
+2023,Chevrolet,Corvette,Corvette
+2023,Chevrolet,Corvette,Corvette Z06
+2023,Chevrolet,Corvette,Corvette Z06 Carbon Aero
+2023,Chevrolet,Equinox,Equinox AWD
+2023,Chevrolet,Equinox,Equinox FWD
+2023,Chevrolet,Malibu,Malibu
+2023,Chevrolet,Silverado,Silverado 2WD
+2023,Chevrolet,Silverado,Silverado 4WD
+2023,Chevrolet,Silverado,Silverado 4WD ZR2
+2023,Chevrolet,Silverado,Silverado Cab Chassis 2WD
+2023,Chevrolet,Silverado,Silverado Cab Chassis 4WD
+2023,Chevrolet,Silverado,Silverado Mud Terrain Tires 4WD
+2023,Chevrolet,Suburban,Suburban 2WD
+2023,Chevrolet,Suburban,Suburban 4WD
+2023,Chevrolet,Tahoe,Tahoe 2WD
+2023,Chevrolet,Tahoe,Tahoe 4WD
+2023,Chevrolet,Trailblazer,Trailblazer AWD
+2023,Chevrolet,Trailblazer,Trailblazer FWD
+2023,Chevrolet,Traverse,Traverse AWD
+2023,Chevrolet,Traverse,Traverse FWD
+2023,Chrysler,300,300
+2023,Chrysler,300,300 AWD
+2023,Chrysler,Pacifica,Pacifica
+2023,Chrysler,Pacifica,Pacifica AWD
+2023,Chrysler,Pacifica,Pacifica Hybrid
+2023,Chrysler,Voyager,Voyager
+2023,Dodge,Challenger,Challenger
+2023,Dodge,Challenger,Challenger AWD
+2023,Dodge,Challenger,Challenger SRT
+2023,Dodge,Challenger,Challenger SRT Demon 170
+2023,Dodge,Challenger,Challenger SRT Widebody
+2023,Dodge,Challenger,Challenger Widebody
+2023,Dodge,Charger,Charger
+2023,Dodge,Charger,Charger AWD
+2023,Dodge,Charger,Charger SRT Widebody
+2023,Dodge,Charger,Charger Widebody
+2023,Dodge,Durango,Durango AWD
+2023,Dodge,Durango,Durango RWD
+2023,Dodge,Durango,Durango SRT AWD
+2023,Dodge,Hornet,Hornet AWD
+2023,Ferrari,296 GTB Spider,296 GTB Spider
+2023,Ferrari,812 Competizione,812 Competizione
+2023,Ferrari,812 Competizione,812 Competizione A
+2023,Ferrari,812 GTS,812 GTS
+2023,Ferrari,Daytona SP3,Daytona SP3
+2023,Ferrari,F175 AHA,F175 AHA
+2023,Ferrari,F8 Spider,F8 Spider
+2023,Ferrari,F8 Tributo,F8 Tributo
+2023,Ferrari,Monza SP1,Monza SP1
+2023,Ferrari,Monza SP2,Monza SP2
+2023,Ferrari,Portofino,Portofino M
+2023,Ferrari,Roma,Roma
+2023,Ferrari,SF90 Spider,SF90 Spider
+2023,Ferrari,SF90 Stradale,SF90 Stradale
+2023,Fiat,500,500X AWD
+2023,Fisker,Ocean,Ocean Extreme One
+2023,Ford,Bronco,Bronco 4WD
+2023,Ford,Bronco,Bronco Badlands 4WD
+2023,Ford,Bronco,Bronco Black Diamond 4WD
+2023,Ford,Bronco,Bronco Raptor 4WD
+2023,Ford,Bronco,Bronco Sasquatch 4WD
+2023,Ford,Bronco Sport,Bronco Sport 4WD
+2023,Ford,Edge,Edge AWD
+2023,Ford,Escape,Escape AWD
+2023,Ford,Escape,Escape AWD HEV
+2023,Ford,Escape,Escape FWD
+2023,Ford,Escape,Escape FWD HEV
+2023,Ford,Escape,Escape FWD PHEV
+2023,Ford,Expedition,Expedition 2WD
+2023,Ford,Expedition,Expedition 4WD
+2023,Ford,Expedition,Expedition Timberline AWD
+2023,Ford,Explorer,Explorer AWD
+2023,Ford,Explorer,Explorer FFV AWD
+2023,Ford,Explorer,Explorer HEV AWD
+2023,Ford,Explorer,Explorer HEV RWD
+2023,Ford,Explorer,Explorer Platinum HEV AWD
+2023,Ford,Explorer,Explorer Platinum HEV RWD
+2023,Ford,Explorer,Explorer RWD
+2023,Ford,Explorer,Explorer Timberline AWD
+2023,Ford,F-150 Lightning,F-150 Lightning 4WD
+2023,Ford,F-150 Lightning,F-150 Lightning 4WD Extended Range
+2023,Ford,F-150 Lightning,F-150 Lightning Platinum 4WD
+2023,Ford,F150,F150 Pickup 2WD
+2023,Ford,F150,F150 Pickup 2WD FFV
+2023,Ford,F150,F150 Pickup 2WD HEV
+2023,Ford,F150,F150 Pickup 4WD
+2023,Ford,F150,F150 Pickup 4WD FFV
+2023,Ford,F150,F150 Pickup 4WD HEV
+2023,Ford,F150,F150 Pickup Tremor 4WD
+2023,Ford,F150,F150 Pickup Tremor 4WD FFV
+2023,Ford,F150,F150 RAPTOR 37 4WD
+2023,Ford,F150,F150 RAPTOR 4WD
+2023,Ford,F150,F150 RAPTOR R 4WD
+2023,Ford,Maverick,Maverick AWD
+2023,Ford,Maverick,Maverick FWD
+2023,Ford,Maverick,Maverick HEV FWD
+2023,Ford,Maverick,Maverick Tremor AWD
+2023,Ford,Mustang,Mustang
+2023,Ford,Mustang,Mustang Convertible
+2023,Ford,Mustang,Mustang HO Convertible
+2023,Ford,Mustang,Mustang HO Coupe
+2023,Ford,Mustang,Mustang Mach 1
+2023,Ford,Mustang Mach-E,Mustang Mach-E AWD
+2023,Ford,Mustang Mach-E,Mustang Mach-E AWD Extended
+2023,Ford,Mustang Mach-E,MUSTANG MACH-E CAL RT 1 ER AWD
+2023,Ford,Mustang Mach-E,Mustang Mach-E GT
+2023,Ford,Mustang Mach-E,Mustang Mach-E GT Performance
+2023,Ford,Mustang Mach-E,Mustang Mach-E RWD
+2023,Ford,Mustang Mach-E,Mustang Mach-E RWD Extended
+2023,Ford,Mustang Mach-E,Mustang Mach-E RWD LFP
+2023,Ford,Ranger,Ranger 2WD
+2023,Ford,Ranger,Ranger 4WD
+2023,Ford,Ranger,Ranger Tremor 4WD
+2023,Ford,Transit Connect,Transit Connect Van FWD
+2023,Ford,Transit Connect,Transit Connect Wagon LWB FWD
+2023,Genesis,G70,G70 AWD
+2023,Genesis,G70,G70 RWD
+2023,Genesis,G80,Electrified G80
+2023,Genesis,G80,G80 AWD
+2023,Genesis,G80,G80 RWD
+2023,Genesis,G90,G90 AWD
+2023,Genesis,G90,G90 MHEV
+2023,Genesis,GV60,GV60 ADVANCE
+2023,Genesis,GV60,GV60 PERFORMANCE
+2023,Genesis,GV70,GV70 AWD
+2023,Genesis,GV80,GV80 AWD
+2023,GMC,Acadia,Acadia AWD
+2023,GMC,Acadia,Acadia FWD
+2023,GMC,Canyon,Canyon 2WD
+2023,GMC,Canyon,Canyon 4WD
+2023,GMC,Canyon,Canyon AT4X 4WD
+2023,GMC,Canyon,Canyon Mud Terrain Tires 4WD
+2023,GMC,Sierra,Sierra 2WD
+2023,GMC,Sierra,Sierra 4WD
+2023,GMC,Sierra,Sierra 4WD AT4X
+2023,GMC,Sierra,Sierra Cab Chassis 2WD
+2023,GMC,Sierra,Sierra Cab Chassis 4WD
+2023,GMC,Sierra,Sierra Mud Terrain Tires 4WD
+2023,GMC,Terrain,Terrain AWD
+2023,GMC,Terrain,Terrain FWD
+2023,GMC,Yukon,Yukon 2WD
+2023,GMC,Yukon,Yukon 4WD
+2023,GMC,Yukon,Yukon XL 2WD
+2023,GMC,Yukon,Yukon XL 4WD
+2023,Honda,Accord,Accord
+2023,Honda,Accord,Accord Hybrid
+2023,Honda,Accord,Accord Hybrid Sport/Touring
+2023,Honda,Civic,Civic 4Dr
+2023,Honda,Civic,Civic 5Dr
+2023,Honda,CR-V,CR-V AWD
+2023,Honda,CR-V,CR-V FWD
+2023,Honda,CR-V,CR-V Hybrid AWD
+2023,Honda,CR-V,CR-V Hybrid FWD
+2023,Honda,HR-V,HR-V AWD
+2023,Honda,HR-V,HR-V FWD
+2023,Honda,Odyssey,Odyssey
+2023,Honda,Passport,Passport AWD
+2023,Honda,Pilot,Pilot AWD
+2023,Honda,Pilot,Pilot AWD Touring/Elite/Black
+2023,Honda,Pilot,Pilot AWD TrailSport
+2023,Honda,Pilot,Pilot FWD
+2023,Honda,Ridgeline,Ridgeline AWD
+2023,Hyundai,Elantra,Elantra
+2023,Hyundai,Elantra,Elantra Hybrid
+2023,Hyundai,Elantra,Elantra Hybrid Blue
+2023,Hyundai,Elantra,Elantra N
+2023,Hyundai,Ioniq 6,Ioniq 6 Long range AWD (18 inch Wheels)
+2023,Hyundai,Ioniq 6,Ioniq 6 Long range AWD (20 inch Wheels)
+2023,Hyundai,Ioniq 6,Ioniq 6 Long range RWD (18 inch Wheels)
+2023,Hyundai,Ioniq 6,Ioniq 6 Long range RWD (20 inch Wheels)
+2023,Hyundai,Ioniq 6,Ioniq 6 Standard Range RWD
+2023,Hyundai,Kona,Kona AWD
+2023,Hyundai,Kona,Kona Electric
+2023,Hyundai,Kona,Kona FWD
+2023,Hyundai,Kona,Kona N
+2023,Hyundai,Nexo,Nexo
+2023,Hyundai,Nexo,Nexo Blue
+2023,Hyundai,Palisade,Palisade AWD
+2023,Hyundai,Palisade,Palisade FWD
+2023,Hyundai,Santa Cruz,Santa Cruz AWD
+2023,Hyundai,Santa Cruz,Santa Cruz FWD
+2023,Hyundai,Santa Fe,Santa Fe AWD
+2023,Hyundai,Santa Fe,Santa Fe FWD
+2023,Hyundai,Santa Fe,Santa Fe Hybrid
+2023,Hyundai,Santa Fe,Santa Fe Hybrid Blue
+2023,Hyundai,Santa Fe,Santa Fe Plug-in Hybrid
+2023,Hyundai,Sonata,Sonata
+2023,Hyundai,Sonata,Sonata Hybrid
+2023,Hyundai,Sonata,Sonata Hybrid Blue
+2023,Hyundai,Tucson,Tucson AWD
+2023,Hyundai,Tucson,Tucson FWD
+2023,Hyundai,Tucson,Tucson Hybrid
+2023,Hyundai,Tucson,Tucson Hybrid Blue
+2023,Hyundai,Tucson,Tucson Plug-in Hybrid
+2023,Hyundai,Venue,Venue
+2023,INEOS Automotive,Grenadier,Grenadier
+2023,INEOS Automotive,Grenadier,Grenadier Trialmaster Edition
+2023,Infiniti,Q50,Q50
+2023,Infiniti,Q50,Q50 AWD
+2023,Infiniti,Q50,Q50 Red Sport
+2023,Infiniti,Q50,Q50 Red Sport  AWD
+2023,Infiniti,QX50,QX50
+2023,Infiniti,QX50,QX50 AWD
+2023,Infiniti,QX55,QX55 AWD
+2023,Infiniti,QX60,QX60 AWD
+2023,Infiniti,QX60,QX60 FWD
+2023,Infiniti,QX80,QX80 2WD
+2023,Infiniti,QX80,QX80 4WD
+2023,Jaguar,E-Pace,E-Pace
+2023,Jaguar,F-Pace,F-Pace
+2023,Jaguar,F-Pace,F-Pace P340 MHEV
+2023,Jaguar,F-Pace,F-Pace P400 MHEV
+2023,Jaguar,F-Pace,F-Pace SVR
+2023,Jaguar,F-Type,F-Type P450 AWD R-Dynamic Convertible
+2023,Jaguar,F-Type,F-Type P450 AWD R-Dynamic Coupe
+2023,Jaguar,F-Type,F-Type P450 RWD Convertible
+2023,Jaguar,F-Type,F-Type P450 RWD Coupe
+2023,Jaguar,F-Type,F-Type R AWD Convertible
+2023,Jaguar,F-Type,F-Type R AWD Coupe
+2023,Jaguar,I-Pace,I-Pace EV400 (20 inch tires)
+2023,Jaguar,I-Pace,I-Pace EV400 (22 inch tires)
+2023,Jaguar,XF,XF P250
+2023,Jaguar,XF,XF P250 AWD
+2023,Jaguar,XF,XF P300 AWD
+2023,Jeep,Cherokee,Cherokee 4WD
+2023,Jeep,Cherokee,Cherokee Trailhawk 4WD
+2023,Jeep,Compass,Compass 4WD
+2023,Jeep,Gladiator,Gladiator 4WD
+2023,Jeep,Gladiator,Gladiator EcoDiesel 4WD
+2023,Jeep,Gladiator,Gladiator Rubic EcoDiesel 4WD
+2023,Jeep,Grand Cherokee,Grand Cherokee 2WD
+2023,Jeep,Grand Cherokee,Grand Cherokee 4WD
+2023,Jeep,Grand Cherokee,Grand Cherokee 4xe
+2023,Jeep,Grand Cherokee,Grand Cherokee L 2WD
+2023,Jeep,Grand Cherokee,Grand Cherokee L 4WD
+2023,Jeep,Grand Wagoneer,Grand Wagoneer 4WD
+2023,Jeep,Grand Wagoneer,Grand Wagoneer L 4WD
+2023,Jeep,Renegade,Renegade 4WD
+2023,Jeep,Renegade,Renegade Trailhawk 4WD
+2023,Jeep,Wagoneer,Wagoneer 2WD
+2023,Jeep,Wagoneer,Wagoneer 4WD
+2023,Jeep,Wagoneer,Wagoneer L 2WD
+2023,Jeep,Wagoneer,Wagoneer L 4WD
+2023,Jeep,Wrangler,Wrangler 2dr 4WD
+2023,Jeep,Wrangler,Wrangler 4dr 4WD
+2023,Jeep,Wrangler,Wrangler 4dr 4xe
+2023,Jeep,Wrangler,Wrangler 4dr EcoDiesel 4WD
+2023,Jeep,Wrangler,Wrangler Rubic 4dr EcoDiesel 4WD
+2023,Kia,Carnival,Carnival
+2023,Kia,EV6,EV6 AWD GT
+2023,Kia,EV6,EV6 Long Range AWD (19 inch tires)
+2023,Kia,EV6,EV6 Long Range AWD (20 inch tires)
+2023,Kia,EV6,EV6 Long Range RWD
+2023,Kia,EV6,EV6 Standard Range RWD
+2023,Kia,Forte,Forte
+2023,Kia,Forte,Forte FE
+2023,Kia,K5,K5
+2023,Kia,K5,K5 AWD
+2023,Kia,Niro,Niro
+2023,Kia,Niro,Niro Electric
+2023,Kia,Niro,Niro FE
+2023,Kia,Niro,Niro Plug-in Hybrid
+2023,Kia,Rio,Rio
+2023,Kia,Seltos,Seltos AWD
+2023,Kia,Seltos,Seltos FWD
+2023,Kia,Sorento,Sorento AWD
+2023,Kia,Sorento,Sorento FWD
+2023,Kia,Sorento,Sorento Hybrid AWD
+2023,Kia,Sorento,Sorento Hybrid FWD
+2023,Kia,Sorento,Sorento Plug-in Hybrid
+2023,Kia,Soul,Soul
+2023,Kia,Soul,Soul Eco dynamics
+2023,Kia,Sportage,Sportage AWD
+2023,Kia,Sportage,Sportage FWD
+2023,Kia,Sportage,Sportage Hybrid AWD
+2023,Kia,Sportage,Sportage Hybrid FWD
+2023,Kia,Sportage,Sportage Plug-in Hybrid
+2023,Kia,Stinger,Stinger AWD
+2023,Kia,Stinger,Stinger RWD
+2023,Kia,Telluride,Telluride AWD
+2023,Kia,Telluride,Telluride FWD
+2023,Lamborghini,Huracan,Huracan Coupe
+2023,Lamborghini,Huracan,Huracan Coupe 2WD
+2023,Lamborghini,Huracan,Huracan Spyder
+2023,Lamborghini,Huracan,Huracan Spyder 2WD
+2023,Lamborghini,Urus,Urus Performante
+2023,Lamborghini,Urus,Urus S
+2023,Land Rover,Defender,Defender 110
+2023,Land Rover,Defender,Defender 110 MHEV
+2023,Land Rover,Defender,Defender 130 P300 MHEV
+2023,Land Rover,Defender,Defender 130 P400 MHEV
+2023,Land Rover,Defender,Defender 90
+2023,Land Rover,Defender,Defender 90 MHEV
+2023,Land Rover,Discovery,Discovery
+2023,Land Rover,Discovery,Discovery MHEV
+2023,Land Rover,Discovery,Discovery Sport
+2023,Land Rover,Range Rover,New Range Rover
+2023,Land Rover,Range Rover,New Range Rover LWB
+2023,Land Rover,Range Rover,New Range Rover P360 LWB MHEV
+2023,Land Rover,Range Rover,New Range Rover P360 MHEV
+2023,Land Rover,Range Rover,New Range Rover P400 LWB MHEV
+2023,Land Rover,Range Rover,New Range Rover P400 MHEV
+2023,Land Rover,Range Rover,New Range Rover P440 PHEV
+2023,Land Rover,Range Rover,New Range Rover Sport
+2023,Land Rover,Range Rover,New Range Rover Sport P360 MHEV
+2023,Land Rover,Range Rover,New Range Rover Sport P400 MHEV
+2023,Land Rover,Range Rover,New Range Rover Sport P440 PHEV
+2023,Land Rover,Range Rover,Range Rover Evoque
+2023,Land Rover,Range Rover,Range Rover Evoque MHEV
+2023,Land Rover,Range Rover,Range Rover Velar
+2023,Land Rover,Range Rover,Range Rover Velar P340 MHEV
+2023,Land Rover,Range Rover,Range Rover Velar P400 MHEV
+2023,Lexus,ES,ES 250 AWD
+2023,Lexus,ES,ES 300h
+2023,Lexus,ES,ES 350
+2023,Lexus,ES,ES 350 F Sport
+2023,Lexus,GX,GX 460
+2023,Lexus,IS,IS 300
+2023,Lexus,IS,IS 300 AWD
+2023,Lexus,IS,IS 350
+2023,Lexus,IS,IS 350 AWD
+2023,Lexus,IS,IS 500
+2023,Lexus,LC,LC 500
+2023,Lexus,LC,LC 500 Convertible
+2023,Lexus,LC,LC 500h
+2023,Lexus,LS,LS 500
+2023,Lexus,LS,LS 500 AWD
+2023,Lexus,LS,LS 500h
+2023,Lexus,LS,LS 500h AWD
+2023,Lexus,LX,LX 600
+2023,Lexus,NX,NX 250
+2023,Lexus,NX,NX 250 AWD
+2023,Lexus,NX,NX 350 AWD
+2023,Lexus,NX,NX 350h AWD
+2023,Lexus,NX,NX 450h Plus AWD
+2023,Lexus,RC,RC 300
+2023,Lexus,RC,RC 300 AWD
+2023,Lexus,RC,RC 350
+2023,Lexus,RC,RC 350 AWD
+2023,Lexus,RC,RC F
+2023,Lexus,RX,RX 350
+2023,Lexus,RX,RX 350 AWD
+2023,Lexus,RX,RX 350h AWD
+2023,Lexus,RX,RX 500h AWD
+2023,Lexus,RZ,RZ 450e AWD (18 inch Wheels)
+2023,Lexus,RZ,RZ 450e AWD (20 inch Wheels)
+2023,Lexus,UX,UX 250h
+2023,Lexus,UX,UX 250h AWD
+2023,Lincoln,Aviator,Aviator AWD
+2023,Lincoln,Aviator,Aviator PHEV AWD
+2023,Lincoln,Aviator,Aviator RWD
+2023,Lincoln,Corsair,Corsair AWD
+2023,Lincoln,Corsair,Corsair AWD PHEV
+2023,Lincoln,Corsair,Corsair FWD
+2023,Lincoln,Nautilus,Nautilus AWD
+2023,Lincoln,Nautilus,Nautilus FWD
+2023,Lincoln,Navigator,Navigator 2WD
+2023,Lincoln,Navigator,Navigator 4WD
+2023,Lordstown,Endurance,Endurance
+2023,Lucid,Air,Air G Touring XR AWD with 19 inch wheels
+2023,Lucid,Air,Air G Touring XR AWD with 20 inch wheels
+2023,Lucid,Air,Air G Touring XR AWD with 21 inch wheels
+2023,Lucid,Air,Air GT P AWD with 21 inch wheels
+2023,Lucid,Air,Air Pure AWD with 19 inch wheels
+2023,Lucid,Air,Air Pure AWD with 20 inch wheels
+2023,Lucid,Air,Air Touring AWD with 19 inch wheels
+2023,Lucid,Air,Air Touring AWD with 20 inch wheels
+2023,Lucid,Air,Air Touring AWD with 21 inch wheels
+2023,Maserati,Ghibli,Ghibli GT
+2023,Maserati,Ghibli,Ghibli Modena AWD
+2023,Maserati,Ghibli,Ghibli Modena RWD
+2023,Maserati,Ghibli,Ghibli Trofeo
+2023,Maserati,Grecale,Grecale GT
+2023,Maserati,Grecale,Grecale Modena
+2023,Maserati,Grecale,Grecale Trofeo
+2023,Maserati,Levante,Levante GT
+2023,Maserati,Levante,Levante Modena
+2023,Maserati,Levante,Levante Modena V8
+2023,Maserati,Levante,Levante Trofeo
+2023,Maserati,MC20,MC20
+2023,Maserati,MC20,MC20 Spyder
+2023,Maserati,Quattroporte,Quattroporte GT
+2023,Maserati,Quattroporte,Quattroporte Modena AWD
+2023,Maserati,Quattroporte,Quattroporte Modena RWD
+2023,Maserati,Quattroporte,Quattroporte Trofeo
+2023,Mazda,3,3 4-Door 2WD
+2023,Mazda,3,3 4-Door 4WD
+2023,Mazda,3,3 5-Door 2WD
+2023,Mazda,3,3 5-Door 4WD
+2023,Mazda,CX-30,CX-30 4WD
+2023,Mazda,CX-5,CX-5 4WD
+2023,Mazda,CX-50,CX-50 4WD
+2023,Mazda,CX-9,CX-9 4WD
+2023,Mazda,MX-30,MX-30
+2023,Mazda,MX-5,MX-5
+2023,McLaren Automotive,Artura,Artura
+2023,Mercedes-Benz,AMG GT,AMG GT 43 4matic Plus
+2023,Mercedes-Benz,AMG GT,AMG GT 53 4matic Plus
+2023,Mercedes-Benz,AMG GT,AMG GT 63 4matic Plus
+2023,Mercedes-Benz,AMG GT,AMG GT 63 S 4matic Plus
+2023,Mercedes-Benz,C-Class,AMG C43 4matic
+2023,Mercedes-Benz,C-Class,AMG C43 4matic Convertible
+2023,Mercedes-Benz,C-Class,AMG C43 4matic Coupe
+2023,Mercedes-Benz,C-Class,AMG C63 S Convertible
+2023,Mercedes-Benz,C-Class,AMG C63 S Coupe
+2023,Mercedes-Benz,C-Class,C300
+2023,Mercedes-Benz,C-Class,C300 4matic
+2023,Mercedes-Benz,C-Class,C300 4matic Convertible
+2023,Mercedes-Benz,C-Class,C300 4matic Coupe
+2023,Mercedes-Benz,C-Class,C300 Convertible
+2023,Mercedes-Benz,C-Class,C300 Coupe
+2023,Mercedes-Benz,CLA-Class,AMG CLA35 4matic
+2023,Mercedes-Benz,CLA-Class,AMG CLA45 4matic
+2023,Mercedes-Benz,CLA-Class,CLA250
+2023,Mercedes-Benz,CLA-Class,CLA250 4matic
+2023,Mercedes-Benz,CLS-Class,CLS450 4matic
+2023,Mercedes-Benz,E-Class,AMG E53 4matic Plus
+2023,Mercedes-Benz,E-Class,AMG E53 4matic Plus Convertible
+2023,Mercedes-Benz,E-Class,AMG E53 4matic Plus Coupe
+2023,Mercedes-Benz,E-Class,AMG E63 S 4matic Plus
+2023,Mercedes-Benz,E-Class,AMG E63 S 4matic Plus (SW)
+2023,Mercedes-Benz,E-Class,E350
+2023,Mercedes-Benz,E-Class,E350 4matic
+2023,Mercedes-Benz,E-Class,E450 4matic
+2023,Mercedes-Benz,E-Class,E450 4matic All-Terrain (wagon)
+2023,Mercedes-Benz,E-Class,E450 4matic Convertible
+2023,Mercedes-Benz,E-Class,E450 4matic Coupe
+2023,Mercedes-Benz,E-Class,E450 Convertible
+2023,Mercedes-Benz,E-Class,E450 Coupe
+2023,Mercedes-Benz,EQS,EQS 450 4matic
+2023,Mercedes-Benz,EQS,EQS 450 4matic (SUV)
+2023,Mercedes-Benz,EQS,EQS 450 Plus (SUV)
+2023,Mercedes-Benz,EQS,EQS 580 4matic (SUV)
+2023,Mercedes-Benz,G-Class,AMG G 63 4x4 Squared
+2023,Mercedes-Benz,G-Class,AMG G63
+2023,Mercedes-Benz,G-Class,G550
+2023,Mercedes-Benz,GLA-Class,AMG GLA35 4matic
+2023,Mercedes-Benz,GLA-Class,AMG GLA45 4matic
+2023,Mercedes-Benz,GLA-Class,GLA250
+2023,Mercedes-Benz,GLA-Class,GLA250 4matic
+2023,Mercedes-Benz,GLB-Class,AMG GLB35 4matic
+2023,Mercedes-Benz,GLB-Class,GLB250
+2023,Mercedes-Benz,GLB-Class,GLB250 4matic
+2023,Mercedes-Benz,GLC-Class,AMG GLC43 4matic Coupe
+2023,Mercedes-Benz,GLC-Class,GLC300
+2023,Mercedes-Benz,GLC-Class,GLC300 4matic
+2023,Mercedes-Benz,GLC-Class,GLC300 4matic Coupe
+2023,Mercedes-Benz,GLE-Class,AMG GLE53 4matic Plus
+2023,Mercedes-Benz,GLE-Class,AMG GLE53 4matic Plus Coupe
+2023,Mercedes-Benz,GLE-Class,AMG GLE63 S 4matic Plus
+2023,Mercedes-Benz,GLE-Class,AMG GLE63 S 4matic Plus Coupe
+2023,Mercedes-Benz,GLE-Class,GLE350
+2023,Mercedes-Benz,GLE-Class,GLE350 4matic
+2023,Mercedes-Benz,GLE-Class,GLE450 4matic
+2023,Mercedes-Benz,GLE-Class,GLE580 4matic
+2023,Mercedes-Benz,GLS-Class,AMG GLS63 4matic Plus
+2023,Mercedes-Benz,GLS-Class,GLS450 4matic
+2023,Mercedes-Benz,GLS-Class,GLS580 4matic
+2023,Mercedes-Benz,GLS-Class,GLS600 4matic Maybach
+2023,Mercedes-Benz,Metris Cargo,"Metris (Cargo Van, LWB)"
+2023,Mercedes-Benz,Metris Cargo,Metris (Cargo Van)
+2023,Mercedes-Benz,Metris Cargo,Metris (US Postal Long)
+2023,Mercedes-Benz,Metris Cargo,Metris (US Postal)
+2023,Mercedes-Benz,Metris Passenger,Metris (Passenger Van)
+2023,Mercedes-Benz,S-Class,Maybach S680 4matic
+2023,Mercedes-Benz,S-Class,S500 4matic
+2023,Mercedes-Benz,S-Class,S580 4matic
+2023,Mercedes-Benz,S-Class,S580 4matic Maybach
+2023,Mercedes-Benz,S-Class,S580e 4matic
+2023,Mercedes-Benz,SL-Class,AMG SL43
+2023,Mercedes-Benz,SL-Class,AMG SL55 4matic Plus
+2023,Mercedes-Benz,SL-Class,AMG SL63 4matic Plus
+2023,MINI,Clubman,Cooper S Clubman
+2023,MINI,Clubman,Cooper S Clubman All4
+2023,MINI,Cooper,Cooper Convertible
+2023,MINI,Cooper,Cooper Hardtop 2 door
+2023,MINI,Cooper,Cooper Hardtop 4 door
+2023,MINI,Cooper,Cooper S Convertible
+2023,MINI,Cooper,Cooper S Hardtop 2 door
+2023,MINI,Cooper,Cooper S Hardtop 4 door
+2023,MINI,Cooper,Cooper SE Hardtop 2 door
+2023,MINI,Countryman,Cooper Countryman
+2023,MINI,Countryman,Cooper Countryman All4
+2023,MINI,Countryman,Cooper S Countryman
+2023,MINI,Countryman,Cooper S Countryman All4
+2023,MINI,Countryman,Cooper SE Countryman All4
+2023,MINI,John Cooper Works,JCW Countryman All4
+2023,MINI,John Cooper Works,John Cooper Works Clubman All4
+2023,MINI,John Cooper Works,John Cooper Works Convertible
+2023,MINI,John Cooper Works,John Cooper Works Hardtop 2 door
+2023,Mitsubishi,Eclipse Cross,Eclipse Cross 2WD
+2023,Mitsubishi,Eclipse Cross,Eclipse Cross 4WD
+2023,Mitsubishi,Eclipse Cross,Eclipse Cross ES 2WD
+2023,Mitsubishi,Eclipse Cross,Eclipse Cross ES 4WD
+2023,Mitsubishi,Mirage,Mirage
+2023,Mitsubishi,Mirage,Mirage G4
+2023,Mitsubishi,Outlander,Outlander 2WD
+2023,Mitsubishi,Outlander,Outlander 4WD
+2023,Mitsubishi,Outlander,Outlander PHEV
+2023,Mitsubishi,Outlander,Outlander Sport 2WD
+2023,Mitsubishi,Outlander,Outlander Sport 4WD
+2023,Nissan,Altima,Altima
+2023,Nissan,Altima,Altima AWD
+2023,Nissan,Altima,Altima SL/SR
+2023,Nissan,Altima,Altima SR
+2023,Nissan,ARIYA,ARIYA ENG Plus/EVO Plus e-4ORCE 87kWh
+2023,Nissan,ARIYA,ARIYA ENGAGE e-4ORCE 63kWh
+2023,Nissan,ARIYA,ARIYA ENGAGE FWD 63kWh
+2023,Nissan,ARIYA,ARIYA EVO Plus/EMP Plus/PRM FWD 87kWh
+2023,Nissan,ARIYA,ARIYA PLAT Plus e-4ORCE 87kWh 19
+2023,Nissan,ARIYA,ARIYA PLAT Plus e-4ORCE 87kWh 20
+2023,Nissan,ARIYA,ARIYA VENTURE Plus FWD 87kWh
+2023,Nissan,Armada,Armada 2WD
+2023,Nissan,Armada,Armada 4WD
+2023,Nissan,Frontier,Frontier 2WD
+2023,Nissan,Frontier,Frontier 4WD
+2023,Nissan,Frontier,Frontier 4WD PRO4X
+2023,Nissan,GT-R,GT-R
+2023,Nissan,Kicks,Kicks
+2023,Nissan,LEAF,LEAF
+2023,Nissan,LEAF,LEAF SV
+2023,Nissan,Maxima,Maxima
+2023,Nissan,Murano,Murano AWD
+2023,Nissan,Murano,Murano FWD
+2023,Nissan,Pathfinder,Pathfinder 2WD
+2023,Nissan,Pathfinder,Pathfinder 4WD
+2023,Nissan,Pathfinder,Pathfinder 4WD Rock Creek
+2023,Nissan,Pathfinder,Pathfinder 4WD SL/Platinum
+2023,Nissan,Rogue,Rogue AWD
+2023,Nissan,Rogue,Rogue AWD SL/Platinum
+2023,Nissan,Rogue,Rogue FWD
+2023,Nissan,Rogue,Rogue FWD SL/Platinum
+2023,Nissan,Sentra,Sentra
+2023,Nissan,Sentra,Sentra SR
+2023,Nissan,Titan,Titan 2WD
+2023,Nissan,Titan,Titan 4WD
+2023,Nissan,Titan,Titan 4WD PRO4X
+2023,Nissan,Versa,Versa
+2023,Nissan,Z,Z
+2023,Pagani,Huayra,Huayra
+2023,Polestar,2,2 BST edition
+2023,Polestar,2,2 Dual Motor
+2023,Polestar,2,2 Dual Motor Perf Pack
+2023,Polestar,2,2 Single Motor
+2023,Porsche,718,718 Boxster
+2023,Porsche,718,718 Boxster GTS
+2023,Porsche,718,718 Boxster S
+2023,Porsche,718,718 Boxster T
+2023,Porsche,718,718 Cayman
+2023,Porsche,718,718 Cayman GT4
+2023,Porsche,718,718 Cayman GTS
+2023,Porsche,718,718 Cayman S
+2023,Porsche,718,718 Cayman T
+2023,Porsche,718,718 GT4 RS
+2023,Porsche,718,718 Spyder
+2023,Porsche,911,911 Carrera
+2023,Porsche,911,911 Carrera 4
+2023,Porsche,911,911 Carrera 4 Cabriolet
+2023,Porsche,911,911 Carrera 4 GTS
+2023,Porsche,911,911 Carrera 4 GTS Cabriolet
+2023,Porsche,911,911 Carrera 4S
+2023,Porsche,911,911 Carrera 4S Cabriolet
+2023,Porsche,911,911 Carrera Cabriolet
+2023,Porsche,911,911 Carrera GTS
+2023,Porsche,911,911 Carrera GTS Cabriolet
+2023,Porsche,911,911 Carrera S
+2023,Porsche,911,911 Carrera S Cabriolet
+2023,Porsche,911,911 Carrera T
+2023,Porsche,911,911 Dakar
+2023,Porsche,911,911 GT3
+2023,Porsche,911,911 GT3 RS
+2023,Porsche,911,911 GT3 Touring
+2023,Porsche,911,911 Sport Classic
+2023,Porsche,911,911 Targa 4
+2023,Porsche,911,911 Targa 4 GTS
+2023,Porsche,911,911 Targa 4S
+2023,Porsche,911,911 Turbo
+2023,Porsche,911,911 Turbo Cabriolet
+2023,Porsche,911,911 Turbo S
+2023,Porsche,911,911 Turbo S Cabriolet
+2023,Porsche,Cayenne,Cayenne
+2023,Porsche,Cayenne,Cayenne Coupe
+2023,Porsche,Cayenne,Cayenne GTS
+2023,Porsche,Cayenne,Cayenne GTS Coupe
+2023,Porsche,Cayenne,Cayenne S
+2023,Porsche,Cayenne,Cayenne S Coupe
+2023,Porsche,Cayenne,Cayenne Turbo
+2023,Porsche,Cayenne,Cayenne Turbo Coupe
+2023,Porsche,Cayenne,Cayenne Turbo GT
+2023,Porsche,Cayenne,Cayenne Turbo S e-Hybrid
+2023,Porsche,Cayenne,Cayenne Turbo S e-Hybrid Coupe
+2023,Porsche,Macan,Macan
+2023,Porsche,Macan,Macan GTS
+2023,Porsche,Macan,Macan S
+2023,Porsche,Macan,Macan T
+2023,Porsche,Panamera,Panamera
+2023,Porsche,Panamera,Panamera 4
+2023,Porsche,Panamera,Panamera 4 e-Hybrid
+2023,Porsche,Panamera,Panamera 4 Executive
+2023,Porsche,Panamera,Panamera 4 ST
+2023,Porsche,Panamera,Panamera 4S
+2023,Porsche,Panamera,Panamera 4S E-Hybrid
+2023,Porsche,Panamera,Panamera 4S Executive
+2023,Porsche,Panamera,Panamera 4S ST
+2023,Porsche,Panamera,Panamera GTS
+2023,Porsche,Panamera,Panamera GTS ST
+2023,Porsche,Panamera,Panamera Turbo S
+2023,Porsche,Panamera,Panamera Turbo S e-Hybrid
+2023,Porsche,Panamera,Panamera Turbo S Executive
+2023,Porsche,Panamera,Panamera Turbo S ST
+2023,Porsche,Taycan,Taycan 4 Cross Turismo
+2023,Porsche,Taycan,Taycan 4S Cross Turismo
+2023,Porsche,Taycan,Taycan 4S Perf Battery Plus
+2023,Porsche,Taycan,Taycan 4S Performance Battery
+2023,Porsche,Taycan,Taycan GTS
+2023,Porsche,Taycan,Taycan GTS Sport Turismo
+2023,Porsche,Taycan,Taycan Perf Battery Plus
+2023,Porsche,Taycan,Taycan Performance Battery
+2023,Porsche,Taycan,Taycan Turbo
+2023,Porsche,Taycan,Taycan Turbo Cross Turismo
+2023,Porsche,Taycan,Taycan Turbo S
+2023,Porsche,Taycan,Taycan Turbo S Cross Turismo
+2023,Ram,1500,1500 2WD
+2023,Ram,1500,1500 4WD
+2023,Ram,1500,1500 Classic 2WD
+2023,Ram,1500,1500 Classic 4WD
+2023,Ram,1500,1500 HFE 2WD
+2023,Ram,1500,1500 TRX 4WD
+2023,Rivian,R1S,R1S (20 inch wheels)
+2023,Rivian,R1S,R1S (21 inch wheels)
+2023,Rivian,R1S,R1S (22 inch wheels)
+2023,Rivian,R1S,R1S 20 inch All-Terrain
+2023,Rivian,R1S,R1S 20 inch All-Terrain Dual Large
+2023,Rivian,R1S,R1S 20 inch All-Terrain Performance Dual Large
+2023,Rivian,R1S,R1S 21 inch Dual Large
+2023,Rivian,R1S,R1S 21 inch Performance Dual Large
+2023,Rivian,R1S,R1S 22 inch Dual Large
+2023,Rivian,R1S,R1S 22 inch Performance Dual Large
+2023,Rivian,R1T,R1T (20 inch wheels)
+2023,Rivian,R1T,R1T (21 inch wheels)
+2023,Rivian,R1T,R1T (22 inch wheels)
+2023,Rivian,R1T,R1T 21 inch Dual Large
+2023,Rivian,R1T,R1T 21 inch Performance Dual Large
+2023,Rivian,R1T,R1T 22 inch Dual Large
+2023,Rivian,R1T,R1T 22 inch Performance Dual Large
+2023,Rolls-Royce,Cullinan,Cullinan
+2023,Rolls-Royce,Cullinan,Cullinan Black Badge
+2023,Rolls-Royce,Ghost,Ghost
+2023,Rolls-Royce,Ghost,Ghost Black Badge
+2023,Rolls-Royce,Ghost,Ghost Extended
+2023,Rolls-Royce,Phantom,Phantom
+2023,Rolls-Royce,Phantom,Phantom Extended
+2023,RUF Automobile,T12/CTR3/CTR Anniversary,T12/CTR3/CTR Anniversary
+2023,Subaru,Ascent,Ascent
+2023,Subaru,Ascent,Ascent Limited/Touring/Onyx AWD
+2023,Subaru,BRZ,BRZ
+2023,Subaru,Crosstrek,Crosstrek AWD
+2023,Subaru,Crosstrek,Crosstrek Hybrid AWD
+2023,Subaru,Forester,Forester AWD
+2023,Subaru,Forester,Forester Wilderness AWD
+2023,Subaru,Impreza,Impreza 4-Door
+2023,Subaru,Impreza,Impreza 5-Door
+2023,Subaru,Impreza,Impreza Sport 4-Door
+2023,Subaru,Impreza,Impreza Sport 5-Door
+2023,Subaru,Legacy,Legacy AWD
+2023,Subaru,Outback,Outback AWD
+2023,Subaru,Outback,Outback Wilderness AWD
+2023,Subaru,Solterra,Solterra AWD
+2023,Subaru,Solterra,Solterra Limited/Touring AWD
+2023,Subaru,WRX,WRX
+2023,Tesla,Model 3,Model 3 Long Range AWD
+2023,Tesla,Model 3,Model 3 Performance AWD
+2023,Tesla,Model 3,Model 3 RWD
+2023,Tesla,Model S,Model S
+2023,Tesla,Model X,Model X
+2023,Tesla,Model X,Model X Plaid (20 inch wheels)
+2023,Tesla,Model X,Model X Plaid (22 inch wheels)
+2023,Tesla,Model Y,Model Y AWD
+2023,Tesla,Model Y,Model Y Long Range AWD
+2023,Tesla,Model Y,Model Y Performance AWD
+2023,Toyota,4Runner,4Runner 2WD
+2023,Toyota,4Runner,4Runner 4WD
+2023,Toyota,bZ4X,bZ4X
+2023,Toyota,bZ4X,bZ4X AWD
+2023,Toyota,bZ4X,bZ4X LIMITED
+2023,Toyota,bZ4X,bZ4X LIMITED AWD
+2023,Toyota,Camry,Camry
+2023,Toyota,Camry,Camry AWD LE/SE
+2023,Toyota,Camry,Camry AWD XLE/XSE
+2023,Toyota,Camry,Camry Hybrid LE
+2023,Toyota,Camry,Camry Hybrid SE/XLE/XSE
+2023,Toyota,Camry,Camry LE/SE
+2023,Toyota,Camry,Camry TRD
+2023,Toyota,Camry,Camry XLE/XSE
+2023,Toyota,Camry,Camry XSE
+2023,Toyota,Corolla,Corolla
+2023,Toyota,Corolla,Corolla Hatchback
+2023,Toyota,Corolla,Corolla Hatchback XSE
+2023,Toyota,Corolla,Corolla Hybrid
+2023,Toyota,Corolla,Corolla Hybrid AWD
+2023,Toyota,Corolla,GR Corolla
+2023,Toyota,Corolla Cross,Corolla Cross
+2023,Toyota,Corolla Cross,Corolla Cross 4WD
+2023,Toyota,Corolla Cross,Corolla Cross Hybrid AWD
+2023,Toyota,Crown,Crown AWD
+2023,Toyota,GR 86,GR 86
+2023,Toyota,GR Supra,GR Supra
+2023,Toyota,Highlander,Highlander
+2023,Toyota,Highlander,Highlander AWD
+2023,Toyota,Highlander,Highlander Hybrid
+2023,Toyota,Highlander,Highlander Hybrid AWD
+2023,Toyota,Highlander,Highlander Hybrid AWD LTD/PLAT
+2023,Toyota,Mirai,Mirai LE
+2023,Toyota,Mirai,Mirai Limited
+2023,Toyota,Mirai,Mirai XLE
+2023,Toyota,Prius,Prius
+2023,Toyota,Prius,Prius AWD
+2023,Toyota,Prius,Prius AWD XLE/LTD
+2023,Toyota,Prius,Prius XLE/LTD
+2023,Toyota,Prius Prime,Prius Prime
+2023,Toyota,Prius Prime,Prius Prime SE
+2023,Toyota,RAV4,RAV4
+2023,Toyota,RAV4,RAV4 AWD
+2023,Toyota,RAV4,RAV4 AWD LE
+2023,Toyota,RAV4,RAV4 AWD TRD OFFROAD
+2023,Toyota,RAV4,RAV4 Hybrid AWD
+2023,Toyota,RAV4,RAV4 Hybrid AWD Woodland Edition
+2023,Toyota,RAV4 Prime,RAV4 Prime 4WD
+2023,Toyota,Sequoia,Sequoia 2WD
+2023,Toyota,Sequoia,Sequoia 4WD
+2023,Toyota,Sienna,Sienna 2WD
+2023,Toyota,Sienna,Sienna AWD
+2023,Toyota,Tacoma,Tacoma 2WD
+2023,Toyota,Tacoma,Tacoma 4WD
+2023,Toyota,Tacoma,Tacoma 4WD D-CAB MT TRD-ORP/PRO
+2023,Toyota,Tundra,Tundra 2WD
+2023,Toyota,Tundra,Tundra 4WD
+2023,Toyota,Tundra,Tundra 4WD PRO
+2023,Toyota,Venza,Venza AWD
+2023,Vinfast,VF 8,VF 8 Eco
+2023,Vinfast,VF 8,VF 8 Plus
+2023,Volkswagen,Arteon,Arteon
+2023,Volkswagen,Arteon,Arteon 4motion
+2023,Volkswagen,Atlas,Atlas
+2023,Volkswagen,Atlas,Atlas 4motion
+2023,Volkswagen,Atlas,Atlas Cross Sport
+2023,Volkswagen,Atlas,Atlas Cross Sport 4motion
+2023,Volkswagen,GLI,GLI
+2023,Volkswagen,Golf/GTI,Golf-R
+2023,Volkswagen,Golf/GTI,GTI
+2023,Volkswagen,ID.4,ID.4
+2023,Volkswagen,ID.4,ID.4 AWD Pro
+2023,Volkswagen,ID.4,ID.4 AWD Pro S
+2023,Volkswagen,ID.4,ID.4 Pro
+2023,Volkswagen,ID.4,ID.4 Pro S
+2023,Volkswagen,ID.4,ID.4 S
+2023,Volkswagen,Jetta,Jetta
+2023,Volkswagen,Jetta,Jetta Sport/SE/SEL
+2023,Volkswagen,Taos,Taos
+2023,Volkswagen,Taos,Taos 4motion
+2023,Volkswagen,Tiguan,Tiguan
+2023,Volkswagen,Tiguan,Tiguan 4motion
+2023,Volkswagen,Tiguan,Tiguan R-Line 4motion
+2023,Volkswagen,Tiguan,Tiguan S
+2023,Volvo,C40,C40 Recharge twin
+2023,Volvo,S60,S60 B5
+2023,Volvo,S60,S60 B5 AWD
+2023,Volvo,S60,S60 T8 AWD Recharge
+2023,Volvo,S90,S90 B6 AWD
+2023,Volvo,S90,S90 T8 AWD Recharge ext. Range
+2023,Volvo,V60,V60 T8 AWD Recharge ext. Range
+2023,Volvo,V60,V60CC B5 AWD
+2023,Volvo,V90,V90CC B6 AWD
+2023,Volvo,XC40,XC40 B4
+2023,Volvo,XC40,XC40 B5 AWD
+2023,Volvo,XC40,XC40 Recharge twin
+2023,Volvo,XC60,XC60 B5
+2023,Volvo,XC60,XC60 B5 AWD
+2023,Volvo,XC60,XC60 B6 AWD
+2023,Volvo,XC60,XC60 T8 AWD Recharge
+2023,Volvo,XC90,XC90 B5 AWD
+2023,Volvo,XC90,XC90 B6 AWD
+2023,Volvo,XC90,XC90 T8 AWD Recharge

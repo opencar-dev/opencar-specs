@@ -1,0 +1,368 @@
+year,make,model,trim
+1994,Acura,Integra,Integra
+1994,Acura,Legend,Legend
+1994,Acura,NSX,NSX
+1994,Acura,Vigor,Vigor
+1994,Alfa Romeo,164,164
+1994,Alfa Romeo,Spider,Spider
+1994,Audi,100,100
+1994,Audi,100,100 quattro
+1994,Audi,100,100 quattro Wagon
+1994,Audi,100,100 Wagon
+1994,Audi,80/90,90
+1994,Audi,80/90,90 quattro
+1994,Audi,Cabriolet,Cabriolet
+1994,Audi,S4,S4
+1994,Audi,V8,V8
+1994,BMW,3 Series,318i Convertible
+1994,BMW,3 Series,318i/318is
+1994,BMW,3 Series,325i Convertible
+1994,BMW,3 Series,325i/325is
+1994,BMW,5 Series,525i
+1994,BMW,5 Series,525i Touring
+1994,BMW,5 Series,530i
+1994,BMW,5 Series,530i Touring
+1994,BMW,5 Series,540i
+1994,BMW,7 Series,740i
+1994,BMW,7 Series,740il
+1994,BMW,7 Series,750il
+1994,BMW,8 Series,840ci
+1994,BMW,8 Series,850ci
+1994,BMW,8 Series,850csi
+1994,Buick,Century,Century
+1994,Buick,Century Wagon,Century Wagon
+1994,Buick,Coachbuilder Wagon,Coachbuilder Wagon
+1994,Buick,LeSabre,LeSabre
+1994,Buick,Park Avenue,Park Avenue
+1994,Buick,Regal,Regal
+1994,Buick,Roadmaster,Roadmaster
+1994,Buick,Roadmaster,Roadmaster Wagon
+1994,Buick,Skylark,Skylark
+1994,Cadillac,DeVille/Concourse,DeVille/Concourse
+1994,Cadillac,Eldorado,Eldorado
+1994,Cadillac,Fleetwood,Fleetwood
+1994,Cadillac,Seville,Seville
+1994,Chevrolet,Astro Cargo,Astro 2WD (cargo)
+1994,Chevrolet,Astro Cargo,Astro AWD (cargo)
+1994,Chevrolet,Astro Passenger,Astro 2WD (passenger)
+1994,Chevrolet,Astro Passenger,Astro AWD (passenger)
+1994,Chevrolet,Beretta,Beretta
+1994,Chevrolet,Blazer,Blazer 1500 4WD
+1994,Chevrolet,Blazer,S10 Blazer 2WD
+1994,Chevrolet,Blazer,S10 Blazer 4WD
+1994,Chevrolet,C1500 Pickup,C1500 Pickup 2WD
+1994,Chevrolet,Camaro,Camaro
+1994,Chevrolet,Cavalier,Cavalier
+1994,Chevrolet,Cavalier,Cavalier Wagon
+1994,Chevrolet,Coachbuilder Wagon,Coachbuilder Wagon
+1994,Chevrolet,Corsica,Corsica
+1994,Chevrolet,Corvette,Corvette
+1994,Chevrolet,G10/20 Van,G10/20 Van 2WD
+1994,Chevrolet,G30 Van,G30 Van 2WD
+1994,Chevrolet,Impala/Caprice,Caprice/Impala
+1994,Chevrolet,Impala/Caprice,Caprice/Impala Wagon
+1994,Chevrolet,K1500 Pickup,K1500 Pickup 4WD
+1994,Chevrolet,Lumina,Lumina
+1994,Chevrolet,Lumina Minivan,Lumina Minivan 2WD
+1994,Chevrolet,Pickup 2500,Pickup 2500 2WD
+1994,Chevrolet,Pickup 2500,Pickup 2500 4WD
+1994,Chevrolet,Postal Cab Chassis,Postal Cab Chassis 2WD
+1994,Chevrolet,S10 Pickup,S10 Pickup 2WD
+1994,Chevrolet,S10 Pickup,S10 Pickup 4WD
+1994,Chevrolet,Sport Van,Sport Van G10/20 2WD
+1994,Chevrolet,Sport Van,Sport Van G30  2WD
+1994,Chevrolet,Sprint,Sprint
+1994,Chevrolet,Suburban,Suburban 1500 2WD
+1994,Chevrolet,Suburban,Suburban 1500 4WD
+1994,Chrysler,Concorde,Concorde
+1994,Chrysler,LeBaron,LeBaron
+1994,Chrysler,LeBaron,LeBaron Convertible
+1994,Chrysler,New Yorker/LHS,New Yorker/LHS
+1994,Chrysler,Town and Country,Town and Country 2WD
+1994,Chrysler,Town and Country,Town and Country 4WD
+1994,Dodge,B150/B250 Van,B150/B250 Van 2WD
+1994,Dodge,B150/B250 Wagon,B150/B250 Wagon 2WD
+1994,Dodge,B350 Van,B350 Van 2WD
+1994,Dodge,B350 Wagon,B350 Wagon 2WD
+1994,Dodge,Caravan C/V/Grand Caravan,Caravan C/V/Grand Caravan 2WD
+1994,Dodge,Caravan/Grand Caravan,Caravan/Grand Caravan 2WD
+1994,Dodge,Caravan/Grand Caravan,Caravan/Grand Caravan 4WD
+1994,Dodge,Colt,Colt
+1994,Dodge,Dakota Cab Chassis,Dakota Cab Chassis 2WD
+1994,Dodge,Dakota Pickup,Dakota Pickup 2WD
+1994,Dodge,Dakota Pickup,Dakota Pickup 4WD
+1994,Dodge,Intrepid,Intrepid
+1994,Dodge,Ram 1500 Pickup,Ram 1500 Pickup 2WD
+1994,Dodge,Ram 1500 Pickup,Ram 1500 Pickup 4WD
+1994,Dodge,Ram 2500 Pickup,Ram 2500 Pickup 2WD
+1994,Dodge,Ram 2500 Pickup,Ram 2500 Pickup 4WD
+1994,Dodge,Shadow,Shadow
+1994,Dodge,Spirit,Spirit
+1994,Dodge,Stealth,Stealth
+1994,Dodge,Viper,Viper
+1994,Eagle,Summit,Summit
+1994,Eagle,Summit,Summit Wagon
+1994,Eagle,Talon,Talon
+1994,Eagle,Vision,Vision
+1994,Ferrari,Ferrari 348 TB/TS/Spider,Ferrari 348 TB/TS/Spider
+1994,Ferrari,Ferrari 512 TR,Ferrari 512 TR
+1994,Ferrari,Ferrari Mondial T/Cabriolet,Ferrari Mondial T/Cabriolet
+1994,Ford,Aerostar Van,Aerostar Van
+1994,Ford,Aerostar Van,Aerostar Van AWD
+1994,Ford,Aerostar Wagon,Aerostar Wagon
+1994,Ford,Aerostar Wagon,Aerostar Wagon AWD
+1994,Ford,Aspire,Aspire
+1994,Ford,Bronco,Bronco 4WD
+1994,Ford,Crown Victoria,Crown Victoria Police
+1994,Ford,E150 Club Wagon,E150 Club Wagon
+1994,Ford,E150 Econoline,E150 Econoline 2WD
+1994,Ford,E250 Econoline,E250 Econoline 2WD
+1994,Ford,Escort,Escort
+1994,Ford,Escort,Escort Wagon
+1994,Ford,Explorer,Explorer 2WD
+1994,Ford,Explorer,Explorer 4WD
+1994,Ford,F150,F150 Pickup 2WD
+1994,Ford,F150,F150 Pickup 4WD
+1994,Ford,F150,Lightning F150 2WD
+1994,Ford,F250,F250 Pickup 2WD
+1994,Ford,LTD Crown Victoria,LTD Crown Victoria
+1994,Ford,Mustang,Mustang
+1994,Ford,Probe,Probe
+1994,Ford,Ranger,Ranger Pickup 2WD
+1994,Ford,Ranger,Ranger Pickup 4WD
+1994,Ford,Taurus,Taurus
+1994,Ford,Taurus,Taurus SHO
+1994,Ford,Taurus,Taurus Wagon
+1994,Ford,Tempo,Tempo
+1994,Ford,Thunderbird,Thunderbird
+1994,Geo,Metro,Metro
+1994,Geo,Metro,Metro XFI
+1994,Geo,Prizm,Prizm
+1994,Geo,Tracker,Tracker Convertible 2WD
+1994,Geo,Tracker,Tracker Convertible 4WD
+1994,Geo,Tracker,Tracker Van 4WD
+1994,GMC,Jimmy,Jimmy 2WD
+1994,GMC,Jimmy,Jimmy 4WD
+1994,GMC,Rally,Rally G15/25 2WD
+1994,GMC,Rally,Rally G35 2WD
+1994,GMC,Safari Cargo,Safari 2WD (cargo)
+1994,GMC,Safari Cargo,Safari AWD (cargo)
+1994,GMC,Safari Passenger,Safari 2WD (passenger)
+1994,GMC,Safari Passenger,Safari AWD (passenger)
+1994,GMC,Sierra,Sierra 1500 2WD
+1994,GMC,Sierra,Sierra 1500 4WD
+1994,GMC,Sierra,Sierra 2500 2WD
+1994,GMC,Sierra,Sierra 2500 4WD
+1994,GMC,Sonoma,Sonoma 2WD
+1994,GMC,Sonoma,Sonoma 4WD
+1994,GMC,Suburban,Suburban 1500 2WD
+1994,GMC,Suburban,Suburban 1500 4WD
+1994,GMC,Vandura,Vandura G15/25 2WD
+1994,GMC,Vandura,Vandura G35  2WD
+1994,GMC,Yukon,Yukon K1500 4WD
+1994,Honda,Accord,Accord
+1994,Honda,Accord,Accord Wagon
+1994,Honda,Civic,Civic
+1994,Honda,Civic,Civic HB VX
+1994,Honda,Del Sol,Civic Del Sol
+1994,Honda,Passport,Passport 2WD
+1994,Honda,Passport,Passport 4WD
+1994,Honda,Prelude,Prelude
+1994,Hyundai,Elantra,Elantra
+1994,Hyundai,Excel,Excel
+1994,Hyundai,Precis,Precis
+1994,Hyundai,Scoupe,Scoupe
+1994,Hyundai,Sonata,Sonata
+1994,Hyundai,Sonata,Sonata (Y-3)
+1994,Infiniti,G20,G20
+1994,Infiniti,J30,J30
+1994,Infiniti,Q45,Q45
+1994,Infiniti,Q45,Q45 Full-Active Suspension
+1994,Isuzu,Amigo,Amigo 2WD
+1994,Isuzu,Amigo,Amigo 4WD
+1994,Isuzu,Pickup,Pickup 2WD
+1994,Isuzu,Pickup,Pickup 4WD
+1994,Isuzu,Rodeo,Rodeo 2WD
+1994,Isuzu,Rodeo,Rodeo 4WD
+1994,Isuzu,Trooper,Trooper
+1994,Jaguar,XJ,XJ12
+1994,Jaguar,XJ,XJ6
+1994,Jaguar,XJS,XJS Convertible
+1994,Jaguar,XJS,XJS Coupe
+1994,Jaguar,XJS,XJS V12 Coupe
+1994,Jeep,Cherokee,Cherokee 2WD
+1994,Jeep,Cherokee,Cherokee 4WD
+1994,Jeep,Grand Cherokee,Grand Cherokee 2WD
+1994,Jeep,Grand Cherokee,Grand Cherokee 4WD
+1994,Jeep,Wrangler,Wrangler 4WD
+1994,Kia,Sephia,Sephia
+1994,Lamborghini,Diablo,DB132/Diablo
+1994,Land Rover,Defender,Defender 90
+1994,Land Rover,Discovery,Discovery
+1994,Land Rover,Range Rover,Range Rover County
+1994,Land Rover,Range Rover,Range Rover County LWB
+1994,Lexus,ES,ES 300
+1994,Lexus,GS,GS 300
+1994,Lexus,LS,LS 400
+1994,Lexus,SC,SC 300/SC 400
+1994,Lincoln,Continental,Continental
+1994,Lincoln,Mark VIII,Mark VIII
+1994,Lincoln,Town Car,Town Car
+1994,Lotus,Esprit,Esprit Turbo
+1994,Mazda,323,323
+1994,Mazda,626,626
+1994,Mazda,929,929
+1994,Mazda,B Pickup,B2300/B3000/B4000 Pickup 2WD
+1994,Mazda,B Pickup,B2300/B3000/B4000 Pickup 4WD
+1994,Mazda,MPV,MPV
+1994,Mazda,MPV,MPV 4x4
+1994,Mazda,MX-3,MX-3
+1994,Mazda,MX-5 Miata,MX-5 Miata
+1994,Mazda,MX-6,MX-6
+1994,Mazda,Navajo,Navajo
+1994,Mazda,Navajo,Navajo 4x4
+1994,Mazda,Protege,Protege
+1994,Mazda,RX-7,RX-7
+1994,Mercedes-Benz,C-Class,C220
+1994,Mercedes-Benz,C-Class,C280
+1994,Mercedes-Benz,E-Class,E320 Convertible
+1994,Mercedes-Benz,E-Class,E320 Coupe
+1994,Mercedes-Benz,E-Class,E320 Sedan
+1994,Mercedes-Benz,E-Class,E320 Wagon
+1994,Mercedes-Benz,E-Class,E420
+1994,Mercedes-Benz,E-Class,E500
+1994,Mercedes-Benz,S-Class,S320
+1994,Mercedes-Benz,S-Class,S350D
+1994,Mercedes-Benz,S-Class,S420
+1994,Mercedes-Benz,S-Class,S500 Coupe
+1994,Mercedes-Benz,S-Class,S500 Sedan
+1994,Mercedes-Benz,S-Class,S600 Coupe
+1994,Mercedes-Benz,S-Class,S600 Sedan
+1994,Mercedes-Benz,SL-Class,SL320
+1994,Mercedes-Benz,SL-Class,SL500
+1994,Mercedes-Benz,SL-Class,SL600
+1994,Mercury,Capri,Capri
+1994,Mercury,Cougar,Cougar
+1994,Mercury,Grand Marquis,Grand Marquis
+1994,Mercury,Sable,Sable
+1994,Mercury,Sable,Sable Wagon
+1994,Mercury,Topaz,Topaz
+1994,Mercury,Tracer,Tracer
+1994,Mercury,Tracer,Tracer Wagon
+1994,Mercury,Villager,Villager FWD Van
+1994,Mercury,Villager,Villager FWD Wagon
+1994,Mitsubishi,3000 GT,3000 GT
+1994,Mitsubishi,Diamante,Diamante
+1994,Mitsubishi,Diamante,Diamante Wagon
+1994,Mitsubishi,Eclipse,Eclipse
+1994,Mitsubishi,Expo,Expo
+1994,Mitsubishi,Expo,Expo.LRV
+1994,Mitsubishi,Galant,Galant
+1994,Mitsubishi,Mirage,Mirage
+1994,Mitsubishi,Montero,Montero
+1994,Mitsubishi,Truck,Truck 2WD
+1994,Mitsubishi,Truck,Truck 4WD
+1994,Nissan,240SX,240SX
+1994,Nissan,300ZX,300ZX
+1994,Nissan,300ZX,300ZX 2x2
+1994,Nissan,Altima / Stanza,Altima / Stanza
+1994,Nissan,Maxima,Maxima
+1994,Nissan,Pathfinder,Pathfinder 2WD
+1994,Nissan,Pathfinder,Pathfinder 4WD
+1994,Nissan,Quest,Quest
+1994,Nissan,Sentra,Sentra
+1994,Nissan,Truck,Truck 2WD
+1994,Nissan,Truck,Truck 4WD
+1994,Oldsmobile,Achieva,Achieva
+1994,Oldsmobile,Bravada,Bravada AWD
+1994,Oldsmobile,Cutlass Ciera,Cutlass Ciera
+1994,Oldsmobile,Cutlass Cruiser,Cutlass Cruiser
+1994,Oldsmobile,Cutlass Supreme,Cutlass Supreme
+1994,Oldsmobile,Eighty-Eight,Eighty-Eight
+1994,Oldsmobile,Ninety-Eight,Ninety-Eight
+1994,Oldsmobile,Silhouette,Silhouette 2WD
+1994,Plymouth,Acclaim,Acclaim
+1994,Plymouth,Colt,Colt
+1994,Plymouth,Colt,Colt Vista
+1994,Plymouth,Laser,Laser
+1994,Plymouth,Sundance/Duster,Sundance/Duster
+1994,Plymouth,Voyager/Grand Voyager,Voyager/Grand Voyager 2WD
+1994,Plymouth,Voyager/Grand Voyager,Voyager/Grand Voyager 4WD
+1994,Pontiac,Bonneville,Bonneville
+1994,Pontiac,Firebird/Trans Am/Formula,Firebird/Formula
+1994,Pontiac,Firefly,Firefly
+1994,Pontiac,Grand Am,Grand Am
+1994,Pontiac,Grand Prix,Grand Prix
+1994,Pontiac,Sunbird,Sunbird
+1994,Pontiac,Trans Sport/Montana,Trans Sport 2WD
+1994,Porsche,911,911 Carrera 4/2
+1994,Porsche,911,911 Turbo
+1994,Porsche,928,928 GTS
+1994,Porsche,968,968
+1994,Rolls-Royce,Brooklands/Turbo R,Brooklands and (LWB)
+1994,Rolls-Royce,Brooklands/Turbo R,Turbo R/Turbo Rl
+1994,Rolls-Royce,Corniche/Continental,Continental
+1994,Rolls-Royce,Corniche/Continental,Continental R
+1994,Rolls-Royce,Corniche/Continental,Corniche IV
+1994,Rolls-Royce,Silver Spirit III/Spur III,Silver Spirit III/Spur III
+1994,Rolls-Royce,Silver Spur III Limousine,Silver Spur III Limousine
+1994,Saab,900,900
+1994,Saab,9000,9000
+1994,Saab,Convertible,Convertible
+1994,Saleen,Mustang,Mustang S351
+1994,Saturn,SC,SC
+1994,Saturn,SL,SL
+1994,Saturn,SW,SW
+1994,Subaru,Impreza/Outback Sport,Impreza
+1994,Subaru,Impreza/Outback Sport,Impreza AWD
+1994,Subaru,Impreza/Outback Sport,Impreza Wagon
+1994,Subaru,Impreza/Outback Sport,Impreza Wagon AWD
+1994,Subaru,Justy,Justy
+1994,Subaru,Justy,Justy AWD
+1994,Subaru,Legacy/Outback,Legacy
+1994,Subaru,Legacy/Outback,Legacy AWD
+1994,Subaru,Legacy/Outback,Legacy AWD Turbo
+1994,Subaru,Legacy/Outback,Legacy Wagon
+1994,Subaru,Legacy/Outback,Legacy Wagon AWD
+1994,Subaru,Legacy/Outback,Legacy Wagon AWD Turbo
+1994,Subaru,Loyale,Loyale Wagon AWD
+1994,Subaru,SVX,SVX
+1994,Subaru,SVX,SVX AWD
+1994,Suzuki,Samurai,Samurai Soft-top 4WD
+1994,Suzuki,Sidekick,Sidekick 2Door 2WD
+1994,Suzuki,Sidekick,Sidekick 2Door 4WD
+1994,Suzuki,Sidekick,Sidekick 4Door 2WD
+1994,Suzuki,Sidekick,Sidekick 4Door 4WD
+1994,Suzuki,Swift,Swift
+1994,Suzuki,Swift,Swift GT
+1994,Toyota,4Runner,4Runner 2WD
+1994,Toyota,4Runner,4Runner 4WD
+1994,Toyota,Camry,Camry
+1994,Toyota,Camry,Camry Wagon
+1994,Toyota,Celica,Celica
+1994,Toyota,Corolla,Corolla
+1994,Toyota,Corolla,Corolla Wagon
+1994,Toyota,Land Cruiser,Land Cruiser Wagon 4WD
+1994,Toyota,MR2,MR2
+1994,Toyota,Paseo,Paseo
+1994,Toyota,Previa,Previa
+1994,Toyota,Previa,Previa All-Trac
+1994,Toyota,Supra,Supra
+1994,Toyota,Tercel,Tercel
+1994,Toyota,Truck/T100,T100 2WD
+1994,Toyota,Truck/T100,T100 4WD
+1994,Toyota,Truck/T100,Truck 2WD
+1994,Toyota,Truck/T100,Truck 4WD
+1994,Volkswagen,Corrado,Corrado SLC
+1994,Volkswagen,Eurovan,Eurovan
+1994,Volkswagen,Golf/GTI,Golf III
+1994,Volkswagen,Jetta,Jetta III
+1994,Volkswagen,Jetta,Jetta III GLX
+1994,Volkswagen,Passat,Passat
+1994,Volkswagen,Passat,Passat Wagon
+1994,Volvo,850,850
+1994,Volvo,850,850 Wagon
+1994,Volvo,940,940
+1994,Volvo,940,940 Wagon
+1994,Volvo,960,960
+1994,Volvo,960,960 Wagon

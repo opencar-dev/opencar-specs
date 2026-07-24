@@ -1,0 +1,24 @@
+@import "tailwindcss";
+@import "@heroui/styles";
+
+:root {
+  --accent: oklch(0.55 0.14 245);
+  --accent-foreground: oklch(0.99 0 0);
+  font-family: "Segoe UI", "Helvetica Neue", ui-sans-serif, system-ui, sans-serif;
+  color-scheme: light;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  background:
+    radial-gradient(1200px 600px at 10% -10%, oklch(0.92 0.04 245 / 0.7), transparent 60%),
+    radial-gradient(900px 500px at 100% 0%, oklch(0.94 0.03 90 / 0.55), transparent 55%),
+    oklch(0.985 0.005 95);
+  color: oklch(0.22 0.02 250);
+}

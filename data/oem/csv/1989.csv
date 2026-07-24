@@ -1,0 +1,401 @@
+year,make,model,trim
+1989,Acura,Integra,Integra
+1989,Acura,Legend,Legend
+1989,Alfa Romeo,Milano,Milano
+1989,Alfa Romeo,Spider,Spider
+1989,Aston Martin,Lagonda,Lagonda
+1989,Aston Martin,Saloon/Vantage/Volante,Saloon/Vantage/Volante
+1989,Audi,100,100
+1989,Audi,100,100 quattro
+1989,Audi,100,100 Wagon
+1989,Audi,200,200
+1989,Audi,200,200 quattro
+1989,Audi,200,200 quattro Wagon
+1989,Audi,80/90,80/90
+1989,Audi,80/90,80/90 quattro
+1989,Bertone,X1/9,X1/9
+1989,BMW,3 Series,325i Convertible
+1989,BMW,3 Series,325i/325is
+1989,BMW,3 Series,325ix
+1989,BMW,5 Series,525i
+1989,BMW,5 Series,535i
+1989,BMW,6 Series,635csi
+1989,BMW,7 Series,735i
+1989,BMW,7 Series,735il
+1989,BMW,7 Series,750il
+1989,BMW,M,M3
+1989,BMW,M,M6
+1989,Buick,Century,Century
+1989,Buick,Century Wagon,Century Wagon
+1989,Buick,Electra/Park Avenue,Electra/Park Avenue
+1989,Buick,LeSabre,LeSabre
+1989,Buick,LeSabre/Electra Wagon,LeSabre/Electra Wagon
+1989,Buick,Reatta,Reatta
+1989,Buick,Regal,Regal
+1989,Buick,Riviera,Riviera
+1989,Buick,Skyhawk,Skyhawk
+1989,Buick,Skyhawk,Skyhawk Wagon
+1989,Buick,Skylark,Skylark
+1989,Cadillac,Allante,Allante
+1989,Cadillac,Brougham,Brougham
+1989,Cadillac,Commercial Chassis,Commercial Chassis
+1989,Cadillac,Eldorado,Eldorado
+1989,Cadillac,Fleetwood/DeVille,Fleetwood/DeVille
+1989,Cadillac,Seville,Seville
+1989,Chevrolet,Astro Cargo,Astro 2WD (cargo)
+1989,Chevrolet,Astro Passenger,Astro 2WD (passenger)
+1989,Chevrolet,Beretta,Beretta
+1989,Chevrolet,Blazer,Blazer V1500 4WD
+1989,Chevrolet,Blazer,S10 Blazer 2WD
+1989,Chevrolet,Blazer,S10 Blazer 4WD
+1989,Chevrolet,C1500 Pickup,C1500 Pickup 2WD
+1989,Chevrolet,C2500 Pickup,C2500 Pickup 2WD
+1989,Chevrolet,Camaro,Camaro
+1989,Chevrolet,Caprice,Caprice
+1989,Chevrolet,Caprice,Caprice Wagon
+1989,Chevrolet,Cavalier,Cavalier
+1989,Chevrolet,Cavalier,Cavalier Convertible
+1989,Chevrolet,Cavalier,Cavalier Wagon
+1989,Chevrolet,Celebrity,Celebrity
+1989,Chevrolet,Celebrity,Celebrity Wagon
+1989,Chevrolet,Corsica,Corsica
+1989,Chevrolet,Corvette,Corvette
+1989,Chevrolet,Corvette,Corvette Convertible
+1989,Chevrolet,G10/20 Van,G10/20 Sport Van 2WD
+1989,Chevrolet,G10/20 Van,G10/20 Van 2WD
+1989,Chevrolet,G30 Van,G30 Van 2WD
+1989,Chevrolet,K1500 Pickup,K1500 Pickup 4WD
+1989,Chevrolet,K2500 Pickup,K2500 Pickup 4WD
+1989,Chevrolet,S10 Cab Chassis,S10 Cab Chassis 2WD
+1989,Chevrolet,S10 Pickup,S10 Pickup 2WD
+1989,Chevrolet,S10 Pickup,S10 Pickup 4WD
+1989,Chevrolet,Sport Van,G30 Sport Van 2WD
+1989,Chevrolet,Sprint,Sprint
+1989,Chevrolet,Sprint,Turbo Sprint
+1989,Chevrolet,Suburban,R1500 Suburban 2WD
+1989,Chevrolet,Suburban,Suburban V1500 4WD
+1989,Chrysler,Conquest,Conquest
+1989,Chrysler,LeBaron,LeBaron
+1989,Chrysler,LeBaron,LeBaron Convertible
+1989,Chrysler,LeBaron,LeBaron GTS
+1989,Chrysler,New Yorker,New Yorker
+1989,Chrysler,New Yorker Fifth Avenue/Imperial,New Yorker Fifth Avenue/Imperial
+1989,Chrysler,Newport/Fifth Avenue,Newport/Fifth Avenue
+1989,Chrysler,TC,TC By
+1989,Chrysler,Town and Country,Town and Country
+1989,CX Automotive,Cxestate,Cxestate
+1989,Daihatsu,Charade,Charade
+1989,Daihatsu,Charade,Charade E
+1989,Dodge,600,600
+1989,Dodge,Aries,Aries
+1989,Dodge,B150/B250 Van,B150/B250 Van 2WD
+1989,Dodge,B150/B250 Wagon,B150/B250 Wagon 2WD
+1989,Dodge,B350 Van,B350 Van 2WD
+1989,Dodge,B350 Wagon,B350 Wagon 2WD
+1989,Dodge,Caravan/Grand Caravan/Ram Van,Caravan/Grand Caravan/Ram Van 2WD
+1989,Dodge,Colt,Colt
+1989,Dodge,Colt,Colt Vista
+1989,Dodge,Colt,Colt Vista 4WD
+1989,Dodge,Colt,Colt Wagon
+1989,Dodge,Colt,Colt Wagon 4WD
+1989,Dodge,CSX,CSX
+1989,Dodge,D100/D150 Pickup,D100/D150 Pickup 2WD
+1989,Dodge,D250 Cab Chassis,D250 Cab Chassis 2WD
+1989,Dodge,D250 Pickup,D250 Pickup 2WD
+1989,Dodge,Dakota Cab Chassis,Dakota Cab Chassis 2WD
+1989,Dodge,Dakota Pickup,Dakota Pickup 2WD
+1989,Dodge,Dakota Pickup,Dakota Pickup 4WD
+1989,Dodge,Daytona,Daytona
+1989,Dodge,Diplomat,Diplomat
+1989,Dodge,Dynasty,Dynasty
+1989,Dodge,Lancer,Lancer
+1989,Dodge,Omni,Omni
+1989,Dodge,Power Ram 50 Pickup,Power Ram50 4WD
+1989,Dodge,Raider,Raider
+1989,Dodge,Ram 50 Pickup,Ram 50 Pickup 2WD
+1989,Dodge,Ramcharger,AD100/AD150 Ramcharger 2WD
+1989,Dodge,Ramcharger,AW100/AW150 Ramcharger 4WD
+1989,Dodge,Shadow,Shadow
+1989,Dodge,Shadow,Shadow Convertible
+1989,Dodge,Spirit,Spirit
+1989,Dodge,W100/W150 Pickup,W100/W150 Pickup 4WD
+1989,Dodge,W250 Pickup,W250 Pickup 4WD
+1989,Eagle,Medallion,Medallion Sedan
+1989,Eagle,Medallion,Medallion Wagon
+1989,Eagle,Premier,Premier
+1989,Eagle,Summit,Summit
+1989,Environmental Rsch and Devp Corp,ERD 1,ERD 1
+1989,Evans Automobiles,Series 1,Series I
+1989,Ferrari,3.2 Mondial/Cabriolet,3.2 Mondial/Cabriolet
+1989,Ferrari,328 GTS/GTB,328 GTS/GTB
+1989,Ferrari,348 TB/TS,348 TB/TS
+1989,Ferrari,Mondial T/Cabriolet,Mondial T/Cabriolet
+1989,Ferrari,Testarossa,Testarossa
+1989,Ford,Aerostar Van,Aerostar Van
+1989,Ford,Aerostar Wagon,Aerostar Wagon
+1989,Ford,Bronco,Bronco 4WD
+1989,Ford,Bronco II,Bronco II 2WD
+1989,Ford,Bronco II,Bronco II 4WD
+1989,Ford,Courier,Courier
+1989,Ford,E150 Club Wagon,E150 Club Wagon
+1989,Ford,E150 Econoline,E150 Econoline 2WD
+1989,Ford,E250 Econoline,E250 Econoline 2WD
+1989,Ford,Escort,Escort
+1989,Ford,Escort,Escort Wagon
+1989,Ford,F150,F150 Pickup 2WD
+1989,Ford,F150,F150 Pickup 4WD
+1989,Ford,F250,F250 Pickup 2WD
+1989,Ford,F250,F250 Pickup 4WD
+1989,Ford,Festiva,Festiva
+1989,Ford,Laser,Laser
+1989,Ford,LTD Crown Victoria,LTD Crown Victoria
+1989,Ford,LTD Crown Victoria/Country Squire Wagon,LTD Crown Victoria/Country Squire Wagon
+1989,Ford,Mustang,Mustang
+1989,Ford,Probe,Probe
+1989,Ford,Ranger,Ranger Pickup 2WD
+1989,Ford,Ranger,Ranger Pickup 4WD
+1989,Ford,Taurus,Taurus
+1989,Ford,Taurus,Taurus Wagon
+1989,Ford,Taurus,Taurus Wagon V6 A/C
+1989,Ford,Tempo,Tempo
+1989,Ford,Tempo,Tempo AWD
+1989,Ford,Thunderbird,Thunderbird
+1989,General Motors,Coachbuilder Wagon,Coachbuilder Wagon
+1989,Geo,Metro,Metro
+1989,Geo,Metro,Metro LSI
+1989,Geo,Prizm,Prizm
+1989,Geo,Spectrum,Spectrum
+1989,Geo,Tracker,Tracker Convertible 4WD
+1989,Geo,Tracker,Tracker Hardtop 4WD
+1989,GMC,C2500 Sierra,C2500 Sierra 2WD
+1989,GMC,Jimmy,Jimmy V1500 4WD
+1989,GMC,Jimmy,S15 Jimmy 2WD
+1989,GMC,Jimmy,S15 Jimmy 4WD
+1989,GMC,K2500 Sierra,K2500 Sierra 4WD
+1989,GMC,Rally,G15/25 Rally 2WD
+1989,GMC,Rally,G35 Rally 2WD
+1989,GMC,S15 Pickup,S15 Pickup 2WD
+1989,GMC,S15 Pickup,S15 Pickup 4WD
+1989,GMC,Safari,Safari 2WD (cargo)
+1989,GMC,Safari,Safari 2WD (passenger)
+1989,GMC,Sierra,Sierra 1500 2WD
+1989,GMC,Sierra,Sierra 1500 4WD
+1989,GMC,Suburban,R1500 Suburban 2WD
+1989,GMC,Suburban,Suburban V1500 4WD
+1989,GMC,Vandura,G15/25 Vandura 2WD
+1989,GMC,Vandura,G35 Vandura 2WD
+1989,Honda,Accord,Accord
+1989,Honda,Civic,Civic
+1989,Honda,Civic,Civic CRX
+1989,Honda,Civic,Civic CRX HF
+1989,Honda,Civic,Civic Wagon
+1989,Honda,Civic,Civic Wagon 4WD
+1989,Honda,Prelude,Prelude
+1989,Hyundai,Excel,Excel
+1989,Hyundai,Sonata,Sonata
+1989,Isuzu,Amigo,Amigo 2WD
+1989,Isuzu,Amigo,Amigo 4WD
+1989,Isuzu,I-Mark,I-Mark
+1989,Isuzu,Impulse,Impulse
+1989,Isuzu,Pickup,Pickup 2WD
+1989,Isuzu,Pickup,Pickup 2WD 1-Ton
+1989,Isuzu,Pickup,Pickup 4WD
+1989,Isuzu,Trooper,Trooper
+1989,Jaguar,XJ,XJ6
+1989,Jaguar,XJS,XJS Convertible
+1989,Jaguar,XJS,XJS Coupe
+1989,Jeep,Cherokee,Cherokee 2WD
+1989,Jeep,Cherokee/Wagoneer,Cherokee/Wagoneer 4WD
+1989,Jeep,Comanche Pickup,Comanche Pickup 2WD
+1989,Jeep,Comanche Pickup,Comanche Pickup 4WD
+1989,Jeep,Grand Wagoneer,Grand Wagoneer 4WD
+1989,Jeep,Wagoneer,Wagoneer Limited 4WD
+1989,Jeep,Wrangler,Wrangler 4WD
+1989,Laforza Automobile Inc,Laforza,Laforza
+1989,Lamborghini,Countach,Countach
+1989,Land Rover,Range Rover,Range Rover
+1989,Lincoln,Continental,Continental
+1989,Lincoln,Mark VII,Mark VII
+1989,Lincoln,Town Car,Town Car
+1989,Lotus,Esprit,Esprit Turbo
+1989,Maserati,222E,222E
+1989,Maserati,225,225
+1989,Maserati,228,228
+1989,Maserati,430,430
+1989,Maserati,Karif,Karif
+1989,Maserati,Spyder,Spyder
+1989,Mazda,323,323
+1989,Mazda,323,323 Wagon
+1989,Mazda,626/MX-6,626/MX-6
+1989,Mazda,929,929
+1989,Mazda,B Pickup,B2200/B2600
+1989,Mazda,B Pickup,B2600i 4x4
+1989,Mazda,MPV,MPV
+1989,Mazda,MPV,MPV 4WD
+1989,Mazda,RX-7,RX-7
+1989,Mercedes-Benz,190,190D 2.5
+1989,Mercedes-Benz,190,190E 2.6
+1989,Mercedes-Benz,260,260E
+1989,Mercedes-Benz,300,300CE
+1989,Mercedes-Benz,300,300E
+1989,Mercedes-Benz,300,300SE
+1989,Mercedes-Benz,300,300SEL
+1989,Mercedes-Benz,300,300TE
+1989,Mercedes-Benz,420,420SEL
+1989,Mercedes-Benz,560,560SEC
+1989,Mercedes-Benz,560,560SEL
+1989,Mercedes-Benz,560,560SL
+1989,Mercury,Cougar,Cougar
+1989,Mercury,Grand Marquis,Grand Marquis
+1989,Mercury,Grand Marquis,Grand Marquis Wagon
+1989,Mercury,Sable,Sable
+1989,Mercury,Sable,Sable Wagon
+1989,Mercury,Sable,Sable Wagon V6 A/C
+1989,Mercury,Topaz,Topaz
+1989,Mercury,Topaz,Topaz AWD
+1989,Mercury,Tracer,Tracer
+1989,Mercury,Tracer,Tracer Wagon
+1989,Merkur,Scorpio,Scorpio
+1989,Merkur,XR4Ti,XR4Ti
+1989,Mitsubishi,Galant,Galant
+1989,Mitsubishi,Mirage,Mirage
+1989,Mitsubishi,Mirage,Mirage Wagon
+1989,Mitsubishi,Montero,Montero
+1989,Mitsubishi,Precis,Precis
+1989,Mitsubishi,Sigma,Sigma
+1989,Mitsubishi,Space Wagon,Space Wagon
+1989,Mitsubishi,Space Wagon,Space Wagon 4WD
+1989,Mitsubishi,Starion,Starion
+1989,Mitsubishi,Truck,Truck 2WD
+1989,Mitsubishi,Truck,Truck 4WD
+1989,Mitsubishi,Van,Van
+1989,Mitsubishi,Wagon,Wagon
+1989,Nissan,240SX,240SX
+1989,Nissan,300ZX,300ZX
+1989,Nissan,300ZX,300ZX 2x2
+1989,Nissan,Maxima,Maxima
+1989,Nissan,Pathfinder,Pathfinder 2WD
+1989,Nissan,Pathfinder,Pathfinder 4WD
+1989,Nissan,Pulsar NX,Pulsar NX
+1989,Nissan,Sentra,Sentra
+1989,Nissan,Sentra,Sentra Coupe
+1989,Nissan,Sentra,Sentra Wagon
+1989,Nissan,Sentra,Sentra Wagon 4WD
+1989,Nissan,Stanza,Stanza
+1989,Nissan,Truck,Truck 2WD
+1989,Nissan,Truck,Truck 4WD
+1989,Nissan,Truck,Truck Cab Chassis 2WD
+1989,Oldsmobile,Custom Cruiser,Custom Cruiser
+1989,Oldsmobile,Cutlass Calais,Cutlass Calais
+1989,Oldsmobile,Cutlass Ciera,Cutlass Ciera
+1989,Oldsmobile,Cutlass Cruiser,Cutlass Cruiser
+1989,Oldsmobile,Cutlass Supreme,Cutlass Supreme
+1989,Oldsmobile,Eighty-Eight,Eighty-Eight
+1989,Oldsmobile,Ninety-Eight/Touring,Ninety-Eight/Touring
+1989,Oldsmobile,Toronado,Toronado
+1989,Peugeot,405,405 Sedan
+1989,Peugeot,505,505 Sedan
+1989,Peugeot,505,505 Station Wagon
+1989,Plymouth,Acclaim,Acclaim
+1989,Plymouth,Caravelle,Caravelle
+1989,Plymouth,Colt,Colt
+1989,Plymouth,Colt,Colt Vista
+1989,Plymouth,Colt,Colt Vista 4WD
+1989,Plymouth,Colt,Colt Wagon
+1989,Plymouth,Colt,Colt Wagon 4WD
+1989,Plymouth,Gran Fury,Gran Fury
+1989,Plymouth,Horizon,Horizon
+1989,Plymouth,Reliant,Reliant
+1989,Plymouth,Sundance,Sundance
+1989,Plymouth,Sundance,Sundance Convertible
+1989,Plymouth,Voyager/Grand Voyager,Voyager/Grand Voyager 2WD
+1989,Pontiac,6000,6000
+1989,Pontiac,6000,6000 Wagon
+1989,Pontiac,Bonneville,Bonneville
+1989,Pontiac,Firebird/Trans Am/Formula,20th Anniversary Trans Am
+1989,Pontiac,Firebird/Trans Am/Formula,Firebird/Trans Am
+1989,Pontiac,Firefly,Firefly
+1989,Pontiac,Firefly,Turbo Firefly
+1989,Pontiac,Grand Am,Grand Am
+1989,Pontiac,Grand Prix,Grand Prix
+1989,Pontiac,Grand Prix,Grand Prix Turbo
+1989,Pontiac,Lemans,Lemans
+1989,Pontiac,Safari,Safari Wagon
+1989,Pontiac,Sunbird,Sunbird
+1989,Pontiac,Sunbird,Sunbird Convertible
+1989,Pontiac,Sunburst,Sunburst
+1989,Porsche,911,911 Carrera
+1989,Porsche,911,911 Carrera 4
+1989,Porsche,911,911 Turbo
+1989,Porsche,928,928 S4
+1989,Porsche,944,944
+1989,Porsche,944,944 S2
+1989,Porsche,944,944 Turbo
+1989,Rolls-Royce,Brooklands/Turbo R,Turbo R
+1989,Rolls-Royce,Corniche/Continental,Continental
+1989,Rolls-Royce,Corniche/Continental,Corniche II
+1989,Rolls-Royce,Eight/Mulsan/Mulsanne,Eight/Mulsan
+1989,Rolls-Royce,Silver Spirit/Silver Spur,Silver Spirit/Silver Spur
+1989,Saab,900,900
+1989,Saab,900,900 Convertible
+1989,Saab,9000,9000
+1989,Saleen,SSC,SSC
+1989,Sterling,827,827
+1989,Subaru,Hatchback,Hatchback
+1989,Subaru,Hatchback,Hatchback 4WD
+1989,Subaru,Justy,Justy
+1989,Subaru,Justy,Justy 4WD
+1989,Subaru,Sedan,Sedan/3 Door
+1989,Subaru,Sedan,Sedan/3 Door 4WD
+1989,Subaru,Sedan,Sedan/3Door 4WD Turbo
+1989,Subaru,Wagon,Wagon
+1989,Subaru,Wagon,Wagon 4WD
+1989,Subaru,Wagon,Wagon 4WD Turbo
+1989,Subaru,XT,XT
+1989,Subaru,XT,XT 4WD
+1989,Subaru,XT,XT-DL
+1989,Suzuki,Samurai,Samurai Convertible
+1989,Suzuki,Samurai,Samurai Hardtop
+1989,Suzuki,Sidekick,Sidekick Convertible 4WD
+1989,Suzuki,Sidekick,Sidekick Hardtop 4WD
+1989,Suzuki,Swift,Swift
+1989,Suzuki,Swift,Swift GA
+1989,Suzuki,Swift,Swift GTI
+1989,Toyota,4Runner,4Runner 4WD
+1989,Toyota,Cab Chassis,Cab/Chassis 2WD
+1989,Toyota,Camry,Camry
+1989,Toyota,Camry,Camry Wagon
+1989,Toyota,Celica,Celica
+1989,Toyota,Celica,Celica Convertible
+1989,Toyota,Corolla,Corolla
+1989,Toyota,Corolla,Corolla All-Trac Wagon
+1989,Toyota,Corolla,Corolla Wagon
+1989,Toyota,Cressida,Cressida
+1989,Toyota,Land Cruiser,Land Cruiser Wagon 4WD
+1989,Toyota,MR2,MR2
+1989,Toyota,Supra,Supra
+1989,Toyota,Tercel,Tercel
+1989,Toyota,Truck/T100,1-Ton Truck 2WD
+1989,Toyota,Truck/T100,Truck 2WD
+1989,Toyota,Truck/T100,Truck 4WD
+1989,Toyota,Van,Van 2WD (cargo)
+1989,Toyota,Van,Van 2WD (passenger)
+1989,Toyota,Van,Van 4WD (cargo)
+1989,Toyota,Van,Van 4WD (passenger)
+1989,Volkswagen,Cabriolet,Cabriolet
+1989,Volkswagen,Fox,Fox
+1989,Volkswagen,Fox,Fox Wagon
+1989,Volkswagen,Golf/GTI,Golf
+1989,Volkswagen,Golf/GTI,GTI 16v
+1989,Volkswagen,Jetta,Jetta
+1989,Volkswagen,Jetta,Jetta GLI 16v
+1989,Volkswagen,Vanagon,Vanagon Syncro 4WD
+1989,Volkswagen,Vanagon,Vanagon/Camper 2WD
+1989,Volvo,240,240 DL/240 GL
+1989,Volvo,240,240 DL/240 GL Wagon
+1989,Volvo,740/760,740
+1989,Volvo,740/760,740 Wagon
+1989,Volvo,740/760,760
+1989,Volvo,740/760,760 Wagon
+1989,Volvo,780,780
+1989,Yugo,GV/GVX,GV/GVX

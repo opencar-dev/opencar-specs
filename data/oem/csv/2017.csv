@@ -1,0 +1,866 @@
+year,make,model,trim
+2017,Acura,ILX,ILX
+2017,Acura,MDX,MDX AWD
+2017,Acura,MDX,MDX FWD
+2017,Acura,MDX,MDX Hybrid AWD
+2017,Acura,NSX,NSX Hybrid
+2017,Acura,RDX,RDX AWD
+2017,Acura,RDX,RDX FWD
+2017,Acura,RLX,RLX
+2017,Acura,RLX,RLX Hybrid
+2017,Acura,TLX,TLX AWD
+2017,Acura,TLX,TLX FWD
+2017,Alfa Romeo,4C,4C
+2017,Alfa Romeo,Giulia,Giulia
+2017,Alfa Romeo,Giulia,Giulia AWD
+2017,Aston Martin,DB11,DB11 V12
+2017,Aston Martin,Rapide,Rapide S
+2017,Aston Martin,Vanquish,Vanquish S Zagato
+2017,Aston Martin,Vantage,V12 Vantage S
+2017,Audi,A3,A3
+2017,Audi,A3,A3 Cabriolet
+2017,Audi,A3,A3 Cabriolet quattro
+2017,Audi,A3,A3 e-tron
+2017,Audi,A3,A3 quattro
+2017,Audi,A4,A4
+2017,Audi,A4,A4 allroad quattro
+2017,Audi,A4,A4 quattro
+2017,Audi,A4,A4 Ultra
+2017,Audi,A5,A5 Cabriolet quattro
+2017,Audi,A5,A5 quattro
+2017,Audi,A6,A6
+2017,Audi,A6,A6 quattro
+2017,Audi,A7,A7 quattro
+2017,Audi,A8,A8 L
+2017,Audi,Q3,Q3
+2017,Audi,Q3,Q3 quattro
+2017,Audi,Q5,Q5
+2017,Audi,Q7,Q7
+2017,Audi,R8,R8
+2017,Audi,R8 Spyder,R8 Spyder
+2017,Audi,RS 3,RS 3
+2017,Audi,RS 7,RS 7
+2017,Audi,S3,S3
+2017,Audi,S5,S5
+2017,Audi,S5,S5 Cabriolet
+2017,Audi,S6,S6
+2017,Audi,S7,S7
+2017,Audi,S8,S8
+2017,Audi,SQ5,SQ5
+2017,Audi,TT Coupe,TT Coupe quattro
+2017,Audi,TT Roadster,TT Roadster quattro
+2017,Audi,TTS Coupe,TTS Coupe
+2017,Bentley,Bentayga,Bentayga
+2017,Bentley,Continental,Continental GT
+2017,Bentley,Continental GT Convertible,Continental GT Convertible
+2017,Bentley,Continental Supersports,Continental Supersports
+2017,Bentley,Continental Supersports Convertible,Continental Supersports Convertible
+2017,Bentley,Flying Spur,Flying Spur
+2017,Bentley,Mulsanne,Mulsanne
+2017,Bentley,Mulsanne,Mulsanne EWB
+2017,BMW,2 Series,230i Convertible
+2017,BMW,2 Series,230i Coupe
+2017,BMW,2 Series,230i xDrive Convertible
+2017,BMW,2 Series,230i xDrive Coupe
+2017,BMW,2 Series,M240i Convertible
+2017,BMW,2 Series,M240i Coupe
+2017,BMW,2 Series,M240i xDrive Convertible
+2017,BMW,2 Series,M240i xDrive Coupe
+2017,BMW,3 Series,320i
+2017,BMW,3 Series,320i xDrive
+2017,BMW,3 Series,328d
+2017,BMW,3 Series,328d xDrive
+2017,BMW,3 Series,328d xDrive Sports Wagon
+2017,BMW,3 Series,330e
+2017,BMW,3 Series,330i
+2017,BMW,3 Series,330i xDrive
+2017,BMW,3 Series,330i xDrive Gran Turismo
+2017,BMW,3 Series,330i xDrive Sports Wagon
+2017,BMW,3 Series,340i
+2017,BMW,3 Series,340i xDrive
+2017,BMW,3 Series,340i xDrive Gran Turismo
+2017,BMW,4 Series,430i Convertible
+2017,BMW,4 Series,430i Coupe
+2017,BMW,4 Series,430i Gran Coupe
+2017,BMW,4 Series,430i xDrive Convertible
+2017,BMW,4 Series,430i xDrive Coupe
+2017,BMW,4 Series,430i xDrive Gran Coupe
+2017,BMW,4 Series,440i Convertible
+2017,BMW,4 Series,440i Coupe
+2017,BMW,4 Series,440i Gran Coupe
+2017,BMW,4 Series,440i xDrive Convertible
+2017,BMW,4 Series,440i xDrive Coupe
+2017,BMW,4 Series,440i xDrive Gran Coupe
+2017,BMW,5 Series,530i
+2017,BMW,5 Series,530i xDrive
+2017,BMW,5 Series,535i Gran Turismo
+2017,BMW,5 Series,535i xDrive Gran Turismo
+2017,BMW,5 Series,540i
+2017,BMW,5 Series,540i xDrive
+2017,BMW,5 Series,550i xDrive Gran Turismo
+2017,BMW,6 Series,640i Convertible
+2017,BMW,6 Series,640i Coupe
+2017,BMW,6 Series,640i Gran Coupe
+2017,BMW,6 Series,640i xDrive Convertible
+2017,BMW,6 Series,640i xDrive Coupe
+2017,BMW,6 Series,640i xDrive Gran Coupe
+2017,BMW,6 Series,650i Convertible
+2017,BMW,6 Series,650i Coupe
+2017,BMW,6 Series,650i Gran Coupe
+2017,BMW,6 Series,650i xDrive Convertible
+2017,BMW,6 Series,650i xDrive Coupe
+2017,BMW,6 Series,650i xDrive Gran Coupe
+2017,BMW,6 Series,Alpina B6 xDrive Gran Coupe
+2017,BMW,7 Series,740e xDrive
+2017,BMW,7 Series,740i
+2017,BMW,7 Series,740i xDrive
+2017,BMW,7 Series,750i
+2017,BMW,7 Series,750i xDrive
+2017,BMW,7 Series,Alpina B7 xDrive
+2017,BMW,7 Series,M760i xDrive
+2017,BMW,i3,i3 BEV (60  Amp-hour battery)
+2017,BMW,i3,i3 BEV (94 Amp-hour battery)
+2017,BMW,i3,i3 REX  (94 Amp-hour battery)
+2017,BMW,i8,i8
+2017,BMW,M,M2
+2017,BMW,M,M3
+2017,BMW,M,M4 Convertible
+2017,BMW,M,M4 Coupe
+2017,BMW,M,M6 Convertible
+2017,BMW,M,M6 Coupe
+2017,BMW,M,M6 Gran Coupe
+2017,BMW,M,X5 M
+2017,BMW,M,X6 M
+2017,BMW,X1,X1 sDrive28i
+2017,BMW,X1,X1 xDrive28i
+2017,BMW,X3,X3 sDrive28i
+2017,BMW,X3,X3 xDrive28i
+2017,BMW,X3,X3 xDrive35i
+2017,BMW,X4,X4 M40i
+2017,BMW,X4,X4 xDrive28i
+2017,BMW,X5,X5 sDrive35i
+2017,BMW,X5,X5 xDrive 35d
+2017,BMW,X5,X5 xDrive35i
+2017,BMW,X5,X5 xDrive40e
+2017,BMW,X5,X5 xDrive50i
+2017,BMW,X6,X6 sDrive35i
+2017,BMW,X6,X6 xDrive35i
+2017,BMW,X6,X6 xDrive50i
+2017,Buick,Cascada,Cascada
+2017,Buick,Enclave,Enclave AWD
+2017,Buick,Enclave,Enclave FWD
+2017,Buick,Encore,Encore
+2017,Buick,Encore,Encore AWD
+2017,Buick,Envision,Envision AWD
+2017,Buick,Envision,Envision FWD
+2017,Buick,LaCrosse,LaCrosse
+2017,Buick,LaCrosse,LaCrosse AWD
+2017,Buick,Regal,Regal
+2017,Buick,Regal,Regal AWD
+2017,Buick,Verano,Verano
+2017,BYD,e6,e6
+2017,Cadillac,ATS,ATS
+2017,Cadillac,ATS,ATS AWD
+2017,Cadillac,ATS-V,ATS-V
+2017,Cadillac,CT6,CT6
+2017,Cadillac,CT6,CT6 AWD
+2017,Cadillac,CT6,CT6 Plug-In
+2017,Cadillac,CTS,CTS
+2017,Cadillac,CTS,CTS AWD
+2017,Cadillac,CTS,CTS-V
+2017,Cadillac,Escalade,Escalade 2WD
+2017,Cadillac,Escalade,Escalade 4WD
+2017,Cadillac,XT5,XT5
+2017,Cadillac,XT5,XT5 AWD
+2017,Cadillac,XTS,XTS
+2017,Cadillac,XTS,XTS AWD
+2017,Cadillac,XTS Hearse,XTS Hearse
+2017,Cadillac,XTS Limo,XTS Limo
+2017,Chevrolet,Bolt EV,Bolt EV
+2017,Chevrolet,Camaro,Camaro
+2017,Chevrolet,City Express Cargo Van,City Express Cargo Van
+2017,Chevrolet,Colorado,Colorado 2WD
+2017,Chevrolet,Colorado,Colorado 4WD
+2017,Chevrolet,Colorado,Colorado Cab Chassis 2WD
+2017,Chevrolet,Colorado,Colorado ZR2 4WD
+2017,Chevrolet,Corvette,Corvette
+2017,Chevrolet,Cruze,Cruze
+2017,Chevrolet,Cruze,Cruze Hatchback
+2017,Chevrolet,Cruze,Cruze Premier
+2017,Chevrolet,Cruze,Cruze Premier Hatchback
+2017,Chevrolet,Equinox,Equinox AWD
+2017,Chevrolet,Equinox,Equinox FWD
+2017,Chevrolet,Express Passenger,Express 2500 2WD Passenger
+2017,Chevrolet,Express Passenger,Express 3500 2WD Passenger
+2017,Chevrolet,Impala,Impala
+2017,Chevrolet,Malibu,Malibu
+2017,Chevrolet,Malibu,Malibu Hybrid
+2017,Chevrolet,Silverado,Silverado 15 Hybrid 2WD
+2017,Chevrolet,Silverado,Silverado 15 Hybrid 4WD
+2017,Chevrolet,Silverado,Silverado C15 2WD
+2017,Chevrolet,Silverado,Silverado C15 Cab Chassis 2WD
+2017,Chevrolet,Silverado,Silverado K15 4WD
+2017,Chevrolet,Silverado,Silverado K15 Cab Chassis 4WD
+2017,Chevrolet,Sonic,Sonic
+2017,Chevrolet,Sonic,Sonic 5
+2017,Chevrolet,Spark,Spark
+2017,Chevrolet,Spark,Spark ACTIV
+2017,Chevrolet,SS,SS
+2017,Chevrolet,Suburban,Suburban C1500 2WD
+2017,Chevrolet,Suburban,Suburban K1500 4WD
+2017,Chevrolet,Tahoe,Tahoe C1500 2WD
+2017,Chevrolet,Tahoe,Tahoe K1500 4WD
+2017,Chevrolet,Traverse,Traverse AWD
+2017,Chevrolet,Traverse,Traverse FWD
+2017,Chevrolet,Trax,Trax
+2017,Chevrolet,Trax,Trax AWD
+2017,Chevrolet,Volt,Volt
+2017,Chrysler,200,200
+2017,Chrysler,200,200 AWD
+2017,Chrysler,300,300
+2017,Chrysler,300,300 AWD
+2017,Chrysler,Pacifica,Pacifica
+2017,Chrysler,Pacifica,Pacifica Hybrid
+2017,Dodge,Challenger,Challenger
+2017,Dodge,Challenger,Challenger GT
+2017,Dodge,Challenger,Challenger SRT
+2017,Dodge,Charger,Charger
+2017,Dodge,Charger,Charger AWD
+2017,Dodge,Charger,Charger SRT
+2017,Dodge,Durango,Durango AWD
+2017,Dodge,Durango,Durango RWD
+2017,Dodge,Grand Caravan,Grand Caravan
+2017,Dodge,Journey,Journey
+2017,Dodge,Journey,Journey AWD
+2017,Dodge,Viper,Viper
+2017,Ferrari,488 GTB,488 GTB
+2017,Ferrari,488 Spider,488 Spider
+2017,Ferrari,California T,California T
+2017,Ferrari,F12 Berlinetta,F12 Berlinetta
+2017,Ferrari,F12 tdf,F12 tdf
+2017,Ferrari,GTC4Lusso,GTC4Lusso
+2017,Ferrari,LaFerrari,LaFerrari Aperta
+2017,Fiat,124 Spider,124 Spider
+2017,Fiat,500,500
+2017,Fiat,500,500 Abarth
+2017,Fiat,500 L,500 L
+2017,Fiat,500 X,500 X
+2017,Fiat,500 X,500 X AWD
+2017,Fiat,500e,500e
+2017,Ford,C-MAX,C-MAX Energi Plug-In Hybrid
+2017,Ford,C-MAX,C-MAX Hybrid FWD
+2017,Ford,Edge,Edge AWD
+2017,Ford,Edge,Edge FWD
+2017,Ford,Escape,Escape AWD
+2017,Ford,Escape,Escape FWD
+2017,Ford,Escape,Escape FWD FFV
+2017,Ford,Expedition,Expedition 2WD
+2017,Ford,Expedition,Expedition 4WD
+2017,Ford,Expedition,Expedition EL 2WD
+2017,Ford,Expedition,Expedition EL 4WD
+2017,Ford,Explorer,Explorer 2WD FFV
+2017,Ford,Explorer,Explorer AWD
+2017,Ford,Explorer,Explorer AWD FFV
+2017,Ford,Explorer,Explorer FWD
+2017,Ford,F150,F150 2.7L 2WD GVWR>6649 LBS
+2017,Ford,F150,F150 2.7L 4WD GVWR>6799 LBS
+2017,Ford,F150,F150 2WD BASE PAYLOAD LT TIRE
+2017,Ford,F150,F150 3.5L 2WD GVWR>7599 LBS
+2017,Ford,F150,F150 3.5L 4WD GVWR>7599 LBS
+2017,Ford,F150,F150 4WD BASE PAYLOAD LT TIRE
+2017,Ford,F150,F150 4WD FFV BASE PAYLOAD LT TIRE
+2017,Ford,F150,F150 5.0L 2WD FFV GVWR>7599 LBS
+2017,Ford,F150,F150 5.0L 4WD FFV GVWR>7599 LBS
+2017,Ford,F150,F150 Pickup 2WD
+2017,Ford,F150,F150 Pickup 2WD FFV
+2017,Ford,F150,F150 Pickup 4WD
+2017,Ford,F150,F150 Pickup 4WD FFV
+2017,Ford,F150,F150 RAPTOR 4WD
+2017,Ford,Fiesta,Fiesta FWD
+2017,Ford,Fiesta,Fiesta SFE FWD
+2017,Ford,Fiesta,Fiesta ST FWD
+2017,Ford,Flex,Flex AWD
+2017,Ford,Flex,Flex FWD
+2017,Ford,Focus,Focus Electric
+2017,Ford,Focus,Focus FWD
+2017,Ford,Focus,Focus FWD FFV
+2017,Ford,Focus,Focus RS AWD
+2017,Ford,Focus,Focus ST FWD
+2017,Ford,Fusion,Fusion AWD
+2017,Ford,Fusion,Fusion Energi Plug-in Hybrid
+2017,Ford,Fusion,Fusion FWD
+2017,Ford,Fusion,Fusion Hybrid FWD
+2017,Ford,GT,GT
+2017,Ford,Mustang,Mustang
+2017,Ford,Mustang,Mustang Convertible
+2017,Ford,Mustang,Mustang Performance Package
+2017,Ford,Mustang,Shelby GT350 Mustang
+2017,Ford,Taurus,Taurus AWD
+2017,Ford,Taurus,Taurus AWD FFV
+2017,Ford,Taurus,Taurus FWD
+2017,Ford,Taurus,Taurus FWD FFV
+2017,Ford,Transit Connect,Transit Connect Van 2WD
+2017,Ford,Transit Connect,Transit Connect Van FFV
+2017,Ford,Transit Connect,Transit Connect Wagon FFV
+2017,Ford,Transit Connect,Transit Connect Wagon FWD
+2017,Ford,Transit Connect,Transit Connect Wagon LWB FFV
+2017,Ford,Transit Connect,Transit Connect Wagon LWB FWD
+2017,Ford,Transit T150 Wagon,Transit T150 Wagon
+2017,Ford,Transit T150 Wagon,Transit T150 Wagon FFV
+2017,Genesis,G80,G80 AWD
+2017,Genesis,G80,G80 RWD
+2017,Genesis,G90,G90 AWD
+2017,Genesis,G90,G90 RWD
+2017,GMC,Acadia,Acadia AWD
+2017,GMC,Acadia,Acadia FWD
+2017,GMC,Acadia,Acadia Limited AWD
+2017,GMC,Acadia,Acadia Limited FWD
+2017,GMC,Canyon,Canyon 2WD
+2017,GMC,Canyon,Canyon 4WD
+2017,GMC,Canyon,Canyon Cab Chassis 2WD
+2017,GMC,Savana Passenger,Savana 2500 2WD (Passenger)
+2017,GMC,Savana Passenger,Savana 3500 2WD (Passenger)
+2017,GMC,Sierra,Sierra 15 Hybrid 2WD
+2017,GMC,Sierra,Sierra 15 Hybrid 4WD
+2017,GMC,Sierra,Sierra C15 2WD
+2017,GMC,Sierra,Sierra C15 Cab Chassis 2WD
+2017,GMC,Sierra,Sierra K15 4WD
+2017,GMC,Sierra,Sierra K15 Cab Chassis 4WD
+2017,GMC,Terrain,Terrain AWD
+2017,GMC,Terrain,Terrain FWD
+2017,GMC,Yukon,Yukon C1500 2WD
+2017,GMC,Yukon,Yukon C1500 XL 2WD
+2017,GMC,Yukon,Yukon K1500 4WD
+2017,GMC,Yukon,Yukon K1500 XL 4WD
+2017,Honda,Accord,Accord
+2017,Honda,Accord,Accord Hybrid
+2017,Honda,Civic,Civic 2Dr
+2017,Honda,Civic,Civic 4Dr
+2017,Honda,Civic,Civic 5Dr
+2017,Honda,Civic,Civic 5Dr - Type R
+2017,Honda,Civic,Civic 5Dr Sport
+2017,Honda,Civic,Civic Si 2Dr
+2017,Honda,Civic,Civic Si 4Dr
+2017,Honda,Clarity,Clarity EV
+2017,Honda,Clarity,Clarity FCV
+2017,Honda,CR-V,CR-V AWD
+2017,Honda,CR-V,CR-V FWD
+2017,Honda,Fit,Fit
+2017,Honda,HR-V,HR-V AWD
+2017,Honda,HR-V,HR-V FWD
+2017,Honda,Odyssey,Odyssey
+2017,Honda,Pilot,Pilot AWD
+2017,Honda,Pilot,Pilot FWD
+2017,Honda,Ridgeline,Ridgeline AWD
+2017,Honda,Ridgeline,Ridgeline FWD
+2017,Hyundai,Accent,Accent
+2017,Hyundai,Azera,Azera
+2017,Hyundai,Azera,Azera Limited
+2017,Hyundai,Elantra,Elantra
+2017,Hyundai,Elantra,Elantra GT
+2017,Hyundai,Elantra,Elantra SE
+2017,Hyundai,Ioniq,Ioniq
+2017,Hyundai,Ioniq,Ioniq Blue
+2017,Hyundai,Ioniq,Ioniq Electric
+2017,Hyundai,Santa Fe,Santa Fe AWD
+2017,Hyundai,Santa Fe,Santa Fe FWD
+2017,Hyundai,Santa Fe,Santa Fe Sport AWD
+2017,Hyundai,Santa Fe,Santa Fe Sport FWD
+2017,Hyundai,Santa Fe,Santa Fe Sport Ultimate AWD
+2017,Hyundai,Santa Fe,Santa Fe Sport Ultimate FWD
+2017,Hyundai,Santa Fe,Santa Fe Ultimate AWD
+2017,Hyundai,Santa Fe,Santa Fe Ultimate FWD
+2017,Hyundai,Sonata,Sonata
+2017,Hyundai,Sonata,Sonata Hybrid
+2017,Hyundai,Sonata,Sonata Hybrid SE
+2017,Hyundai,Sonata,Sonata Limited
+2017,Hyundai,Sonata,Sonata Plug-in Hybrid
+2017,Hyundai,Sonata,Sonata Sport Limited
+2017,Hyundai,Tucson,Tucson AWD
+2017,Hyundai,Tucson,Tucson Eco AWD
+2017,Hyundai,Tucson,Tucson Eco FWD
+2017,Hyundai,Tucson,Tucson Fuel Cell
+2017,Hyundai,Tucson,Tucson FWD
+2017,Hyundai,Veloster,Veloster
+2017,Infiniti,Q50,Q50
+2017,Infiniti,Q50,Q50 AWD
+2017,Infiniti,Q50,Q50 Hybrid
+2017,Infiniti,Q50,Q50 Hybrid AWD
+2017,Infiniti,Q50,Q50S Red Sport
+2017,Infiniti,Q50,Q50S Red Sport  AWD
+2017,Infiniti,Q60,Q60
+2017,Infiniti,Q60,Q60 AWD
+2017,Infiniti,Q60,Q60S Red Sport
+2017,Infiniti,Q60,Q60S Red Sport AWD
+2017,Infiniti,Q70,Q70
+2017,Infiniti,Q70,Q70 AWD
+2017,Infiniti,Q70,Q70 Hybrid
+2017,Infiniti,QX30,QX30
+2017,Infiniti,QX30,QX30 AWD
+2017,Infiniti,QX50,QX50
+2017,Infiniti,QX50,QX50 AWD
+2017,Infiniti,QX60,QX60 AWD
+2017,Infiniti,QX60,QX60 FWD
+2017,Infiniti,QX60,QX60 Hybrid AWD
+2017,Infiniti,QX60,QX60 Hybrid FWD
+2017,Infiniti,QX70,QX70 AWD
+2017,Infiniti,QX70,QX70 RWD
+2017,Infiniti,QX80,QX80 2WD
+2017,Infiniti,QX80,QX80 4WD
+2017,Jaguar,F-Pace,F-Pace
+2017,Jaguar,F-Type,F-Type Convertible
+2017,Jaguar,F-Type,F-Type Coupe
+2017,Jaguar,F-Type,F-Type R AWD Convertible
+2017,Jaguar,F-Type,F-Type R AWD Coupe
+2017,Jaguar,F-Type,F-Type S AWD Convertible
+2017,Jaguar,F-Type,F-Type S AWD Coupe
+2017,Jaguar,F-Type,F-Type S Convertible
+2017,Jaguar,F-Type,F-Type S Coupe
+2017,Jaguar,XE,XE
+2017,Jaguar,XE,XE AWD
+2017,Jaguar,XF,XF
+2017,Jaguar,XF,XF AWD
+2017,Jaguar,XJ,XJ
+2017,Jaguar,XJ,XJ AWD
+2017,Jaguar,XJL,XJL
+2017,Jaguar,XJL,XJL AWD
+2017,Jeep,Cherokee,Cherokee 4WD
+2017,Jeep,Cherokee,Cherokee 4WD Active Drive II
+2017,Jeep,Cherokee,Cherokee FWD
+2017,Jeep,Cherokee,Cherokee Trailhawk 4WD
+2017,Jeep,Compass,Compass 4WD
+2017,Jeep,Compass,Compass FWD
+2017,Jeep,Compass,New Compass 2WD
+2017,Jeep,Compass,New Compass 4WD
+2017,Jeep,Grand Cherokee,Grand Cherokee 2WD
+2017,Jeep,Grand Cherokee,Grand Cherokee 4WD
+2017,Jeep,Grand Cherokee,Grand Cherokee SRT 4WD
+2017,Jeep,Patriot,Patriot 4WD
+2017,Jeep,Patriot,Patriot FWD
+2017,Jeep,Renegade,Renegade 2WD
+2017,Jeep,Renegade,Renegade 4WD
+2017,Jeep,Wrangler,Wrangler 4WD
+2017,Jeep,Wrangler,Wrangler Unlimited 4WD
+2017,Kia,Cadenza,Cadenza
+2017,Kia,Forte,Forte
+2017,Kia,Forte,Forte 5
+2017,Kia,Forte,Forte Koup
+2017,Kia,K900,K900
+2017,Kia,Niro,Niro
+2017,Kia,Niro,Niro FE
+2017,Kia,Niro,Niro Touring
+2017,Kia,Optima,Optima
+2017,Kia,Optima,Optima FE
+2017,Kia,Optima,Optima Hybrid
+2017,Kia,Optima,Optima Plug-in Hybrid
+2017,Kia,Rio,Rio
+2017,Kia,Rio,Rio Eco
+2017,Kia,Sedona,Sedona
+2017,Kia,Sedona,Sedona SX
+2017,Kia,Sedona,Sedona SXL
+2017,Kia,Sorento,Sorento AWD
+2017,Kia,Sorento,Sorento FE AWD
+2017,Kia,Sorento,Sorento FWD
+2017,Kia,Soul,Soul
+2017,Kia,Soul,Soul Electric
+2017,Kia,Sportage,Sportage AWD
+2017,Kia,Sportage,Sportage FE AWD
+2017,Kia,Sportage,Sportage FE FWD
+2017,Kia,Sportage,Sportage FWD
+2017,Lamborghini,Aventador,Aventador Coupe
+2017,Lamborghini,Aventador,Aventador Coupe LP740-4
+2017,Lamborghini,Aventador,Aventador Roadster
+2017,Lamborghini,Aventador,Aventador Roadster LP740-4
+2017,Lamborghini,Huracan,Huracan
+2017,Lamborghini,Huracan,Huracan 2WD
+2017,Lamborghini,Huracan,Huracan Spyder
+2017,Lamborghini,Huracan,Huracan Spyder 2WD
+2017,Land Rover,Discovery,Discovery
+2017,Land Rover,Discovery,Discovery Sport
+2017,Land Rover,Range Rover,Range Rover
+2017,Land Rover,Range Rover,Range Rover Evoque
+2017,Land Rover,Range Rover,Range Rover Evoque Convertible
+2017,Land Rover,Range Rover,Range Rover LWB
+2017,Land Rover,Range Rover,Range Rover Sport
+2017,Lexus,CT,CT 200h
+2017,Lexus,ES,ES 300h
+2017,Lexus,ES,ES 350
+2017,Lexus,GS,GS 200t
+2017,Lexus,GS,GS 200t F Sport
+2017,Lexus,GS,GS 350
+2017,Lexus,GS,GS 350 AWD
+2017,Lexus,GS,GS 350 F Sport
+2017,Lexus,GS,GS 450h
+2017,Lexus,GS,GS F
+2017,Lexus,GX,GX 460
+2017,Lexus,IS,IS 200t
+2017,Lexus,IS,IS 300 AWD
+2017,Lexus,IS,IS 350
+2017,Lexus,IS,IS 350 AWD
+2017,Lexus,LS,LS 460
+2017,Lexus,LS,LS 460 AWD
+2017,Lexus,LS,LS 460 L
+2017,Lexus,LS,LS 460 L AWD
+2017,Lexus,LX,LX 570
+2017,Lexus,NX,NX 200t
+2017,Lexus,NX,NX 200t AWD
+2017,Lexus,NX,NX 200t AWD F Sport
+2017,Lexus,NX,NX 300h AWD
+2017,Lexus,RC,RC 200t
+2017,Lexus,RC,RC 300 AWD
+2017,Lexus,RC,RC 350
+2017,Lexus,RC,RC 350 AWD
+2017,Lexus,RC F,RC F
+2017,Lexus,RX,RX 350
+2017,Lexus,RX,RX 350 AWD
+2017,Lexus,RX,RX 450h AWD
+2017,Lincoln,Continental,Continental  AWD
+2017,Lincoln,Continental,Continental  FWD
+2017,Lincoln,MKC,MKC AWD
+2017,Lincoln,MKC,MKC FWD
+2017,Lincoln,MKT,MKT AWD
+2017,Lincoln,MKT,MKT FWD
+2017,Lincoln,MKT,MKT Hearse AWD
+2017,Lincoln,MKT,MKT Limo AWD
+2017,Lincoln,MKT,MKT Livery AWD
+2017,Lincoln,MKX,MKX AWD
+2017,Lincoln,MKX,MKX FWD
+2017,Lincoln,MKZ,MKZ AWD
+2017,Lincoln,MKZ,MKZ FWD
+2017,Lincoln,MKZ,MKZ Hybrid FWD
+2017,Lincoln,Navigator,Navigator 2WD
+2017,Lincoln,Navigator,Navigator 4WD
+2017,Lincoln,Navigator,Navigator L 2WD
+2017,Lincoln,Navigator,Navigator L 4WD
+2017,Lotus,Evora,Evora
+2017,Maserati,Ghibli,Ghibli S RWD
+2017,Maserati,Ghibli,Ghibli V6
+2017,Maserati,Ghibli,Ghibli V6 SQ4 AWD
+2017,Maserati,GranTurismo,GranTurismo
+2017,Maserati,GranTurismo,GranTurismo Convertible
+2017,Maserati,Levante,Levante
+2017,Maserati,Levante,Levante S
+2017,Maserati,Quattroporte,Quattroporte GTS
+2017,Maserati,Quattroporte,Quattroporte S
+2017,Maserati,Quattroporte,Quattroporte SQ4 V6
+2017,Mazda,2,2
+2017,Mazda,3,3 4-Door
+2017,Mazda,3,3 5-Door
+2017,Mazda,6,6
+2017,Mazda,CX-3,CX-3 2WD
+2017,Mazda,CX-3,CX-3 4WD
+2017,Mazda,CX-5,CX-5 2WD
+2017,Mazda,CX-5,CX-5 4WD
+2017,Mazda,CX-9,CX-9 2WD
+2017,Mazda,CX-9,CX-9 4WD
+2017,Mazda,MX-5,MX-5
+2017,McLaren Automotive,570GT,570GT
+2017,McLaren Automotive,570S Coupe,570S Coupe
+2017,Mercedes-Benz,AMG GT,AMG GT
+2017,Mercedes-Benz,AMG GT,AMG GT S
+2017,Mercedes-Benz,B-Class Electric Drive,B250e
+2017,Mercedes-Benz,C-Class,AMG C43 4matic
+2017,Mercedes-Benz,C-Class,AMG C43 4matic Convertible
+2017,Mercedes-Benz,C-Class,AMG C43 4matic Coupe
+2017,Mercedes-Benz,C-Class,AMG C63
+2017,Mercedes-Benz,C-Class,AMG C63 Convertible
+2017,Mercedes-Benz,C-Class,AMG C63 Coupe
+2017,Mercedes-Benz,C-Class,AMG C63 S
+2017,Mercedes-Benz,C-Class,AMG C63 S Convertible
+2017,Mercedes-Benz,C-Class,AMG C63 S Coupe
+2017,Mercedes-Benz,C-Class,C300
+2017,Mercedes-Benz,C-Class,C300 4matic
+2017,Mercedes-Benz,C-Class,C300 4matic Convertible
+2017,Mercedes-Benz,C-Class,C300 4matic Coupe
+2017,Mercedes-Benz,C-Class,C300 Convertible
+2017,Mercedes-Benz,C-Class,C300 Coupe
+2017,Mercedes-Benz,C-Class,C350e
+2017,Mercedes-Benz,CLA-Class,AMG CLA45 4matic
+2017,Mercedes-Benz,CLA-Class,CLA250
+2017,Mercedes-Benz,CLA-Class,CLA250 4matic
+2017,Mercedes-Benz,CLS-Class,AMG CLS63 S 4matic
+2017,Mercedes-Benz,CLS-Class,CLS550
+2017,Mercedes-Benz,CLS-Class,CLS550 4matic
+2017,Mercedes-Benz,E-Class,AMG E43 4matic
+2017,Mercedes-Benz,E-Class,E300
+2017,Mercedes-Benz,E-Class,E300 4matic
+2017,Mercedes-Benz,E-Class,E400 4matic (station wagon)
+2017,Mercedes-Benz,E-Class,E400 4matic Coupe
+2017,Mercedes-Benz,E-Class,E400 Convertible
+2017,Mercedes-Benz,E-Class,E400 Coupe
+2017,Mercedes-Benz,E-Class,E550 Convertible
+2017,Mercedes-Benz,E-Class,E550 Coupe
+2017,Mercedes-Benz,G-Class,AMG G63
+2017,Mercedes-Benz,G-Class,AMG G65
+2017,Mercedes-Benz,G-Class,G550
+2017,Mercedes-Benz,G-Class,G550 4x4 (Special Off-Road Model)
+2017,Mercedes-Benz,GLA-Class,AMG GLA45 4matic
+2017,Mercedes-Benz,GLA-Class,GLA250
+2017,Mercedes-Benz,GLA-Class,GLA250 4matic
+2017,Mercedes-Benz,GLC-Class,AMG GLC43 4matic
+2017,Mercedes-Benz,GLC-Class,AMG GLC43 4matic Coupe
+2017,Mercedes-Benz,GLC-Class,GLC300
+2017,Mercedes-Benz,GLC-Class,GLC300 4matic
+2017,Mercedes-Benz,GLC-Class,GLC300 4matic Coupe
+2017,Mercedes-Benz,GLE-Class,AMG GLE43 4matic
+2017,Mercedes-Benz,GLE-Class,AMG GLE43 4matic Coupe
+2017,Mercedes-Benz,GLE-Class,AMG GLE63
+2017,Mercedes-Benz,GLE-Class,AMG GLE63 S
+2017,Mercedes-Benz,GLE-Class,AMG GLE63 S Coupe
+2017,Mercedes-Benz,GLE-Class,GLE350
+2017,Mercedes-Benz,GLE-Class,GLE350 4matic
+2017,Mercedes-Benz,GLE-Class,GLE400 4matic
+2017,Mercedes-Benz,GLE-Class,GLE550e 4matic
+2017,Mercedes-Benz,GLS-Class,AMG GLS63
+2017,Mercedes-Benz,GLS-Class,GLS450 4matic
+2017,Mercedes-Benz,GLS-Class,GLS550 4matic
+2017,Mercedes-Benz,Maybach,Maybach S550 4matic
+2017,Mercedes-Benz,Maybach,Maybach S600
+2017,Mercedes-Benz,Maybach,Maybach S650 Convertible
+2017,Mercedes-Benz,Metris Cargo,Metris (Cargo Van)
+2017,Mercedes-Benz,Metris Passenger,Metris (Passenger Van)
+2017,Mercedes-Benz,S-Class,AMG S63 4matic
+2017,Mercedes-Benz,S-Class,AMG S63 4matic Convertible
+2017,Mercedes-Benz,S-Class,AMG S63 4matic Coupe
+2017,Mercedes-Benz,S-Class,AMG S65
+2017,Mercedes-Benz,S-Class,S550
+2017,Mercedes-Benz,S-Class,S550 4matic
+2017,Mercedes-Benz,S-Class,S550 4matic Coupe
+2017,Mercedes-Benz,S-Class,S550 Convertible
+2017,Mercedes-Benz,S-Class,S550e
+2017,Mercedes-Benz,S-Class,S600
+2017,Mercedes-Benz,S-Class,S65 AMG Convertible
+2017,Mercedes-Benz,S-Class,S65 AMG Coupe
+2017,Mercedes-Benz,SL-Class,AMG SL63
+2017,Mercedes-Benz,SL-Class,AMG SL65
+2017,Mercedes-Benz,SL-Class,SL450
+2017,Mercedes-Benz,SL-Class,SL550
+2017,Mercedes-Benz,SLC-Class,AMG SLC43
+2017,Mercedes-Benz,SLC-Class,SLC300
+2017,MINI,Clubman,Cooper Clubman
+2017,MINI,Clubman,Cooper Clubman All4
+2017,MINI,Clubman,Cooper S Clubman
+2017,MINI,Clubman,Cooper S Clubman All4
+2017,MINI,Clubman,John Cooper Works Clubman All4
+2017,MINI,Cooper,Cooper Convertible
+2017,MINI,Cooper,Cooper Hardtop 2 door
+2017,MINI,Cooper,Cooper Hardtop 4 door
+2017,MINI,Cooper,Cooper S Convertible
+2017,MINI,Cooper,Cooper S Hardtop 2 door
+2017,MINI,Cooper,Cooper S Hardtop 4 door
+2017,MINI,Countryman,Cooper Countryman
+2017,MINI,Countryman,Cooper Countryman All4
+2017,MINI,Countryman,Cooper S Countryman
+2017,MINI,Countryman,Cooper S Countryman All4
+2017,MINI,John Cooper Works,John Cooper Works Convertible
+2017,MINI,John Cooper Works,John Cooper Works Hardtop
+2017,Mitsubishi,i-MiEV,i-MiEV
+2017,Mitsubishi,Lancer,Lancer
+2017,Mitsubishi,Lancer,Lancer 4WD
+2017,Mitsubishi,Mirage,Mirage
+2017,Mitsubishi,Mirage,Mirage G4
+2017,Mitsubishi,Outlander,Outlander 2WD
+2017,Mitsubishi,Outlander,Outlander 4WD
+2017,Mitsubishi,Outlander,Outlander Sport 2WD
+2017,Mitsubishi,Outlander,Outlander Sport 4WD
+2017,Nissan,370Z,370Z
+2017,Nissan,370Z,370Z Roadster
+2017,Nissan,Altima,Altima
+2017,Nissan,Altima,Altima SR
+2017,Nissan,Armada,Armada 2WD
+2017,Nissan,Armada,Armada 4WD
+2017,Nissan,Frontier,Frontier 2WD
+2017,Nissan,Frontier,Frontier 2WD FFV
+2017,Nissan,Frontier,Frontier 4WD
+2017,Nissan,Frontier,Frontier 4WD FFV
+2017,Nissan,GT-R,GT-R
+2017,Nissan,Juke,Juke
+2017,Nissan,Juke,Juke AWD
+2017,Nissan,Juke,Juke Nismo RS
+2017,Nissan,Juke,Juke Nismo RS AWD
+2017,Nissan,Leaf,Leaf
+2017,Nissan,Maxima,Maxima
+2017,Nissan,Murano,Murano AWD
+2017,Nissan,Murano,Murano FWD
+2017,Nissan,NV200 Cargo Van,NV200 Cargo Van
+2017,Nissan,NV200 NYC Taxi,NV200 NYC Taxi
+2017,Nissan,Pathfinder,Pathfinder 2WD
+2017,Nissan,Pathfinder,Pathfinder 4WD
+2017,Nissan,Pathfinder,Pathfinder 4WD Platinum
+2017,Nissan,Quest,Quest
+2017,Nissan,Rogue,Rogue AWD
+2017,Nissan,Rogue,Rogue FWD
+2017,Nissan,Rogue,Rogue Hybrid  AWD
+2017,Nissan,Rogue,Rogue Hybrid  FWD
+2017,Nissan,Rogue,Rogue Sport AWD
+2017,Nissan,Rogue,Rogue Sport FWD
+2017,Nissan,Sentra,Sentra
+2017,Nissan,Sentra,Sentra Nismo
+2017,Nissan,Titan,Titan 2WD
+2017,Nissan,Titan,Titan 4WD
+2017,Nissan,Titan,Titan 4WD  PRO4X
+2017,Nissan,Versa,Versa
+2017,Porsche,911,911 Carrera
+2017,Porsche,911,911 Carrera 4
+2017,Porsche,911,911 Carrera 4 Cabriolet
+2017,Porsche,911,911 Carrera 4 GTS
+2017,Porsche,911,911 Carrera 4 GTS Cabriolet
+2017,Porsche,911,911 Carrera 4S
+2017,Porsche,911,911 Carrera 4S Cabriolet
+2017,Porsche,911,911 Carrera Cabriolet
+2017,Porsche,911,911 Carrera GTS
+2017,Porsche,911,911 Carrera GTS Cabriolet
+2017,Porsche,911,911 Carrera S
+2017,Porsche,911,911 Carrera S Cabriolet
+2017,Porsche,911,911 Targa 4
+2017,Porsche,911,911 Targa 4 GTS
+2017,Porsche,911,911 Targa 4S
+2017,Porsche,911,911 Turbo
+2017,Porsche,911,911 Turbo Cabriolet
+2017,Porsche,911,911 Turbo S
+2017,Porsche,911,911 Turbo S Cabriolet
+2017,Porsche,Boxster,Boxster
+2017,Porsche,Boxster,Boxster S
+2017,Porsche,Cayenne,Cayenne
+2017,Porsche,Cayenne,Cayenne GTS
+2017,Porsche,Cayenne,Cayenne Platinum
+2017,Porsche,Cayenne,Cayenne S
+2017,Porsche,Cayenne,Cayenne S e-Hybrid
+2017,Porsche,Cayenne,Cayenne Turbo
+2017,Porsche,Cayenne,Cayenne Turbo S
+2017,Porsche,Cayman,Cayman
+2017,Porsche,Cayman,Cayman S
+2017,Porsche,Macan,Macan
+2017,Porsche,Macan,Macan GTS
+2017,Porsche,Macan,Macan S
+2017,Porsche,Macan,Macan Turbo
+2017,Porsche,Macan,Macan Turbo Kit
+2017,Porsche,Panamera,Panamera
+2017,Porsche,Panamera,Panamera 4
+2017,Porsche,Panamera,Panamera 4 Executive
+2017,Porsche,Panamera,Panamera 4S
+2017,Porsche,Panamera,Panamera 4S Executive
+2017,Porsche,Panamera,Panamera Turbo
+2017,Porsche,Panamera,Panamera Turbo Executive
+2017,Ram,1500,1500 2WD
+2017,Ram,1500,1500 4WD
+2017,Ram,Promaster City,Promaster City
+2017,Rolls-Royce,Dawn,Dawn
+2017,Rolls-Royce,Ghost,Ghost
+2017,Rolls-Royce,Ghost,Ghost EWB
+2017,Rolls-Royce,Phantom,Phantom
+2017,Rolls-Royce,Phantom,Phantom Coupe
+2017,Rolls-Royce,Phantom,Phantom Drophead Coupe
+2017,Rolls-Royce,Phantom,Phantom EWB
+2017,Rolls-Royce,Wraith,Wraith
+2017,Roush Performance,F150,F150 Pickup 2WD
+2017,Roush Performance,F150,F150 Pickup 4WD
+2017,Roush Performance,Mustang,Stage 3 Mustang
+2017,smart,fortwo,fortwo cabriolet
+2017,smart,fortwo,fortwo coupe
+2017,smart,fortwo,fortwo electric drive convertible
+2017,smart,fortwo,fortwo electric drive coupe
+2017,Subaru,BRZ,BRZ
+2017,Subaru,Crosstrek,Crosstrek AWD
+2017,Subaru,Forester,Forester AWD
+2017,Subaru,Impreza/Outback Sport,Impreza 4-Door
+2017,Subaru,Impreza/Outback Sport,Impreza 5-Door
+2017,Subaru,Impreza/Outback Sport,Impreza Sport 4-Door
+2017,Subaru,Impreza/Outback Sport,Impreza Sport 5-Door
+2017,Subaru,Legacy/Outback,Legacy AWD
+2017,Subaru,Legacy/Outback,Outback AWD
+2017,Subaru,WRX,WRX
+2017,Tesla,Model 3,Model 3 Long Range
+2017,Tesla,Model S,Model S (60 kW-hr battery pack)
+2017,Tesla,Model S,Model S (75 kW-hr battery pack)
+2017,Tesla,Model S,Model S AWD - 100D
+2017,Tesla,Model S,Model S AWD - 60D
+2017,Tesla,Model S,Model S AWD - 75D
+2017,Tesla,Model S,Model S AWD - 90D
+2017,Tesla,Model S,Model S AWD - P100D
+2017,Tesla,Model S,Model S AWD - P90D
+2017,Tesla,Model X,Model X AWD - 100D
+2017,Tesla,Model X,Model X AWD - 60D
+2017,Tesla,Model X,Model X AWD - 75D
+2017,Tesla,Model X,Model X AWD - 90D
+2017,Tesla,Model X,Model X AWD - P100D
+2017,Tesla,Model X,Model X AWD - P90D
+2017,Toyota,4Runner,4Runner 2WD
+2017,Toyota,4Runner,4Runner 4WD
+2017,Toyota,86,86
+2017,Toyota,Avalon,Avalon
+2017,Toyota,Avalon,Avalon Hybrid
+2017,Toyota,Camry,Camry
+2017,Toyota,Camry,Camry Hybrid LE
+2017,Toyota,Camry,Camry Hybrid XLE/SE
+2017,Toyota,Corolla,Corolla
+2017,Toyota,Corolla,Corolla iM
+2017,Toyota,Corolla,Corolla LE Eco
+2017,Toyota,Highlander,Highlander
+2017,Toyota,Highlander,Highlander AWD
+2017,Toyota,Highlander,Highlander AWD LE
+2017,Toyota,Highlander,Highlander Hybrid AWD
+2017,Toyota,Highlander,Highlander Hybrid AWD LE Plus
+2017,Toyota,Highlander,Highlander LE/XLE/SE/LTD
+2017,Toyota,Land Cruiser,Land Cruiser Wagon 4WD
+2017,Toyota,Mirai,Mirai
+2017,Toyota,Prius,Prius
+2017,Toyota,Prius,Prius Eco
+2017,Toyota,Prius c,Prius c
+2017,Toyota,Prius Prime,Prius Prime
+2017,Toyota,Prius v,Prius v
+2017,Toyota,RAV4,RAV4
+2017,Toyota,RAV4,RAV4 AWD
+2017,Toyota,RAV4,RAV4 Hybrid AWD
+2017,Toyota,RAV4,RAV4 LE/XLE
+2017,Toyota,RAV4,RAV4 Limited AWD/SE AWD
+2017,Toyota,Sequoia,Sequoia 2WD
+2017,Toyota,Sequoia,Sequoia 4WD
+2017,Toyota,Sequoia,Sequoia 4WD FFV
+2017,Toyota,Sienna,Sienna 2WD
+2017,Toyota,Sienna,Sienna AWD
+2017,Toyota,Tacoma,Tacoma 2WD
+2017,Toyota,Tacoma,Tacoma 4WD
+2017,Toyota,Tacoma,Tacoma 4WD Double Cab Off-Road
+2017,Toyota,Tundra,Tundra 2WD
+2017,Toyota,Tundra,Tundra 2WD FFV
+2017,Toyota,Tundra,Tundra 4WD
+2017,Toyota,Tundra,Tundra 4WD FFV
+2017,Toyota,Yaris,Yaris
+2017,Toyota,Yaris,Yaris iA
+2017,Volkswagen,Beetle,Beetle
+2017,Volkswagen,Beetle,Beetle Convertible
+2017,Volkswagen,Beetle,Beetle Dune
+2017,Volkswagen,Beetle,Beetle Dune Convertible
+2017,Volkswagen,CC,CC
+2017,Volkswagen,CC,CC 4motion
+2017,Volkswagen,Golf/GTI,e-Golf
+2017,Volkswagen,Golf/GTI,Golf
+2017,Volkswagen,Golf/GTI,Golf Alltrack
+2017,Volkswagen,Golf/GTI,Golf R
+2017,Volkswagen,Golf/GTI,Golf SportWagen
+2017,Volkswagen,Golf/GTI,Golf SportWagen 4motion
+2017,Volkswagen,Golf/GTI,GTI
+2017,Volkswagen,Jetta,Jetta
+2017,Volkswagen,Passat,Passat
+2017,Volkswagen,Tiguan,Tiguan
+2017,Volkswagen,Tiguan,Tiguan 4motion
+2017,Volkswagen,Touareg,Touareg
+2017,Volvo,S60,S60 AWD
+2017,Volvo,S60,S60 CC AWD
+2017,Volvo,S60,S60 FWD
+2017,Volvo,S60,S60 Inscription AWD
+2017,Volvo,S60,S60 Inscription FWD
+2017,Volvo,S60,S60 Polestar AWD
+2017,Volvo,S90,S90 AWD
+2017,Volvo,S90,S90 FWD
+2017,Volvo,V60,V60 AWD
+2017,Volvo,V60,V60 CC AWD
+2017,Volvo,V60,V60 FWD
+2017,Volvo,V60,V60 Polestar AWD
+2017,Volvo,V90,V90 CC AWD
+2017,Volvo,XC60,XC60 AWD
+2017,Volvo,XC60,XC60 FWD
+2017,Volvo,XC90,XC90 AWD
+2017,Volvo,XC90,XC90 AWD PHEV
+2017,Volvo,XC90,XC90 FWD

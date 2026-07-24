@@ -1,0 +1,467 @@
+year,make,model,trim
+2002,Acura,CL,3.2CL
+2002,Acura,MDX,MDX
+2002,Acura,NSX,NSX
+2002,Acura,RL,3.5RL
+2002,Acura,RSX,RSX
+2002,Acura,TL,3.2TL
+2002,Aston Martin,Vanquish,Vanquish
+2002,Audi,A4,A4
+2002,Audi,A4,A4 Avant quattro
+2002,Audi,A4,A4 quattro
+2002,Audi,A6,A6
+2002,Audi,A6,A6 Avant quattro
+2002,Audi,A6,A6 quattro
+2002,Audi,A8,A8 L
+2002,Audi,A8,A8 quattro
+2002,Audi,Allroad,Allroad
+2002,Audi,S4,S4
+2002,Audi,S4,S4 Avant
+2002,Audi,S6,S6 Avant
+2002,Audi,S8,S8 quattro
+2002,Audi,TT Coupe,TT Coupe
+2002,Audi,TT Coupe,TT Coupe quattro
+2002,Audi,TT Roadster,TT Roadster
+2002,Audi,TT Roadster,TT Roadster quattro
+2002,Bentley,Arnage,Arnage
+2002,BMW,3 Series,325ci
+2002,BMW,3 Series,325ci Convertible
+2002,BMW,3 Series,325i
+2002,BMW,3 Series,325i Sport Wagon
+2002,BMW,3 Series,325xi
+2002,BMW,3 Series,325xi Sport Wagon
+2002,BMW,3 Series,330ci
+2002,BMW,3 Series,330ci Convertible
+2002,BMW,3 Series,330i
+2002,BMW,3 Series,330xi
+2002,BMW,5 Series,525i
+2002,BMW,5 Series,525i Sport Wagon
+2002,BMW,5 Series,530i
+2002,BMW,5 Series,540i
+2002,BMW,5 Series,540i Sport Wagon
+2002,BMW,7 Series,745i
+2002,BMW,7 Series,745li
+2002,BMW,M,M3
+2002,BMW,M,M3 Convertible
+2002,BMW,M,M5
+2002,BMW,X5,X5
+2002,BMW,X5,X5 4.6is
+2002,BMW,Z3,Z3 Coupe
+2002,BMW,Z3,Z3 Roadster
+2002,BMW,Z8,Z8
+2002,Buick,Century,Century
+2002,Buick,LeSabre,LeSabre
+2002,Buick,Park Avenue,Park Avenue
+2002,Buick,Regal,Regal
+2002,Buick,Rendezvous,Rendezvous AWD
+2002,Buick,Rendezvous,Rendezvous FWD
+2002,Cadillac,DeVille,DeVille
+2002,Cadillac,Eldorado,Eldorado
+2002,Cadillac,Escalade,Escalade 2WD
+2002,Cadillac,Escalade,Escalade AWD
+2002,Cadillac,Escalade,Escalade Ext AWD
+2002,Cadillac,Limousine,Limousine
+2002,Cadillac,Seville,Seville
+2002,Chevrolet,Astro Cargo,Astro 2WD (cargo)
+2002,Chevrolet,Astro Cargo,Astro AWD (cargo)
+2002,Chevrolet,Astro Passenger,Astro 2WD (passenger)
+2002,Chevrolet,Astro Passenger,Astro AWD (passenger)
+2002,Chevrolet,Avalanche,Avalanche 1500 2WD
+2002,Chevrolet,Avalanche,Avalanche 1500 4WD
+2002,Chevrolet,Blazer,Blazer 2WD
+2002,Chevrolet,Blazer,Blazer 4WD
+2002,Chevrolet,Camaro,Camaro
+2002,Chevrolet,Cavalier,Cavalier
+2002,Chevrolet,Cavalier,Cavalier Dual-fuel
+2002,Chevrolet,Corvette,Corvette
+2002,Chevrolet,Express Passenger,Express 1500/2500 2WD
+2002,Chevrolet,Impala,Impala
+2002,Chevrolet,Malibu,Malibu
+2002,Chevrolet,Monte Carlo,Monte Carlo
+2002,Chevrolet,Prizm,Prizm
+2002,Chevrolet,S10 Pickup,S10 Pickup 2WD
+2002,Chevrolet,S10 Pickup,S10 Pickup 2WD FFV
+2002,Chevrolet,S10 Pickup,S10 Pickup 4WD
+2002,Chevrolet,Silverado,Silverado 1500 2WD
+2002,Chevrolet,Silverado,Silverado 1500 4WD
+2002,Chevrolet,Silverado,Silverado 2500 2WD
+2002,Chevrolet,Suburban,Suburban 1500 2WD
+2002,Chevrolet,Suburban,Suburban 1500 4WD
+2002,Chevrolet,Tahoe,Tahoe 1500 2WD
+2002,Chevrolet,Tahoe,Tahoe 1500 4WD
+2002,Chevrolet,Tracker,Tracker 2WD Convertible
+2002,Chevrolet,Tracker,Tracker 2WD Hardtop
+2002,Chevrolet,Tracker,Tracker 4WD Convertible
+2002,Chevrolet,Tracker,Tracker 4WD Hardtop
+2002,Chevrolet,Tracker,Tracker LT 2WD
+2002,Chevrolet,Tracker,Tracker LT 4WD
+2002,Chevrolet,Tracker,Tracker ZR2 4WD
+2002,Chevrolet,Tracker,Tracker ZR2 4WD Convertible
+2002,Chevrolet,TrailBlazer,TrailBlazer 2WD
+2002,Chevrolet,TrailBlazer,TrailBlazer 4WD
+2002,Chevrolet,TrailBlazer,TrailBlazer Ext 2WD
+2002,Chevrolet,TrailBlazer,TrailBlazer Ext 4WD
+2002,Chevrolet,Van 1500/2500,Van 1500/2500 2WD
+2002,Chevrolet,Venture,Venture AWD
+2002,Chevrolet,Venture,Venture FWD
+2002,Chrysler,300,300 M
+2002,Chrysler,Concorde,Concorde
+2002,Chrysler,Prowler,Prowler
+2002,Chrysler,PT Cruiser,PT Cruiser
+2002,Chrysler,Sebring,Sebring
+2002,Chrysler,Sebring,Sebring 4 Door
+2002,Chrysler,Sebring,Sebring Convertible
+2002,Chrysler,Town and Country/Voyager/Grand Voyager,Town and Country/Voyager/Grand Voy. 2WD
+2002,Chrysler,Town and Country/Voyager/Grand Voyager,Town and Country/Voyager/Grand Voy. AWD
+2002,Daewoo,Lanos,Lanos
+2002,Daewoo,Leganza,Leganza
+2002,Daewoo,Nubira,Nubira
+2002,Daewoo,Nubira,Nubira Station Wagon
+2002,Dodge,Caravan/Grand Caravan,Caravan/Grand Caravan 2WD
+2002,Dodge,Caravan/Grand Caravan,Caravan/Grand Caravan AWD
+2002,Dodge,Dakota Pickup,Dakota Pickup 2WD
+2002,Dodge,Dakota Pickup,Dakota Pickup 4WD
+2002,Dodge,Durango,Durango 2WD
+2002,Dodge,Durango,Durango 4WD
+2002,Dodge,Intrepid,Intrepid
+2002,Dodge,Neon,Neon
+2002,Dodge,Ram 1500 Pickup,Ram 1500 Pickup 2WD
+2002,Dodge,Ram 1500 Pickup,Ram 1500 Pickup 4WD
+2002,Dodge,Ram Van 1500,Ram Van 1500 2WD
+2002,Dodge,Ram Van 2500,Ram Van 2500 2WD
+2002,Dodge,Ram Van 2500,Ram Van 2500 2WD CNG
+2002,Dodge,Ram Wagon 1500,Ram Wagon 1500 2WD
+2002,Dodge,Ram Wagon 2500,Ram Wagon 2500 2WD
+2002,Dodge,Ram Wagon 2500,Ram Wagon 2500 2WD CNG
+2002,Dodge,Stratus,Stratus
+2002,Dodge,Stratus,Stratus 4 Door
+2002,Dodge,Viper,Viper Convertible
+2002,Dodge,Viper,Viper Coupe
+2002,Ferrari,360 Modena/Spider,360 Modena/Spider
+2002,Ferrari,456 MGT/MGA,456 MGT/MGA
+2002,Ferrari,575,575
+2002,Ford,Crown Victoria,Crown Victoria
+2002,Ford,Crown Victoria,Crown Victoria CNG
+2002,Ford,Crown Victoria,Crown Victoria Police
+2002,Ford,E150 Club Wagon,E150 Club Wagon
+2002,Ford,E150 Econoline,E150 Econoline 2WD
+2002,Ford,E250 Econoline,E250 Econoline 2WD
+2002,Ford,Escape,Escape 2WD
+2002,Ford,Escape,Escape 4WD
+2002,Ford,Escort,Escort
+2002,Ford,Escort,Escort ZX2
+2002,Ford,Expedition,Expedition 2WD
+2002,Ford,Expedition,Expedition 4WD
+2002,Ford,Explorer,Explorer 2WD
+2002,Ford,Explorer,Explorer 2WD FFV
+2002,Ford,Explorer,Explorer 4WD
+2002,Ford,Explorer,Explorer 4WD FFV
+2002,Ford,Explorer,Explorer Sport 2WD
+2002,Ford,Explorer,Explorer Sport 4WD
+2002,Ford,Explorer,Explorer Sport Trac 2WD
+2002,Ford,Explorer,Explorer Sport Trac 4WD
+2002,Ford,Explorer,Explorer USPS Electric
+2002,Ford,F150,F150 CNG
+2002,Ford,F150,F150 Dual-fuel 2WD (CNG)
+2002,Ford,F150,F150 Dual-fuel 2WD (LPG)
+2002,Ford,F150,F150 Dual-fuel 4WD (CNG)
+2002,Ford,F150,F150 Dual-fuel 4WD (LPG)
+2002,Ford,F150,F150 Pickup 2WD
+2002,Ford,F150,F150 Pickup 4WD
+2002,Ford,Focus,Focus
+2002,Ford,Focus,Focus Station Wagon
+2002,Ford,Mustang,Mustang
+2002,Ford,Ranger,Ranger 2WD FFV
+2002,Ford,Ranger,Ranger Pickup 2WD
+2002,Ford,Ranger,Ranger Pickup 4WD
+2002,Ford,Taurus,Taurus
+2002,Ford,Taurus,Taurus Wagon
+2002,Ford,Thunderbird,Thunderbird
+2002,Ford,Windstar,Windstar FWD Cargo Van
+2002,Ford,Windstar,Windstar FWD Wagon
+2002,GMC,Envoy,Envoy 2WD
+2002,GMC,Envoy,Envoy 4WD
+2002,GMC,Envoy,Envoy XL 2WD
+2002,GMC,Envoy,Envoy XL 4WD
+2002,GMC,Jimmy,Jimmy 2WD
+2002,GMC,Jimmy,Jimmy 4WD
+2002,GMC,Safari Cargo,Safari 2WD (cargo)
+2002,GMC,Safari Cargo,Safari AWD (cargo)
+2002,GMC,Safari Passenger,Safari 2WD (Passenger)
+2002,GMC,Safari Passenger,Safari AWD (Passenger)
+2002,GMC,Savana Cargo,Savana 1500/2500 2WD (cargo)
+2002,GMC,Savana Passenger,Savana 1500/2500 2WD (Passenger)
+2002,GMC,Sierra,Sierra 1500 2WD
+2002,GMC,Sierra,Sierra 1500 4WD
+2002,GMC,Sierra,Sierra Denali 1500 AWD
+2002,GMC,Sonoma,Sonoma 2WD
+2002,GMC,Sonoma,Sonoma 2WD (FFV)
+2002,GMC,Sonoma,Sonoma 4WD
+2002,GMC,Yukon,Yukon 1500 2WD
+2002,GMC,Yukon,Yukon 1500 4WD
+2002,GMC,Yukon,Yukon Denali 1500 AWD
+2002,GMC,Yukon,Yukon Denali XL 1500 AWD
+2002,GMC,Yukon,Yukon XL 1500 2WD
+2002,GMC,Yukon,Yukon XL 1500 4WD
+2002,Honda,Accord,Accord
+2002,Honda,Civic,Civic
+2002,Honda,Civic,Civic CNG
+2002,Honda,Civic,Civic HX
+2002,Honda,CR-V,CR-V 2WD
+2002,Honda,CR-V,CR-V 4WD
+2002,Honda,Insight,Insight
+2002,Honda,Odyssey,Odyssey
+2002,Honda,Passport,Passport 2WD
+2002,Honda,Passport,Passport 4WD
+2002,Honda,S2000,S2000
+2002,Hyundai,Accent/Brio,Accent/Brio
+2002,Hyundai,Elantra,Elantra
+2002,Hyundai,Santa Fe,Santa Fe 2WD
+2002,Hyundai,Santa Fe,Santa Fe 4WD
+2002,Hyundai,Sonata,Sonata
+2002,Hyundai,Tiburon,Tiburon
+2002,Hyundai,XG,XG350
+2002,Infiniti,G20,G20
+2002,Infiniti,I35,I35
+2002,Infiniti,Q45,Q45
+2002,Infiniti,QX4,QX4 2WD
+2002,Infiniti,QX4,QX4 4WD
+2002,Isuzu,Axiom,Axiom 2WD
+2002,Isuzu,Axiom,Axiom 4WD
+2002,Isuzu,Hombre Pickup,Hombre Pickup 2WD (FFV)
+2002,Isuzu,Rodeo,Rodeo 2WD
+2002,Isuzu,Rodeo,Rodeo 4WD
+2002,Isuzu,Rodeo,Rodeo Sport 2WD
+2002,Isuzu,Rodeo,Rodeo Sport 4WD
+2002,Isuzu,Trooper,Trooper 2WD
+2002,Isuzu,Trooper,Trooper 4WD
+2002,Jaguar,S-Type,S-Type
+2002,Jaguar,Super V8,Super V8
+2002,Jaguar,Vanden Plas,Vanden Plas
+2002,Jaguar,X-Type,X-Type
+2002,Jaguar,XJ,XJ Sport
+2002,Jaguar,XJ,XJ8
+2002,Jaguar,XJR,XJR
+2002,Jaguar,XK8,XK8
+2002,Jaguar,XK8,XK8 Convertible
+2002,Jaguar,XKR,XKR
+2002,Jaguar,XKR,XKR Convertible
+2002,Jeep,Grand Cherokee,Grand Cherokee 2WD
+2002,Jeep,Grand Cherokee,Grand Cherokee 4WD
+2002,Jeep,Liberty,Liberty 2WD
+2002,Jeep,Liberty,Liberty 4WD
+2002,Jeep,Wrangler,Wrangler 4WD
+2002,Kia,Optima,Optima
+2002,Kia,Rio,Rio
+2002,Kia,Sedona,Sedona
+2002,Kia,Spectra,Spectra
+2002,Kia,Sportage,Sportage 2WD
+2002,Kia,Sportage,Sportage 4WD
+2002,Lamborghini,Murcielago,L-147 Murcielago
+2002,Land Rover,Discovery,Discovery Series II
+2002,Land Rover,Freelander,Freelander
+2002,Land Rover,Range Rover,Range Rover
+2002,Lexus,ES,ES 300
+2002,Lexus,GS,GS 300/GS 430
+2002,Lexus,IS,IS 300
+2002,Lexus,LS,LS 430
+2002,Lexus,LX,LX 470
+2002,Lexus,RX,RX 300
+2002,Lexus,RX,RX 300 4WD
+2002,Lexus,SC,SC 300/SC 430
+2002,Lincoln,Blackwood,Blackwood 2WD
+2002,Lincoln,Continental,Continental
+2002,Lincoln,LS,LS
+2002,Lincoln,Navigator,Navigator 2WD
+2002,Lincoln,Navigator,Navigator 4WD
+2002,Lincoln,Town Car,Town Car
+2002,Lotus,Esprit,Esprit V8
+2002,Maserati,Coupe Cambiocorsa/coupe GT,Coupe Cambiocorsa/coupe GT
+2002,Maserati,Spyder,Spider Cambiocorsa/spider GT
+2002,Mazda,626,626
+2002,Mazda,B Pickup,B2300 2WD
+2002,Mazda,B Pickup,B3000 2WD
+2002,Mazda,B Pickup,B3000 4WD
+2002,Mazda,B Pickup,B3000 FFV 2WD
+2002,Mazda,B Pickup,B4000 2WD
+2002,Mazda,B Pickup,B4000 4WD
+2002,Mazda,Millenia,Millenia
+2002,Mazda,MPV,MPV
+2002,Mazda,MX-5 Miata,MX-5 Miata
+2002,Mazda,Protege/Protege 5,Protege/Protege 5
+2002,Mazda,Tribute,Tribute 2WD
+2002,Mazda,Tribute,Tribute 4WD
+2002,Mercedes-Benz,C-Class,C230 Kompressor
+2002,Mercedes-Benz,C-Class,C240
+2002,Mercedes-Benz,C-Class,C32 AMG
+2002,Mercedes-Benz,C-Class,C320
+2002,Mercedes-Benz,C-Class,C320 (Wagon)
+2002,Mercedes-Benz,CL-Class,CL500
+2002,Mercedes-Benz,CL-Class,CL55 AMG
+2002,Mercedes-Benz,CL-Class,CL600
+2002,Mercedes-Benz,CLK-Class,CLK320
+2002,Mercedes-Benz,CLK-Class,CLK320 (Cabriolet)
+2002,Mercedes-Benz,CLK-Class,CLK430
+2002,Mercedes-Benz,CLK-Class,CLK430 (Cabriolet)
+2002,Mercedes-Benz,CLK-Class,CLK55 AMG
+2002,Mercedes-Benz,CLK-Class,CLK55 AMG (Cabriolet)
+2002,Mercedes-Benz,E-Class,E320
+2002,Mercedes-Benz,E-Class,E320 (Wagon)
+2002,Mercedes-Benz,E-Class,E320 4Matic
+2002,Mercedes-Benz,E-Class,E320 4Matic (Wagon)
+2002,Mercedes-Benz,E-Class,E430
+2002,Mercedes-Benz,E-Class,E430 4Matic
+2002,Mercedes-Benz,E-Class,E55 AMG
+2002,Mercedes-Benz,G-Class,G500
+2002,Mercedes-Benz,ML-Class,ML320
+2002,Mercedes-Benz,ML-Class,ML500
+2002,Mercedes-Benz,ML-Class,ML55 AMG
+2002,Mercedes-Benz,S-Class,S430
+2002,Mercedes-Benz,S-Class,S500
+2002,Mercedes-Benz,S-Class,S55 AMG
+2002,Mercedes-Benz,S-Class,S600
+2002,Mercedes-Benz,SL-Class,SL500
+2002,Mercedes-Benz,SL-Class,SL600
+2002,Mercedes-Benz,SLK-Class,SLK230 Kompressor
+2002,Mercedes-Benz,SLK-Class,SLK32 AMG
+2002,Mercedes-Benz,SLK-Class,SLK320
+2002,Mercury,Cougar,Cougar
+2002,Mercury,Grand Marquis,Grand Marquis
+2002,Mercury,Mountaineer,Mountaineer 2WD
+2002,Mercury,Mountaineer,Mountaineer 2WD FFV
+2002,Mercury,Mountaineer,Mountaineer 4WD
+2002,Mercury,Mountaineer,Mountaineer 4WD FFV
+2002,Mercury,Sable,Sable
+2002,Mercury,Sable,Sable Wagon
+2002,Mercury,Villager,Villager FWD Wagon
+2002,MINI,Cooper,Cooper
+2002,Mitsubishi,Diamante,Diamante
+2002,Mitsubishi,Eclipse,Eclipse
+2002,Mitsubishi,Eclipse,Eclipse Spyder
+2002,Mitsubishi,Galant,Galant
+2002,Mitsubishi,Lancer,Lancer
+2002,Mitsubishi,Mirage,Mirage
+2002,Mitsubishi,Montero,Montero
+2002,Mitsubishi,Montero Sport,Montero Sport 2WD
+2002,Mitsubishi,Montero Sport,Montero Sport 4WD
+2002,Mitsubishi,Nativa,Nativa 2WD (Puerto Rico Only)
+2002,Mitsubishi,Nativa,Nativa 4WD (Puerto Rico Only)
+2002,Morgan,Plus Eight,Plus Eight
+2002,Nissan,Altima,Altima
+2002,Nissan,Frontier,Frontier 2WD
+2002,Nissan,Frontier,Frontier V6 2WD
+2002,Nissan,Frontier,Frontier V6 4WD
+2002,Nissan,Maxima,Maxima
+2002,Nissan,Pathfinder,Pathfinder 2WD
+2002,Nissan,Pathfinder,Pathfinder 4WD
+2002,Nissan,Quest,Quest
+2002,Nissan,Sentra,Sentra
+2002,Nissan,Xterra,Xterra 2WD
+2002,Nissan,Xterra,Xterra V6 2WD
+2002,Nissan,Xterra,Xterra V6 4WD
+2002,Oldsmobile,Alero,Alero
+2002,Oldsmobile,Aurora,Aurora
+2002,Oldsmobile,Bravada,Bravada 2WD
+2002,Oldsmobile,Bravada,Bravada AWD
+2002,Oldsmobile,Intrigue,Intrigue
+2002,Oldsmobile,Silhouette,Silhouette 2WD
+2002,Oldsmobile,Silhouette,Silhouette AWD
+2002,Pontiac,Aztek,Aztek AWD
+2002,Pontiac,Aztek,Aztek FWD
+2002,Pontiac,Bonneville,Bonneville
+2002,Pontiac,Firebird/Trans Am/Formula,Firebird
+2002,Pontiac,Grand Am,Grand Am
+2002,Pontiac,Grand Prix,Grand Prix
+2002,Pontiac,Montana,Montana AWD
+2002,Pontiac,Montana,Montana FWD
+2002,Pontiac,Sunfire,Sunfire
+2002,Porsche,911,911 Carrera
+2002,Porsche,911,911 Carrera 4 Cabriolet
+2002,Porsche,911,911 Carrera 4S
+2002,Porsche,911,911 Carrera Cabriolet
+2002,Porsche,911,911 GT2
+2002,Porsche,911,911 Targa
+2002,Porsche,911,911 Turbo
+2002,Porsche,Boxster,Boxster
+2002,Porsche,Boxster,Boxster S
+2002,Rolls-Royce,Park Ward,Park Ward
+2002,Rolls-Royce,Silver Seraph,Silver Seraph
+2002,Roush Performance,Mustang,Stage 3 Mustang
+2002,Saab,9-3,9-3
+2002,Saab,9-3,9-3 Convertible
+2002,Saab,9-3,9-3 Viggen
+2002,Saab,9-3,9-3 Viggen Convertible
+2002,Saab,9-5,9-5
+2002,Saab,9-5,9-5 Wagon
+2002,Saturn,L100/200,L100/200
+2002,Saturn,L300,L300
+2002,Saturn,LW,LW200
+2002,Saturn,LW,LW300
+2002,Saturn,SC,SC
+2002,Saturn,SL,SL
+2002,Saturn,Vue,Vue AWD
+2002,Saturn,Vue,Vue FWD
+2002,Subaru,Forester,Forester AWD
+2002,Subaru,Impreza/Outback Sport,Impreza AWD
+2002,Subaru,Impreza/Outback Sport,Impreza Wagon AWD
+2002,Subaru,Legacy/Outback,Legacy AWD
+2002,Subaru,Legacy/Outback,Legacy AWD (incl. Outback)
+2002,Subaru,Legacy/Outback,Legacy Wagon AWD (incl. Outback)
+2002,Suzuki,Aerio,Aerio
+2002,Suzuki,Aerio,Aerio SX
+2002,Suzuki,Esteem,Esteem
+2002,Suzuki,Esteem,Esteem Wagon
+2002,Suzuki,Grand Vitara,Grand Vitara
+2002,Suzuki,Grand Vitara,Grand Vitara 4WD
+2002,Suzuki,Grand Vitara,Grand Vitara XL7
+2002,Suzuki,Grand Vitara,Grand Vitara XL7 4WD
+2002,Suzuki,Vitara,Vitara 2Door
+2002,Suzuki,Vitara,Vitara 2Door 4WD
+2002,Suzuki,Vitara,Vitara 4Door
+2002,Suzuki,Vitara,Vitara 4Door 4WD
+2002,Toyota,4Runner,4Runner 2WD
+2002,Toyota,4Runner,4Runner 4WD
+2002,Toyota,Avalon,Avalon
+2002,Toyota,Camry,Camry
+2002,Toyota,Camry,Camry Solara
+2002,Toyota,Camry,Camry Solara Convertible
+2002,Toyota,Celica,Celica
+2002,Toyota,Corolla,Corolla
+2002,Toyota,Echo,Echo
+2002,Toyota,Highlander,Highlander 2WD
+2002,Toyota,Highlander,Highlander 4WD
+2002,Toyota,Land Cruiser,Land Cruiser Wagon 4WD
+2002,Toyota,MR2,MR2
+2002,Toyota,Prius,Prius
+2002,Toyota,RAV4,RAV4 2WD
+2002,Toyota,RAV4,RAV4 4WD
+2002,Toyota,RAV4,RAV4 EV
+2002,Toyota,Sequoia,Sequoia 2WD
+2002,Toyota,Sequoia,Sequoia 4WD
+2002,Toyota,Sienna,Sienna 2WD
+2002,Toyota,Tacoma,Tacoma 2WD
+2002,Toyota,Tacoma,Tacoma 4WD
+2002,Toyota,Tundra,Tundra 2WD
+2002,Toyota,Tundra,Tundra 4WD
+2002,Volkswagen,Beetle,New Beetle
+2002,Volkswagen,Cabrio,Cabrio
+2002,Volkswagen,Eurovan,Eurovan
+2002,Volkswagen,Eurovan,Eurovan Camper
+2002,Volkswagen,Golf/GTI,Golf
+2002,Volkswagen,Golf/GTI,GTI
+2002,Volkswagen,Jetta,Jetta
+2002,Volkswagen,Jetta,Jetta Wagon
+2002,Volkswagen,Passat,Passat
+2002,Volkswagen,Passat,Passat 4motion
+2002,Volkswagen,Passat,Passat Wagon
+2002,Volkswagen,Passat,Passat Wagon 4motion
+2002,Volvo,C70,C70 Convertible
+2002,Volvo,C70,C70 Coupe
+2002,Volvo,S40,S40 FWD
+2002,Volvo,S60,S60 AWD
+2002,Volvo,S60,S60 FWD
+2002,Volvo,S80,S80/S80 Executive
+2002,Volvo,V40,V40
+2002,Volvo,V70,V70 AWD
+2002,Volvo,V70,V70 FWD
+2002,Volvo,V70 XC,V70 XC AWD

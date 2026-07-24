@@ -1,0 +1,930 @@
+year,make,model,trim
+2019,Acura,ILX,ILX
+2019,Acura,MDX,MDX AWD
+2019,Acura,MDX,MDX AWD A-SPEC
+2019,Acura,MDX,MDX FWD
+2019,Acura,MDX,MDX Hybrid AWD
+2019,Acura,NSX,NSX Hybrid
+2019,Acura,RDX,RDX AWD
+2019,Acura,RDX,RDX AWD A-SPEC
+2019,Acura,RDX,RDX FWD
+2019,Acura,RDX,RDX FWD A-SPEC
+2019,Acura,RLX,RLX
+2019,Acura,RLX,RLX Hybrid
+2019,Acura,TLX,TLX AWD
+2019,Acura,TLX,TLX AWD A-SPEC
+2019,Acura,TLX,TLX FWD
+2019,Acura,TLX,TLX FWD A-SPEC
+2019,Alfa Romeo,4C,4C
+2019,Alfa Romeo,Giulia,Giulia
+2019,Alfa Romeo,Giulia,Giulia AWD
+2019,Alfa Romeo,Stelvio,Stelvio
+2019,Alfa Romeo,Stelvio,Stelvio AWD
+2019,Aston Martin,DB11,DB11 V12
+2019,Aston Martin,DB11,DB11 V8
+2019,Aston Martin,DBS,DBS
+2019,Aston Martin,Rapide,Rapide S
+2019,Aston Martin,Vanquish,Vanquish S
+2019,Aston Martin,Vantage,Vantage V8
+2019,Audi,A3,A3
+2019,Audi,A3,A3 Cabriolet
+2019,Audi,A3,A3 Cabriolet quattro
+2019,Audi,A3,A3 quattro
+2019,Audi,A4,A4
+2019,Audi,A4,A4 allroad quattro
+2019,Audi,A4,A4 quattro
+2019,Audi,A5,A5 Cabriolet quattro
+2019,Audi,A5,A5 quattro
+2019,Audi,A5,A5 Sportback quattro
+2019,Audi,A6,A6 quattro
+2019,Audi,A7,A7 quattro
+2019,Audi,A8,A8 L
+2019,Audi,e-tron,e-tron
+2019,Audi,Q3,Q3 quattro
+2019,Audi,Q5,Q5
+2019,Audi,Q7,Q7
+2019,Audi,Q8,Q8
+2019,Audi,RS,RS 3
+2019,Audi,RS,RS 5
+2019,Audi,RS,RS 5 Sportback
+2019,Audi,S3,S3
+2019,Audi,S4,S4
+2019,Audi,S5,S5
+2019,Audi,S5,S5 Cabriolet
+2019,Audi,S5,S5 Sportback
+2019,Audi,SQ5,SQ5
+2019,Audi,TT,TT Coupe quattro
+2019,Audi,TT,TT Roadster quattro
+2019,Audi,TT RS,TT RS
+2019,Audi,TTS Coupe,TTS Coupe
+2019,Bentley,Bentayga,Bentayga
+2019,Bentley,Mulsanne,Mulsanne
+2019,BMW,2 Series,230i Convertible
+2019,BMW,2 Series,230i Coupe
+2019,BMW,2 Series,230i xDrive Convertible
+2019,BMW,2 Series,230i xDrive Coupe
+2019,BMW,3 Series,330i
+2019,BMW,3 Series,330i xDrive
+2019,BMW,3 Series,330i xDrive Gran Turismo
+2019,BMW,3 Series,330i xDrive Sports Wagon
+2019,BMW,3 Series,340i xDrive Gran Turismo
+2019,BMW,4 Series,430i Convertible
+2019,BMW,4 Series,430i Coupe
+2019,BMW,4 Series,430i Gran Coupe
+2019,BMW,4 Series,430i xDrive Convertible
+2019,BMW,4 Series,430i xDrive Coupe
+2019,BMW,4 Series,430i xDrive Gran Coupe
+2019,BMW,4 Series,440i Convertible
+2019,BMW,4 Series,440i Coupe
+2019,BMW,4 Series,440i Gran Coupe
+2019,BMW,4 Series,440i xDrive Convertible
+2019,BMW,4 Series,440i xDrive Coupe
+2019,BMW,4 Series,440i xDrive Gran Coupe
+2019,BMW,5 Series,530e
+2019,BMW,5 Series,530e xDrive
+2019,BMW,5 Series,530i
+2019,BMW,5 Series,530i xDrive
+2019,BMW,5 Series,540i
+2019,BMW,5 Series,540i xDrive
+2019,BMW,6 Series,640i Gran Coupe
+2019,BMW,6 Series,640i xDrive Gran Coupe
+2019,BMW,6 Series,640i xDrive Gran Turismo
+2019,BMW,6 Series,650i Gran Coupe
+2019,BMW,6 Series,650i xDrive Gran Coupe
+2019,BMW,6 Series,Alpina B6 xDrive Gran Coupe
+2019,BMW,7 Series,740e xDrive
+2019,BMW,7 Series,740i
+2019,BMW,7 Series,740i xDrive
+2019,BMW,7 Series,750i
+2019,BMW,7 Series,750i xDrive
+2019,BMW,7 Series,Alpina B7 xDrive
+2019,BMW,7 Series,M760i xDrive
+2019,BMW,8 Series,M850i xDrive Convertible
+2019,BMW,8 Series,M850i xDrive Coupe
+2019,BMW,i3,i3
+2019,BMW,i3,i3 with Range Extender
+2019,BMW,i3,i3s
+2019,BMW,i3,i3s with Range Extender
+2019,BMW,i8,I8 Coupe
+2019,BMW,i8,I8 Roadster
+2019,BMW,M,M2 Competition
+2019,BMW,M,M240i Convertible
+2019,BMW,M,M240i Coupe
+2019,BMW,M,M240i Coupe M Performance
+2019,BMW,M,M240i xDrive Convertible
+2019,BMW,M,M240i xDrive Coupe
+2019,BMW,M,M240i xDrive Coupe M Performance
+2019,BMW,M,M4 Convertible
+2019,BMW,M,M4 Convertible Competition
+2019,BMW,M,M4 Coupe
+2019,BMW,M,M4 Coupe Competition
+2019,BMW,M,M4 CS
+2019,BMW,M,M5
+2019,BMW,M,M5 Competition
+2019,BMW,M,M550i xDrive
+2019,BMW,M,M6 Gran Coupe
+2019,BMW,X1,X1 sDrive28i
+2019,BMW,X1,X1 xDrive28i
+2019,BMW,X2,X2 M35i
+2019,BMW,X2,X2 sDrive28i
+2019,BMW,X2,X2 xDrive28i
+2019,BMW,X3,X3 M40i
+2019,BMW,X3,X3 sDrive30i
+2019,BMW,X3,X3 xDrive30i
+2019,BMW,X4,X4 M40i
+2019,BMW,X4,X4 xDrive30i
+2019,BMW,X5,X5 xDrive40i
+2019,BMW,X5,X5 xDrive50i
+2019,BMW,X6,X6 M
+2019,BMW,X6,X6 sDrive35i
+2019,BMW,X6,X6 xDrive35i
+2019,BMW,X6,X6 xDrive50i
+2019,BMW,X7,X7 xDrive40i
+2019,BMW,X7,X7 xDrive50i
+2019,BMW,Z4,Z4 sDrive30i
+2019,Bugatti,Chiron,Chiron
+2019,Buick,Cascada,Cascada
+2019,Buick,Enclave,Enclave AWD
+2019,Buick,Enclave,Enclave FWD
+2019,Buick,Encore,Encore
+2019,Buick,Encore,Encore AWD
+2019,Buick,Envision,Envision AWD
+2019,Buick,Envision,Envision FWD
+2019,Buick,LaCrosse,LaCrosse
+2019,Buick,LaCrosse,LaCrosse AWD
+2019,Buick,LaCrosse,LaCrosse eAssist
+2019,Buick,Regal,Regal
+2019,Buick,Regal,Regal AWD
+2019,Buick,Regal,Regal TourX AWD
+2019,Cadillac,ATS,ATS
+2019,Cadillac,ATS,ATS AWD
+2019,Cadillac,ATS,ATS-V
+2019,Cadillac,CT6,CT6
+2019,Cadillac,CT6,CT6 AWD
+2019,Cadillac,CTS,CTS
+2019,Cadillac,CTS,CTS AWD
+2019,Cadillac,CTS,CTS-V
+2019,Cadillac,Escalade,Escalade 2WD
+2019,Cadillac,Escalade,Escalade 4WD
+2019,Cadillac,XT4,XT4 AWD
+2019,Cadillac,XT4,XT4 FWD
+2019,Cadillac,XT5,XT5
+2019,Cadillac,XT5,XT5 AWD
+2019,Cadillac,XTS,XTS
+2019,Cadillac,XTS,XTS AWD
+2019,Cadillac,XTS Hearse,XTS Hearse
+2019,Cadillac,XTS Limo,XTS Limo
+2019,Chevrolet,Blazer,Blazer AWD
+2019,Chevrolet,Blazer,Blazer FWD
+2019,Chevrolet,Bolt EV,Bolt EV
+2019,Chevrolet,Camaro,Camaro
+2019,Chevrolet,Colorado,Colorado 2WD
+2019,Chevrolet,Colorado,Colorado 4WD
+2019,Chevrolet,Colorado,Colorado Cab Chassis 2WD
+2019,Chevrolet,Colorado,Colorado ZR2 4WD
+2019,Chevrolet,Corvette,Corvette
+2019,Chevrolet,Corvette,Corvette Z06
+2019,Chevrolet,Corvette,Corvette ZR1
+2019,Chevrolet,Cruze,Cruze
+2019,Chevrolet,Cruze,Cruze Hatchback
+2019,Chevrolet,Cruze,Cruze Premier
+2019,Chevrolet,Cruze,Cruze Premier Hatchback
+2019,Chevrolet,Equinox,Equinox AWD
+2019,Chevrolet,Equinox,Equinox FWD
+2019,Chevrolet,Impala,Impala
+2019,Chevrolet,Malibu,Malibu
+2019,Chevrolet,Malibu,Malibu Hybrid
+2019,Chevrolet,Silverado,Silverado C10 2WD
+2019,Chevrolet,Silverado,Silverado C10 Cab Chassis 2WD
+2019,Chevrolet,Silverado,Silverado C10 XFE 2WD
+2019,Chevrolet,Silverado,Silverado K10 4WD
+2019,Chevrolet,Silverado,Silverado K10 4WD TrailBoss
+2019,Chevrolet,Silverado,Silverado K10 Cab Chassis 4WD
+2019,Chevrolet,Silverado,Silverado LD C15 2WD
+2019,Chevrolet,Silverado,Silverado LD K15 4WD
+2019,Chevrolet,Sonic,Sonic
+2019,Chevrolet,Sonic,Sonic 5
+2019,Chevrolet,Spark,Spark
+2019,Chevrolet,Spark,Spark ACTIV
+2019,Chevrolet,Suburban,Suburban C1500 2WD
+2019,Chevrolet,Suburban,Suburban K1500 4WD
+2019,Chevrolet,Tahoe,Tahoe C1500 2WD
+2019,Chevrolet,Tahoe,Tahoe K1500 4WD
+2019,Chevrolet,Traverse,Traverse AWD
+2019,Chevrolet,Traverse,Traverse FWD
+2019,Chevrolet,Trax,Trax
+2019,Chevrolet,Trax,Trax AWD
+2019,Chevrolet,Volt,Volt
+2019,Chrysler,300,300
+2019,Chrysler,300,300 AWD
+2019,Chrysler,Pacifica,Pacifica
+2019,Chrysler,Pacifica,Pacifica Hybrid
+2019,Dodge,Challenger,Challenger
+2019,Dodge,Challenger,Challenger GT
+2019,Dodge,Challenger,Challenger SRT
+2019,Dodge,Charger,Charger
+2019,Dodge,Charger,Charger AWD
+2019,Dodge,Charger,Charger SRT
+2019,Dodge,Durango,Durango AWD
+2019,Dodge,Durango,Durango RWD
+2019,Dodge,Durango,Durango SRT AWD
+2019,Dodge,Grand Caravan,Grand Caravan
+2019,Dodge,Journey,Journey
+2019,Dodge,Journey,Journey AWD
+2019,Ferrari,488 GTB,488 GTB
+2019,Ferrari,488 Pista,488 Pista
+2019,Ferrari,488 Pista Spider,488 Pista Spider
+2019,Ferrari,488 Spider,488 Spider
+2019,Ferrari,812 Superfast,812 Superfast
+2019,Ferrari,GTC4Lusso,GTC4Lusso
+2019,Ferrari,GTC4Lusso,GTC4Lusso T
+2019,Ferrari,Portofino,Portofino
+2019,Fiat,124 Spider,124 Spider
+2019,Fiat,500,500
+2019,Fiat,500,500 Abarth
+2019,Fiat,500,500 L
+2019,Fiat,500,500X AWD
+2019,Fiat,500e,500e
+2019,Ford,EcoSport,EcoSport AWD
+2019,Ford,EcoSport,EcoSport FWD
+2019,Ford,Edge,Edge AWD
+2019,Ford,Edge,Edge FWD
+2019,Ford,Escape,Escape AWD
+2019,Ford,Escape,Escape FWD
+2019,Ford,Escape,Escape FWD FFV
+2019,Ford,Expedition,Expedition 2WD
+2019,Ford,Expedition,Expedition 4WD
+2019,Ford,Expedition,Expedition MAX 2WD
+2019,Ford,Expedition,Expedition MAX 4WD
+2019,Ford,Explorer,Explorer 2WD FFV
+2019,Ford,Explorer,Explorer AWD
+2019,Ford,Explorer,Explorer AWD FFV
+2019,Ford,Explorer,Explorer FWD
+2019,Ford,F150,F150 2.7L 2WD GVWR>6649 LBS
+2019,Ford,F150,F150 2.7L 4WD GVWR>6799 LBS
+2019,Ford,F150,F150 2WD BASE PAYLOAD LT TIRE
+2019,Ford,F150,F150 2WD FFV BASE PAYLOAD LT
+2019,Ford,F150,F150 3.5L 2WD GVWR>7599 LBS
+2019,Ford,F150,F150 3.5L 4WD GVWR>7599 LBS
+2019,Ford,F150,F150 4WD BASE PAYLOAD LT TIRE
+2019,Ford,F150,F150 4WD FFV BASE PAYLOAD LT
+2019,Ford,F150,F150 5.0L 2WD FFV GVWR>7599 LBS
+2019,Ford,F150,F150 5.0L 4WD FFV GVWR>7599 LBS
+2019,Ford,F150,F150 Pickup 2WD
+2019,Ford,F150,F150 Pickup 2WD FFV
+2019,Ford,F150,F150 Pickup 2WD Limited
+2019,Ford,F150,F150 Pickup 4WD
+2019,Ford,F150,F150 Pickup 4WD FFV
+2019,Ford,F150,F150 Pickup 4WD Limited
+2019,Ford,F150,F150 Pickup 4WD XL/XLT
+2019,Ford,F150,F150 RAPTOR 4WD
+2019,Ford,Fiesta,Fiesta FWD
+2019,Ford,Fiesta,Fiesta ST FWD
+2019,Ford,Flex,Flex AWD
+2019,Ford,Flex,Flex FWD
+2019,Ford,Fusion,Fusion AWD
+2019,Ford,Fusion,Fusion Energi Plug-in Hybrid
+2019,Ford,Fusion,Fusion FWD
+2019,Ford,Fusion,Fusion Hybrid FWD
+2019,Ford,Fusion,Fusion Hybrid Taxi
+2019,Ford,Fusion,Fusion Special Service Vehicle PHEV
+2019,Ford,GT,GT
+2019,Ford,Mustang,Mustang
+2019,Ford,Mustang,Mustang Bullitt
+2019,Ford,Mustang,Mustang Convertible
+2019,Ford,Mustang,Mustang Performance Package
+2019,Ford,Mustang,Shelby GT350 Mustang
+2019,Ford,Ranger,Ranger 2WD
+2019,Ford,Ranger,Ranger 2WD Incomplete
+2019,Ford,Ranger,Ranger 4WD
+2019,Ford,Taurus,Taurus AWD
+2019,Ford,Taurus,Taurus AWD FFV
+2019,Ford,Taurus,Taurus FWD
+2019,Ford,Taurus,Taurus FWD FFV
+2019,Ford,Transit Connect,Transit Connect USPS
+2019,Ford,Transit Connect,Transit Connect Van 2WD
+2019,Ford,Transit Connect,Transit Connect Van FFV
+2019,Ford,Transit Connect,Transit Connect Wagon LWB FFV
+2019,Ford,Transit Connect,Transit Connect Wagon LWB FWD
+2019,Ford,Transit T150 Wagon,Transit T150 Wagon
+2019,Ford,Transit T150 Wagon,Transit T150 Wagon FFV
+2019,Genesis,G70,G70 AWD
+2019,Genesis,G70,G70 RWD
+2019,Genesis,G80,G80 AWD
+2019,Genesis,G80,G80 RWD
+2019,Genesis,G90,G90 AWD
+2019,Genesis,G90,G90 RWD
+2019,GMC,Acadia,Acadia AWD
+2019,GMC,Acadia,Acadia FWD
+2019,GMC,Canyon,Canyon 2WD
+2019,GMC,Canyon,Canyon 4WD
+2019,GMC,Canyon,Canyon Cab Chassis 2WD
+2019,GMC,Sierra,Sierra C10 2WD
+2019,GMC,Sierra,Sierra C10 Cab Chassis 2WD
+2019,GMC,Sierra,Sierra C10 XFE 2WD
+2019,GMC,Sierra,Sierra K10 4WD
+2019,GMC,Sierra,Sierra K10 4WD AT4
+2019,GMC,Sierra,Sierra K10 Cab Chassis 4WD
+2019,GMC,Sierra,Sierra LTD C15 2WD
+2019,GMC,Sierra,Sierra LTD K15 4WD
+2019,GMC,Terrain,Terrain AWD
+2019,GMC,Terrain,Terrain FWD
+2019,GMC,Yukon,Yukon C1500 2WD
+2019,GMC,Yukon,Yukon C1500 XL 2WD
+2019,GMC,Yukon,Yukon K1500 4WD
+2019,GMC,Yukon,Yukon K1500 XL 4WD
+2019,Honda,Accord,Accord
+2019,Honda,Accord,Accord 2.0T Sport/Touring
+2019,Honda,Accord,Accord Hybrid
+2019,Honda,Civic,Civic 2Dr
+2019,Honda,Civic,Civic 4Dr
+2019,Honda,Civic,Civic 5Dr
+2019,Honda,Clarity,Clarity EV
+2019,Honda,Clarity,Clarity FCV
+2019,Honda,Clarity,Clarity Plug-in Hybrid
+2019,Honda,CR-V,CR-V AWD
+2019,Honda,CR-V,CR-V FWD
+2019,Honda,Fit,Fit
+2019,Honda,HR-V,HR-V AWD
+2019,Honda,HR-V,HR-V FWD
+2019,Honda,Insight,Insight
+2019,Honda,Insight,Insight Touring
+2019,Honda,Odyssey,Odyssey
+2019,Honda,Passport,Passport AWD
+2019,Honda,Passport,Passport FWD
+2019,Honda,Pilot,Pilot AWD
+2019,Honda,Pilot,Pilot FWD
+2019,Honda,Ridgeline,Ridgeline AWD
+2019,Honda,Ridgeline,Ridgeline FWD
+2019,Hyundai,Accent,Accent
+2019,Hyundai,Elantra,Elantra
+2019,Hyundai,Elantra,Elantra GT
+2019,Hyundai,Elantra,Elantra SE
+2019,Hyundai,Ioniq,Ioniq
+2019,Hyundai,Ioniq,Ioniq Blue
+2019,Hyundai,Ioniq,Ioniq Electric
+2019,Hyundai,Ioniq,Ioniq Plug-in Hybrid
+2019,Hyundai,Kona,Kona AWD
+2019,Hyundai,Kona,Kona Electric
+2019,Hyundai,Kona,Kona FWD
+2019,Hyundai,Nexo,Nexo
+2019,Hyundai,Nexo,Nexo Blue
+2019,Hyundai,Santa Fe,Santa Fe AWD
+2019,Hyundai,Santa Fe,Santa Fe FWD
+2019,Hyundai,Santa Fe,Santa Fe XL AWD
+2019,Hyundai,Santa Fe,Santa Fe XL FWD
+2019,Hyundai,Santa Fe,Santa Fe XL Ultimate AWD
+2019,Hyundai,Santa Fe,Santa Fe XL Ultimate FWD
+2019,Hyundai,Sonata,Sonata
+2019,Hyundai,Sonata,Sonata Hybrid
+2019,Hyundai,Sonata,Sonata Hybrid SE
+2019,Hyundai,Sonata,Sonata Plug-in Hybrid
+2019,Hyundai,Sonata,Sonata SE
+2019,Hyundai,Tucson,Tucson AWD
+2019,Hyundai,Tucson,Tucson FWD
+2019,Hyundai,Veloster,Veloster
+2019,Hyundai,Veloster,Veloster N
+2019,Infiniti,Q50,Q50
+2019,Infiniti,Q50,Q50 AWD
+2019,Infiniti,Q50,Q50 Red Sport
+2019,Infiniti,Q50,Q50 Red Sport  AWD
+2019,Infiniti,Q60,Q60
+2019,Infiniti,Q60,Q60 AWD
+2019,Infiniti,Q60,Q60 Red Sport
+2019,Infiniti,Q60,Q60 Red Sport AWD
+2019,Infiniti,Q70,Q70
+2019,Infiniti,Q70,Q70 AWD
+2019,Infiniti,QX30,QX30
+2019,Infiniti,QX30,QX30 AWD
+2019,Infiniti,QX50,QX50
+2019,Infiniti,QX50,QX50 AWD
+2019,Infiniti,QX60,QX60 AWD
+2019,Infiniti,QX60,QX60 FWD
+2019,Infiniti,QX80,QX80 2WD
+2019,Infiniti,QX80,QX80 4WD
+2019,Jaguar,E-Pace,E-Pace P250
+2019,Jaguar,E-Pace,E-Pace P300
+2019,Jaguar,F-Pace,F-Pace
+2019,Jaguar,F-Type,F-Type Convertible
+2019,Jaguar,F-Type,F-Type Coupe
+2019,Jaguar,F-Type,F-Type R AWD Convertible
+2019,Jaguar,F-Type,F-Type R AWD Coupe
+2019,Jaguar,F-Type,F-Type S AWD Convertible
+2019,Jaguar,F-Type,F-Type S AWD Coupe
+2019,Jaguar,F-Type,F-Type S Convertible
+2019,Jaguar,F-Type,F-Type S Coupe
+2019,Jaguar,F-Type,F-Type SVR AWD Convertible GEN2
+2019,Jaguar,F-Type,F-Type SVR AWD Coupe GEN2
+2019,Jaguar,I-Pace,I-Pace
+2019,Jaguar,XE,XE
+2019,Jaguar,XE,XE AWD
+2019,Jaguar,XF,XF
+2019,Jaguar,XF,XF AWD
+2019,Jaguar,XF,XF Sportbrake AWD
+2019,Jaguar,XJ,XJ
+2019,Jaguar,XJ,XJ AWD
+2019,Jaguar,XJ,XJL
+2019,Jaguar,XJ,XJL AWD
+2019,Jeep,Cherokee,Cherokee 4WD
+2019,Jeep,Cherokee,Cherokee 4WD Active Drive II
+2019,Jeep,Cherokee,Cherokee FWD
+2019,Jeep,Cherokee,Cherokee Trailhawk 4WD
+2019,Jeep,Compass,Compass 4WD
+2019,Jeep,Compass,Compass FWD
+2019,Jeep,Grand Cherokee,Grand Cherokee 2WD
+2019,Jeep,Grand Cherokee,Grand Cherokee 4WD
+2019,Jeep,Grand Cherokee,Grand Cherokee SRT 4WD
+2019,Jeep,Grand Cherokee,Grand Cherokee Trackhawk 4WD
+2019,Jeep,Renegade,Renegade 2WD
+2019,Jeep,Renegade,Renegade 4WD
+2019,Jeep,Renegade,Renegade Trailhawk 4WD
+2019,Jeep,Wrangler,Wrangler 4WD
+2019,Jeep,Wrangler,Wrangler Unlimited 4WD
+2019,Karma,Revero,Revero
+2019,Kia,Cadenza,Cadenza
+2019,Kia,Forte,Forte
+2019,Kia,Forte,Forte FE
+2019,Kia,K900,K900
+2019,Kia,Niro,Niro
+2019,Kia,Niro,Niro Electric
+2019,Kia,Niro,Niro FE
+2019,Kia,Niro,Niro Plug-in Hybrid
+2019,Kia,Niro,Niro Touring
+2019,Kia,Optima,Optima
+2019,Kia,Optima,Optima FE
+2019,Kia,Optima,Optima Hybrid
+2019,Kia,Optima,Optima Plug-in Hybrid
+2019,Kia,Rio,Rio
+2019,Kia,Sedona,Sedona
+2019,Kia,Sorento,Sorento AWD
+2019,Kia,Sorento,Sorento FWD
+2019,Kia,Soul,Soul
+2019,Kia,Soul,Soul Electric
+2019,Kia,Sportage,Sportage AWD
+2019,Kia,Sportage,Sportage FE AWD
+2019,Kia,Sportage,Sportage FE FWD
+2019,Kia,Sportage,Sportage FWD
+2019,Kia,Stinger,Stinger AWD
+2019,Kia,Stinger,Stinger RWD
+2019,Koenigsegg,Regera,Regera
+2019,Lamborghini,Aventador,Aventador Coupe
+2019,Lamborghini,Aventador,Aventador Roadster
+2019,Lamborghini,Huracan,Huracan
+2019,Lamborghini,Huracan,Huracan 2WD
+2019,Lamborghini,Huracan,Huracan Spyder
+2019,Lamborghini,Huracan,Huracan Spyder 2WD
+2019,Lamborghini,Urus,Urus
+2019,Land Rover,Discovery,Discovery
+2019,Land Rover,Discovery,Discovery Sport
+2019,Land Rover,Discovery,Discovery Sport Si4
+2019,Land Rover,Range Rover,Range Rover
+2019,Land Rover,Range Rover,Range Rover Evoque 237HP
+2019,Land Rover,Range Rover,Range Rover Evoque 286HP
+2019,Land Rover,Range Rover,Range Rover Evoque Cabriolet
+2019,Land Rover,Range Rover,Range Rover LWB
+2019,Land Rover,Range Rover,Range Rover LWB SVA
+2019,Land Rover,Range Rover,Range Rover PHEV
+2019,Land Rover,Range Rover,Range Rover Sport
+2019,Land Rover,Range Rover,Range Rover Sport MHEV
+2019,Land Rover,Range Rover,Range Rover Sport PHEV
+2019,Land Rover,Range Rover,Range Rover Sport SVR
+2019,Land Rover,Range Rover,Range Rover SV Coupe
+2019,Land Rover,Range Rover,Range Rover SVA
+2019,Land Rover,Range Rover,Range Rover Velar
+2019,Lexus,ES,ES 300h
+2019,Lexus,ES,ES 350
+2019,Lexus,ES,ES 350 F Sport
+2019,Lexus,GS,GS 300
+2019,Lexus,GS,GS 300 F Sport
+2019,Lexus,GS,GS 350
+2019,Lexus,GS,GS 350 AWD
+2019,Lexus,GS,GS 350 F Sport
+2019,Lexus,GS,GS F
+2019,Lexus,GX,GX 460
+2019,Lexus,IS,IS 300
+2019,Lexus,IS,IS 300 AWD
+2019,Lexus,IS,IS 350
+2019,Lexus,IS,IS 350 AWD
+2019,Lexus,LC,LC 500
+2019,Lexus,LC,LC 500h
+2019,Lexus,LS,LS 500
+2019,Lexus,LS,LS 500 AWD
+2019,Lexus,LS,LS 500h
+2019,Lexus,LS,LS 500h AWD
+2019,Lexus,LX,LX 570
+2019,Lexus,NX,NX 300
+2019,Lexus,NX,NX 300 AWD
+2019,Lexus,NX,NX 300 AWD F Sport
+2019,Lexus,NX,NX 300h AWD
+2019,Lexus,RC,RC 300
+2019,Lexus,RC,RC 300 AWD
+2019,Lexus,RC,RC 350
+2019,Lexus,RC,RC 350 AWD
+2019,Lexus,RC,RC F
+2019,Lexus,RX,RX 350
+2019,Lexus,RX,RX 350 AWD
+2019,Lexus,RX,RX 350 L
+2019,Lexus,RX,RX 350 L AWD
+2019,Lexus,RX,RX 450h AWD
+2019,Lexus,RX,RX 450h L AWD
+2019,Lexus,UX,UX 200
+2019,Lexus,UX,UX 250h
+2019,Lexus,UX,UX 250h AWD
+2019,Lincoln,Continental,Continental  AWD
+2019,Lincoln,Continental,Continental  FWD
+2019,Lincoln,Continental,Continental Coach
+2019,Lincoln,MKC,MKC AWD
+2019,Lincoln,MKC,MKC FWD
+2019,Lincoln,MKT,MKT AWD
+2019,Lincoln,MKT,MKT FWD
+2019,Lincoln,MKT,MKT Hearse AWD
+2019,Lincoln,MKT,MKT Limo AWD
+2019,Lincoln,MKT,MKT Livery AWD
+2019,Lincoln,MKZ,MKZ AWD
+2019,Lincoln,MKZ,MKZ FWD
+2019,Lincoln,MKZ,MKZ Hybrid FWD
+2019,Lincoln,Nautilus,Nautilus AWD
+2019,Lincoln,Nautilus,Nautilus FWD
+2019,Lincoln,Navigator,Navigator 2WD
+2019,Lincoln,Navigator,Navigator 4WD
+2019,Lincoln,Navigator,Navigator L 2WD
+2019,Maserati,Ghibli,Ghibli  S RWD
+2019,Maserati,Ghibli,Ghibli  V6 RWD
+2019,Maserati,Ghibli,Ghibli V6 SQ4 AWD
+2019,Maserati,GranTurismo,GranTurismo Convertible
+2019,Maserati,Levante,Levante
+2019,Maserati,Levante,Levante GTS
+2019,Maserati,Levante,Levante S
+2019,Maserati,Levante,Levante Trofeo
+2019,Maserati,Quattroporte,Quattroporte S
+2019,Maserati,Quattroporte,Quattroporte SQ4 V6
+2019,Maserati,Quattroporte,Quattroporte V8
+2019,Mazda,2,2
+2019,Mazda,3,3 4-Door 2WD
+2019,Mazda,3,3 4-Door 4WD
+2019,Mazda,3,3 5-Door 2WD
+2019,Mazda,3,3 5-Door 4WD
+2019,Mazda,6,6
+2019,Mazda,CX-3,CX-3 2WD
+2019,Mazda,CX-3,CX-3 4WD
+2019,Mazda,CX-5,CX-5 2WD
+2019,Mazda,CX-5,CX-5 4WD
+2019,Mazda,CX-9,CX-9 2WD
+2019,Mazda,CX-9,CX-9 4WD
+2019,Mazda,MX-5,MX-5
+2019,McLaren Automotive,570GT,570GT
+2019,McLaren Automotive,570S Coupe,570S Coupe
+2019,McLaren Automotive,570S Spider,570S Spider
+2019,McLaren Automotive,600LT Coupe,600LT Coupe
+2019,McLaren Automotive,720S Coupe,720S Coupe
+2019,McLaren Automotive,720S Spider,720S Spider
+2019,McLaren Automotive,Senna,Senna
+2019,Mercedes-Benz,A-Class,A220
+2019,Mercedes-Benz,A-Class,A220 4matic
+2019,Mercedes-Benz,AMG GT,AMG GT 53 4matic Plus
+2019,Mercedes-Benz,AMG GT,AMG GT 63 4matic Plus
+2019,Mercedes-Benz,AMG GT,AMG GT 63 S 4matic Plus
+2019,Mercedes-Benz,AMG GT,AMG GT C Coupe
+2019,Mercedes-Benz,AMG GT,AMG GT C Roadster
+2019,Mercedes-Benz,AMG GT,AMG GT Coupe
+2019,Mercedes-Benz,AMG GT,AMG GT R Coupe
+2019,Mercedes-Benz,AMG GT,AMG GT Roadster
+2019,Mercedes-Benz,AMG GT,AMG GT S Coupe
+2019,Mercedes-Benz,C-Class,AMG C43 4matic
+2019,Mercedes-Benz,C-Class,AMG C43 4matic Convertible
+2019,Mercedes-Benz,C-Class,AMG C43 4matic Coupe
+2019,Mercedes-Benz,C-Class,AMG C63
+2019,Mercedes-Benz,C-Class,AMG C63 Convertible
+2019,Mercedes-Benz,C-Class,AMG C63 Coupe
+2019,Mercedes-Benz,C-Class,AMG C63 S
+2019,Mercedes-Benz,C-Class,AMG C63 S Convertible
+2019,Mercedes-Benz,C-Class,AMG C63 S Coupe
+2019,Mercedes-Benz,C-Class,C300
+2019,Mercedes-Benz,C-Class,C300 4matic
+2019,Mercedes-Benz,C-Class,C300 4matic Convertible
+2019,Mercedes-Benz,C-Class,C300 4matic Coupe
+2019,Mercedes-Benz,C-Class,C300 Convertible
+2019,Mercedes-Benz,C-Class,C300 Coupe
+2019,Mercedes-Benz,CLA-Class,AMG CLA45 4matic
+2019,Mercedes-Benz,CLA-Class,CLA250
+2019,Mercedes-Benz,CLA-Class,CLA250 4matic
+2019,Mercedes-Benz,CLS-Class,AMG CLS53 4matic Plus
+2019,Mercedes-Benz,CLS-Class,CLS450
+2019,Mercedes-Benz,CLS-Class,CLS450 4matic
+2019,Mercedes-Benz,E-Class,AMG E53 4matic Plus
+2019,Mercedes-Benz,E-Class,AMG E53 4matic Plus Convertible
+2019,Mercedes-Benz,E-Class,AMG E53 4matic Plus Coupe
+2019,Mercedes-Benz,E-Class,AMG E63 S 4matic
+2019,Mercedes-Benz,E-Class,AMG E63 S 4matic (wagon)
+2019,Mercedes-Benz,E-Class,E300
+2019,Mercedes-Benz,E-Class,E300 4matic
+2019,Mercedes-Benz,E-Class,E450 4matic
+2019,Mercedes-Benz,E-Class,E450 4matic (station wagon)
+2019,Mercedes-Benz,E-Class,E450 4matic Convertible
+2019,Mercedes-Benz,E-Class,E450 4matic Coupe
+2019,Mercedes-Benz,E-Class,E450 Convertible
+2019,Mercedes-Benz,E-Class,E450 Coupe
+2019,Mercedes-Benz,G-Class,AMG G63
+2019,Mercedes-Benz,G-Class,G550
+2019,Mercedes-Benz,GLA-Class,AMG GLA45 4matic
+2019,Mercedes-Benz,GLA-Class,GLA250
+2019,Mercedes-Benz,GLA-Class,GLA250 4matic
+2019,Mercedes-Benz,GLC-Class,AMG GLC43 4matic
+2019,Mercedes-Benz,GLC-Class,AMG GLC43 4matic Coupe
+2019,Mercedes-Benz,GLC-Class,AMG GLC63 4matic
+2019,Mercedes-Benz,GLC-Class,AMG GLC63 4matic Coupe
+2019,Mercedes-Benz,GLC-Class,AMG GLC63 S 4matic Coupe
+2019,Mercedes-Benz,GLC-Class,GLC300
+2019,Mercedes-Benz,GLC-Class,GLC300 4matic
+2019,Mercedes-Benz,GLC-Class,GLC300 4matic Coupe
+2019,Mercedes-Benz,GLC-Class,GLC350e 4matic
+2019,Mercedes-Benz,GLE-Class,AMG GLE43 4matic
+2019,Mercedes-Benz,GLE-Class,AMG GLE43 4matic Coupe
+2019,Mercedes-Benz,GLE-Class,AMG GLE63
+2019,Mercedes-Benz,GLE-Class,AMG GLE63 S
+2019,Mercedes-Benz,GLE-Class,AMG GLE63 S Coupe
+2019,Mercedes-Benz,GLE-Class,GLE400 4matic
+2019,Mercedes-Benz,GLS-Class,AMG GLS63
+2019,Mercedes-Benz,GLS-Class,GLS450 4matic
+2019,Mercedes-Benz,GLS-Class,GLS550 4matic
+2019,Mercedes-Benz,Metris Cargo,"Metris (Cargo Van, LWB)"
+2019,Mercedes-Benz,Metris Cargo,Metris (Cargo Van)
+2019,Mercedes-Benz,Metris Passenger,Metris (Passenger Van)
+2019,Mercedes-Benz,S-Class,AMG S63 4matic
+2019,Mercedes-Benz,S-Class,AMG S63 4matic Convertible
+2019,Mercedes-Benz,S-Class,AMG S63 4matic Coupe
+2019,Mercedes-Benz,S-Class,AMG S65
+2019,Mercedes-Benz,S-Class,AMG S65 Convertible
+2019,Mercedes-Benz,S-Class,AMG S65 Coupe
+2019,Mercedes-Benz,S-Class,Maybach S560 4matic
+2019,Mercedes-Benz,S-Class,Maybach S650
+2019,Mercedes-Benz,S-Class,S450
+2019,Mercedes-Benz,S-Class,S450 4matic
+2019,Mercedes-Benz,S-Class,S560
+2019,Mercedes-Benz,S-Class,S560 4matic
+2019,Mercedes-Benz,S-Class,S560 4matic Coupe
+2019,Mercedes-Benz,S-Class,S560 Convertible
+2019,Mercedes-Benz,S-Class,S560e
+2019,Mercedes-Benz,SL-Class,AMG SL63
+2019,Mercedes-Benz,SL-Class,SL450
+2019,Mercedes-Benz,SL-Class,SL550
+2019,Mercedes-Benz,SLC-Class,AMG SLC43
+2019,Mercedes-Benz,SLC-Class,SLC300
+2019,MINI,Clubman,Cooper Clubman
+2019,MINI,Clubman,Cooper Clubman All4
+2019,MINI,Clubman,Cooper S Clubman
+2019,MINI,Clubman,Cooper S Clubman All4
+2019,MINI,Cooper,Cooper Convertible
+2019,MINI,Cooper,Cooper Hardtop 2 door
+2019,MINI,Cooper,Cooper Hardtop 4 door
+2019,MINI,Cooper,Cooper S Convertible
+2019,MINI,Cooper,Cooper S Hardtop 2 door
+2019,MINI,Cooper,Cooper S Hardtop 4 door
+2019,MINI,Countryman,Cooper Countryman
+2019,MINI,Countryman,Cooper Countryman All4
+2019,MINI,Countryman,Cooper S Countryman
+2019,MINI,Countryman,Cooper S Countryman All4
+2019,MINI,Countryman,Cooper SE Countryman All4
+2019,MINI,John Cooper Works,JCW Countryman All4
+2019,MINI,John Cooper Works,John Cooper Works Clubman All4
+2019,MINI,John Cooper Works,John Cooper Works Convertible
+2019,MINI,John Cooper Works,John Cooper Works Hardtop
+2019,Mitsubishi,Eclipse Cross,Eclipse Cross 2WD
+2019,Mitsubishi,Eclipse Cross,Eclipse Cross 4WD
+2019,Mitsubishi,Eclipse Cross,Eclipse Cross ES 2WD
+2019,Mitsubishi,Eclipse Cross,Eclipse Cross ES 4WD
+2019,Mitsubishi,Mirage,Mirage
+2019,Mitsubishi,Mirage,Mirage G4
+2019,Mitsubishi,Outlander,Outlander 2WD
+2019,Mitsubishi,Outlander,Outlander 4WD
+2019,Mitsubishi,Outlander,Outlander PHEV
+2019,Mitsubishi,Outlander,Outlander Sport 2WD
+2019,Mitsubishi,Outlander,Outlander Sport 4WD
+2019,Nissan,370Z,370Z
+2019,Nissan,370Z,370Z Roadster
+2019,Nissan,Altima,Altima
+2019,Nissan,Altima,Altima AWD
+2019,Nissan,Altima,Altima AWD SR/Platinum
+2019,Nissan,Altima,Altima SR/Platinum
+2019,Nissan,Armada,Armada 2WD
+2019,Nissan,Armada,Armada 4WD
+2019,Nissan,Frontier,Frontier 2WD
+2019,Nissan,Frontier,Frontier 2WD FFV
+2019,Nissan,Frontier,Frontier 4WD
+2019,Nissan,Frontier,Frontier 4WD FFV
+2019,Nissan,GT-R,GT-R
+2019,Nissan,Kicks,Kicks
+2019,Nissan,Leaf,Leaf (40 kW-hr battery pack)
+2019,Nissan,Leaf,Leaf (62 kW-hr battery pack)
+2019,Nissan,Leaf,Leaf SV/SL (62 kW-hr battery pack)
+2019,Nissan,Maxima,Maxima
+2019,Nissan,Murano,Murano AWD
+2019,Nissan,Murano,Murano FWD
+2019,Nissan,NV200 Cargo Van,NV200 Cargo Van
+2019,Nissan,NV200 NYC Taxi,NV200 NYC Taxi
+2019,Nissan,Pathfinder,Pathfinder 2WD
+2019,Nissan,Pathfinder,Pathfinder 4WD
+2019,Nissan,Pathfinder,Pathfinder 4WD Platinum
+2019,Nissan,Rogue,Rogue AWD
+2019,Nissan,Rogue,Rogue FWD
+2019,Nissan,Rogue,Rogue Hybrid  AWD
+2019,Nissan,Rogue,Rogue Hybrid  FWD
+2019,Nissan,Rogue Sport,Rogue Sport
+2019,Nissan,Rogue Sport,Rogue Sport AWD
+2019,Nissan,Sentra,Sentra
+2019,Nissan,Sentra,Sentra Nismo
+2019,Nissan,Titan,Titan 2WD
+2019,Nissan,Titan,Titan 4WD
+2019,Nissan,Titan,Titan 4WD PRO4X
+2019,Nissan,Versa,Versa
+2019,Porsche,911,911 Carrera
+2019,Porsche,911,911 Carrera 4
+2019,Porsche,911,911 Carrera 4 Cabriolet
+2019,Porsche,911,911 Carrera 4 GTS
+2019,Porsche,911,911 Carrera 4 GTS Cabriolet
+2019,Porsche,911,911 Carrera 4S
+2019,Porsche,911,911 Carrera 4S Cabriolet
+2019,Porsche,911,911 Carrera Cabriolet
+2019,Porsche,911,911 Carrera GTS
+2019,Porsche,911,911 Carrera GTS Cabriolet
+2019,Porsche,911,911 Carrera S
+2019,Porsche,911,911 Carrera S Cabriolet
+2019,Porsche,911,911 Carrera T
+2019,Porsche,911,911 GT2 RS
+2019,Porsche,911,911 GT3
+2019,Porsche,911,911 GT3 RS
+2019,Porsche,911,911 GT3 Touring
+2019,Porsche,911,911 Speedster
+2019,Porsche,911,911 Targa 4
+2019,Porsche,911,911 Targa 4 GTS
+2019,Porsche,911,911 Targa 4S
+2019,Porsche,911,911 Turbo
+2019,Porsche,911,911 Turbo Cabriolet
+2019,Porsche,911,911 Turbo S
+2019,Porsche,911,911 Turbo S Cabriolet
+2019,Porsche,911,911 Turbo S Exclusive Cabriolet
+2019,Porsche,Boxster,Boxster
+2019,Porsche,Boxster,Boxster GTS
+2019,Porsche,Boxster,Boxster S
+2019,Porsche,Cayenne,Cayenne
+2019,Porsche,Cayenne,Cayenne e-Hybrid
+2019,Porsche,Cayenne,Cayenne S
+2019,Porsche,Cayenne,Cayenne Turbo
+2019,Porsche,Cayman,Cayman
+2019,Porsche,Cayman,Cayman GTS
+2019,Porsche,Cayman,Cayman S
+2019,Porsche,Macan,Macan
+2019,Porsche,Macan,Macan S
+2019,Porsche,Panamera,Panamera
+2019,Porsche,Panamera,Panamera 4
+2019,Porsche,Panamera,Panamera 4 e-Hybrid
+2019,Porsche,Panamera,Panamera 4 e-Hybrid Executive
+2019,Porsche,Panamera,Panamera 4 e-Hybrid ST
+2019,Porsche,Panamera,Panamera 4 Executive
+2019,Porsche,Panamera,Panamera 4 ST
+2019,Porsche,Panamera,Panamera 4S
+2019,Porsche,Panamera,Panamera 4S Executive
+2019,Porsche,Panamera,Panamera 4S ST
+2019,Porsche,Panamera,Panamera GTS
+2019,Porsche,Panamera,Panamera GTS ST
+2019,Porsche,Panamera,Panamera Turbo
+2019,Porsche,Panamera,Panamera Turbo Executive
+2019,Porsche,Panamera,Panamera Turbo S e-Hybrid
+2019,Porsche,Panamera,Panamera Turbo S e-Hybrid Executive
+2019,Porsche,Panamera,Panamera Turbo S e-Hybrid ST
+2019,Porsche,Panamera,Panamera Turbo ST
+2019,Ram,1500,1500 2WD
+2019,Ram,1500,1500 4WD
+2019,Ram,1500,1500 Classic 2WD
+2019,Ram,1500,1500 Classic 4WD
+2019,Ram,1500,1500 HFE 2WD
+2019,Ram,Promaster City,Promaster City
+2019,Rolls-Royce,Cullinan,Cullinan
+2019,Rolls-Royce,Dawn,Dawn
+2019,Rolls-Royce,Ghost,Ghost
+2019,Rolls-Royce,Ghost,Ghost EWB
+2019,Rolls-Royce,Phantom,Phantom
+2019,Rolls-Royce,Phantom,Phantom EWB
+2019,Rolls-Royce,Wraith,Wraith
+2019,Roush Performance,F150,F150 Pickup 2WD
+2019,Roush Performance,F150,F150 Pickup 4WD
+2019,Roush Performance,Mustang,Stage 3 Mustang
+2019,RUF Automobile,RUFTURBO12/CTR3/CTR2017,RUFTURBO12/CTR3/CTR2017
+2019,smart,fortwo,EQ fortwo (convertible)
+2019,smart,fortwo,EQ fortwo (coupe)
+2019,STI,S209,S209
+2019,Subaru,Ascent,Ascent
+2019,Subaru,Ascent,Ascent Limited/Touring
+2019,Subaru,BRZ,BRZ
+2019,Subaru,Crosstrek,Crosstrek AWD
+2019,Subaru,Crosstrek,Crosstrek Hybrid AWD
+2019,Subaru,Forester,Forester AWD
+2019,Subaru,Impreza,Impreza 4-Door
+2019,Subaru,Impreza,Impreza 5-Door
+2019,Subaru,Impreza,Impreza Sport 4-Door
+2019,Subaru,Impreza,Impreza Sport 5-Door
+2019,Subaru,Legacy,Legacy AWD
+2019,Subaru,Outback,Outback AWD
+2019,Subaru,WRX,WRX
+2019,Tesla,Model 3,Model 3 Long Range
+2019,Tesla,Model 3,Model 3 Long Range AWD
+2019,Tesla,Model 3,Model 3 Long Range AWD Performance
+2019,Tesla,Model 3,Model 3 Mid Range
+2019,Tesla,Model 3,Model 3 Standard Range
+2019,Tesla,Model 3,Model 3 Standard Range Plus
+2019,Tesla,Model S,Model S 100D
+2019,Tesla,Model S,Model S 75D
+2019,Tesla,Model S,Model S Long Range
+2019,Tesla,Model S,Model S P100D
+2019,Tesla,Model S,Model S Performance (19in Wheels)
+2019,Tesla,Model S,Model S Performance (21in Wheels)
+2019,Tesla,Model S,Model S Standard Range
+2019,Tesla,Model X,Model X 100D
+2019,Tesla,Model X,Model X 75D
+2019,Tesla,Model X,Model X Long Range
+2019,Tesla,Model X,Model X P100D
+2019,Tesla,Model X,Model X Performance (22in Wheels)
+2019,Toyota,4Runner,4Runner 2WD
+2019,Toyota,4Runner,4Runner 4WD
+2019,Toyota,86,86
+2019,Toyota,Avalon,Avalon
+2019,Toyota,Avalon,Avalon Hybrid
+2019,Toyota,Avalon,Avalon Hybrid XLE
+2019,Toyota,Avalon,Avalon XLE
+2019,Toyota,C-HR,C-HR
+2019,Toyota,Camry,Camry
+2019,Toyota,Camry,Camry Hybrid LE
+2019,Toyota,Camry,Camry Hybrid XLE/SE
+2019,Toyota,Camry,Camry LE/SE
+2019,Toyota,Camry,Camry XLE/XSE
+2019,Toyota,Camry,Camry XSE
+2019,Toyota,Corolla,Corolla
+2019,Toyota,Corolla,Corolla Hatchback
+2019,Toyota,Corolla,Corolla Hatchback XSE
+2019,Toyota,Corolla,Corolla LE Eco
+2019,Toyota,Highlander,Highlander
+2019,Toyota,Highlander,Highlander AWD
+2019,Toyota,Highlander,Highlander AWD LE
+2019,Toyota,Highlander,Highlander Hybrid AWD
+2019,Toyota,Highlander,Highlander Hybrid AWD LE Plus
+2019,Toyota,Highlander,Highlander LE/XLE/SE/LTD
+2019,Toyota,Land Cruiser,Land Cruiser Wagon 4WD
+2019,Toyota,Mirai,Mirai
+2019,Toyota,Prius,Prius
+2019,Toyota,Prius,Prius AWD
+2019,Toyota,Prius,Prius Eco
+2019,Toyota,Prius c,Prius c
+2019,Toyota,Prius Prime,Prius Prime
+2019,Toyota,RAV4,RAV4
+2019,Toyota,RAV4,RAV4 AWD
+2019,Toyota,RAV4,RAV4 Hybrid AWD
+2019,Toyota,Sequoia,Sequoia 2WD
+2019,Toyota,Sequoia,Sequoia 4WD
+2019,Toyota,Sienna,Sienna 2WD
+2019,Toyota,Sienna,Sienna AWD
+2019,Toyota,Tacoma,Tacoma 2WD
+2019,Toyota,Tacoma,Tacoma 4WD
+2019,Toyota,Tacoma,Tacoma 4WD Double Cab Off-Road
+2019,Toyota,Tacoma,Tacoma 4WD TRD PRO
+2019,Toyota,Tundra,Tundra 2WD
+2019,Toyota,Tundra,Tundra 4WD
+2019,Toyota,Tundra,Tundra 4WD FFV
+2019,Toyota,Yaris,Yaris
+2019,Volkswagen,Arteon,Arteon
+2019,Volkswagen,Arteon,Arteon 4motion
+2019,Volkswagen,Atlas,Atlas
+2019,Volkswagen,Atlas,Atlas 4motion
+2019,Volkswagen,Beetle,Beetle
+2019,Volkswagen,Beetle,Beetle Convertible
+2019,Volkswagen,Golf/GTI,e-Golf
+2019,Volkswagen,Golf/GTI,Golf
+2019,Volkswagen,Golf/GTI,Golf Alltrack
+2019,Volkswagen,Golf/GTI,Golf R
+2019,Volkswagen,Golf/GTI,Golf SportWagen
+2019,Volkswagen,Golf/GTI,Golf SportWagen 4motion
+2019,Volkswagen,Golf/GTI,GTI
+2019,Volkswagen,Jetta,Jetta
+2019,Volkswagen,Jetta,Jetta GLI
+2019,Volkswagen,Passat,Passat
+2019,Volkswagen,Tiguan,Tiguan
+2019,Volkswagen,Tiguan,Tiguan 4motion
+2019,Volvo,S60,S60 AWD
+2019,Volvo,S60,S60 AWD PHEV
+2019,Volvo,S60,S60 FWD
+2019,Volvo,S90,S90 AWD
+2019,Volvo,S90,S90 AWD PHEV
+2019,Volvo,S90,S90 FWD
+2019,Volvo,V60,V60 AWD
+2019,Volvo,V60,V60 CC AWD
+2019,Volvo,V60,V60 FWD
+2019,Volvo,V90,V90 AWD
+2019,Volvo,V90,V90 CC AWD
+2019,Volvo,V90,V90 FWD
+2019,Volvo,XC40,XC40 AWD
+2019,Volvo,XC40,XC40 FWD
+2019,Volvo,XC60,XC60 AWD
+2019,Volvo,XC60,XC60 AWD PHEV
+2019,Volvo,XC60,XC60 FWD
+2019,Volvo,XC90,XC90 AWD
+2019,Volvo,XC90,XC90 AWD PHEV
+2019,Volvo,XC90,XC90 FWD

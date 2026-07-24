@@ -1,0 +1,333 @@
+year,make,model,trim
+1996,Acura,Integra,Integra
+1996,Acura,NSX,NSX
+1996,Acura,RL,3.5RL
+1996,Acura,SLX,SLX
+1996,Acura,TL,2.5TL/3.2TL
+1996,Audi,A4,A4
+1996,Audi,A4,A4 quattro
+1996,Audi,A6,A6
+1996,Audi,A6,A6 quattro
+1996,Audi,A6,A6 quattro Wagon
+1996,Audi,A6,A6 Wagon
+1996,Audi,Cabriolet,Cabriolet
+1996,BMW,3 Series,318i Convertible
+1996,BMW,3 Series,318i/318is
+1996,BMW,3 Series,318ti
+1996,BMW,3 Series,328i Convertible
+1996,BMW,3 Series,328i/328is
+1996,BMW,7 Series,740il
+1996,BMW,7 Series,750il
+1996,BMW,8 Series,840ci
+1996,BMW,8 Series,850ci
+1996,BMW,M,M3
+1996,BMW,Z3,Z3 Roadster
+1996,Buick,Century,Century
+1996,Buick,Century Wagon,Century Wagon
+1996,Buick,Funeral Coach/Hearse,Funeral Coach/Hearse
+1996,Buick,LeSabre,LeSabre
+1996,Buick,Park Avenue,Park Avenue
+1996,Buick,Regal,Regal
+1996,Buick,Riviera,Riviera
+1996,Buick,Roadmaster,Roadmaster
+1996,Buick,Roadmaster,Roadmaster Wagon
+1996,Buick,Skylark,Skylark
+1996,Cadillac,DeVille,DeVille
+1996,Cadillac,Eldorado,Eldorado
+1996,Cadillac,Fleetwood,Fleetwood
+1996,Cadillac,Seville,Seville
+1996,Chevrolet,Astro Cargo,Astro 2WD (cargo)
+1996,Chevrolet,Astro Cargo,Astro AWD (cargo)
+1996,Chevrolet,Astro Passenger,Astro 2WD (passenger)
+1996,Chevrolet,Astro Passenger,Astro AWD (passenger)
+1996,Chevrolet,Beretta,Beretta
+1996,Chevrolet,Blazer,Blazer 2WD
+1996,Chevrolet,Blazer,Blazer 4WD
+1996,Chevrolet,Blazer,Blazer AWD
+1996,Chevrolet,C1500 Pickup,C1500 Pickup 2WD
+1996,Chevrolet,Camaro,Camaro
+1996,Chevrolet,Cavalier,Cavalier
+1996,Chevrolet,Corsica,Corsica
+1996,Chevrolet,Corvette,Corvette
+1996,Chevrolet,Express Passenger,Express 1500/2500 2WD
+1996,Chevrolet,Impala/Caprice,Caprice/Impala
+1996,Chevrolet,Impala/Caprice,Caprice/Impala Wagon
+1996,Chevrolet,K1500 Pickup,K1500 Pickup 4WD
+1996,Chevrolet,Lumina Minivan,Lumina Minivan 2WD
+1996,Chevrolet,Lumina/Monte Carlo,Lumina/Monte Carlo
+1996,Chevrolet,Pickup 2500,Pickup 2500 2WD
+1996,Chevrolet,S10 Pickup,S10 Pickup 2WD
+1996,Chevrolet,S10 Pickup,S10 Pickup 4WD
+1996,Chevrolet,Suburban,Suburban 1500 2WD
+1996,Chevrolet,Suburban,Suburban 1500 4WD
+1996,Chevrolet,Tahoe,Tahoe 1500 2WD
+1996,Chevrolet,Tahoe,Tahoe 1500 4WD
+1996,Chevrolet,Van 1500/2500,Van 1500/2500 2WD
+1996,Chrysler,Cirrus,Cirrus
+1996,Chrysler,Concorde,Concorde
+1996,Chrysler,New Yorker/LHS,New Yorker/LHS
+1996,Chrysler,Sebring,Sebring
+1996,Chrysler,Sebring,Sebring Convertible
+1996,Chrysler,Town and Country,Town and Country 2WD
+1996,Chrysler,Town and Country,Town and Country 4WD
+1996,Dodge,Avenger,Avenger
+1996,Dodge,B1500/B2500 Van,B1500/B2500 Van 2WD
+1996,Dodge,B1500/B2500 Wagon,B1500/B2500 Wagon 2WD
+1996,Dodge,B3500 Van,B3500 Van 2WD
+1996,Dodge,B3500 Wagon,B3500 Wagon 2WD
+1996,Dodge,Caravan/Grand Caravan,Caravan/Grand Caravan 2WD
+1996,Dodge,Caravan/Grand Caravan,Caravan/Grand Caravan 4WD
+1996,Dodge,Dakota Pickup,Dakota Pickup 2WD
+1996,Dodge,Dakota Pickup,Dakota Pickup 4WD
+1996,Dodge,Intrepid,Intrepid
+1996,Dodge,Neon,Neon
+1996,Dodge,Ram 1500 Pickup,Ram 1500 Pickup 2WD
+1996,Dodge,Ram 1500 Pickup,Ram 1500 Pickup 4WD
+1996,Dodge,Ram 2500 Pickup,Ram 2500 Pickup 2WD
+1996,Dodge,Ram 2500 Pickup,Ram 2500 Pickup 4WD
+1996,Dodge,Stealth,Stealth
+1996,Dodge,Stratus,Stratus
+1996,Dodge,Viper,Viper
+1996,Eagle,Summit,Summit
+1996,Eagle,Summit,Summit Wagon
+1996,Eagle,Talon,Talon
+1996,Eagle,Vision,Vision
+1996,Ferrari,Ferrari F355 Berlinetta/GTS,Ferrari F355 Berlinetta/GTS
+1996,Ford,Aerostar Van,Aerostar Van
+1996,Ford,Aerostar Wagon,Aerostar Wagon
+1996,Ford,Aerostar Wagon,Aerostar Wagon AWD
+1996,Ford,Aspire,Aspire
+1996,Ford,Bronco,Bronco 4WD
+1996,Ford,Contour,Contour
+1996,Ford,Crown Victoria,Crown Victoria
+1996,Ford,Crown Victoria,Crown Victoria CNG
+1996,Ford,Crown Victoria,Crown Victoria Police
+1996,Ford,E150 Club Wagon,E150 Club Wagon
+1996,Ford,E150 Econoline,E150 Econoline 2WD
+1996,Ford,E250 Econoline,E250 Econoline 2WD
+1996,Ford,Escort,Escort
+1996,Ford,Escort,Escort Wagon
+1996,Ford,Explorer,Explorer 2WD
+1996,Ford,Explorer,Explorer 4WD
+1996,Ford,F150,F150 Pickup 2WD
+1996,Ford,F150,F150 Pickup 4WD
+1996,Ford,F250,F250
+1996,Ford,Mustang,Mustang
+1996,Ford,Probe,Probe
+1996,Ford,Ranger,Ranger Pickup 2WD
+1996,Ford,Ranger,Ranger Pickup 4WD
+1996,Ford,Taurus,Taurus
+1996,Ford,Taurus,Taurus SHO
+1996,Ford,Taurus,Taurus Wagon
+1996,Ford,Thunderbird,Thunderbird
+1996,Ford,Windstar,Windstar FWD Van
+1996,Ford,Windstar,Windstar FWD Wagon
+1996,Geo,Metro,Metro
+1996,Geo,Prizm,Prizm
+1996,Geo,Tracker,Tracker Convertible 2WD
+1996,Geo,Tracker,Tracker Convertible 4x4
+1996,Geo,Tracker,Tracker Van 2WD
+1996,Geo,Tracker,Tracker Van 4x4
+1996,GMC,Jimmy,Jimmy 2WD
+1996,GMC,Jimmy,Jimmy 4WD
+1996,GMC,Jimmy,Jimmy AWD
+1996,GMC,Safari Cargo,Safari 2WD (cargo)
+1996,GMC,Safari Cargo,Safari AWD (cargo)
+1996,GMC,Safari Passenger,Safari 2WD (passenger)
+1996,GMC,Safari Passenger,Safari AWD (passenger)
+1996,GMC,Savana Cargo,Savana 1500/2500 2WD (cargo)
+1996,GMC,Savana Passenger,Savana 1500/2500 2WD (passenger)
+1996,GMC,Sierra,Sierra 1500 2WD
+1996,GMC,Sierra,Sierra 1500 4WD
+1996,GMC,Sierra,Sierra 2500 2WD
+1996,GMC,Sonoma,Sonoma 2WD
+1996,GMC,Sonoma,Sonoma 4WD
+1996,GMC,Suburban,Suburban 1500 2WD
+1996,GMC,Suburban,Suburban 1500 4WD
+1996,GMC,Yukon,Yukon 1500 2WD
+1996,GMC,Yukon,Yukon 1500 4WD
+1996,Honda,Accord,Accord
+1996,Honda,Accord,Accord Wagon
+1996,Honda,Civic,Civic
+1996,Honda,Civic,Civic HX
+1996,Honda,Del Sol,Del Sol
+1996,Honda,Odyssey,Odyssey
+1996,Honda,Passport,Passport 2WD
+1996,Honda,Passport,Passport 4WD
+1996,Honda,Prelude,Prelude
+1996,Hyundai,Accent,Accent
+1996,Hyundai,Accent,Accent (Sporty)
+1996,Hyundai,Elantra,Elantra
+1996,Hyundai,Elantra,Elantra Wagon
+1996,Hyundai,Sonata,Sonata
+1996,Infiniti,G20,G20
+1996,Infiniti,I30,I30
+1996,Infiniti,J30,J30
+1996,Infiniti,Q45,Q45
+1996,Isuzu,Hombre Pickup,Hombre Pickup 2WD
+1996,Isuzu,Oasis,Oasis
+1996,Isuzu,Rodeo,Rodeo 2WD
+1996,Isuzu,Rodeo,Rodeo 4WD
+1996,Isuzu,Trooper,Trooper
+1996,Jaguar,Vanden Plas,Vanden Plas
+1996,Jaguar,XJ,XJ12
+1996,Jaguar,XJ,XJ6
+1996,Jaguar,XJR,XJR
+1996,Jaguar,XJS,XJS Convertible
+1996,Jeep,Cherokee,Cherokee 2WD
+1996,Jeep,Cherokee,Cherokee 4WD
+1996,Jeep,Grand Cherokee,Grand Cherokee 2WD
+1996,Jeep,Grand Cherokee,Grand Cherokee 4WD
+1996,Kia,Sephia,Sephia
+1996,Kia,Sportage,Sportage 2WD
+1996,Kia,Sportage,Sportage 4WD
+1996,Lamborghini,Diablo,DB132/Diablo
+1996,Land Rover,Discovery,Discovery
+1996,Land Rover,Range Rover,Range Rover 4.0
+1996,Land Rover,Range Rover,Range Rover 4.6
+1996,Lexus,ES,ES 300
+1996,Lexus,GS,GS 300
+1996,Lexus,LS,LS 400
+1996,Lexus,LX,LX 450
+1996,Lexus,SC,SC 300/SC 400
+1996,Lincoln,Continental,Continental
+1996,Lincoln,Mark VIII,Mark VIII
+1996,Lincoln,Town Car,Town Car
+1996,Mazda,626,626
+1996,Mazda,B Pickup,B2300/B3000/B4000 Pickup 2WD
+1996,Mazda,B Pickup,B2300/B3000/B4000 Pickup 4WD
+1996,Mazda,Millenia,Millenia
+1996,Mazda,MPV,MPV
+1996,Mazda,MPV,MPV 4x4
+1996,Mazda,MX-3,MX-3
+1996,Mazda,MX-5 Miata,MX-5 Miata
+1996,Mazda,MX-6,MX-6
+1996,Mazda,Protege,Protege
+1996,Mercedes-Benz,C-Class,C220
+1996,Mercedes-Benz,C-Class,C280
+1996,Mercedes-Benz,C-Class,C36 AMG
+1996,Mercedes-Benz,E-Class,E300 Diesel
+1996,Mercedes-Benz,E-Class,E320
+1996,Mercedes-Benz,S-Class,S320
+1996,Mercedes-Benz,S-Class,S420
+1996,Mercedes-Benz,S-Class,S500
+1996,Mercedes-Benz,S-Class,S500 Coupe
+1996,Mercedes-Benz,S-Class,S600
+1996,Mercedes-Benz,S-Class,S600 Coupe
+1996,Mercedes-Benz,SL-Class,SL320
+1996,Mercedes-Benz,SL-Class,SL500
+1996,Mercedes-Benz,SL-Class,SL600
+1996,Mercury,Cougar,Cougar
+1996,Mercury,Grand Marquis,Grand Marquis
+1996,Mercury,Mystique,Mystique
+1996,Mercury,Sable,Sable
+1996,Mercury,Sable,Sable Wagon
+1996,Mercury,Tracer,Tracer
+1996,Mercury,Tracer,Tracer Wagon
+1996,Mercury,Villager,Villager FWD Van
+1996,Mercury,Villager,Villager FWD Wagon
+1996,Mitsubishi,3000 GT,3000 GT
+1996,Mitsubishi,3000 GT Spyder,3000 GT Spyder
+1996,Mitsubishi,Diamante,Diamante
+1996,Mitsubishi,Eclipse,Eclipse
+1996,Mitsubishi,Eclipse,Eclipse Convertible
+1996,Mitsubishi,Expo,Expo
+1996,Mitsubishi,Galant,Galant
+1996,Mitsubishi,Mirage,Mirage
+1996,Mitsubishi,Montero,Montero
+1996,Mitsubishi,Truck,Truck 2WD
+1996,Nissan,240SX,240SX
+1996,Nissan,300ZX,300ZX
+1996,Nissan,300ZX,300ZX 2x2
+1996,Nissan,Altima / Stanza,Altima / Stanza
+1996,Nissan,Maxima,Maxima
+1996,Nissan,Pathfinder,Pathfinder 2WD
+1996,Nissan,Pathfinder,Pathfinder 4WD
+1996,Nissan,Quest,Quest
+1996,Nissan,Sentra/200SX,Sentra/200SX
+1996,Nissan,Truck,Truck 2WD
+1996,Nissan,Truck,Truck 4WD
+1996,Oldsmobile,Achieva,Achieva
+1996,Oldsmobile,Aurora,Aurora
+1996,Oldsmobile,Bravada,Bravada AWD
+1996,Oldsmobile,Ciera,Ciera SL
+1996,Oldsmobile,Ciera,Ciera SL Wagon
+1996,Oldsmobile,Cutlass Supreme,Cutlass Supreme
+1996,Oldsmobile,Eighty-Eight,Eighty-Eight
+1996,Oldsmobile,Ninety-Eight,Ninety-Eight
+1996,Oldsmobile,Silhouette,Silhouette 2WD
+1996,Plymouth,Breeze,Breeze
+1996,Plymouth,Neon,Neon
+1996,Plymouth,Voyager/Grand Voyager,Voyager/Grand Voyager 2WD
+1996,Plymouth,Voyager/Grand Voyager,Voyager/Grand Voyager 4WD
+1996,Pontiac,Bonneville,Bonneville
+1996,Pontiac,Firebird/Trans Am/Formula,Firebird/Formula
+1996,Pontiac,Grand Am,Grand Am
+1996,Pontiac,Grand Prix,Grand Prix
+1996,Pontiac,Sunfire,Sunfire
+1996,Pontiac,Trans Sport/Montana,Trans Sport 2WD
+1996,Porsche,911,911 Carrera 4/2
+1996,Porsche,911,911 Turbo
+1996,Rolls-Royce,Azure,Azure
+1996,Rolls-Royce,Brooklands/Turbo R,Brooklands and (LWB)
+1996,Rolls-Royce,Brooklands/Turbo R,Turbo R/Turbo Rl
+1996,Rolls-Royce,Corniche/Continental,Continental R
+1996,Rolls-Royce,Limousine,Limousine
+1996,Rolls-Royce,Silver Spur Limousine,Silver Spur Limousine
+1996,Rolls-Royce,Silver Spur/Silver Dawn,Silver Spur/Silver Dawn
+1996,Saab,900,900
+1996,Saab,900,900 Convertible
+1996,Saab,9000,9000
+1996,Saturn,SC,SC
+1996,Saturn,SL,SL
+1996,Saturn,SW,SW
+1996,Subaru,Impreza/Outback Sport,Impreza
+1996,Subaru,Impreza/Outback Sport,Impreza AWD
+1996,Subaru,Impreza/Outback Sport,Impreza Wagon AWD
+1996,Subaru,Legacy/Outback,Legacy
+1996,Subaru,Legacy/Outback,Legacy AWD
+1996,Subaru,Legacy/Outback,Legacy Wagon
+1996,Subaru,Legacy/Outback,Legacy Wagon AWD
+1996,Subaru,SVX,SVX AWD
+1996,Suzuki,Esteem,Esteem
+1996,Suzuki,Sidekick,Sidekick 2Door 2WD
+1996,Suzuki,Sidekick,Sidekick 2Door 4WD
+1996,Suzuki,Sidekick,Sidekick 4Door 2WD
+1996,Suzuki,Sidekick,Sidekick 4Door 4WD
+1996,Suzuki,Sidekick,Sidekick Sport 4WD
+1996,Suzuki,Swift,Swift
+1996,Suzuki,X-90,X-90 2WD
+1996,Suzuki,X-90,X-90 4WD
+1996,Toyota,4Runner,4Runner 2WD
+1996,Toyota,4Runner,4Runner 4WD
+1996,Toyota,Avalon,Avalon
+1996,Toyota,Camry,Camry
+1996,Toyota,Camry,Camry Wagon
+1996,Toyota,Celica,Celica
+1996,Toyota,Celica,Celica Convertible
+1996,Toyota,Corolla,Corolla
+1996,Toyota,Corolla,Corolla Wagon
+1996,Toyota,Land Cruiser,Land Cruiser Wagon 4WD
+1996,Toyota,Paseo,Paseo
+1996,Toyota,Previa,Previa
+1996,Toyota,Previa,Previa All-Trac
+1996,Toyota,RAV4,RAV4 2WD
+1996,Toyota,RAV4,RAV4 4WD
+1996,Toyota,Supra,Supra
+1996,Toyota,Tacoma,Tacoma 2WD
+1996,Toyota,Tacoma,Tacoma 4WD
+1996,Toyota,Tercel,Tercel
+1996,Toyota,Truck/T100,T100 2WD
+1996,Toyota,Truck/T100,T100 4WD
+1996,Vector,Avtech SC / M12,Avtech SC / M12
+1996,Volkswagen,Cabrio,Cabrio
+1996,Volkswagen,Golf/GTI,Golf/GTI
+1996,Volkswagen,Golf/GTI,GTI VR6
+1996,Volkswagen,Jetta,Jetta
+1996,Volkswagen,Jetta,Jetta GLX
+1996,Volkswagen,Passat,Passat
+1996,Volkswagen,Passat,Passat Wagon
+1996,Volvo,850,850
+1996,Volvo,850,850 Wagon
+1996,Volvo,960,960
+1996,Volvo,960,960 Wagon
